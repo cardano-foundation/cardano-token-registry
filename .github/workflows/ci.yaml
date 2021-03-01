@@ -2,7 +2,7 @@ name: CI
 on:
   # Trigger on open, synchronize or reopen PR activity against master
   pull_request:
-    branches: [ "master" ]
+    branches: [ "main" ]
 jobs:
   Validate-Metadata:
     runs-on: ubuntu-latest
