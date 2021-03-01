@@ -1,0 +1,31 @@
+name: CI
+on:
+  # Trigger on open, synchronize or reopen PR activity against master
+  pull_request:
+    branches: [ "master" ]
+jobs:
+  Validate-Metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+      - name: Validate
+        run: |
+            # Debug:
+            # env
+            # cat "${GITHUB_EVENT_PATH}" | jq .
+
+            echo "Obtaining the latest metadata validation tool:"
+            echo "curl -OL https://hydra.iohk.io/job/Cardano/metadata-server/native.metadataValidatorTarball.x86_64-linux/latest-finished/download/1/metadata-validator.tar.gz"
+            curl -OL https://hydra.iohk.io/job/Cardano/metadata-server/native.metadataValidatorTarball.x86_64-linux/latest-finished/download/1/metadata-validator.tar.gz
+            echo
+
+            echo "Extracting the latest metadata validation tool:"
+            tar -zxvf metadata-validator.tar.gz
+            echo
+
+            echo "Running the metadata validator on this PR:"
+            echo
+            echo "./metadata-validator cardano-foundation cardano-token-registry ${{ github.event.number }} --no-auth"
+            ./metadata-validator cardano-foundation cardano-token-registry ${{ github.event.number }} --no-auth
+            echo
