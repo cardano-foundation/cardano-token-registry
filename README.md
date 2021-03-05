@@ -5,7 +5,7 @@
 ##  Background
 This repository provides a means to register off-chain token metadata that can map to on-chain identifiers (typicaly hashes representing asset IDs, output locking scripts or token forging policies)
 
-A [server](#server) exposes the functionality of a key-value store, allowing users and applications to query registry entries through a public RESTful api.
+A [server](#server) exposes the functionality of a key-value store, allowing users and applications to query registry entries through a RESTful api.
 
 While this registry is limited in scope to handle native tokens only, it will also serve to facilitate a discussion and introduce a standard for a metadata distribution system that will be put forward as a [CIP](https://cips.cardano.org/).
 
@@ -29,7 +29,7 @@ Each entry contains the following information:
 
 name             | necessity | description
 ---              | ---       | ---
-`subject`        | required  | the asset fingerprint, a bech32-encoded blake2b-160 digest of the concatenation of the policyId and asset name
+`subject`        | required  | the base16-encoded policyId + base16-encoded assetName
 `policy`         | required  | the script which hashes to the policyId
 `name`           | required  | a human-readable name for the subject, suitable for use in an interface
 `description`    | required  | a human-readable description for the subject, suitable for use in an interface
@@ -38,7 +38,7 @@ name             | necessity | description
 `url`            | optional  | a https url (web page relating to the token)
 `logo`           | optional  | a PNG image file as a byte string
 
-For a comprehensive description of all fields and how to generate them, please see [cardano-metadata-submitter](https://github.com/input-output-hk/cardano-metadata-submitter)  
+For a comprehensive description of all fields and how to generate them, please see [cardano-metadata-submitter](https://github.com/input-output-hk/cardano-metadata-submitter).  
 
                        
 
@@ -55,11 +55,11 @@ For a comprehensive description of all fields and how to generate them, please s
 
 ##  Server
 
-Users and applications can query this registry through a public api available at `https://tokens.cardano.org/metadata`.
+Users and applications can query this registry through an API at `https://tokens.cardano.org/metadata`.
 
 The API documentation can be generated from the [OpenAPI specification](https://github.com/input-output-hk/metadata-server/blob/master/specifications/api/openapi.yaml).        
             
-Use of this API is subject to the following [API Terms of Use](API_Terms_of_Use.md)).  
+Use of this API is subject to the following [API Terms of Use](API_Terms_of_Use.md).  
 
    
 ## Step-by-Step Guide
