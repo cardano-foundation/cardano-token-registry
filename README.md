@@ -3,40 +3,41 @@
 :warning: This service is not yet live. Any pull requests will be __closed__. :warning: 
 
 ##  Background
-This repository provides a means to register off-chain token metadata that can map to on-chain identifiers (typicaly hashes representing asset IDs, output locking scripts or token forging policies)
+This repository provides a means to register off-chain token metadata that can map to on-chain identifiers (typically hashes representing asset IDs, output locking scripts, or token forging policies).
 
-A [server](#server) exposes the functionality of a key-value store, allowing users and applications to query registry entries through a RESTful api.
+A [server](#server) exposes the functionality of a key-value store, allowing users and applications to query registry entries through a RESTful API.
 
 While this registry is limited in scope to handle native tokens only, it will also serve to facilitate a discussion and introduce a standard for a metadata distribution system that will be put forward as a [CIP](https://cips.cardano.org/).
 
-Use of this registry is subject to the following [Registry Terms of Use](Registry_Terms_of_Use.md).           
-Use of the public API is subject to the following [API Terms of Use](API_Terms_of_Use.md).
+Use of this registry is subject to the [Registry Terms of Use](Registry_Terms_of_Use.md).           
+Use of the public API is subject to the [API Terms of Use](API_Terms_of_Use.md).
 
 ## Process
 
 #### New registration
 
-New submissions to this registry will take the form of a Github pull request with the addition of one or more JSON files to the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry.
+New submissions to this registry will take the form of a GitHub Pull Request with the addition of one or more JSON files to the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry.
 
 
 #### Updating existing entries
 
-Modification of entries in this registry will take the form of a Github pull request with the modification of one or more JSON files in the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry.
+Modification of entries in this registry will take the form of a GitHub Pull Request with the modification of one or more JSON files in the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry.
 
 
 ## Semantic content of registry entries
+
 Each entry contains the following information:
 
-name             | necessity | description
+**Name**             | **Required/Optional**|**Description**
 ---              | ---       | ---
-`subject`        | required  | the base16-encoded policyId + base16-encoded assetName
-`policy`         | required  | the script which hashes to the policyId
-`name`           | required  | a human-readable name for the subject, suitable for use in an interface
-`description`    | required  | a human-readable description for the subject, suitable for use in an interface
-`ticker`.        | optional  | a human-readable ticker name for the subject, suitable for use in an interface
-`unit`           | optional  | a unit name and unit decimal for the token.
-`url`            | optional  | a https url (web page relating to the token)
-`logo`           | optional  | a PNG image file as a byte string
+`subject`        | Required  | The base16-encoded policyId + base16-encoded assetName
+`policy`         | Required  | The script that hashes to the policyId
+`name`           | Required  | A human-readable name for the subject, suitable for use in an interface
+`description`    | Required  | A human-readable description for the subject, suitable for use in an interface
+`ticker`.        | Optional  | A human-readable ticker name for the subject, suitable for use in an interface
+`unit`           | Optional  | A unit name and unit decimal for the token
+`url`            | Optional  | A HTTPS URL (web page relating to the token)
+`logo`           | Optional  | A PNG image file as a byte string
 
 For a comprehensive description of all fields and how to generate them, please see [cardano-metadata-submitter](https://github.com/input-output-hk/cardano-metadata-submitter).  
 
@@ -48,7 +49,7 @@ For a comprehensive description of all fields and how to generate them, please s
 
 2. Submissions must add or modify files in the [mappings/](mappings) folder.
 
-3. The file name part of the file must match the encoded `"subject"` key of the entry, (all lowercase).
+3. The file name must match the encoded `"subject"` key of the entry, all lowercase.
 
 4. The maximum file size of a single metadata entry is 370KB.
 
@@ -59,7 +60,7 @@ Users and applications can query this registry through an API at `https://tokens
 
 The API documentation can be generated from the [OpenAPI specification](https://github.com/input-output-hk/metadata-server/blob/master/specifications/api/openapi.yaml).        
             
-Use of this API is subject to the following [API Terms of Use](API_Terms_of_Use.md).  
+Use of this API is subject to the [API Terms of Use](API_Terms_of_Use.md).  
 
    
 ## Step-by-Step Guide
