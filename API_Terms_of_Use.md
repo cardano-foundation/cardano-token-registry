@@ -2,7 +2,7 @@
 
 ## Preamble ##
 
-- The Cardano Stiftung is a Swiss non-profit foundation, domiciled at Dammstrasse 16, 6300 Zug, Switzerland (the **“Foundation”** or **“we”**). The Foundation owns, operates and makes available the **“Cardano Registry”**, an online utility that allows the public to access information on identifiers used in the Cardano network, which is governed by the **“Cardano Registry’s Terms of Use”** as available under [INSERT](https://inset_tmp). The Cardano Registry may be accessed through an API providing read-only access to fetch information from the Cardano Registry (the **“API”**). 
+- The Cardano Stiftung is a Swiss non-profit foundation, domiciled at Dammstrasse 16, 6300 Zug, Switzerland (the **“Foundation”** or **“we”**). The Foundation owns, operates and makes available the **“Cardano Registry”**, an online utility that allows the public to access information on identifiers used in the Cardano network, which is governed by the **“Cardano Registry’s Terms of Use”** as available under [Terms of Use for Cardano Registry](Registry_Terms_of_Use.md). The Cardano Registry may be accessed through an API providing read-only access to fetch information from the Cardano Registry (the **“API”**). 
 
 - You (the **“User”**) want to use the API to access and retrieve information from the Cardano Registry.
 
