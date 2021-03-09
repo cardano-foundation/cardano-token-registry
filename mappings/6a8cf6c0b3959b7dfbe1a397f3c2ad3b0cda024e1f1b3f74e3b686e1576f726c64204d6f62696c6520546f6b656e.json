@@ -1,0 +1,63 @@
+{
+    "subject": "6a8cf6c0b3959b7dfbe1a397f3c2ad3b0cda024e1f1b3f74e3b686e1576f726c64204d6f62696c6520546f6b656e",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "World Mobile Token",
+        "signatures": [
+            {
+                "signature": "c1d8422173c34dbb1a9dbc9ff43242a598a81220d1d0f65d04b1fe2b07ad4e12c273b1dbe1fb247a36b74ec3e2da21e8c62934a243391d848b30a89eb3b6b80e",
+                "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
+            },
+            {
+                "signature": "16554717e7124579a3c19c6f9b0e9e271314ae204191391d898f338eb5024e056dd1346cd99c5e44ecd36d6965992bbbc3286c68f0ec822b83419915c4059e0a",
+                "publicKey": "bb0d471619d5f859eb43a973356ad6f873e87065c297208bead6aeeb134d6980"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "WMT",
+        "signatures": [
+            {
+                "signature": "edb972268993c98dd18c73d75de585e40d2f0b7cbfb2fbb18f4d76d241ffcd919d4b4c235fa077a135a79ecddce2c7e4aa60664a11bec415135330ffe18d2a09",
+                "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
+            },
+            {
+                "signature": "eaff25fa9c4ec6bdbe1b508047dc7bbcaa62c1fad7266a4bf8d5ef2bb076bae4367774d3f060a7a442dbd240f010709768bf2b118b749f993fcb1616e690a409",
+                "publicKey": "bb0d471619d5f859eb43a973356ad6f873e87065c297208bead6aeeb134d6980"
+            }
+        ]
+    },
+    "policy": "82018201838200581c1423d22ea96d09b88162b1b7a9a88df1bfc2aec37cd805428d6a0d338200581c4c0b87c21190ad6f6144d0609761a8af515efd3fabcc8d929d63e9e382051a0191b5ae",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Official World Mobile Token",
+        "signatures": [
+            {
+                "signature": "72cf1994c5d5dc3c2990d2fe21e29b827eaf1d9b9528f3d61e26811293d613f90c145ecf34532413fbbbae9f78a1f7bdcdc967457fdf67afd78830dc68ce5f0b",
+                "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
+            },
+            {
+                "signature": "043ee031acc16341af7b61ce7d6270f6c438141a88dd29b08777042c36a50f0de2b09d0d5c4c614650b53f4ee474e9cd61eb70e6d1610bd45c0073508ef35800",
+                "publicKey": "bb0d471619d5f859eb43a973356ad6f873e87065c297208bead6aeeb134d6980"
+            }
+        ]
+    },
+    "unit": {
+        "sequenceNumber": 0,
+        "value": {
+            "name": "marconis",
+            "decimals": 6
+        },
+        "signatures": [
+            {
+                "signature": "96fd29a86c6423e467606cbd556f7639715ceff7a2440840c1b3e43c67af70e344830682d6ff1d1dca50c9b0773f1801ae016f6c2ee18e27cacda3285cf1c706",
+                "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
+            },
+            {
+                "signature": "3920f329c677b67c7089fedc7f91ea58d9a4c0cd128e378500ed289b8a113e73ac56cafb1b0c47751fab42b466a22b3b92f77fcb1b3c352ba5490b352fb2140f",
+                "publicKey": "bb0d471619d5f859eb43a973356ad6f873e87065c297208bead6aeeb134d6980"
+            }
+        ]
+    }
+}
