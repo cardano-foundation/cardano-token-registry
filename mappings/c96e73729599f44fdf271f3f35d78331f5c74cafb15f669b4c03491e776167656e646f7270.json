@@ -50,18 +50,5 @@
                 "publicKey": "c12064dc0d8898a4ecc994ec9423711681827c21cd772f2b392cc903a173f558"
             }
         ]
-    },
-    "unit": {
-        "sequenceNumber": 0,
-        "value": {
-            "name": "cents",
-            "decimals": 4
-        },
-        "signatures": [
-            {
-                "signature": "f954997388eaf1f0431b09053f16e4827c83e7a84110de651f013265a98da96ab784d56b86ed9c54394c8002c770dbe789f88119bbf6dd8c012b9842b0d34e0a",
-                "publicKey": "c12064dc0d8898a4ecc994ec9423711681827c21cd772f2b392cc903a173f558"
-            }
-        ]
     }
 }
