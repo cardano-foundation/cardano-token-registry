@@ -22,10 +22,10 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "CHOC",
+        "value": "BHOC",
         "signatures": [
             {
-                "signature": "1a69fc0f0ecdfcdc01a5161793e9423d97a7ab8165e41fdc0e4ed09d44c4464cb8d0adc68e874bc08c756ba20fdce38b826984685aa97935190914a05c94ff07",
+                "signature": "efeacb4f64d16bc8c6ffc4c98be507ac59d9263c652961dec20699d966157876a2d496709b24b0da691a28008cdea15b266d0463bc5631e73fb043d90344cf0d",
                 "publicKey": "c12064dc0d8898a4ecc994ec9423711681827c21cd772f2b392cc903a173f558"
             }
         ]
