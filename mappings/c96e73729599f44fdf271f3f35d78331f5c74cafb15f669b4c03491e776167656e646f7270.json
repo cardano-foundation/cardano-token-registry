@@ -1,0 +1,34 @@
+{
+    "subject": "c96e73729599f44fdf271f3f35d78331f5c74cafb15f669b4c03491e776167656e646f7270",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "example name",
+        "signatures": [
+            {
+                "signature": "118b8d5c762daa725f147a9114a0fd53d9dd16d7b8da948f0569819ba2149e32f88541d325348e9615c619a4f59b8df691c7577eeb0171329a4a817f25a00e0c",
+                "publicKey": "c12064dc0d8898a4ecc994ec9423711681827c21cd772f2b392cc903a173f558"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "TICKR",
+        "signatures": [
+            {
+                "signature": "433d4b80b0ce4a5db6a848ca8578423f7a91f3955c0f9940d818ae51717f3e1695591d193ce1b1a4d3e603191effdcded1277e82351f5e1e6f3f2d4928fd0100",
+                "publicKey": "c12064dc0d8898a4ecc994ec9423711681827c21cd772f2b392cc903a173f558"
+            }
+        ]
+    },
+    "policy": "82008200581c435b1ccf262013a425b0d9a05410182758bf957dfa2377a6f0dc1578",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "example description",
+        "signatures": [
+            {
+                "signature": "5ed666a728b8806dcb79f577ee312da75b2240aefa31b4aa4a2edd8e3c8aae4d0aff0b316e509fc5e6d74e5e21c6743aca9e1e04e6bf9db9497ebf3814c5fb05",
+                "publicKey": "c12064dc0d8898a4ecc994ec9423711681827c21cd772f2b392cc903a173f558"
+            }
+        ]
+    }
+}
