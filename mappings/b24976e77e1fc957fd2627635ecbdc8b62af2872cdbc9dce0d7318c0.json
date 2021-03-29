@@ -5,7 +5,7 @@
         "value": "https://cardano-nfts.s3.amazonaws.com/BaldEagle.png",
         "signatures": [
             {
-                "signature": "ffe78d0ed9f43316239477a3bb4e9bc1f8e00c101e995010f58d2e2850505232fb964aa0ec7e5a6ac5965b82e6e1010aedfa5fc615a07923542422f12b067901",
+                "signature": "2e0c64ef8e5d6f94334b6f40535ee919ac27c8bf69f36cdad95a8e5ee32646886ded0b5c63a3be91030f21b78b08ff7311542454aafc1783769f5719c4242d0a",
                 "publicKey": "b821e352f107f013b79735e91fa49d997df86f3dff7bb9ccaf35a6a5f26929a0"
             }
         ]
@@ -15,7 +15,7 @@
         "value": "Bald Eagle",
         "signatures": [
             {
-                "signature": "c785cdf004fb397d8d9b662ac491c10705247d15b6c5a1ddcc5bf283efdcc4dd53e23fb580fbebf5fed0ef9802ab086bf420569ced4dac1d9d9029ab947ec108",
+                "signature": "bdce3c35c8c6137172d750c1866a6e5b09021659eea657fa7c31e87b1fd029d1e82d03914ae55a8bd34fe758c580945d2ca383dc0dc37366e195f54c4243cf02",
                 "publicKey": "b821e352f107f013b79735e91fa49d997df86f3dff7bb9ccaf35a6a5f26929a0"
             }
         ]
@@ -26,7 +26,7 @@
         "value": "Bald Eagle at River Oaks, Sherman CT",
         "signatures": [
             {
-                "signature": "17977208f33239f33f64f57e69cec170b102a625a31965655aec43582d6421ea2b7a534d01bc522b710e74475290a1ba1aa2b2961a96c23e455cc16098be320d",
+                "signature": "462a5e7790f196e80393b4c60cad68d49f324d019e9efbc4c8862a2cff238d11c90f29c847ab2c335ae21fc06b1902dd58193c1c6319296465235c90413df90d",
                 "publicKey": "b821e352f107f013b79735e91fa49d997df86f3dff7bb9ccaf35a6a5f26929a0"
             }
         ]
