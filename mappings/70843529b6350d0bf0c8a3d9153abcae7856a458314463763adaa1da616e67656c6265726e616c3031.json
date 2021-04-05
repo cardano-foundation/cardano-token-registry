@@ -1,0 +1,44 @@
+{
+    "subject": "70843529b6350d0bf0c8a3d9153abcae7856a458314463763adaa1da616e67656c6265726e616c3031",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://bit.ly/3mn555t",
+        "signatures": [
+            {
+                "signature": "a6becc8678ab05ab2b47b8a0c906d01575f6b1258c32affb918e92b734e85f5e7e62016a5c6958615417d952e7a23eaab80f241a534d781675d49d8a3549ec05",
+                "publicKey": "370131ab7b2d377cf02d733d8a60e9592b4fc62ac9dee0e9c1797d2b6fd9e3b5"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "AngelBernalEsquivel01",
+        "signatures": [
+            {
+                "signature": "a28c6a94807795e87c4b504ba9cd03edcc59e7e36570191afd0c680d31d230265d33516e394af1a8cc95133c9907b75ac5aecf1c0fa292a8a33523684323c503",
+                "publicKey": "370131ab7b2d377cf02d733d8a60e9592b4fc62ac9dee0e9c1797d2b6fd9e3b5"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "ANGEL",
+        "signatures": [
+            {
+                "signature": "4a411bd080945959feabba5e06676a3cabb39a873926997b56045420691ec2b9cf1ddee5a17ed847c3a19b3ca2c2d7cc91b88efc846f7424d3dbd6c5a6161b03",
+                "publicKey": "370131ab7b2d377cf02d733d8a60e9592b4fc62ac9dee0e9c1797d2b6fd9e3b5"
+            }
+        ]
+    },
+    "policy": "82008200581c5f4d6014cb9268202f4db6854179eb45449212e62aff2cb0bbf50036",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Mountain Warrior",
+        "signatures": [
+            {
+                "signature": "5a30b22671746da9a37057fed4e0587fb216e7720ad5be4048119c13008093de0f2f5a64f5d0b6cf7334e8c3015c2e33c587e580dd1d6f45fe17be2719233906",
+                "publicKey": "370131ab7b2d377cf02d733d8a60e9592b4fc62ac9dee0e9c1797d2b6fd9e3b5"
+            }
+        ]
+    }
+}
