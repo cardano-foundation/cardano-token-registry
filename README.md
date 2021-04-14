@@ -7,7 +7,7 @@ This repository provides a means to register off-chain token metadata that can m
 
 A [server](#server) exposes the functionality of a key-value store, allowing users and applications to query registry entries through a RESTful API.
 
-While this registry is limited in scope to handle native tokens only, it will also serve to facilitate a discussion and introduce a standard for a metadata distribution system that will be put forward as a [CIP](https://cips.cardano.org/).
+While this registry is limited in scope to handle native tokens only, it will also serve to facilitate a discussion and introduce a standard for a metadata distribution system that is currently put forward as a [draft CIP](https://github.com/michaelpj/CIPs/blob/cip-metadata-server/cip-metadata-server.md).
 
 Use of this registry is subject to the [Registry Terms of Use](Registry_Terms_of_Use.md).           
 Use of the public API is subject to the [API Terms of Use](API_Terms_of_Use.md).
@@ -38,7 +38,7 @@ Each entry contains the following information:
 `url`            | Optional  | A HTTPS URL (web page relating to the token)
 `logo`           | Optional  | A PNG image file as a byte string
 
-For a comprehensive description of all fields and how to generate them, please see [cardano-metadata-submitter](https://github.com/input-output-hk/cardano-metadata-submitter).  
+For a comprehensive description of all fields and how to generate them, please see [offchain-metadata-tools](https://github.com/input-output-hk/offchain-metadata-tools).  
 
                        
 
@@ -57,9 +57,9 @@ For a comprehensive description of all fields and how to generate them, please s
 
 Users and applications can query this registry through an API at `https://tokens.cardano.org/metadata`.
 
-The API documentation can be generated from the [OpenAPI specification](https://github.com/input-output-hk/metadata-server/blob/master/specifications/api/openapi.yaml).        
+The API documentation and source code for the server implementation is available with the [offchain-metadata-tools](https://github.com/input-output-hk/offchain-metadata-tools).        
             
-Use of this API is subject to the [API Terms of Use](API_Terms_of_Use.md).  
+Use of the `https://tokens.cardano.org/metadata` API is subject to the [API Terms of Use](API_Terms_of_Use.md).  
 
    
 ## Step-by-Step Guide
