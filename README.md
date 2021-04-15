@@ -1,7 +1,5 @@
 # cardano-token-registry
 
-:warning: This service is not yet live. Any pull requests will be __closed__. :warning: 
-
 ##  Background
 This repository provides a means to register off-chain token metadata that can map to on-chain identifiers (typically hashes representing asset IDs, output locking scripts, or token forging policies).
 
