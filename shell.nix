@@ -2,7 +2,7 @@ with { pkgs = import ./nix { }; };
 pkgs.mkShell {
   buildInputs = with pkgs; [
     bech32
-    cardano-metadata-submitter
+    token-metadata-creator
     cardano-cli
     niv
     jq
