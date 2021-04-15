@@ -28,8 +28,8 @@ Each entry contains the following information:
 
 **Name**             | **Required/Optional**|**Description**
 ---              | ---       | ---
-`subject`        | Required  | The base16-encoded policyId + base16-encoded assetName
-`policy`         | Required  | The script that hashes to the policyId
+`subject`        | Required  | The `policyId` + base16-encoded `assetName`
+`policy`         | Required  | The script that hashes to the `policyId`
 `name`           | Required  | A human-readable name for the subject, suitable for use in an interface
 `description`    | Required  | A human-readable description for the subject, suitable for use in an interface
 `ticker`         | Optional  | A human-readable ticker name for the subject, suitable for use in an interface
