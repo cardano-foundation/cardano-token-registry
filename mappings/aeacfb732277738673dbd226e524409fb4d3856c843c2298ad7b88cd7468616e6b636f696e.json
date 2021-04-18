@@ -1,0 +1,44 @@
+{
+    "subject": "aeacfb732277738673dbd226e524409fb4d3856c843c2298ad7b88cd7468616e6b636f696e",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.thankcoin.io",
+        "signatures": [
+            {
+                "signature": "1094726f6e4c9b620de43390ec0b4ccc13fc41b1e2bba6ee14d9fe5cb1e0e8ffff67b4ae2509ab899f7796d1e795b0f3be5c586751791be86ba475246972620c",
+                "publicKey": "0edb215c3c9c5bcc8fc5af04bb7a8ff50cc01d15d1bd0315b31d737aaf1a6123"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "thankcoin",
+        "signatures": [
+            {
+                "signature": "c705beb4aedad8e096ead0a3f3901ad727f0926ff720df32548449974e950ea20c24d4b386f31fe762e9ea08921edb9998b6c1016b328e5775e3ff3a17551a0d",
+                "publicKey": "0edb215c3c9c5bcc8fc5af04bb7a8ff50cc01d15d1bd0315b31d737aaf1a6123"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "THANK",
+        "signatures": [
+            {
+                "signature": "efa0cf4277ba42910f6ed117d349520a0cb53ba232d9b02602b92c03e7b96b83bfd5b3be03915c439c9fa19f600d024c887f355da215c27ee20f167fb907b105",
+                "publicKey": "0edb215c3c9c5bcc8fc5af04bb7a8ff50cc01d15d1bd0315b31d737aaf1a6123"
+            }
+        ]
+    },
+    "policy": "82018201828200581cc9bc5bc30acbdf17b9ffbb5196087227b2a9abf1cc2473b030551ece82051a01a2f06d",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Say Thanks The Crypto Way",
+        "signatures": [
+            {
+                "signature": "6fcc53b6efdf589ac76f6f5b1954de9dd1e506841258b13df091ca749735294ab3a3ea2fe6310e6cade149cb9609d950189a2591f1fdd98bd8543007260e1e03",
+                "publicKey": "0edb215c3c9c5bcc8fc5af04bb7a8ff50cc01d15d1bd0315b31d737aaf1a6123"
+            }
+        ]
+    }
+}
