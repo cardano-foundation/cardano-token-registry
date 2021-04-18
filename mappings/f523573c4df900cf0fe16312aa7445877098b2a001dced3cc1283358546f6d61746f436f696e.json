@@ -1,0 +1,58 @@
+{
+  "subject": "f523573c4df900cf0fe16312aa7445877098b2a001dced3cc1283358546f6d61746f436f696e",
+  "url": {
+    "sequenceNumber": 2,
+    "value": "https://danteachescrypto.com",
+    "signatures": [
+      {
+        "signature": "0038d549fd8ae979d537c0aa151e15bab68d79a4b5412cdbde97c00d99f22d9ef3699951c3e65857dd2abaf754852ecb14d00476e5bf3a887510b6e1d667c906",
+        "publicKey": "d3a8b343712f3734f39f95f01080c53514e070f2f115b5c9234ee5f7b554745b"
+      }
+    ]
+  },
+  "name": {
+    "sequenceNumber": 2,
+    "value": "TomatoCoin",
+    "signatures": [
+      {
+        "signature": "f42802cf85cc1225c06a294b54f043cf384ae6130c1967555695335e0f165474b40daa58184bad274e3e215e2b30f8cb86aa998e059cdad7c1776fd3b4b36b0a",
+        "publicKey": "d3a8b343712f3734f39f95f01080c53514e070f2f115b5c9234ee5f7b554745b"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 2,
+    "value": "TCOIN",
+    "signatures": [
+      {
+        "signature": "5307f57e8e6b156c72848f849d29c3637e592635666a4379d7e4f9feee193c95cec6ac0bbdb0033a621ef4137eae63c0fd478ae14aaff01c84fbcebe347a860e",
+        "publicKey": "d3a8b343712f3734f39f95f01080c53514e070f2f115b5c9234ee5f7b554745b"
+      }
+    ]
+  },
+  "policy": "820182018282051a01740de28200581c1d53b024073333d411cb1585adfe5f02cd2410f65e33b666d0c9633c",
+  "logo": {
+    "sequenceNumber": 2,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAEAAAAA/CAYAAABQHc7KAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABneSURBVHhe3VoLlF1Vef7P4>
+    "signatures": [
+      {
+        "signature": "6ad9fbe71ad81305147eb135babad38cb384b3c3bf9994d41ad02b0536afb660e2724ac25fa2c73afd3e648b72eed4cd15172c0b81eac69c88daccc3d90bdc08",
+        "publicKey": "d3a8b343712f3734f39f95f01080c53514e070f2f115b5c9234ee5f7b554745b"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 2,
+    "value": "The new global financial system",
+    "signatures": [
+      {
+        "signature": "5759100bc9bd3cc47c77009d4fbfe1ff25e497c7a0540c9379871e885d8186d46ebb98f07de53d96a1ecbdd1382cfe46c02424ac8bda6aa81f6e3f28ddba9602",
+        "publicKey": "d3a8b343712f3734f39f95f01080c53514e070f2f115b5c9234ee5f7b554745b"
+      }
+    ]
+  },
+  "tool": {
+    "description": "StakePoolOperator Scripts",
+    "url": "https://github.com/gitmachtl/scripts"
+  }
+}
