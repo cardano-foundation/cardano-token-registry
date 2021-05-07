@@ -1,17 +1,24 @@
 {
-  "metaName": "sikka",
-  "metaDescription": "",
-  "---": "--- Optional additional info ---",
-  "metaTicker": "SIKKA",
-  "metaUrl": "",
-  "metaLogoPNG": "",
-  "===": "--- DO NOT EDIT BELOW THIS LINE !!! ---",
-  "minted": "1",
-  "name": "sikka",
-  "bechName": "asset1n8hpjw0xupuae7zc6qwkn98gq4lcxshstz6skh",
-  "policyID": "398876d577bcc542d9e73244f9ffec78cd1a13c4e4c39b93744ada76",
-  "policyValidBeforeSlot": "unlimited",
-  "subject": "398876d577bcc542d9e73244f9ffec78cd1a13c4e4c39b93744ada7673696b6b61",
-  "lastUpdate": "Fri, 07 May 2021 15:41:06 +0000",
-  "lastAction": "created Metadata-Submitter-File"
+    "subject": "398876d577bcc542d9e73244f9ffec78cd1a13c4e4c39b93744ada7673696b6b61",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "sikka",
+        "signatures": [
+            {
+                "signature": "e641ada47f24b85f5106c5e08c8ef5909e6edfe28cc9a376d945896f0bc0ab4a4da612afa41cd110c87e5c6df42102fb0d1a91ec6b45df2da6c93e75b21d8d0d",
+                "publicKey": "114301c53b18f15c31b8513363154dc562c503dfa1b233017dd58e746786d5c7"
+            }
+        ]
+    },
+    "policy": "82008200581c3cb291230bf9dbc8911ac8f961c0da4ebdac0b29cbafd611dce827f1",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "",
+        "signatures": [
+            {
+                "signature": "e348e9758bf405823e86c3bfcc5851d0d961910b083038f9fa98fef06b804cf1490f7c83ca404706b7d75cf2f18d3612ee6c0bfb69cc2bbfc8d33795e6a0d909",
+                "publicKey": "114301c53b18f15c31b8513363154dc562c503dfa1b233017dd58e746786d5c7"
+            }
+        ]
+    }
 }
