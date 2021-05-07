@@ -1,0 +1,17 @@
+{
+  "metaName": "sikka",
+  "metaDescription": "",
+  "---": "--- Optional additional info ---",
+  "metaTicker": "SIKKA",
+  "metaUrl": "",
+  "metaLogoPNG": "",
+  "===": "--- DO NOT EDIT BELOW THIS LINE !!! ---",
+  "minted": "1",
+  "name": "sikka",
+  "bechName": "asset1n8hpjw0xupuae7zc6qwkn98gq4lcxshstz6skh",
+  "policyID": "398876d577bcc542d9e73244f9ffec78cd1a13c4e4c39b93744ada76",
+  "policyValidBeforeSlot": "unlimited",
+  "subject": "398876d577bcc542d9e73244f9ffec78cd1a13c4e4c39b93744ada7673696b6b61",
+  "lastUpdate": "Fri, 07 May 2021 15:41:06 +0000",
+  "lastAction": "created Metadata-Submitter-File"
+}
