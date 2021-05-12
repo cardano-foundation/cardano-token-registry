@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 2,
         "value": "Famous meme with Charles Hoskinson in style of Wassily Kandinsky. 22 April 2021 by HYGGE stake pool.",
         "signatures": [
             {
-                "signature": "3510f3f54855a89bf46be5dbab241e286832b742b7ab08d5c49679aaada198a0b939b25f00869878846a11f23fb8fe51ddebdc79cef60ada2bc9bf4c2a740a0e",
+                "signature": "3262abb4f6f139e506cf75fed6259eae125c6977eb54ee647be39694223058353f32ae6929ce49d79149ee608ffa8334f740256e13ba21e610727dfc7150ae03",
                 "publicKey": "0661d8501fdae23a17fc7a623caff851c476a7fddc3b1da328a070abafc5d0c2"
             }
         ]
