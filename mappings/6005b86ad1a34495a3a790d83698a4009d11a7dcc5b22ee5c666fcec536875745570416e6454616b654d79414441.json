@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "This token has been minted based on a famous meme. The image attached represents Charles Hoskinson in the style of Wassily Kandinsky. 22 April 2021 by HYGGE pool.",
+        "sequenceNumber": 1,
+        "value": "Famous meme with Charles Hoskinson in the style of Wassily Kandinsky. 22 April 2021 by HYGGE pool.",
         "signatures": [
             {
-                "signature": "aa55843cee1f87cc4d68b52da2e060fb5f4e79130d6f314ddf6e89573dddfef2fab3c0f0399ffbfe0936c43ad8376d15a6b8f1934aa8c7eb51a1d6eb28996b05",
+                "signature": "b9afec92604be186a5bc8b79029f4a652fc5b75860469addb622e2aaee88db5ef8ece3d8bd9f8ae3198578d908350341ae9efdb2000496c0afeea6d1d9276009",
                 "publicKey": "0661d8501fdae23a17fc7a623caff851c476a7fddc3b1da328a070abafc5d0c2"
             }
         ]
