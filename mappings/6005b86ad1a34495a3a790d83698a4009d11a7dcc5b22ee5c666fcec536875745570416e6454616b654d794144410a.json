@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Shut Up And Take My ADA",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "155d7c713a46a82015614a266cfc7074023a12dd1e17d325f103a06d5cf0cf15262074b56484b406829ceef65ae4ce8d47fb1394ccb1b772c4e9dc872e70720d",
+                "signature": "8e770bdb9221f1e31d900d7834e3f72db38085d8cd16eee6f5fc36914ff778f6c11ee5e39aeae26fa50d4bd491a1d6dfa6430978afc790a4da754b2b87e39202",
                 "publicKey": "0661d8501fdae23a17fc7a623caff851c476a7fddc3b1da328a070abafc5d0c2"
             }
         ]
@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "This token has been minted based on a famous meme. The image attached represents Charles Hoskinson in the style of Wassily Kandinsky. 22 April 2021 by HYGGE pool.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "8c924ee7bb3103f37d8f04b5f9c4623d0d25980f83bab79897a5ac2a9273b8e9a970602390f409487cf5c5a4a7b1c4cacbcc7a13a022e67c73035993b4690d04",
+                "signature": "b0db7979c0cf01964829cef7240de91ac83e185d959dbe3e2cceca5eba2c9343280c9acfe517b207e06bd5e01525db41e3afb3244b20cdec71e3794a5c64b60d",
                 "publicKey": "0661d8501fdae23a17fc7a623caff851c476a7fddc3b1da328a070abafc5d0c2"
             }
         ]
