@@ -1,0 +1,34 @@
+{
+  "subject": "4383085f3993b37866eef5e252953ffebbf2fda55f3ca6fb299a8000434c495645464c59494e47",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Little Clive Flying",
+    "signatures": [
+      {
+        "signature": "db0c552744e0602224a64500209d662f063a4682ddb483358d6edf55534c5e507b20e3cc104d7d64efaccf6c22c8aba1e8f07961518a300cb6ab2b20eea77e08",
+        "publicKey": "956f60be5efaa5bf5fe1e2c7023998d8ea89cf2d0987b4d89e5c045f2888ba45"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CLFLY",
+    "signatures": [
+      {
+        "signature": "31f499eb6a469ed565dd8263083a8d772fb59dd1f6386f058a04265af7a345e14660e374367055d3fb05e10966c00bb38fb19e93137aabf2f0c6d699db4aea03",
+        "publicKey": "956f60be5efaa5bf5fe1e2c7023998d8ea89cf2d0987b4d89e5c045f2888ba45"
+      }
+    ]
+  },
+  "policy": "820182018282051a0ad3b5d08200581c6b19396331bedce4d31f4ce2e6279234f1c4d62b66f28187643c0250",
+  "description": {
+    "sequenceNumber": 0,
+    "value": "A painting of little Clive flying. Painted by Nanna.",
+    "signatures": [
+      {
+        "signature": "017b3e3bdcc5c0e2b97e22494076fb1412ce737a03e43d02a1f562f7709e5c697fe1b38628dfd3e08f6567f02c07636f30fdbb33b9c7ebfd3654a67962600a01",
+        "publicKey": "956f60be5efaa5bf5fe1e2c7023998d8ea89cf2d0987b4d89e5c045f2888ba45"
+      }
+    ]
+  }
+}
