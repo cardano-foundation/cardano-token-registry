@@ -43,10 +43,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Immutable ownership of the unique Lovelace jewelry piece Basho, of the Genesis series.",
+        "value": "Immutable ownership of the unique Lovelace jewelry piece Basho, of the Genesis series. Copyright 2021 Yifu Pedersen Ltd.",
         "signatures": [
             {
-                "signature": "488a78354836362c2dc132fc80400af7a1fdfc07dc712364c98507cd9d63c7f650ec23465b3cfd603ce1d3933492b2a5ace37f252137c6444eb82de07d538c08",
+                "signature": "dbe291b34a5c1d9975520eb696305eb11d61f214a2d518f545ed1ddf0dd94361b079dc6f6c20d83777a5d4dbbf541d0a715e3b8eb7a37f6e0ab199da9c3a7f06",
                 "publicKey": "56e52537b97913e9b3aa4a115118fa72641f67da9968921a3d44a01988792691"
             }
         ]

@@ -43,10 +43,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Immutable ownership of the unique Lovelace jewelry piece Voltaire, of the Genesis series.",
+        "value": "Immutable ownership of the unique Lovelace jewelry piece Voltaire, of the Genesis series. Copyright 2021 Yifu Pedersen Ltd.",
         "signatures": [
             {
-                "signature": "6f82cca58e8a051a119532a7c518a9d9a9c7527e98b91348f117d6e1e119521a0c57930bd66b1ffdfebf3b92c7cafe778408b4f43a2dcd061da1c8f31432f60f",
+                "signature": "9233a6001b23da12025fc0718b81c92f7690296a76d12d129cb6f1c46a5601c0ee86f4cd6d3ae1491f602b8e790950a64c01fdd53d6276464e4c3ca882b3c80a",
                 "publicKey": "56e52537b97913e9b3aa4a115118fa72641f67da9968921a3d44a01988792691"
             }
         ]

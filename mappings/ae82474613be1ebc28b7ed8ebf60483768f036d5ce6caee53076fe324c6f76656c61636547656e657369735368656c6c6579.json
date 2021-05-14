@@ -43,10 +43,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Immutable ownership of the unique Lovelace jewelry piece Shelley, of the Genesis series.",
+        "value": "Immutable ownership of the unique Lovelace jewelry piece Shelley, of the Genesis series. Copyright 2021 Yifu Pedersen Ltd.",
         "signatures": [
             {
-                "signature": "00142fce53383cc879ffe9a8ec659d3aed35473cf6184ac7a929262b4adfc8566aa66aba21e8c145b599ecd24c7e970813c2c14d0d3bb89fcb8796f808855709",
+                "signature": "4eba2ff4a1f0eb5f01b44f5afd8f2518962f42af7e4683ad3854c595c0423d7e683f25ef356e1561e3b91e59578f7d54792cf0ca8d03c05a1502f913c8012f0a",
                 "publicKey": "56e52537b97913e9b3aa4a115118fa72641f67da9968921a3d44a01988792691"
             }
         ]

@@ -43,10 +43,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Immutable ownership of the unique Lovelace jewelry piece Ada, of the Genesis series.",
+        "value": "Immutable ownership of the unique Lovelace jewelry piece Ada, of the Genesis series. Copyright 2021 Yifu Pedersen Ltd.",
         "signatures": [
             {
-                "signature": "e6365e79bf7b8c7ec828a871f2cf7bbe50d28be28a44874cb95ae8d7d732dbbae4d6f8d6d7bf6c5342deeaf03ecaa1b05a4644d5c3c15875343f6415e5901006",
+                "signature": "658f67ca28fd923b971f43e6a830ecf298ad49816042548315b85b6f6d0e12ffc0d8438d6ce33705a8c58e77567440ef0ba3c509bb9436dd2a712ed3d4c1a900",
                 "publicKey": "56e52537b97913e9b3aa4a115118fa72641f67da9968921a3d44a01988792691"
             }
         ]

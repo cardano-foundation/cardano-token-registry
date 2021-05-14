@@ -43,10 +43,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Immutable ownership of the unique Lovelace jewelry piece VII, of the Genesis series.",
+        "value": "Immutable ownership of the unique Lovelace jewelry piece VII, of the Genesis series. Copyright 2021 Yifu Pedersen Ltd.",
         "signatures": [
             {
-                "signature": "893ef2a7f44a662424485e790efcca4a0d34c96b2bb426650b6a84c185059b4469939bbd3290a90cc12e196ed3d9d5611e441ee4fd499488e559694b98468f08",
+                "signature": "e5565cbee3d404f417c3a54aa021d4318a23f3cc7f60e715df80517e08b33a58e2fdc3b51737c37c678181bc219c3ad79488bbaea1934300512241ac05d96806",
                 "publicKey": "56e52537b97913e9b3aa4a115118fa72641f67da9968921a3d44a01988792691"
             }
         ]
