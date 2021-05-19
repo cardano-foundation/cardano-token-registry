@@ -10,13 +10,23 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "SIKKA",
+        "signatures": [
+            {
+                "signature": "310f26d698fc368fb047503e7fc39e7f2ced12a52a752474c11e08a82b1bbbcd25d8b1344f8b6daaf513ceb6f8823a3d7838b53d4415cd4530e1e254e2ba6507",
+                "publicKey": "114301c53b18f15c31b8513363154dc562c503dfa1b233017dd58e746786d5c7"
+            }
+        ]
+    },
     "policy": "82008200581c3cb291230bf9dbc8911ac8f961c0da4ebdac0b29cbafd611dce827f1",
     "description": {
         "sequenceNumber": 0,
-        "value": "",
+        "value": "Authentic Furniture Token",
         "signatures": [
             {
-                "signature": "e348e9758bf405823e86c3bfcc5851d0d961910b083038f9fa98fef06b804cf1490f7c83ca404706b7d75cf2f18d3612ee6c0bfb69cc2bbfc8d33795e6a0d909",
+                "signature": "c14cf76293879e78361ac5f684226532ca68509f58f7e8b05b2010ae968ff7b260fe0b31543689a12111029bccac400c786df46ae2ab293b1f72d49cb926780a",
                 "publicKey": "114301c53b18f15c31b8513363154dc562c503dfa1b233017dd58e746786d5c7"
             }
         ]
