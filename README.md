@@ -14,7 +14,7 @@ Use of the public API is subject to the [API Terms of Use](API_Terms_of_Use.md).
 
 #### New registration
 
-New submissions to this registry will take the form of a GitHub Pull Request with the addition of one or more JSON files to the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry.
+New submissions to this registry will take the form of a GitHub Pull Request with the addition of one JSON file to the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry.
 
 
 #### Updating existing entries
