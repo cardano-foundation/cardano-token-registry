@@ -11,18 +11,18 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Shut Up And Take My ADA",
+        "sequenceNumber": 1,
+        "value": "Shut Up And Take My ADA 💵",
         "signatures": [
             {
-                "signature": "7215a70956211daf2d8cf4c371b69ef60935d9efd9b2ded10e48d9f9dcc82889e2ba3064ebd70c80321aaa1f673284cb708b4c8923d619f15a9d81196d9de606",
+                "signature": "7394c31bc76f44f541dba6a51cb447c1b65c4bae7f6674d820e372971a4aa22ee5aaabea17420499cae7beb842bf83e664c1b269ba5e2e8174dac29a21470b01",
                 "publicKey": "0661d8501fdae23a17fc7a623caff851c476a7fddc3b1da328a070abafc5d0c2"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "SHUTA",
+        "value": "SHUT💵",
         "signatures": [
             {
                 "signature": "160d2873eb4453ed2f97bcf697be89183e0f6469b879e6afff2031016e8873e11dba148f52e29185343b9f23e8a10b8d13179a8fd0cdff37fca8c3723c038e05",
@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "Famous meme with Charles Hoskinson in the style of Wassily Kandinsky. 22 April 2021 by HYGGE pool.",
+        "sequenceNumber": 2,
+        "value": "Famous meme with Charles Hoskinson in style of Wassily Kandinsky. 22 April 2021 by HYGGE 🤸 stake pool.",
         "signatures": [
             {
-                "signature": "b9afec92604be186a5bc8b79029f4a652fc5b75860469addb622e2aaee88db5ef8ece3d8bd9f8ae3198578d908350341ae9efdb2000496c0afeea6d1d9276009",
+                "signature": "3262abb4f6f139e506cf75fed6259eae125c6977eb54ee647be39694223058353f32ae6929ce49d79149ee608ffa8334f740256e13ba21e610727dfc7150ae03",
                 "publicKey": "0661d8501fdae23a17fc7a623caff851c476a7fddc3b1da328a070abafc5d0c2"
             }
         ]
