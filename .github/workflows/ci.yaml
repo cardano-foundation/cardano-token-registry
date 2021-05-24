@@ -35,15 +35,14 @@ jobs:
 
           echo "Obtaining PR file change diff:"
           echo
-          DIFF="$(git --no-pager diff --name-status origin/"${BASE}" "${GITHUB_SHA}")"
-          export DIFF
-          echo "${DIFF}"
+          git --no-pager diff --name-status origin/"${BASE}" "${GITHUB_SHA}" > "${GITHUB_SHA}.diff"
+          cat "${GITHUB_SHA}.diff"
           echo
 
           rm -f fail-location fail-filename || :
           echo "Validating all changed PR files are in the ${LOCATION} directory:"
           echo
-          echo "${DIFF}" | awk '{print $2}' | sort \
+          awk '{print $2}' "${GITHUB_SHA}.diff" | sort \
             | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-location; }'
           echo
 
