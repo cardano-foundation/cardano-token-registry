@@ -1,0 +1,24 @@
+{
+    "subject": "924e0f42f5a275a4814c4d3c8dcf3d2afe3d78432ba94a365fe079b0616E677279776974687063",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "angrywithpc",
+        "signatures": [
+            {
+                "signature": "f3b4e537b45f0804025c7cee138e135ac82dc70b2ab11a2acf74f527728ba1086c544283c44874e907dcefbfe310717ca8fc8efa09b893bfe7f42c9c18fb5700",
+                "publicKey": "82c9ba24aa9e427ad1242af08e57f49637ecb3e70bfdb3c1cd4c5ea01a33c7ce"
+            }
+        ]
+    },
+    "policy": "820182018282051a01a5419c8200581ca15447dc3b31f3b705cdcfd5bc7642f0c0c7f7dbbb41c3dbfea5a816",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "angrywithpc fun token",
+        "signatures": [
+            {
+                "signature": "bb7ce24a580978e76951d3740e500e619086508ac7e3c33b5183f36cf58af5d0e2d9ca1d0e766edc98981521f5cea7ed93715595290bd28dc2e3fed537f31606",
+                "publicKey": "82c9ba24aa9e427ad1242af08e57f49637ecb3e70bfdb3c1cd4c5ea01a33c7ce"
+            }
+        ]
+    }
+}
