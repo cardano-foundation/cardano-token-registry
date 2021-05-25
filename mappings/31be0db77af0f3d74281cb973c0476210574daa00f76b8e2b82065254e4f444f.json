@@ -51,8 +51,4 @@
       }
     ]
   },
-  "tool": {
-    "description": "StakePoolOperator Scripts",
-    "url": "https://github.com/gitmachtl/scripts"
-  }
 }
