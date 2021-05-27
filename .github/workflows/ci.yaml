@@ -78,6 +78,6 @@ jobs:
           echo "Running the metadata validation tool on this PR:"
           echo
           VALIDATOR="./token-metadata-creator validate"
-          echo "${DIFF}" | grep "^M" | awk '{print $2}' | xargs --no-run-if-empty -- bash -c 'echo "$1 master/$2 pull-request/$2" && $1 master/$2 pull-request/$2' -- "$VALIDATOR"
-          echo "${DIFF}" | grep "^A" | awk '{print $2}' | xargs --no-run-if-empty -- bash -c 'echo "$1 pull-request/$2" && $1 pull-request/$2' -- "$VALIDATOR"
+          awk '/^M/ {print $2}' "pull-request/${GITHUB_SHA}.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 master/$2 pull-request/$2" && $1 master/$2 pull-request/$2' -- "$VALIDATOR"
+          awk '/^A/ {print $2}' "pull-request/${GITHUB_SHA}.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 pull-request/$2" && $1 pull-request/$2' -- "$VALIDATOR"
           echo
