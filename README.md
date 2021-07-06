@@ -35,6 +35,7 @@ Each entry contains the following information:
 `ticker`         | Optional  | A human-readable ticker name for the subject, suitable for use in an interface
 `url`            | Optional  | A HTTPS URL (web page relating to the token)
 `logo`           | Optional  | A PNG image file as a byte string
+`decimals`       | Optional  | how many decimals to the token
 
 For a comprehensive description of all fields and how to generate them, please see [offchain-metadata-tools](https://github.com/input-output-hk/offchain-metadata-tools).  
 
