@@ -15,15 +15,15 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "World Mobile Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "8115de281b7982a44a058336f4015df1046e18da75f98580463af3816434349ade92910ff9f4b6c21a3402f78e1b931ec2cb16301d855caf3f5728372c3d0a03",
+                "signature": "3484510db24fbc41095136624304493798b33d8aec9a594a4f84e90614697dfb90c3b276c11cee64ff4ac8c7fb562ecdc5710814cc44a88ce4c4adb7c8b61f00",
                 "publicKey": "bb0d471619d5f859eb43a973356ad6f873e87065c297208bead6aeeb134d6980"
             },
             {
-                "signature": "101eddf305ba45974095ab277de236be2fe7dbd34b5dacfd872a87bee0ba7b4ae483799dda402c6b19bd2453285da7ee809c7d237030d88558f5ddbcc750e205",
+                "signature": "2a109ef4032cfeef72c57911a142444e8e1d991472ca3f4bf8554c1b4627f954f98186c356029a9763919bab5ca85f82645a5fe1178b2b2e3f807d591bf9e00b",
                 "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
             }
         ]
@@ -72,15 +72,15 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "WMT is a utility token created to connect the unconnected and bank the unbanked. With nearly 4 billion people left offline, digital exclusion is a significant problem. Together with Input Output, World Mobile will deliver a revolutionary, scalable network in Africa and beyond. Let’s kickstart the sharing economy, reboot telecoms, and open a new world!",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "bd2c7fbc5e6625f22d021282ce2320843ffb43090c49821f1120c43af8ed0b57007b16d204aa3a2c5876c8e17c2193d1671702185455e7df50800f331dccca03",
+                "signature": "a4cfd91389ba8ba6c9c0532ccd7e61a91fa6e4c3708bb349f4ac3db657af19f874d44b232eb78a287d507ee70542d5fd78dde8c968e0b694c16b1d2992ecc106",
                 "publicKey": "bb0d471619d5f859eb43a973356ad6f873e87065c297208bead6aeeb134d6980"
             },
             {
-                "signature": "81dd2d1a52dd2fc681e04e53ac1e5f55c1e0fd9ca8ef16eafb48cc74780753b5ef565e545d37536c4c5b8aacbaed052238855474842be3c0dc8773abe900020b",
+                "signature": "f80b436eead256ed2d850c050af918f381a7a425c01b7bab90a84f788227451905f0f714f400d62d901ca9ae197ee4d1c7ad275b3cfadef6d29f3819f5135801",
                 "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
             }
         ]
