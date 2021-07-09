@@ -7,19 +7,15 @@
             {
                 "signature": "49a4b4fd2fd93c3466c7f96462412a6ee79881b2cd968dced0b7b5dabf2e6b243d0fb62316ac17fc83f8848da3c4a8a9d7e1174a82319501c97d07e471cdc107",
                 "publicKey": "8bc374983b4ae35f83e12317296a5db2d5503e5dad256ede9e244d183672d956"
-            },
-            {
-                "signature": "49a4b4fd2fd93c3466c7f96462412a6ee79881b2cd968dced0b7b5dabf2e6b243d0fb62316ac17fc83f8848da3c4a8a9d7e1174a82319501c97d07e471cdc107",
-                "publicKey": "8bc374983b4ae35f83e12317296a5db2d5503e5dad256ede9e244d183672d956"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "LOVE Token",
         "signatures": [
             {
-                "signature": "b8035014b9f9818427a851487be023baef31537c50f61f76b8e664d1d5c50691c3d73e482e70e4f8512d275a32f770fd872a8b3dc763957be83f1a75191b800a",
+                "signature": "e3ef1d95256187984dac5fa5153b207c437877fdd4978f34e88be25f2d0523417b6b08b11eeff1f08f45c9e2b7fe05a9b06b452832ba0fc52594a227961d1c0a",
                 "publicKey": "8bc374983b4ae35f83e12317296a5db2d5503e5dad256ede9e244d183672d956"
             }
         ]
@@ -28,10 +24,6 @@
         "sequenceNumber": 0,
         "value": "LOVE",
         "signatures": [
-            {
-                "signature": "a13043a218399bb30a5b8bd842d5160c6d81ec849fb581b1c1c0f65cfeb8e97c0dcc685661446b0d6c6de1ca2f76911e307e7243c082e50dfaa939a690eeec08",
-                "publicKey": "8bc374983b4ae35f83e12317296a5db2d5503e5dad256ede9e244d183672d956"
-            },
             {
                 "signature": "a13043a218399bb30a5b8bd842d5160c6d81ec849fb581b1c1c0f65cfeb8e97c0dcc685661446b0d6c6de1ca2f76911e307e7243c082e50dfaa939a690eeec08",
                 "publicKey": "8bc374983b4ae35f83e12317296a5db2d5503e5dad256ede9e244d183672d956"
@@ -46,10 +38,6 @@
             {
                 "signature": "60b4413fe64ae2360ac843ec9da0efd43707e598b337bdd3806e5052ac5c143bc9a0d874c1bcbccda2a199b989b0f5a68b3fb5142f7321b472ae195f2a822d0d",
                 "publicKey": "8bc374983b4ae35f83e12317296a5db2d5503e5dad256ede9e244d183672d956"
-            },
-            {
-                "signature": "60b4413fe64ae2360ac843ec9da0efd43707e598b337bdd3806e5052ac5c143bc9a0d874c1bcbccda2a199b989b0f5a68b3fb5142f7321b472ae195f2a822d0d",
-                "publicKey": "8bc374983b4ae35f83e12317296a5db2d5503e5dad256ede9e244d183672d956"
             }
         ]
     },
@@ -57,10 +45,6 @@
         "sequenceNumber": 0,
         "value": "All you need is LOVE",
         "signatures": [
-            {
-                "signature": "060f2b22096ac6173c88f0ee53a326426847b8109e1ef072903803d9dcbcdc22434971e3eff545b34152e7e4ad5e7c963b2b8f35c71c6d20f8878007f621a400",
-                "publicKey": "8bc374983b4ae35f83e12317296a5db2d5503e5dad256ede9e244d183672d956"
-            },
             {
                 "signature": "060f2b22096ac6173c88f0ee53a326426847b8109e1ef072903803d9dcbcdc22434971e3eff545b34152e7e4ad5e7c963b2b8f35c71c6d20f8878007f621a400",
                 "publicKey": "8bc374983b4ae35f83e12317296a5db2d5503e5dad256ede9e244d183672d956"
