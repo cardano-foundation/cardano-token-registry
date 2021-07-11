@@ -1,15 +1,15 @@
 {
     "subject": "c4b65048fd8319a959690d59f66721d638865050cb90765b626309204265726368436f696e",
     "name": {
-        "sequenceNumber": 0,
-        "value": "Beach",
+        "sequenceNumber": 1,
+        "value": "Berch",
         "signatures": [
             {
-                "signature": "dd9aa04fabd110182e6b9bdd6a87ce3ef813886212ac012581b909bc0ffa60815fc7de3ca58f8a8b75e0333210864a9bd22472f6535fa3cb56934e77e182480a",
+                "signature": "4b26e5f78cf2784540b568763d852a012305bd3166c5b777a0c53856ffb1fad780c379180524eb2c17270d30d154ec8e2ae7dd686c92d68197b4296c911b5206",
                 "publicKey": "c3d39acf2d48273bb13e88ff2aec16db8b013f1acea4ca1577dd8ddfc38bcd60"
             },
             {
-                "signature": "a8dc6186bb7c03d4e175003df037873e7e9a8c537c70e8974c24e673611bdc88912a3413276321308ffde5c64cf016ef8cdc9977aec9da2c36496bcd7c40260c",
+                "signature": "0c554489d5dd52f464775af6ae6b89f742cbd620e150d293ca51b1e7d10de928559d6154ec5d9609d13105517682c4d504330422e0f2076a8bde232493689407",
                 "publicKey": "7e71d327449e0af3c03952168017938e7a4605feaf62da81d33b0baad0fbfcc4"
             }
         ]
@@ -26,19 +26,27 @@
             {
                 "signature": "a214ea41c644ee5e2d5b709e0a9b86e8e4f7a82bfce097774d3a059e48901e39a2e68af35c3b3990c0d65e8c6ca880f46c56fdb1bc9cc2f112e9307acd418e01",
                 "publicKey": "7e71d327449e0af3c03952168017938e7a4605feaf62da81d33b0baad0fbfcc4"
+            },
+            {
+                "signature": "b747b7366c61bc8148834224a08fc5183c256fbdb13432570bebd9dca2b7e3f3c265c594fb7cab369d0e91590c3082ddc552f8d897f7f67d7d5c2511e738b90a",
+                "publicKey": "c3d39acf2d48273bb13e88ff2aec16db8b013f1acea4ca1577dd8ddfc38bcd60"
+            },
+            {
+                "signature": "a214ea41c644ee5e2d5b709e0a9b86e8e4f7a82bfce097774d3a059e48901e39a2e68af35c3b3990c0d65e8c6ca880f46c56fdb1bc9cc2f112e9307acd418e01",
+                "publicKey": "7e71d327449e0af3c03952168017938e7a4605feaf62da81d33b0baad0fbfcc4"
             }
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Beach Pool's Rewards Token",
+        "sequenceNumber": 1,
+        "value": "Berch Pool's Rewards Token",
         "signatures": [
             {
-                "signature": "a9fc1c65d8d0524efa9331150d6024d1c26519764515615f2301452de753c065426eeb98e657d5a00dfd8ce196e59bc827cf03e6a8a2187fe4900a586df37d0f",
+                "signature": "77beda001b2b5e1f5739eb7cf4bd6c8ae3c4456bf9dc3e88cc5351ae24d36c63a09ee73a3630469621554fd72dbca3a4abb14d88cdec215a710f3d2eedbea805",
                 "publicKey": "c3d39acf2d48273bb13e88ff2aec16db8b013f1acea4ca1577dd8ddfc38bcd60"
             },
             {
-                "signature": "a714a5ec1b53f3c97998d385dfc460511901a4e32420e41b765461ff1b1b667e411d70fb1cc90f8a2f2cf0681786572191d1be2a1a95361191585ba20e44c304",
+                "signature": "6025adf549fb32a4590a64f2d3681a92c1dd9a402bc347d61a5580029cb24282727adf68e1cceb30798031467ac2e961082b2a4d6266bff84f42adccff50d304",
                 "publicKey": "7e71d327449e0af3c03952168017938e7a4605feaf62da81d33b0baad0fbfcc4"
             }
         ]
