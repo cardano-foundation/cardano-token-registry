@@ -14,7 +14,7 @@ Use of the public API is subject to the [API Terms of Use](API_Terms_of_Use.md).
 
 #### New registration
 
-New submissions to this registry will take the form of a GitHub Pull Request with the addition of one or more JSON files to the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry.
+New submissions to this registry will take the form of a GitHub Pull Request with the addition of one JSON file to the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry.
 
 
 #### Updating existing entries
@@ -35,6 +35,7 @@ Each entry contains the following information:
 `ticker`         | Optional  | A human-readable ticker name for the subject, suitable for use in an interface
 `url`            | Optional  | A HTTPS URL (web page relating to the token)
 `logo`           | Optional  | A PNG image file as a byte string
+`decimals`       | Optional  | how many decimals to the token
 
 For a comprehensive description of all fields and how to generate them, please see [offchain-metadata-tools](https://github.com/input-output-hk/offchain-metadata-tools).  
 
