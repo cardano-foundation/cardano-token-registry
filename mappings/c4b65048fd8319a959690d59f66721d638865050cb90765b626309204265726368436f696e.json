@@ -1,15 +1,15 @@
 {
     "subject": "c4b65048fd8319a959690d59f66721d638865050cb90765b626309204265726368436f696e",
     "name": {
-        "sequenceNumber": 1,
-        "value": "Berch",
+        "sequenceNumber": 0,
+        "value": "BerchCoin",
         "signatures": [
             {
-                "signature": "4b26e5f78cf2784540b568763d852a012305bd3166c5b777a0c53856ffb1fad780c379180524eb2c17270d30d154ec8e2ae7dd686c92d68197b4296c911b5206",
+                "signature": "a1a7a3a740dcb1cb222b66c6a81b0620253e616ada7d657bf0771467f4fb3f3802e402b972af778eea80e819627c30cffbd6ee848d5457d93fce19a115c9e502",
                 "publicKey": "c3d39acf2d48273bb13e88ff2aec16db8b013f1acea4ca1577dd8ddfc38bcd60"
             },
             {
-                "signature": "0c554489d5dd52f464775af6ae6b89f742cbd620e150d293ca51b1e7d10de928559d6154ec5d9609d13105517682c4d504330422e0f2076a8bde232493689407",
+                "signature": "bf453763a0878bdbb89741112e2d2fda2962c0fa96c35e97ddc6935513686a4558c0ece391863bcc913d4120369822c220f777276247d2e76a39fddc00142e0d",
                 "publicKey": "7e71d327449e0af3c03952168017938e7a4605feaf62da81d33b0baad0fbfcc4"
             }
         ]
@@ -26,27 +26,19 @@
             {
                 "signature": "a214ea41c644ee5e2d5b709e0a9b86e8e4f7a82bfce097774d3a059e48901e39a2e68af35c3b3990c0d65e8c6ca880f46c56fdb1bc9cc2f112e9307acd418e01",
                 "publicKey": "7e71d327449e0af3c03952168017938e7a4605feaf62da81d33b0baad0fbfcc4"
-            },
-            {
-                "signature": "b747b7366c61bc8148834224a08fc5183c256fbdb13432570bebd9dca2b7e3f3c265c594fb7cab369d0e91590c3082ddc552f8d897f7f67d7d5c2511e738b90a",
-                "publicKey": "c3d39acf2d48273bb13e88ff2aec16db8b013f1acea4ca1577dd8ddfc38bcd60"
-            },
-            {
-                "signature": "a214ea41c644ee5e2d5b709e0a9b86e8e4f7a82bfce097774d3a059e48901e39a2e68af35c3b3990c0d65e8c6ca880f46c56fdb1bc9cc2f112e9307acd418e01",
-                "publicKey": "7e71d327449e0af3c03952168017938e7a4605feaf62da81d33b0baad0fbfcc4"
             }
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "Berch Pool's Rewards Token",
+        "sequenceNumber": 0,
+        "value": "Berch Pools Rewards Coin",
         "signatures": [
             {
-                "signature": "77beda001b2b5e1f5739eb7cf4bd6c8ae3c4456bf9dc3e88cc5351ae24d36c63a09ee73a3630469621554fd72dbca3a4abb14d88cdec215a710f3d2eedbea805",
+                "signature": "3c84d0adfb73bf5b032ed6032bb0635071a29b9c495b4ce9be42a4848aaf5a831e626d3a39c75dd2992f52ce9c077a3e07a7ec3a37c357bb8bb46342e378df07",
                 "publicKey": "c3d39acf2d48273bb13e88ff2aec16db8b013f1acea4ca1577dd8ddfc38bcd60"
             },
             {
-                "signature": "6025adf549fb32a4590a64f2d3681a92c1dd9a402bc347d61a5580029cb24282727adf68e1cceb30798031467ac2e961082b2a4d6266bff84f42adccff50d304",
+                "signature": "82b1ae9bec3c4a6d6d83a3f43b94594b71c3611a44e0138a6e613581528dde4f7f1ca2caee2a49f48fba5f6d0666a73071e45af1c0f839812b9dd538fe3f2a0d",
                 "publicKey": "7e71d327449e0af3c03952168017938e7a4605feaf62da81d33b0baad0fbfcc4"
             }
         ]
