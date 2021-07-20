@@ -15,15 +15,15 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "SingularityNET Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "dbd77f4185a43a445158221babb8ec2a939798aaa90719dcff881a14fd0de4c607e6a99d7d6500dcc8a5e643fb09d2456c156fc7516e3a575e7bda7c78256d05",
+                "signature": "f1b839d91a94fdcb44a8b52d537b9a86fe32695e9dc85cc0d1edb258f990368604982125357ede9df5630c99168b7049215447ac352d1105bec6bab0816be305",
                 "publicKey": "b35c243a78dcac7cb867867661069f615c574a0633e82ba813215fa535fa54fe"
             },
             {
-                "signature": "cc53152a021610e48973ef4730b7ce4e07289fccf391e219c3b9747478c3d1dca30bd70858b8962a007cebe95c44f4bfe1fbe5656fcb3eb2e88dc20cd3756403",
+                "signature": "c9684c417963da4dd3b0a1fd740aa23c48afe0206cc71752454379da400f061bc34f86f9125f4903683b3b5cd4208f5c3aab9b27f6fbd6c2e12824d224679908",
                 "publicKey": "1e721ceff9c7fd88a272cd99743b506e5707190659adddcb970de7f68ad7033f"
             }
         ]
@@ -72,15 +72,15 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Decentralized Marketplace for Artificial Intelligence",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "9bb95059a668aaa7001eedfba674a09f40c52b5b96b05f67c48bc787d00ef8153cad3081cdfead5750dc1e2a78a5aeeeab4c00153e1a1af50e0f66ccae83d303",
+                "signature": "f69bd0280b4c717af46d34fcaf7768273a9108d2ca9dcf2d06a1db2c0a6d0803e322d9f345fc786da61ec4f490d5691a4f1367fbd7b3b21838a3cacffef06907",
                 "publicKey": "b35c243a78dcac7cb867867661069f615c574a0633e82ba813215fa535fa54fe"
             },
             {
-                "signature": "3a46175a8fa75a8562df48bf2aa8e488649d5e15ae45badcc94e7cc3932933fae9a8a82b45639e1007c2b75bea08940c44860ca125edf40a184b7bac6ffde000",
+                "signature": "648c3d58569026ce1c2f4486437f9f29490fef42b177292861b7288a926a0dce62e01447608ab5716e57de2be053a9b4ccb8d10696481493da79b6b0e0a38d02",
                 "publicKey": "1e721ceff9c7fd88a272cd99743b506e5707190659adddcb970de7f68ad7033f"
             }
         ]
