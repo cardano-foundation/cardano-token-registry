@@ -12,20 +12,20 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "Moon Coins",
+        "value": "Sun Coins",
         "signatures": [
             {
-                "signature": "285ef5f6355fc9a68d5fe7eaf76a5de8e1bf22ffff3be5bef450d459504e2fa53f9e52875ef347d4934a168be3062dca69d302d230715df7db293dbe317b4203",
+                "signature": "8aec73b1040af933402d7e8fef517e0a5c93e6b6124f1d88666156e11d18aeacba846102d016a04307c754cffd147ccbbb108f1cd1cdd309fe025766bc727305",
                 "publicKey": "136846457b49fc0173594fe46285df55a188180785eae12b7aeb75d10c034d3e"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "MOON",
+        "value": "SUN",
         "signatures": [
             {
-                "signature": "77df222083be521bfba06633d18509befb6ae147ea7f9e54aef1d6c080e23aeca0b8dc5e43ec6dacd763d82fc925f714001799fba9b4d109edf7ba245b4bae01",
+                "signature": "7756e8b509ce5befd48c216d3c73c7edc0eecc37b3f81728e8df96f76fcc585097735cf50dce7764e058a998222f28470d1c487273cdb9947278b53bb9c56304",
                 "publicKey": "136846457b49fc0173594fe46285df55a188180785eae12b7aeb75d10c034d3e"
             }
         ]
@@ -33,10 +33,10 @@
     "policy": "82008200581cf41d874b5f52132a9d4f44f4726d2578111964f99ffc586d34351233",
     "description": {
         "sequenceNumber": 0,
-        "value": "Moonlight drowns out all but the brightest stars",
+        "value": "Sunlight! The most precious gold to be found on Earth.",
         "signatures": [
             {
-                "signature": "0b5cecbd3508feba2e824757963809d513e6221906dd369a725c095474ce50ccc2018701f96a9ac123a6178d4b419f4d2ef35d47062487302a87d0b4a66ab605",
+                "signature": "70ac3eeea8ad0d77fb69e597ee0aefff80aadef9b8c5f1391e4a0d3714abb459f4b4614221ec8f2ac0954a15c5eecf13f0383298e407796c27027528498f7300",
                 "publicKey": "136846457b49fc0173594fe46285df55a188180785eae12b7aeb75d10c034d3e"
             }
         ]
