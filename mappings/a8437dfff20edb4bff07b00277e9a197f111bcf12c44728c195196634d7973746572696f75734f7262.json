@@ -1,0 +1,34 @@
+{
+  "subject": "a8437dfff20edb4bff07b00277e9a197f111bcf12c44728c195196634d7973746572696f75734f7262",
+  "name": {
+    "sequenceNumber": 1,
+    "value": "MysteriousOrb",
+    "signatures": [
+      {
+        "signature": "59d8b7fdf4ce8d69171bee03e147dad4d02ba6d199aa709909fa29f845ee5becd11ddb97b0dd4297ca47617d657770ac753b43870db3cb0bd5c8b2f7b5eca60e",
+        "publicKey": "745eec27b28ec4bc748c579f1f0fccd4bd52330c00a53717435fccff8288e6e8"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 1,
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "632ca189aaec635066f3a8002b6bf5262d1726ec50e9ea85932055c0175481efcc6d4f3f7fa8859170e3f831b604f08a9794be2835998522ca7d3f3ff6b2d007",
+        "publicKey": "745eec27b28ec4bc748c579f1f0fccd4bd52330c00a53717435fccff8288e6e8"
+      }
+    ]
+  },
+  "policy": "820182018282051a02106eae8200581c7fd74deb79486a80e9d6285982d821ef5fd35c759d17ef5e38455731",
+  "description": {
+    "sequenceNumber": 1,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "a30f9f0ecdd3f8192091fe4d12a7540a03de1dc9311bd5466395223b39a9ad3cb13f27d4080d12eb73d6421220f0a3950b7bfbf1cc39cfe974686a819c426d07",
+        "publicKey": "745eec27b28ec4bc748c579f1f0fccd4bd52330c00a53717435fccff8288e6e8"
+      }
+    ]
+  }
+}
