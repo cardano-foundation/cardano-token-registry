@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "Say $THANK The Crypto Way",
+        "sequenceNumber": 2,
+        "value": "A fun and cool way to say thanks in the Cardano community",
         "signatures": [
             {
-                "signature": "9d022107520aca245f026e8cfff112d3197618cfcc0c3c7337fd3a3e3a702811ca432e7dd1a776110297650595eea282380043b9c22a14a141c32531bf30330a",
+                "signature": "e79fe13185a6262f9e875104984e7afe32a7057d23418478f6fe3fc3895702721d3266533a118ce41e733096db08c52d788162dae9f120557b1d20374ad5370c",
                 "publicKey": "0edb215c3c9c5bcc8fc5af04bb7a8ff50cc01d15d1bd0315b31d737aaf1a6123"
             }
         ]
