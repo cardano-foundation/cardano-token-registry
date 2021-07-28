@@ -30,9 +30,5 @@
         "publicKey": "745eec27b28ec4bc748c579f1f0fccd4bd52330c00a53717435fccff8288e6e8"
       }
     ]
-  },
-  "tool": {
-    "description": "StakePoolOperator Scripts",
-    "url": "https://github.com/gitmachtl/scripts"
   }
 }
