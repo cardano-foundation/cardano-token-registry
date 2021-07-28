@@ -1,0 +1,44 @@
+{
+  "subject": "ccb3577601d6cf0e021288871112926338bee685c6c37eeadf6dddd943617264616e6961466f756e646572426c7565",
+  "url": {
+    "sequenceNumber": 3,
+    "value": "https://cardania.com/",
+    "signatures": [
+      {
+        "signature": "4a057fcab4ae4c61248fad711e3d8eec6e420a1ada15411efa15edb9208c1e899e3ce5214ca75a4c9f19fd76fe8dbc31393dacb42f639ac3f2c8db3e84f4fe04",
+        "publicKey": "8766ed01c193437e036daca6e53e9ca4a69dca77fa8b1d27ee0d1b27960de579"
+      }
+    ]
+  },
+  "name": {
+    "sequenceNumber": 3,
+    "value": "CardaniaFounderBlue",
+    "signatures": [
+      {
+        "signature": "f34ca5142bdfd4f6b8b1e6dca9b8f1ab55679272652a78d766f8de1e442f65c99f95bb1484c74f70e8ef2588c1d6e768e6160b92caf49f0606bea8cfa2cd750e",
+        "publicKey": "8766ed01c193437e036daca6e53e9ca4a69dca77fa8b1d27ee0d1b27960de579"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 3,
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "21b5372b4e98a3b213167f7884e23495d973f3e76b11a6f321a4adc0f7e9aeca7278524e35b39c89ded6c005ff4e6bbee7d5a09cd9a4d8c6fc1255c67423ae08",
+        "publicKey": "8766ed01c193437e036daca6e53e9ca4a69dca77fa8b1d27ee0d1b27960de579"
+      }
+    ]
+  },
+  "policy": "820182018282051a01e580c58200581c474367934e6c3cdc7c422376b55e9145cbd56af0da2bb4cfc205e4d1",
+  "description": {
+    "sequenceNumber": 3,
+    "value": "Cardania Founder's Card - Blue",
+    "signatures": [
+      {
+        "signature": "98defb514ee9435f4fb85a9a0ea7062db85ea37c8e92e4c68f8e0039a99cb670c23f9c4c30b0e48aa833ef720d57fd803d83468010ae33de24ebd81b7978cb07",
+        "publicKey": "8766ed01c193437e036daca6e53e9ca4a69dca77fa8b1d27ee0d1b27960de579"
+      }
+    ]
+  }
+}
