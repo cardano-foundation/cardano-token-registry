@@ -1,34 +1,38 @@
 {
   "subject": "a8437dfff20edb4bff07b00277e9a197f111bcf12c44728c195196634d7973746572696f75734f7262",
   "name": {
-    "sequenceNumber": 1,
+    "sequenceNumber": 3,
     "value": "MysteriousOrb",
     "signatures": [
       {
-        "signature": "59d8b7fdf4ce8d69171bee03e147dad4d02ba6d199aa709909fa29f845ee5becd11ddb97b0dd4297ca47617d657770ac753b43870db3cb0bd5c8b2f7b5eca60e",
+        "signature": "07fc6fc88ae84e0e3ba10b7c7c204bc81608e77c22ee4f966ed9c1d763e22787afa8242d53b4a75f3865fbbf9f6c08a2b76c178d8b58f8353e6d5abd1314a902",
         "publicKey": "745eec27b28ec4bc748c579f1f0fccd4bd52330c00a53717435fccff8288e6e8"
       }
     ]
   },
   "decimals": {
-    "sequenceNumber": 1,
+    "sequenceNumber": 3,
     "value": 0,
     "signatures": [
       {
-        "signature": "632ca189aaec635066f3a8002b6bf5262d1726ec50e9ea85932055c0175481efcc6d4f3f7fa8859170e3f831b604f08a9794be2835998522ca7d3f3ff6b2d007",
+        "signature": "8f45b3f2a6a6ad7d9b7d647f88b7f8075fdc547287b4f04d863a0873667ee73f7b24009a3032fd469eea45070422c9f8188c90c4ad9a116a6949e4e44b37bc0c",
         "publicKey": "745eec27b28ec4bc748c579f1f0fccd4bd52330c00a53717435fccff8288e6e8"
       }
     ]
   },
   "policy": "820182018282051a02106eae8200581c7fd74deb79486a80e9d6285982d821ef5fd35c759d17ef5e38455731",
   "description": {
-    "sequenceNumber": 1,
+    "sequenceNumber": 3,
     "value": "",
     "signatures": [
       {
-        "signature": "a30f9f0ecdd3f8192091fe4d12a7540a03de1dc9311bd5466395223b39a9ad3cb13f27d4080d12eb73d6421220f0a3950b7bfbf1cc39cfe974686a819c426d07",
+        "signature": "d86ef388d857bb4d5d01911c9a89de321f02a0631f6e20536013e5fdac3a275674fd3414945c66215a94eff43f6ddeae3315914422ddc6fca94d95220e8cae06",
         "publicKey": "745eec27b28ec4bc748c579f1f0fccd4bd52330c00a53717435fccff8288e6e8"
       }
     ]
+  },
+  "tool": {
+    "description": "StakePoolOperator Scripts",
+    "url": "https://github.com/gitmachtl/scripts"
   }
 }
