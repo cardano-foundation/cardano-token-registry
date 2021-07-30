@@ -11,7 +11,7 @@ token-metadata-creator entry --init $SUBJECT
 
 token-metadata-creator entry $SUBJECT \
   --name "WaxCoin" \
-  --description "WaxCoin - stay hard and stylish." \
+  --description "WaxCoin - hard and stylish." \
   --policy $WAX_PATH/policy.script
 
 

@@ -43,10 +43,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "WaxCoin - stay hard and stylish.",
+        "value": "WaxCoin - hard and stylish.",
         "signatures": [
             {
-                "signature": "12efc37f4378ca843e78b58c3701654a7ba7b7b8da3e733cd67d5a67aa17e895fbec0a7e0fbe40b0415f533cf054f0844595ac17d22eb93bbcbcb094f5a97a07",
+                "signature": "3f0a1268d3841be2d1b0f813ddde4e2749b8a3bbd542b45acf3b1f5a323c57b48aaa49b4e7752f95d7df02e5c6b650b974222e522373e6b6e534a95871d98009",
                 "publicKey": "f196801d698c66191fb3c42fffc82558d7cf38bb879720ffd9b7a0d26b177111"
             }
         ]
