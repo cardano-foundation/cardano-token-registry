@@ -7,10 +7,6 @@
             {
                 "signature": "bf1a4d4ceeee194e6ddec4b5f26020a15806f7611f13424412d9555c80900173d9ef6bc4ee61dc2e1d4e61a31b7057f1834b38956830cebcf55d779e7de0c507",
                 "publicKey": "68047444711ffa9025a93fad6920d4173cdcfcb3b0a4ad70ea839b941eeb28e0"
-            },
-            {
-                "signature": "bf1a4d4ceeee194e6ddec4b5f26020a15806f7611f13424412d9555c80900173d9ef6bc4ee61dc2e1d4e61a31b7057f1834b38956830cebcf55d779e7de0c507",
-                "publicKey": "68047444711ffa9025a93fad6920d4173cdcfcb3b0a4ad70ea839b941eeb28e0"
             }
         ]
     },
@@ -21,10 +17,6 @@
             {
                 "signature": "905b4ed76109741346da1731d1c4530d2273267f2c999beb97af42e52f303f8d2f3ae484f4791d527373484f4be5ef325767b5444307cb7b8ebcb2631f44850c",
                 "publicKey": "68047444711ffa9025a93fad6920d4173cdcfcb3b0a4ad70ea839b941eeb28e0"
-            },
-            {
-                "signature": "905b4ed76109741346da1731d1c4530d2273267f2c999beb97af42e52f303f8d2f3ae484f4791d527373484f4be5ef325767b5444307cb7b8ebcb2631f44850c",
-                "publicKey": "68047444711ffa9025a93fad6920d4173cdcfcb3b0a4ad70ea839b941eeb28e0"
             }
         ]
     },
@@ -32,10 +24,6 @@
         "sequenceNumber": 0,
         "value": "NCTT",
         "signatures": [
-            {
-                "signature": "1ea382f63847cb8f3efa1114bfbfc8c10e0574dd4dfebbc37ad335b098588c9f76b51e21d18fd5071e265718719c06acc34548e639f9ca977cc0c4256690180c",
-                "publicKey": "68047444711ffa9025a93fad6920d4173cdcfcb3b0a4ad70ea839b941eeb28e0"
-            },
             {
                 "signature": "1ea382f63847cb8f3efa1114bfbfc8c10e0574dd4dfebbc37ad335b098588c9f76b51e21d18fd5071e265718719c06acc34548e639f9ca977cc0c4256690180c",
                 "publicKey": "68047444711ffa9025a93fad6920d4173cdcfcb3b0a4ad70ea839b941eeb28e0"
@@ -50,10 +38,6 @@
             {
                 "signature": "d2179f513615569a31806edd205027295bd1c087bb7ca36ebf778f91ed77819e700806619774936448913a615443291e1fa0dd50626b8987486ab339c0a81207",
                 "publicKey": "68047444711ffa9025a93fad6920d4173cdcfcb3b0a4ad70ea839b941eeb28e0"
-            },
-            {
-                "signature": "d2179f513615569a31806edd205027295bd1c087bb7ca36ebf778f91ed77819e700806619774936448913a615443291e1fa0dd50626b8987486ab339c0a81207",
-                "publicKey": "68047444711ffa9025a93fad6920d4173cdcfcb3b0a4ad70ea839b941eeb28e0"
             }
         ]
     },
@@ -61,10 +45,6 @@
         "sequenceNumber": 0,
         "value": "NeonCat Test Token",
         "signatures": [
-            {
-                "signature": "c76f8ce2005098d3409051ee714dd30c425e3a553f7b1a1715bdb51f9aef983023278856c7ec461389a4921c82f24e95835a40c23aba6eb7fa06b68750ad1f07",
-                "publicKey": "68047444711ffa9025a93fad6920d4173cdcfcb3b0a4ad70ea839b941eeb28e0"
-            },
             {
                 "signature": "c76f8ce2005098d3409051ee714dd30c425e3a553f7b1a1715bdb51f9aef983023278856c7ec461389a4921c82f24e95835a40c23aba6eb7fa06b68750ad1f07",
                 "publicKey": "68047444711ffa9025a93fad6920d4173cdcfcb3b0a4ad70ea839b941eeb28e0"
