@@ -50,9 +50,4 @@
         "publicKey": "32dec804488223a3743ac317ed170b7d7ed4197d5efda24ded34f5ad1458c671"
       }
     ]
-  },
-  "tool": {
-    "description": "CNTools by Guild Operators",
-    "url": "https://cardano-community.github.io/guild-operators/#/Scripts/cntools"
-  }
 }
