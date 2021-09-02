@@ -1,0 +1,24 @@
+{
+    "subject": "cfb68da24dd6b84e6dbb5e3723d406046cdeea46c442574fd6b75d7750464654",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "PFFT",
+        "signatures": [
+            {
+                "signature": "166f6427871f8053afbf11e8ac7413f5c43ec0b71d64bda1b8fd6356f3638890496333315c1996b2482b0e9e9381a462721f8cb2644c2e820f9e3f9c4ffbc308",
+                "publicKey": "c18637bf13e7ef45a574209c39d3741ced1b47d3fa3ab7c2f9420830a9b38d51"
+            }
+        ]
+    },
+    "policy": "820182018282051a043107488200581cd329c0abec871a2016b2a74ed1554ca3d6ae944801407e21e3c81041",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "DELETE",
+        "signatures": [
+            {
+                "signature": "b15d1a4f8cf17955a18535d693361ff6c80dbffc084382b8a300558092ac0838ded5252e52917e6df6cde24060e21890dd06f744da48bf0ee7a124b3e7ee950f",
+                "publicKey": "c18637bf13e7ef45a574209c39d3741ced1b47d3fa3ab7c2f9420830a9b38d51"
+            }
+        ]
+    }
+}
