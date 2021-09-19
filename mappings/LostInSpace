@@ -1,0 +1,54 @@
+{
+    "subject": "28eac6248d1c6712ea8657b4c2a36accf3f22600bb5b33cbd436c4ad",
+    "url": {
+        "sequenceNumber": 1,
+        "value": "https://cardanoscan.io/token/28eac6248d1c6712ea8657b4c2a36accf3f22600bb5b33cbd436c4ad.4c6f7374496e5370616365?tab=transactions",
+        "signatures": [
+            {
+                "signature": "asset1kk8ywa7a6trfeaae7dcu36qkad8u8z53pfmdx2",
+                "publicKey": "28eac6248d1c6712ea8657b4c2a36accf3f22600bb5b33cbd436c4ad"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 1,
+        "value": "LostInSpace",
+        "signatures": [
+            {
+                "signature": "asset1kk8ywa7a6trfeaae7dcu36qkad8u8z53pfmdx2",
+                "publicKey": "28eac6248d1c6712ea8657b4c2a36accf3f22600bb5b33cbd436c4ad"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 1,
+        "value": "LostInSpace",
+        "signatures": [
+            {
+                "signature": "asset1kk8ywa7a6trfeaae7dcu36qkad8u8z53pfmdx2",
+                "publicKey": "28eac6248d1c6712ea8657b4c2a36accf3f22600bb5b33cbd436c4ad"
+            }
+        ]
+    },
+    "policy": "82008200581ca11f0899fc33c70e0efae6ba235a0cecd130075ef0213a42e899c617",
+    "logo": {
+        "sequenceNumber": 1,
+        "value": "6e1587cfe0c7d349375cee6999deec2c57e52e107c0e386b9bbef473b249f98c",
+        "signatures": [
+            {
+                "signature": "asset1kk8ywa7a6trfeaae7dcu36qkad8u8z53pfmdx2",
+                "publicKey": "28eac6248d1c6712ea8657b4c2a36accf3f22600bb5b33cbd436c4ad"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 1,
+        "value": "Cardano NFT for Lost In Space",
+        "signatures": [
+            {
+                "signature": "asset1kk8ywa7a6trfeaae7dcu36qkad8u8z53pfmdx2",
+                "publicKey": "28eac6248d1c6712ea8657b4c2a36accf3f22600bb5b33cbd436c4ad"
+            }
+        ]
+    }
+}
