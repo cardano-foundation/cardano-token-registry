@@ -1,0 +1,44 @@
+{
+    "subject": "0b43bfc857978b23488825307493fb59e9970fd9d8aef09381cf5c2e546865426f6f6d",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/PST_JR?s=09",
+        "signatures": [
+            {
+                "signature": "2bc85eb56038490cb99c20c7135c42256ef7a0db8a64e3eeae856354aebf91b33aa0f83d22823565f3931ecb106293020e69d20dcb823a19c89ddaa5322a600d",
+                "publicKey": "f9440959dabd10971a6a6746ecff6f4d970762d76610a8015bbcabc2a36e5190"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "TheBoom",
+        "signatures": [
+            {
+                "signature": "e090f5cc0d69ef6843b940d56e44baaeef32f4353007c652bd39445a804800681fc098506ea1a74781e68776f8d6a695cc1574960fc7fd62ff5e7006f07bbe07",
+                "publicKey": "f9440959dabd10971a6a6746ecff6f4d970762d76610a8015bbcabc2a36e5190"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "100",
+        "signatures": [
+            {
+                "signature": "081bd8b2212ca309b0bbb3f02cdeafdf9c0547854e39fb5bac11b5807007112a8d4faf1fdb0c86cc2987b7f05b6d69c2bf232be5fbb2053de5cf725d941a1900",
+                "publicKey": "f9440959dabd10971a6a6746ecff6f4d970762d76610a8015bbcabc2a36e5190"
+            }
+        ]
+    },
+    "policy": "820182018282051a02754db98200581c99a1a5e46071273c28d58ee783e99e2d6810f7ca4af3f54646d6641c",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Unique Oil Painting",
+        "signatures": [
+            {
+                "signature": "e3002211c89675b65491177671283989213c870ad07b70dd93757b03f2832b785b2ce3b5f6f1cf44831229cb985ace1a0cca142411069b437c43e4956893380a",
+                "publicKey": "f9440959dabd10971a6a6746ecff6f4d970762d76610a8015bbcabc2a36e5190"
+            }
+        ]
+    }
+}
