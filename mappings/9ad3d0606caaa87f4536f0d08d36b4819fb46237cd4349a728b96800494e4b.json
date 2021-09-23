@@ -1,7 +1,7 @@
 {
     "subject": "9ad3d0606caaa87f4536f0d08d36b4819fb46237cd4349a728b96800494e4b",
     "url": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "https://www.dotinkdesign.com/crypto",
         "signatures": [
             {
@@ -19,7 +19,7 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "dot.INK",
         "signatures": [
             {
@@ -37,7 +37,7 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "INK",
         "signatures": [
             {
@@ -55,7 +55,7 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
@@ -84,7 +84,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 5,
+        "sequenceNumber": 6,
         "value": "The official utility token of dot.INK",
         "signatures": [
             {
