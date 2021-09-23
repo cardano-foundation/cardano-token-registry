@@ -1,0 +1,24 @@
+{
+    "subject": "0de8c6896861f41ae27648dde597b5c1a1f7230223b8c340bdac58c36e6674",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Bearcat",
+        "signatures": [
+            {
+                "signature": "5f1ada397d5402bf7b904c23e90c3f1b0db989d730b72572e87ca9773a5eeb949265273de8532b234bfc650efe6de3750cc2e36e4c4f589711ad4095069f80>
+                "publicKey": "37928e65cb620b69e2dbb222824a03926af97b8bae3f98b55df841a42c7a6251"
+            }
+        ]
+    },
+    "policy": "820182018282051a026f80e18200581cf722fc625869e35bc5cd8324707798d01935cb681d0221b8622d1e19",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Likes to sleep on trees",
+        "signatures": [
+            {
+                "signature": "dcebb53b400b2e8399336fc5edc6abedd277e65b35bffc148e5873f25630857ba93db01a52855850027cd65d5e71c28970aef345b17ef712fdc79e90795f95>
+                "publicKey": "37928e65cb620b69e2dbb222824a03926af97b8bae3f98b55df841a42c7a6251"
+            }
+        ]
+    }
+}
