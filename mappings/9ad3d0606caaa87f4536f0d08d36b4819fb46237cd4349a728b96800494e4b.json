@@ -5,15 +5,7 @@
         "value": "https://www.dotinkdesign.com/crypto",
         "signatures": [
             {
-                "signature": "4d39414676e50d3e821198c1a6f45051ad3de7a424a7ea9cacd81fca2c615130978e25f427c3856782313f613291dadf8988ba085b49eb81102b5e84aa249f0c",
-                "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
-            },
-            {
-                "signature": "4d39414676e50d3e821198c1a6f45051ad3de7a424a7ea9cacd81fca2c615130978e25f427c3856782313f613291dadf8988ba085b49eb81102b5e84aa249f0c",
-                "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
-            },
-            {
-                "signature": "4d39414676e50d3e821198c1a6f45051ad3de7a424a7ea9cacd81fca2c615130978e25f427c3856782313f613291dadf8988ba085b49eb81102b5e84aa249f0c",
+                "signature": "07ee82149b50bbcb6c83b27e086005258e128be9d99e10f630fc7115afc549da668d35f4ca7aef679eeed5f30eea795b3c2da252843588af55749fe72524b600",
                 "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
             }
         ]
@@ -23,15 +15,7 @@
         "value": "dot.INK",
         "signatures": [
             {
-                "signature": "e61b8e5ea75ebe0130fc186cc337d2e4b81b3449c25f415d1a96293ab77a82498b9a1b9dc3452ff39353ab83545510deb2464b71375e6d494546cfaadc0c700f",
-                "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
-            },
-            {
-                "signature": "e61b8e5ea75ebe0130fc186cc337d2e4b81b3449c25f415d1a96293ab77a82498b9a1b9dc3452ff39353ab83545510deb2464b71375e6d494546cfaadc0c700f",
-                "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
-            },
-            {
-                "signature": "e61b8e5ea75ebe0130fc186cc337d2e4b81b3449c25f415d1a96293ab77a82498b9a1b9dc3452ff39353ab83545510deb2464b71375e6d494546cfaadc0c700f",
+                "signature": "add7e90596c5a34a1acb13539ed550fcd012697fb83e72ddf21292020d9d72f7c6dcda645869feaba8423b00ae4d66491974987283ac78b353139f149b39510a",
                 "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
             }
         ]
@@ -41,15 +25,7 @@
         "value": "INK",
         "signatures": [
             {
-                "signature": "a0c09265556369224fe2d40317d38bb6bc4d8c9e7bc97bc434d28dc0570f041e5f2527f3a3236ae2e4bf4fc1a2d76c6980b5f15aff496462f8f37f3dab1b3803",
-                "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
-            },
-            {
-                "signature": "a0c09265556369224fe2d40317d38bb6bc4d8c9e7bc97bc434d28dc0570f041e5f2527f3a3236ae2e4bf4fc1a2d76c6980b5f15aff496462f8f37f3dab1b3803",
-                "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
-            },
-            {
-                "signature": "a0c09265556369224fe2d40317d38bb6bc4d8c9e7bc97bc434d28dc0570f041e5f2527f3a3236ae2e4bf4fc1a2d76c6980b5f15aff496462f8f37f3dab1b3803",
+                "signature": "f2761f75d80a4af1f63f131fa7c16cfe75c81fb15310d8482fb4ed56c479e9db086a19ae8ac979d75837e71980925d6306a40d972efbf3d8f85665e27b1d3f01",
                 "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
             }
         ]
@@ -59,15 +35,7 @@
         "value": 0,
         "signatures": [
             {
-                "signature": "253445e1c3538255f8357e387c90ad9a49725f47b456527fdc873c9386e900c949d38022ea701498a11bf5973b1836bfe62e42edf9350c127c56057e3c23140a",
-                "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
-            },
-            {
-                "signature": "253445e1c3538255f8357e387c90ad9a49725f47b456527fdc873c9386e900c949d38022ea701498a11bf5973b1836bfe62e42edf9350c127c56057e3c23140a",
-                "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
-            },
-            {
-                "signature": "253445e1c3538255f8357e387c90ad9a49725f47b456527fdc873c9386e900c949d38022ea701498a11bf5973b1836bfe62e42edf9350c127c56057e3c23140a",
+                "signature": "4b70a78b1e4807d649d036dd35c8ffbc31432d9da3867eeb777b9342528815b6d18675118853d00544ad1454d45518b202427c713f7016c18d2b6626a12b030d",
                 "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
             }
         ]
@@ -88,11 +56,7 @@
         "value": "The official utility token of dot.INK",
         "signatures": [
             {
-                "signature": "1ae0fa730990705859c5f7dd7b7766025f31237da211ba6d74320ad2ebc46ad8403ca2b48e31850a65b5c0b119586ffb0badd8905e7186852dcc9a31ab70ea06",
-                "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
-            },
-            {
-                "signature": "1ae0fa730990705859c5f7dd7b7766025f31237da211ba6d74320ad2ebc46ad8403ca2b48e31850a65b5c0b119586ffb0badd8905e7186852dcc9a31ab70ea06",
+                "signature": "a33ad95b5c4523ff9ed9381f481d776fadea4183194dd465356cb019fc6c39a33af31f00c1254e870be2d7eafac0d9e980a9ea7ad4486613d1bcd021b9bba209",
                 "publicKey": "3fb121154cf4f9eba9c688aad29ceeb58577a511c83fbeb3d89b3e9515bd9072"
             }
         ]
