@@ -1,0 +1,34 @@
+{
+    "subject": "93ac3344b3ea0fac98a19f7daa4a7e1e51170d0a0b4dbd62a5fd3d05484f444c477261626974426c7565537465656c",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "NeoFifTy8 HODL Grab-it Blue Steel",
+        "signatures": [
+            {
+                "signature": "7793028121e646ae418968267d046abd5d6c17d01b44c5a9d37cb0cf2e47321e381431a9d0857891756f7892653a7d24830985f5ceb85ef19671e6ce78e3050f",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "cbc1f266e601b065c43270d110af3e090cc875f584b88933612e728abf1a15e2bc9fe60f1ae87131e6546374966ce0488e641fdb9cf993ec7a06d9bfddde7c08",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a0274517b8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "HODL Grab-it with Blue Steel hands for great results",
+        "signatures": [
+            {
+                "signature": "a3ac48bdb2dea299d56dfb5e8a32bfbde38714342be11a1c1bb2f975ab4abc6aac8337f5ad4ff8564dda054470bbbd5965e1e2bca42559ddc81ec83b48bbbc0e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
