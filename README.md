@@ -1,3 +1,4 @@
+![GPAY](https://user-images.githubusercontent.com/91656801/135476316-97fe6e5b-69d8-4c2d-aabb-5c7fac2d05d2.png)
 # cardano-token-registry
 
 ##  Background
@@ -24,18 +25,18 @@ Modification of entries in this registry will take the form of a GitHub Pull Req
 
 ## Semantic content of registry entries
 
-Each entry contains the following information:
 
-**Name**             | **Required/Optional**|**Description**
+
+**Name**         | **Required/Optional**|(GPAY)Global pay currency is a token created on the Cardano network
 ---              | ---       | ---
-`subject`        | Required  | The base16-encoded policyId + base16-encoded assetName
-`name`           | Required  | A human-readable name for the subject, suitable for use in an interface
-`description`    | Required  | A human-readable description for the subject, suitable for use in an interface
+`subject`        | Required  |Policy Id: dd5c3cebfbdef5c37aff39980e85e48ea80c9cde855a97d16105e2c4 | Asset Name: GPAY (47504159)
+`name`           | Required  | GPAY
+`description`    | Required  |The global payment currency is a native Cardano token, it is an asset of the future exchangeable from person to person without the intermediation of a third party or a financial institution.Its network displacement is equal to ADA allowing transactions in seconds, confirmations in minutes, even on Sundays and holidays, 365 days a year
 `policy`         | Optional  | The base16-encoded CBOR representation of the monetary policy script, used to verify ownership. Optional in the case of Plutus scripts as verification is handled elsewhere.
 `ticker`         | Optional  | A human-readable ticker name for the subject, suitable for use in an interface
-`url`            | Optional  | A HTTPS URL (web page relating to the token)
+`url`            | Optional  | https://globalpaycurrency.com
 `logo`           | Optional  | A PNG image file as a byte string
-`decimals`       | Optional  | how many decimals to the token
+`decimals`       | Optional  | 18 decimals
 
 The policy field is optional in order to support Plutus Smart-Contracts which are not linked to a set of signing keys by default. It is used in priority if present. Otherwise, signature verification is performed using user-provided trusted keys.
 
