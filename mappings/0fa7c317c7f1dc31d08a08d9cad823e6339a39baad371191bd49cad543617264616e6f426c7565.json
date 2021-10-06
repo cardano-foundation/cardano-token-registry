@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Ownership distribution token for Cardano Blue NFT Marketplace",
+        "sequenceNumber": 1,
+        "value": "Revenue distribution token for Cardano Blue NFT Marketplace",
         "signatures": [
             {
-                "signature": "8a1703865cf83cdce33d02758701ca246a7ac3c83f8caa34531317daff1d2c7ffbbafa468a2f607d094f573ee52eeaef2f9332c4fef0a8fc16b9e7d6d5f9190f",
+                "signature": "6576cb90664251b38bc5cf3d38a1e9b66b0295b9aeae8d813f8df2fe19382b7601ee442c70c13c2db66328d1b0c5ec2ef2e57303ee0902947c99dda3ec686f08",
                 "publicKey": "ea2bfc645832878974f77cd221b7f5b6f4c8c915e1c250504330f5345979f1f7"
             }
         ]
