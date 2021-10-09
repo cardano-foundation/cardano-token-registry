@@ -19,7 +19,7 @@ New submissions to this registry will take the form of a GitHub Pull Request wit
 
 #### Updating existing entries
 
-Modification of entries in this registry will take the form of a GitHub Pull Request with the modification of one or more JSON files in the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry.
+Modification of entries in this registry will take the form of a GitHub Pull Request with the modification of one JSON file in the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry. Submit individual pull requests if you wish to update multiple submissions.
 
 
 ## Semantic content of registry entries
