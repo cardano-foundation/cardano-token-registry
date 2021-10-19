@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 4,
+        "sequenceNumber": 1,
+        "value": 0,
         "signatures": [
             {
-                "signature": "17e271d173aaaa8eb4bf2fafb689d70d95cecb6726e9baa86481268c327787cbca7238a1697688d548c42a4cd0008ee3acbda9072c7a950d96ab963d5b6e450e",
+                "signature": "11fadd6a979021e79cc37f973e1c4a28ee69a361b393382be716a4f74ac08ca6af075cf82425f18c61e6b94f6b4c06641c3e9a22fe7d401ca8bba7241eb18301",
                 "publicKey": "89f37328bedf5fde4819c549960e82ab65a7d2c7380ed5c2465514ecc731068a"
             }
         ]
