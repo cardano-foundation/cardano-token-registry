@@ -1,0 +1,34 @@
+{
+    "subject": "0fbf8411355611c1c13c118a4a912eaec4f4f16e9fa1e0a0d1fe15c15371756172654f6e654e4654",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://madorkestra.com",
+        "signatures": [
+            {
+                "signature": "f6acde259934d84cb7699ef8475e0d51822843b9c1fa4e8b1eda3a15a96fdd906f33d83a4edd09188dca6743f8051da25d0de8356731943831aa81ee3329c60e",
+                "publicKey": "0fe3faeda15f3f5e04865014684245b1b373b9c86f0db20be6340a2dbb7ed94a"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "SquareOne NFT",
+        "signatures": [
+            {
+                "signature": "ad3ab0e43301503c99e84908d642e5e21b6a9376e78e7c9b92610c6c8db60d914e2f74b57d7a6300f685a34434e85078049aa4c12a377649e373f90a00fe5502",
+                "publicKey": "0fe3faeda15f3f5e04865014684245b1b373b9c86f0db20be6340a2dbb7ed94a"
+            }
+        ]
+    },
+    "policy": "820182018282051a029ac5178200581c2efb0db7717c9a592e42a0290b3d27fde172524f1fc18cf540be6f04",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Collection of 3x9 NFTs minted in 3 different rareties (Oxford, Millbrook and Thunder) on the Cardano Blockchain, which can be uptraded for Mad Orkestra NFTs at a later date.",
+        "signatures": [
+            {
+                "signature": "b0ff0da7455a5368cdc75f78e79f110e3cbcbfe084f3bb9fe36d6c028382dd4b7f77c17a200237fa11aa08b9808a92065c2606a072c20511b73583376b342406",
+                "publicKey": "0fe3faeda15f3f5e04865014684245b1b373b9c86f0db20be6340a2dbb7ed94a"
+            }
+        ]
+    }
+}
