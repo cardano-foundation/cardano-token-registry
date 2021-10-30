@@ -1,0 +1,24 @@
+{
+    "subject": "33b3e4d20520e14baf65802f1060bd02928ad78c6c8d30bfc2a30eda546865507572737569746f66537566666f636174696f6e",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "The Pursuit of Suffocation",
+        "signatures": [
+            {
+                "signature": "9c69e0d3b9bcdafe8ee932fd8690e728be119562c8cd9d5362b42ed34a6e823a483cd94e8bac02fb109b2c4cd124f99afb272d400edc340f0dcfae2638d43f0b",
+                "publicKey": "4beb5a85273d6e0ffd78e369be335beb0a28bf90a6ca6f03d2c7e19b019a0a40"
+            }
+        ]
+    },
+    "policy": "820182018282051a029dc04d8200581cbcc2ed9d29948fd057db0a8c7d78b7b9d6d75a540e61f63b25aadf11",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The Suffocating effects of our quest for Money",
+        "signatures": [
+            {
+                "signature": "f290048e0ecd35f63d865db36385b0050eaabc7e87e4acaab2f12f88022f9b8ad763ad9de8626a9e24477286f7ff5c5cd633f0ed1d71a842b7bc9a7863193a0d",
+                "publicKey": "4beb5a85273d6e0ffd78e369be335beb0a28bf90a6ca6f03d2c7e19b019a0a40"
+            }
+        ]
+    }
+}
