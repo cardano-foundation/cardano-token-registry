@@ -1,0 +1,28 @@
+{
+   83379fdddce3a1c02299e2b902b3aa4c3d6655eaa41dc0610fb42d7e: {
+      biscoin: {
+         creator: "Qualia - www.thisisqualia.com",
+         description: "cardano based common good",
+         files: [
+            {
+               mediaType: "image/png",
+               name: "biscoin",
+               src: "ipfs://QmWfuoDTQvUEJckFRepRGEJiLweTfLEJMfHbj1djnJB3xs"
+            }
+         ],
+         image: "ipfs://QmWfuoDTQvUEJckFRepRGEJiLweTfLEJMfHbj1djnJB3xs",
+         mediaType: "image/png",
+         minting: {
+            blockchain: "cardano",
+            mintedBeforeSlotNumber: 44060650,
+            type: "time-lock-policy"
+         },
+         name: "BisonCoin",
+         symbol: "biscoin",
+         ticker: "biscoin",
+         tokenType: "token",
+         totalSupply: 300000000
+      }
+   },
+   version: "1.0"
+}
