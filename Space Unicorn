@@ -1,0 +1,21 @@
+"quantity":"1"
+"transaction":{
+"hash":"3fa951b85f02f7eb66de70fd7c767b6b80628747332a4390b0477faa14f76120"
+"includedAt":"2021-11-06T11:07:49Z"
+"metadata":[
+0:{
+"key":"721"
+"value":{
+"b761b26e86dee235745b0b1995a26997ca67415b10f380d548e3f1a1":{
+"SPACEUNI":{
+"name":"Space Unicorn"
+"image":"ipfs://QmUzp8tXAo8AFPHd2MfkBFDUgEUTEFoCJSGoGhAFtWCC1z"
+"ticker":"SPACEUNI"
+"publisher":"https://minterr.io"
+}
+}
+}
+}
+]
+}
+}
