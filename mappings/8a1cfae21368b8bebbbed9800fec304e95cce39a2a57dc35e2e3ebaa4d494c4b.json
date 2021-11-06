@@ -1,0 +1,24 @@
+{
+    "subject": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "MILK",
+        "signatures": [
+            {
+                "signature": "fa3035d493dcf715d7a04373c9d69bb11bb992204e0afca181b7887072922b56d57a23deb86238cf2fb96bf798b56c21d003e6cf672d30c934b6ba204e9e2208",
+                "publicKey": "dbd276067bc35078e32fd4b4ec1f4e5aa8b3ac5cbab17bf18e105cad116f3695"
+            }
+        ]
+    },
+    "policy": "82008200581caaefbb313eb69d5325e541371e1de58ee3b1e9e79c3f75de5fdb0f61",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The utility token powering the MuesliSwap ecosystem.",
+        "signatures": [
+            {
+                "signature": "fa3ae4840a3c0f5fe1adc7404a08defa5852956484fbb387c69b8fa023489b76d91776e493aaaa1fd0baf28bc476d64ab65f9d0eda8bccbd7db0601c88a72f09",
+                "publicKey": "dbd276067bc35078e32fd4b4ec1f4e5aa8b3ac5cbab17bf18e105cad116f3695"
+            }
+        ]
+    }
+}
