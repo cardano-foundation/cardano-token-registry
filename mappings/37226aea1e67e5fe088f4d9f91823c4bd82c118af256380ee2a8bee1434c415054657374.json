@@ -22,10 +22,10 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "tCLAP",
+        "value": "t₡",
         "signatures": [
             {
-                "signature": "7eee1d7b54e2850d3e0daa59e23b1535392e2897af3e712571017a23cfb7b2a60da54626adcfe3abcd60caa5ce2773063c8b84dff3ce5eb421d4265dcde98703",
+                "signature": "7f55ed52bf4ff4a53be2914b1ea446fff795db25daa42de176fd9ea85f9949dadcaa490680adb6e2baa0bf1654265ce11295b1d8b7be2dd3717d5ec7f686c709",
                 "publicKey": "d4c5e9c202c67b4cd9a5f26d0a784a5a4daefddab26c3689e8e275b15bfeca6c"
             }
         ]
