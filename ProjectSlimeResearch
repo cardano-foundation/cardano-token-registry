@@ -2,17 +2,8 @@
   {
     "project": "SlimeResearch",
     "policies": [
-      "6c966801360a293f40607fb22af44cf7f26e665790289566670e0bdc",
-      "",
-      ""        
+        "6c966801360a293f40607fb22af44cf7f26e665790289566670e0bdc"
+        
     ]
-  },
-  {
-    "project": "Item Shoppe",
-    "policies": [
-      "",
-      "",     
-      ""
-    ]
-  },
+  }
 ]
