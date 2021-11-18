@@ -1,11 +1,41 @@
 {
     "subject": "fb854cd721ce87be1aab187e8c3321c837d78c6ee8575eff4e05582d54726176656c436f696e",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://tvlcoin.org",
+        "signatures": [
+            {
+                "signature": "de165381d9821d0c9c12ca88528d733336fe054b5bf2c96e64ce10ac11561a68b6caec659caac82291a90525dca09eb589db037b363c196a8b2fbf41ce4cf002",
+                "publicKey": "2a602f64279572daaecd246d9a77ef4778a2eb149be2f8c500f4e0d62f54a2a0"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 1,
         "value": "VOID",
         "signatures": [
             {
                 "signature": "bdabfe2099c5f44161e024f15fa8a17129e08311f01f2637af3da18dfa914184ccdd56388f3889c853b3065d18e19a7bed0c66c4c21382baa498544a5d5ad105",
+                "publicKey": "2a602f64279572daaecd246d9a77ef4778a2eb149be2f8c500f4e0d62f54a2a0"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 1,
+        "value": "TVLO",
+        "signatures": [
+            {
+                "signature": "7882350b1af817b32078dc30f7ed0ebbcaa11e56ba06348ff52498c7c8fe99a4a130823b0e3a4c3de46d2ee99c14781603ccbdf48a06fd1c3120ed12a5017b0b",
+                "publicKey": "2a602f64279572daaecd246d9a77ef4778a2eb149be2f8c500f4e0d62f54a2a0"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "82e84c54d7329e8332170e28e88e128d9db840db61ed4504c26150e315d6dd2d6ec8dcc390c5fa41094637029d9ba711f2ce2545bf969b156826660c04d0c909",
                 "publicKey": "2a602f64279572daaecd246d9a77ef4778a2eb149be2f8c500f4e0d62f54a2a0"
             }
         ]
