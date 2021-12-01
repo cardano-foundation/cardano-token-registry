@@ -1,0 +1,54 @@
+{
+  "subject": "ae2a0aa5a24b27d9868c4a73b7c08077ac21baade5eca0fa467a2bbd58524159",
+  "url": {
+    "sequenceNumber": 1,
+    "value": "https://raynetwork.io",
+    "signatures": [
+      {
+        "signature": "e32ce426c41ca0a0ae27a61cbda743a08975e4af41c6036224a63840f8fd04bf0a6950e2ec8f1708bb0687fda68225eed9066da25d686d90ea8d2d9fa6763c00",
+        "publicKey": "471938fcc451a72227abef065ff3c652d0c25376e34c82043b72051ec6deb025"
+      }
+    ]
+  },
+  "name": {
+    "sequenceNumber": 1,
+    "value": "XRAY",
+    "signatures": [
+      {
+        "signature": "0fc164f19318ef643e9179e695d01061df28271c979f3fe3313ab27cbea9c3840744a95292dcb989d963963d14601f7e2058d663d45865da3fbf4cb4bfd9970c",
+        "publicKey": "471938fcc451a72227abef065ff3c652d0c25376e34c82043b72051ec6deb025"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 1,
+    "value": "XRAY",
+    "signatures": [
+      {
+        "signature": "7880589c358837f8d4f5025edc1e365577960548f8fd64464e946f00f832a92d8f7f7d922118d1f72d54630de9daff624f575dfdd79ba5d5de900a26d1be7608",
+        "publicKey": "471938fcc451a72227abef065ff3c652d0c25376e34c82043b72051ec6deb025"
+      }
+    ]
+  },
+  "policy": "82008200581c59abb56ccaca6fb643945f287085898f498e0025561127ce5a37e9b0",
+  "logo": {
+    "sequenceNumber": 1,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAAAXNSR0IArs4c6QAAEVZJREFUeF7tnXt0VdW1xr95khAIUkO4GZD0XvUOW/uiLyrWFoceau3Q0pcdUqmAlWrlobcdiEDxWhCqRQOIekWwD0Al1qp1CD7obas5YqW2aq0WGb1eudeiBiHmJOT93KtjxYYRaJLz2mvvs9b+zp9k77nm/Ob8Mdd+rLUFPv3Gx5MTBd6pMchED+oUUXIyRMoBVe7>
+    "signatures": [
+      {
+        "signature": "729158be3452d73ed6a1f634eb7748590615d0126b80a352daeb248cd3ebe26d1ce905537386cff44bfc442212db0dc180336274a6e20ea0d20d51d1913ae202",
+        "publicKey": "471938fcc451a72227abef065ff3c652d0c25376e34c82043b72051ec6deb025"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 1,
+    "value": "XRAY is a governance token that powers Ray Network ecosystem. This is well positioned for community-led growth, development, and self-sustainability token.",
+    "signatures": [
+      {
+        "signature": "4fbade6c0e0c99ae78dadf04990137e6323dc544f31da368882efe02d2c5090e268f22d2dda5528e53ec7634109e5bbc08e013421f63c5cc517cb08b483cae03",
+        "publicKey": "471938fcc451a72227abef065ff3c652d0c25376e34c82043b72051ec6deb025"
+      }
+    ]
+  }
+}
