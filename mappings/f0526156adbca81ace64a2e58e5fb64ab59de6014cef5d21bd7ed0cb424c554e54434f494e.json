@@ -30,7 +30,7 @@
             }
         ]
     },
-        "decimals": {
+    "decimals": {
         "sequenceNumber": 1,
         "value": 8,
         "signatures": [
