@@ -1,0 +1,29 @@
+{
+subject:
+   "1301a4a4df4ce5d47d6432735b7170999e7a68f1f80b0856fd326c4c"
+{
+THUMB:   {
+description: "The Culture Moves You",
+url:     {        
+        "value": "https://thumbride.github.io"
+minting: {
+            blockchain: "cardano",
+            mintedBeforeSlotNumber: 42808131,
+            type: "time-lock-policy"
+         },
+            name: "The Thumb Ride",
+            symbol: "THUMB",
+            tokenType: "token",
+            totalSupply: 100000000
+{
+POLICY id: "1301a4a4df4ce5d47d6432735b7170999e7a68f1f80b0856fd326c4c"
+FINGERPRINT: "asset17r23zlykdfehlsm3tmuq5qte00xp6mmn7cr4n3"
+HASH DE LA TRANSACCIÓN: "e36cae155d8b41d1537902ba332382d151285a87bc5b0f065d54d5f80f2b2e2d"
+BLOQUE: "6377582"
+Asset Name: "THUMB (5448554d42)"
+Transaction Count: "122"
+}
+      }
+   },
+   version: "1.0"
+}
