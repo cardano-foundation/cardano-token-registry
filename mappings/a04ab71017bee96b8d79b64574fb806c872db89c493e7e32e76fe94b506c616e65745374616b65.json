@@ -1,0 +1,20 @@
+{
+  "metaName": "PlanetStake",
+  "metaDescription": "PlanetStake",
+  "---": "--- Optional additional info ---",
+  "metaDecimals": "6",
+  "metaTicker": "PlanetStake",
+  "metaUrl": "",
+  "metaLogoPNG": "https://github.com/AWCrypt/STAKE-001/blob/master/AdaPoolsLogo.png",
+  "===": "--- DO NOT EDIT BELOW THIS LINE !!! ---",
+  "minted": "1000000000000000",
+  "name": "PlanetStake",
+  "hexname": "",
+  "bechName": "",
+  "policyID": "a04ab71017bee96b8d79b64574fb806c872db89c493e7e32e76fe94b",
+  "policyValidBeforeSlot": "unlimited",
+  "subject": "a04ab71017bee96b8d79b64574fb806c872db89c493e7e32e76fe94b506c616e65745374616b65",
+  "sequenceNumber": "1",
+  "lastUpdate": "Mon, 06 Dec 2021 12:39:03 +0100",
+  "lastAction": "created Token-Registry-JSON"
+}
