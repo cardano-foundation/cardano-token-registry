@@ -7,15 +7,19 @@
             {
                 "signature": "4eb6fa9eb92c7a6144e9e1598f38b5281cb95e798d198fefc3ed1843f7f8d6a76cd9b6a0d6075b5cb7a929b003c0c3644229feeb2e5a2ba721f29cea07e2ba0f",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
+            },
+            {
+                "signature": "4eb6fa9eb92c7a6144e9e1598f38b5281cb95e798d198fefc3ed1843f7f8d6a76cd9b6a0d6075b5cb7a929b003c0c3644229feeb2e5a2ba721f29cea07e2ba0f",
+                "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             }
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 1,
+        "sequenceNumber": 1,
+        "value": 8,
         "signatures": [
             {
-                "signature": "d39f263fc89a1e767de3dc5a26c7803bbc3de568e1959c9a0ecc691167910a87342d76ccaffeda5ece03c9ae0df561564a4fffa3e1ce6c82b972e3fab6d1f203",
+                "signature": "5aa548a01c95873aa23899f32c06b938b20be2d3be81bd1b59af2d24694c7fc9619bee103e2bafbbc27d7abb125887325c9c1cebcd084187b6ff6098cfab2c03",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             }
         ]
@@ -28,6 +32,10 @@
             {
                 "signature": "9650da60625a75cb42d848a7c0a6f91be12716cb6197625b38b3067fbdea85d412f84d3864df1356b8073eff6926ce1c8c8055f74a01c392d17c0e6fbf870a0b",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
+            },
+            {
+                "signature": "9650da60625a75cb42d848a7c0a6f91be12716cb6197625b38b3067fbdea85d412f84d3864df1356b8073eff6926ce1c8c8055f74a01c392d17c0e6fbf870a0b",
+                "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             }
         ]
     },
@@ -35,6 +43,10 @@
         "sequenceNumber": 0,
         "value": "A payment token to be used for services that may or may not include technical analysis of digital security systems.",
         "signatures": [
+            {
+                "signature": "c8529903956d79a2c04eea7b2d6fbedb5acc73572119c2ee55f82eb57669ab79830eda578e40fa0681daa990ebc32c268798a1a26375bd7b014b2a9212b10008",
+                "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
+            },
             {
                 "signature": "c8529903956d79a2c04eea7b2d6fbedb5acc73572119c2ee55f82eb57669ab79830eda578e40fa0681daa990ebc32c268798a1a26375bd7b014b2a9212b10008",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
