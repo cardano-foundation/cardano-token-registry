@@ -1,0 +1,44 @@
+    "subject": "c013dd41cf575991sdu3xz8pwhuaadfh",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "ShomonGreenPolymer",
+        "signatures": [
+            {
+                "signature": "addr1q8axnkfyx7weqkpxeqtu026vtfcygtaqfdl3czssw78qqjz2n5sl6y49al5lrl7dsgppgvsdfn7dacn6ay06zassjuts6dcn7q",
+                "publicKey": "4285ef6411e33769d72c41bf0d833dc5101299f0c013dd41cf575991"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "SGP",
+        "signatures": [
+            {
+                "signature": "addr1q8axnkfyx7weqkpxeqtu026vtfcygtaqfdl3czssw78qqjz2n5sl6y49al5lrl7dsgppgvsdfn7dacn6ay06zassjuts6dcn7q",
+                "publicKey": "4285ef6411e33769d72c41bf0d833dc5101299f0c013dd41cf575991"
+            }
+        ]
+    },
+   
+    "policy": "4285ef6411e33769d72c41bf0d833dc5101299f0c013dd41cf575991",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "https://shomongreenpolymer.org.uk/wp-content/uploads/2017/10/SGP2.png"
+         "signatures": [
+            {
+                "signature": "addr1q8axnkfyx7weqkpxeqtu026vtfcygtaqfdl3czssw78qqjz2n5sl6y49al5lrl7dsgppgvsdfn7dacn6ay06zassjuts6dcn7q",
+                "publicKey": "4285ef6411e33769d72c41bf0d833dc5101299f0c013dd41cf575991"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "ShomonGreenPolymer_Stock-share",
+        "signatures": [
+            {
+                "signature": "addr1q8axnkfyx7weqkpxeqtu026vtfcygtaqfdl3czssw78qqjz2n5sl6y49al5lrl7dsgppgvsdfn7dacn6ay06zassjuts6dcn7q",
+                "publicKey": "4285ef6411e33769d72c41bf0d833dc5101299f0c013dd41cf575991"
+            }
+        ]
+    }
+} 
