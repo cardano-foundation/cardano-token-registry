@@ -12,10 +12,10 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "Trump Bastion",
+        "value": "Trump Bulwark",
         "signatures": [
             {
-                "signature": "c5121620a07b6e9037538c90f1d01aed31398d97cfc09114cb40a6ac985d72c7de5b05befc1088d568b613d7e8ebe7e33893fbaf664e4d4c593105b6bc135f03",
+                "signature": "ec55407b66a154d3fc15ded221fc8f68d8489e9ce48ba5258c9bed2e01e3523cf1bcffd94c8b727856b729687b89bbbf8dd01f7a9ab953fad96769af99ab7d0a",
                 "publicKey": "65ef8c3ac57b395bc398ff087f560b546e1834ce625f46c65722a1a0e7b05971"
             }
         ]
