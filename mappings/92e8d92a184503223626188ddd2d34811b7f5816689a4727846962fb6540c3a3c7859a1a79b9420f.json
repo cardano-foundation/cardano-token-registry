@@ -1,0 +1,63 @@
+
+    "subject": "92e8d92a184503223626188ddd2d34811b7f5816689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "name": {
+        "sequenceNumber": 1,
+        "value": "CHAINeS",
+        "signatures": [
+            {
+                "signature": "39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+                "publicKey": "addr1qyvjwsx4cu3xthk47uc8pykp3rja8u3spsgpwh2szcuvw42js3untnlup9rq4msewzg4ftv0eg4p3u2xk9f0ka6lj03qhuuxha"
+            }
+        ]
+    },
+    "URL": {
+        "sequenceNumber": 2,
+        "value": "HTTP://CHAINeS.IO",
+        "signatures": [
+            {
+                "signature": "39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+                "publicKey": "addr1qyvjwsx4cu3xthk47uc8pykp3rja8u3spsgpwh2szcuvw42js3untnlup9rq4msewzg4ftv0eg4p3u2xk9f0ka6lj03qhuuxha"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 3,
+        "value": "CHAINeS",
+        "signatures": [
+            {
+                "signature": "39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+                "publicKey": "addr1qyvjwsx4cu3xthk47uc8pykp3rja8u3spsgpwh2szcuvw42js3untnlup9rq4msewzg4ftv0eg4p3u2xk9f0ka6lj03qhuuxha"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 4,
+        "value": 1200000000000,
+        "signatures": [
+            {
+                "signature": "39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+                "publicKey": "addr1qyvjwsx4cu3xthk47uc8pykp3rja8u3spsgpwh2szcuvw42js3untnlup9rq4msewzg4ftv0eg4p3u2xk9f0ka6lj03qhuuxha""
+        ]
+    },
+    "logo": {
+        "value": 'go to website',
+        "sequenceNumber": 5,
+        "signatures": [
+            {
+                "signature": "39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+                "publicKey": "addr1qyvjwsx4cu3xthk47uc8pykp3rja8u3spsgpwh2szcuvw42js3untnlup9rq4msewzg4ftv0eg4p3u2xk9f0ka6lj03qhuuxha"
+            }
+        ]
+    },
+    "policy": "d1ec168628a7cdbb92e8d92a184503223626188ddd2d34811b7f5816",
+    "description": {
+        "sequenceNumber": 6,
+        "value": "LNKING PEOPLE->FARM",
+        "signatures": [
+            {
+                "signature": "39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+                "publicKey": "addr1qyvjwsx4cu3xthk47uc8pykp3rja8u3spsgpwh2szcuvw42js3untnlup9rq4msewzg4ftv0eg4p3u2xk9f0ka6lj03qhuuxha"
+            }
+        ]
+    }
+}
