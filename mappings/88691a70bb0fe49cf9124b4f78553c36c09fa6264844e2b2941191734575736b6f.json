@@ -1,0 +1,24 @@
+{
+    "subject": "88691a70bb0fe49cf9124b4f78553c36c09fa6264844e2b2941191734575736b6f",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Eusko",
+        "signatures": [
+            {
+                "signature": "a497411ad28f9f36394026f2a79d833e5e5ddc35b4ed2547a3d2b01bfb1ed3ced642d6bf9cb707048ac70aa82facb1beb61c85e30519bccabab35b529421b80a",
+                "publicKey": "0fc943ba36a487af5d26bc5bb05ceebc738c023d21d9a571fc1b04864c619d7c"
+            }
+        ]
+    },
+    "policy": "82008200581c492bf23f83fa091f0982b360c519c151fbe4b0d465815b39e842edd1",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Euskal Token - Created by EUSKAL STAKE POOL",
+        "signatures": [
+            {
+                "signature": "3f81849117173d2ef6861e22f508f0fcea97fe8e4d9952077e50e084882f887a51700737ee360ea6ecc5ff85e9a508df1f658b6085b8ff6ab9473da3aa6bd50f",
+                "publicKey": "0fc943ba36a487af5d26bc5bb05ceebc738c023d21d9a571fc1b04864c619d7c"
+            }
+        ]
+    }
+}
