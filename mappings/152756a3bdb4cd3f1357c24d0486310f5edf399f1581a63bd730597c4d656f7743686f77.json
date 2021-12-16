@@ -12,10 +12,10 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "PixelCat Token",
+        "value": "MeowChow",
         "signatures": [
             {
-                "signature": "745a9708c169b72db9f296ac9ffe1f8488589469ccb8e87752724007a8543a20dc0fb6db17e77657e81900e99ad8041b034a0cc39c86498d6e99f657ee1c750d",
+                "signature": "6c4f1634b783048d1e6d16550daea27802ecd9efbd890cbe68ebf5860f869422c2465ef3b547f9d09a51f3e3e37dd30018736a0d5a9d53972e778e4ed0f05c05",
                 "publicKey": "b01b9a96b75c9846f0200153c9ec10c368aa6cd6eb4205e140c2839d30182344"
             }
         ]
