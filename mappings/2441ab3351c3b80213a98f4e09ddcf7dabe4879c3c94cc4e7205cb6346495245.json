@@ -12,7 +12,7 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "FIRE Token",
+        "value": "FIRE",
         "signatures": [
             {
                 "signature": "82a2b651713fd019eb9cf6f0dfc924d9919b846bb0b8ad6933ea7b93340b6e75c843b2d1d51ea6a80c51d812c489213a0afe54708405e6f6926673a0b6dbbc0a",
@@ -32,7 +32,7 @@
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 6,
+        "value": 0,
         "signatures": [
             {
                 "signature": "9031d124dc0d4af82ea4103c71ae77322cf0b781279258c6b860cd1e3a681dce8e50dfc74b76f566b9be23c149a48816cedf2b76d28638ff19ba9e67e3621a0a",
