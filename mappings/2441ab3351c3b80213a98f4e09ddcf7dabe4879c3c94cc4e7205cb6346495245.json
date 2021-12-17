@@ -15,7 +15,7 @@
         "value": "FIRE",
         "signatures": [
             {
-                "signature": "82a2b651713fd019eb9cf6f0dfc924d9919b846bb0b8ad6933ea7b93340b6e75c843b2d1d51ea6a80c51d812c489213a0afe54708405e6f6926673a0b6dbbc0a",
+                "signature": "43738d6bcefa20c4780ea315db6eb39363f86c027d878d5266de967155a523549e45fc601ea6b69cc940c9cd73f92a27eb579a1b9c3d01a8845db43181b21305",
                 "publicKey": "877f260ad8267b53e6592dfd7bba4f70c1cff14f197234a858344394951aec0b"
             }
         ]
@@ -35,7 +35,7 @@
         "value": 0,
         "signatures": [
             {
-                "signature": "9031d124dc0d4af82ea4103c71ae77322cf0b781279258c6b860cd1e3a681dce8e50dfc74b76f566b9be23c149a48816cedf2b76d28638ff19ba9e67e3621a0a",
+                "signature": "87c71c60dbe5bbf56cd2c9a45d226e60f2ffee24d30b9788f9139b78639165cf91475bd6249a722cc29ffa1c2dd392a96adb4cce0b2467942955e93a706c2606",
                 "publicKey": "877f260ad8267b53e6592dfd7bba4f70c1cff14f197234a858344394951aec0b"
             }
         ]
