@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "FIRE",
         "signatures": [
             {
-                "signature": "43738d6bcefa20c4780ea315db6eb39363f86c027d878d5266de967155a523549e45fc601ea6b69cc940c9cd73f92a27eb579a1b9c3d01a8845db43181b21305",
+                "signature": "917096b42200d5e485d3c70ffe4e7c892c82327cbd94e5b74f345f967c822dd44c610c677c78f327b2512e6d3055bab7e8d47a153e08c90a0bc966819c43ec02",
                 "publicKey": "877f260ad8267b53e6592dfd7bba4f70c1cff14f197234a858344394951aec0b"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "87c71c60dbe5bbf56cd2c9a45d226e60f2ffee24d30b9788f9139b78639165cf91475bd6249a722cc29ffa1c2dd392a96adb4cce0b2467942955e93a706c2606",
+                "signature": "caed71967a4181ca6a9236fe16362356631fcdd032e9866b7420b5b63ff67c89f818272c8742c2af7b59b130dee2ffb6cbe2314bf2f02fcb714813e221e73206",
                 "publicKey": "877f260ad8267b53e6592dfd7bba4f70c1cff14f197234a858344394951aec0b"
             }
         ]
