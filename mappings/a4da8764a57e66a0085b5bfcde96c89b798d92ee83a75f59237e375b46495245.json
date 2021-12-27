@@ -43,10 +43,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "$FIRE Token on the Cardano Blockchain",
+        "value": "Part memecoin, part community. All FIRE!",
         "signatures": [
             {
-                "signature": "0731e15e68c792c45577e571a3d6f001a494d27df204093202b7c878933e735c09655ef5fa6103e41d2529c58d1373d0cb61577cce0bfba6526ce4d6d61b8108",
+                "signature": "4e91e6ab9329c0d4b1ded55f0c33c5a838c719bb4d916bed57ebf5a858ba32db607eb9adb9bb7e244a861ea35f8ff5b95c50665e6a061e37465676686a65880a",
                 "publicKey": "4cc1879b6ea29c246b2e7c51c0020bfd4e11d9262b73b45b3f23b9c1e10dd158"
             }
         ]
