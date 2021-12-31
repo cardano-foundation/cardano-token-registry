@@ -5,10 +5,11 @@
 "Zeta": {
   "name": "Zeta",
   "description": "The native currency of Zi community.",
-  "ticker":"ZETA", "url": "https://www.zi-project.io",
+  "ticker": "ZETA",
+  "url": "https://www.zi-project.io",
   "image": "ipfs://QmURHGuTkvKNA8JFRvjJva1zKUew3CEFQRXGtmwrVG4jqh",
   "mediaType": "image/png",
-  "decimals":0
+  "decimals": 0
         }
       }
     }
