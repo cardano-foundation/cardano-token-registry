@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Texas bulldog Charlie meme | by cardanians.io",
+        "value": "Charlie, the Colorado bulldog | meme by cardanians.io",
         "signatures": [
             {
-                "signature": "379e57bdd66f725684f4bff88d3f45101350feea42df56c0bb3c38ced955cc4d0843d19290d87edc7832ac0e52b1564a88401200623080cd61bd154958cf0e0a",
+                "signature": "43f13196a3061efeb1f675b0bbde0b07bf5e16e0689f30e89ebf6f99bad55e0a79da399cc84b6104545223aaca747afc53f5966cef2a32c6ffc1211e58edaa0d",
                 "publicKey": "cfe518e84f3e9e9841445d68882d53b9ed46aa513a82dd907238f3106234bfcd"
             }
         ]
