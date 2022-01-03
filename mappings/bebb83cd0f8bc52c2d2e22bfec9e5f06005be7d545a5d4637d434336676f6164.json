@@ -1,0 +1,54 @@
+{
+    "subject": "bebb83cd0f8bc52c2d2e22bfec9e5f06005be7d545a5d4637d434336676f6164",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://goada.net",
+        "signatures": [
+            {
+                "signature": "9cb4409ad10f720d060c65171744f8633da3b7c3421d83875f8adb36287f7a595c8cc4ed0978a391d21b2a39e83d571cd5a32247c2cd58fad90becf306dfef0d",
+                "publicKey": "ab76a36b1a748e3442558b92c0544fb651492be48a754115c5af520c1f941025"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "GOADA Token",
+        "signatures": [
+            {
+                "signature": "18c94a46d0b2792132ffeb0b759a18713f4fcc9252ed406d9040d8a9b9390d5e9e4111aff9bfa8c3c24726bff8a39f9669121caaca3d6d7a49fc33fc0c861309",
+                "publicKey": "ab76a36b1a748e3442558b92c0544fb651492be48a754115c5af520c1f941025"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "GOADA",
+        "signatures": [
+            {
+                "signature": "6eeab5f570cea9c05a8bffea11916439570bab75754d7b7086a3b348a31cecab76bd4fc121eb59126fd74336dc746575ba01a662e49192bfb47a5b4463e90e08",
+                "publicKey": "ab76a36b1a748e3442558b92c0544fb651492be48a754115c5af520c1f941025"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "89a41366a915b92018c4b810b0818dbb245158669273d6364a7aed37f6e392a87d5c2d8d6a947f2bc4ff9875f59d9d44bee62d36b3a9e535a13d5f0e394cc801",
+                "publicKey": "ab76a36b1a748e3442558b92c0544fb651492be48a754115c5af520c1f941025"
+            }
+        ]
+    },
+    "policy": "820182018282051a031a90ba8200581cb3db09f9ff4db76a470e839590805062b64f7c5606354f1a9626588e",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The GOADA Token is the utility token created and used by the GOADA Stake Pool",
+        "signatures": [
+            {
+                "signature": "08672642e878911f40a5100e8ec0a5dea16e616a69db13a1ee3f4ab3901ab3834c7c24b5ed302b97c1b064e8d9b43cc1cdae9b42dec871ac2eb443dbafb5d809",
+                "publicKey": "ab76a36b1a748e3442558b92c0544fb651492be48a754115c5af520c1f941025"
+            }
+        ]
+    }
+}
