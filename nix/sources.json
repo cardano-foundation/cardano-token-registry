@@ -1,26 +1,14 @@
 {
-    "cardano-metadata-submitter": {
-        "branch": "master",
-        "description": "A library and CLI for manipulating data for the Metadata Server CIP",
-        "homepage": null,
-        "owner": "input-output-hk",
-        "repo": "cardano-metadata-submitter",
-        "rev": "fcf1010538fbc9bbc00ef1ed8fa37fa06287af45",
-        "sha256": "13mrzr5x2nqc85awljv75xlpfwbdmvcclgyr2ql1cla2gzy6b3a8",
-        "type": "tarball",
-        "url": "https://github.com/input-output-hk/cardano-metadata-submitter/archive/fcf1010538fbc9bbc00ef1ed8fa37fa06287af45.tar.gz",
-        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
-    },
     "cardano-node": {
-        "branch": "refs/tags/1.25.1",
+        "branch": "refs/tags/1.27.0",
         "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
         "homepage": "https://cardano.org",
         "owner": "input-output-hk",
         "repo": "cardano-node",
-        "rev": "9a7331cce5e8bc0ea9c6bfa1c28773f4c5a7000f",
-        "sha256": "1scffi7igv4kj93bpjf8yibcaq0sskfikmm00f7r6q031l53y50c",
+        "rev": "8fe46140a52810b6ca456be01d652ca08fe730bf",
+        "sha256": "1c9zc899wlgicrs49i33l0bwb554acsavzh1vcyhnxmpm0dmy8vj",
         "type": "tarball",
-        "url": "https://github.com/input-output-hk/cardano-node/archive/9a7331cce5e8bc0ea9c6bfa1c28773f4c5a7000f.tar.gz",
+        "url": "https://github.com/input-output-hk/cardano-node/archive/8fe46140a52810b6ca456be01d652ca08fe730bf.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "niv": {
@@ -57,6 +45,18 @@
         "sha256": "0idvgvpgnzvk03yvd77lrca9qib936fq2x690jvk5gk3blsckz3r",
         "type": "tarball",
         "url": "https://github.com/NixOS/nixpkgs/archive/410bbd828cdc6156aecd5bc91772ad3a6b1099c7.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "offchain-metadata-tools": {
+        "branch": "refs/tags/v0.2.0.0",
+        "description": "Tools for creating, submitting, and managing off-chain metadata such as multi-asset token metadata",
+        "homepage": "",
+        "owner": "input-output-hk",
+        "repo": "offchain-metadata-tools",
+        "rev": "dd052829f0f070f91edd67cffe073db1622ea55d",
+        "sha256": "0s3bmgjcgn4lx8mx4iwb3i88nvj03cmyfl1ik85xd7y9rcl1sf0q",
+        "type": "tarball",
+        "url": "https://github.com/input-output-hk/offchain-metadata-tools/archive/dd052829f0f070f91edd67cffe073db1622ea55d.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }

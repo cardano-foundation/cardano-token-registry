@@ -7,8 +7,18 @@ jobs:
   Validate-Metadata:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      # Checkout both this pull request and the master branch
+      - name: Checkout pull request
         uses: actions/checkout@v2.3.4
+        with:
+          path: pull-request
+
+      - name: Checkout base branch
+        uses: actions/checkout@v2
+        with:
+          ref: master
+          path: master
+
       - name: Validate
         run: |
           # shellcheck disable=SC2016
@@ -18,45 +28,56 @@ jobs:
           export BASE="master"
           export LOCATION="mappings"
 
-          echo "Fetching base branch:"
+          pushd pull-request
+          echo "Fetching base branch '${BASE}':"
           git fetch origin ${BASE} --depth=1
           echo
 
           echo "Obtaining PR file change diff:"
           echo
-          DIFF="$(git --no-pager diff --name-only origin/"${BASE}" "${GITHUB_SHA}")"
-          export DIFF
-          echo "${DIFF}"
+          git --no-pager diff --name-status origin/"${BASE}" "${GITHUB_SHA}" > "${GITHUB_SHA}.diff"
+          cat "${GITHUB_SHA}.diff"
           echo
 
           rm -f fail-location fail-filename || :
           echo "Validating all changed PR files are in the ${LOCATION} directory:"
           echo
-          echo "${DIFF}" | sort \
+          awk '{print $2}' "${GITHUB_SHA}.diff" | sort \
             | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-location; }'
-          echo
-
-          echo "Validating all changed PR files have a lower case hexidecimal file name of 56 to 120 chars with a \".json\" file extension:"
-          echo
-          echo "${DIFF}" | sort \
-            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[a-f0-9]{56,120}\.json$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-filename; }'
           echo
 
           [ -f "fail-location" ] && echo "ABORTING: File change location validation failed"
           [ -f "fail-filename" ] && echo "ABORTING: File name validation failed"
           [ -f "fail-location" ] || [ -f "fail-filename" ] && exit 1
 
+          popd
+          echo "Obtaining the latest metadata GitHub PR validation tool:"
+          echo "curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.metadata-validator-github-tarball.x86_64-linux/latest/download/1/metadata-validator-github.tar.gz"
+          curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.metadata-validator-github-tarball.x86_64-linux/latest/download/1/metadata-validator-github.tar.gz
+          echo
+
+          echo "Extracting the latest metadata GitHub PR validation tool:"
+          tar -zxvf metadata-validator-github.tar.gz
+          echo
+
+          echo "Running the metadata GitHub PR validator on this PR:"
+          echo
+          echo "./metadata-validator-github "${GITHUB_REPOSITORY_OWNER}" "$(cat "${GITHUB_EVENT_PATH}" | jq -r '.repository.name')" "${{ github.event.number }}" --expect-branch "${BASE}" --no-auth"
+          ./metadata-validator-github "${GITHUB_REPOSITORY_OWNER}" "$(cat "${GITHUB_EVENT_PATH}" | jq -r '.repository.name')" "${{ github.event.number }}" --expect-branch "${BASE}" --no-auth
+          echo
+
           echo "Obtaining the latest metadata validation tool:"
-          echo "curl -sLO https://hydra.iohk.io/job/Cardano/metadata-server/native.metadataValidatorTarball.x86_64-linux/latest-finished/download/1/metadata-validator.tar.gz"
-          curl -sLO https://hydra.iohk.io/job/Cardano/metadata-server/native.metadataValidatorTarball.x86_64-linux/latest-finished/download/1/metadata-validator.tar.gz
+          echo "curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.token-metadata-creator-tarball.x86_64-linux/latest/download/1/token-metadata-creator.tar.gz"
+          curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.token-metadata-creator-tarball.x86_64-linux/latest/download/1/token-metadata-creator.tar.gz
           echo
 
           echo "Extracting the latest metadata validation tool:"
-          tar -zxvf metadata-validator.tar.gz
+          tar -zxvf token-metadata-creator.tar.gz
           echo
 
-          echo "Running the metadata validator on this PR:"
+          echo "Running the metadata validation tool on this PR:"
           echo
-          echo "./metadata-validator ${GITHUB_REPOSITORY_OWNER} $(cat "${GITHUB_EVENT_PATH}" | jq -r '.repository.name') ${{ github.event.number }} --no-auth"
-          ./metadata-validator "${GITHUB_REPOSITORY_OWNER}" "$(cat "${GITHUB_EVENT_PATH}" | jq -r '.repository.name')" "${{ github.event.number }}" --no-auth
+          VALIDATOR="./token-metadata-creator validate"
+          awk '/^M/ {print $2}' "pull-request/${GITHUB_SHA}.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 master/$2 pull-request/$2" && $1 master/$2 pull-request/$2' -- "$VALIDATOR"
+          awk '/^A/ {print $2}' "pull-request/${GITHUB_SHA}.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 pull-request/$2" && $1 pull-request/$2' -- "$VALIDATOR"
           echo
