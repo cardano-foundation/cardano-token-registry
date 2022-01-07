@@ -22,20 +22,20 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "TKN",
+        "value": "OVI",
         "signatures": [
             {
-                "signature": "aad6d02897c8187145ec385669ceaa005f5fcf73d6d4285c9a3395daff4757b58dfb31da24e4b35fd86150faa749721eeb47c03211da08106bc69ae8522db20b",
+                "signature": "676d1f9784e2e99bf9bd991f3718425c0f7f509bc4be5d040009e841aadf07ef9f58124cec31f11d6979e0d2663ed1b71f019f623dfd1766f973f4a885126801",
                 "publicKey": "e3671cb84a8fa30a1adc5a6c40578725a3e86e9ac5d64a34acefc713d995ccae"
             }
         ]
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 4,
+        "value": 6,
         "signatures": [
             {
-                "signature": "983a86120ae69f887aa5b93787461b0a01deb972c258d1eb49633ca540cb03e43068d2344ea6799e27b841a97189a9a04c34eac284360d0f1bff77e505435c0c",
+                "signature": "841c04f7d71518eeb9bc0dcef75c1ec6f9911a5f56ea7cba8b5a82ae48a72d1ee68cf6caac4a3aa36e47fc9ae694557a9cd8155bba158780a2955e0555784a08",
                 "publicKey": "e3671cb84a8fa30a1adc5a6c40578725a3e86e9ac5d64a34acefc713d995ccae"
             }
         ]
