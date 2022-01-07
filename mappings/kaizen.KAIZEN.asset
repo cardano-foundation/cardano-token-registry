@@ -1,0 +1,20 @@
+{
+  "metaName": "KAIZEN",
+  "metaDescription": "Build Your Legacy!",
+  "---": "--- Optional additional info ---",
+  "metaDecimals": "6",
+  "metaTicker": "",
+  "metaUrl": "https://lovelacesaga.com/",
+  "metaLogoPNG": "kaizen.token.png",
+  "===": "--- DO NOT EDIT BELOW THIS LINE !!! ---",
+  "minted": "100000000",
+  "name": "KAIZEN",
+  "hexname": "",
+  "bechName": "asset18nun3sx0dv9x4a0xmu957rqsywnev75tej2jmy",
+  "policyID": "cfee97ff8359f07a0a395a72b424bc6e030503390d864b86d4e0ecf8",
+  "policyValidBeforeSlot": "unlimited",
+  "subject": "cfee97ff8359f07a0a395a72b424bc6e030503390d864b86d4e0ecf84b41495a454e",
+  "sequenceNumber": "4",
+  "lastUpdate": "Fri, 07 Jan 2022 00:27:21 -0500",
+  "lastAction": "created Token-Registry-JSON"
+}
