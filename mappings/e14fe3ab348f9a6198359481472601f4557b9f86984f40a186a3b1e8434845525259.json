@@ -27,6 +27,7 @@
         "signatures": [
             {
                 "signature": "852ea2324dd7a81f7f25193965677a6c0fb09e8bc84c8a0f8682e7e572327eb043f7b34e58c6272213be926238b624de33061870340043d4d0e3631091230e0f",
+
                 "publicKey": "91dcf614fe16d5ab97d50e94364e4c1c052775cdcc23ecdfae7bead4a911bd50"
             }
         ]
@@ -37,6 +38,7 @@
         "signatures": [
             {
                 "signature": "e77032f2f6707d091e9f7dee11a26dce03a853a8a485345de22466c9ed9bb861117970aaf18962f3ea03c2d07b37b80fda7fdd57ea1f8dcdc5bf3657e89d9308",
+
                 "publicKey": "91dcf614fe16d5ab97d50e94364e4c1c052775cdcc23ecdfae7bead4a911bd50"
             }
         ]
