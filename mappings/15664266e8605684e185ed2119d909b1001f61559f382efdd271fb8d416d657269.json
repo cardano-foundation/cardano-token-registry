@@ -12,10 +12,10 @@
     },
     "name": {
         "sequenceNumber": 1,
-        "value": "416d657269",
+        "value": "Ameri",
         "signatures": [
             {
-                "signature": "8003672403563793ff5ac34fea5fb4cc511f55b719fc3a879cc6ccf9e98cb45b9cd867aced4a46a612db0d0611d96af8aebf5fc3272f3637e38fb92c8a1c8006",
+                "signature": "2163121b0debc4c34c587385861d62eb503ba23a2b9a001eaebebec7a25ad7dd9a87f8e2239e8c77097a27c1ff57b5e2bdfa607e4770e88ced8d8e0ec96b1907",
                 "publicKey": "e217cd10e4d2c39069d522ffe795329805e752caa66f95ed1a1efb77f39b3d0c"
             }
         ]
