@@ -12,20 +12,20 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "Smart Places Token",
+        "value": "Smart Places Protocol",
         "signatures": [
             {
-                "signature": "595fb09b4f2461a790c7d8085252a92aef4a1e095d6cb5e16059a5ecb98b4cc845f68c1b5f04a9eb66fc715cb69e31a475b8aa37812fa4e258b552f0081c4b09",
+                "signature": "4e6dc56353bdfffb158a5beec1f1f1ee4208a8137b33dd10c251f0161d436a471098320f78522eb3b009f00ae924f297b7a92b046cf4999429fc9fcb763cfe0f",
                 "publicKey": "8ec6b935c436f4c7d795d854abf64e29e1896be68949a26edf116c604910bf73"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "SMRTP",
+        "value": "SMART",
         "signatures": [
             {
-                "signature": "3631e592fa70b823772de4c4504e790f40ddfc757f512277c796a9b21d3ffa01f3394e018a61280f8ad1604759adbe4fb9d86fb15203077fc203008088c83108",
+                "signature": "1ea593e755a5be6af50d3edc34745c7b0a4c8e27102a341fcb57b9e855d4a2264f35242b2c6af71d313204171cec50e37698ced5f24b36cc36b4e7b132fe670c",
                 "publicKey": "8ec6b935c436f4c7d795d854abf64e29e1896be68949a26edf116c604910bf73"
             }
         ]
