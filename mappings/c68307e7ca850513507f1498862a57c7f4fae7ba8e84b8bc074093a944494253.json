@@ -11,7 +11,7 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "DIBS",
         "signatures": [
             {
@@ -31,7 +31,7 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "DIBS is a fast-paced logic game in which you have fun while attempting to steal DIBS Tokens from your pals.",
         "signatures": [
             {
