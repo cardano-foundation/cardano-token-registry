@@ -17,10 +17,6 @@
             {
                 "signature": "672d1a6ef36f55f662f8a27b2e94c8e16200d563d4028c09af1fa816a9329dfbd963afd21f9cbeeb4da8864e711f9339934d061cca6391609f9980634f88d50a",
                 "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
-            },
-            {
-                "signature": "672d1a6ef36f55f662f8a27b2e94c8e16200d563d4028c09af1fa816a9329dfbd963afd21f9cbeeb4da8864e711f9339934d061cca6391609f9980634f88d50a",
-                "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
             }
         ]
     },
@@ -36,10 +32,10 @@
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 6,
+        "value": 0,
         "signatures": [
             {
-                "signature": "254edbf8045ba776e0bc5cfbc6cb74e88814c7637de23add0fbb5ef7dd12a2849fddd97fcacf37185ddc490c8837853571a7ce819cda751bd1d4bb0b72736506",
+                "signature": "e5490ff432986b0517ea826748b5e19a1d63784ce6b4a691c729531fc004a1257c47f468a814e39e5a23156ded9d34305ae3d7749954a986480ad9415862820b",
                 "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
             }
         ]
@@ -59,10 +55,6 @@
         "sequenceNumber": 0,
         "value": "DIBS is a fast-paced logic game in which you have fun while attempting to steal DIBS Tokens from your pals.",
         "signatures": [
-            {
-                "signature": "7050b8223d1b8f31dbcae031c33969b297531b818393a07712e58232312d3eca1dc1f6044b990dbd05f92e2de6160d2f808febfe015637a76e31868eca1da80d",
-                "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
-            },
             {
                 "signature": "7050b8223d1b8f31dbcae031c33969b297531b818393a07712e58232312d3eca1dc1f6044b990dbd05f92e2de6160d2f808febfe015637a76e31868eca1da80d",
                 "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
