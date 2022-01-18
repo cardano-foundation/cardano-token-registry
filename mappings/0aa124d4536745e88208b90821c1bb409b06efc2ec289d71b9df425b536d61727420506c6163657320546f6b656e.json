@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 1,
-        "value": "SmartPlacesProtocol",
+        "sequenceNumber": 0,
+        "value": "Smart Places Token",
         "signatures": [
             {
-                "signature": "4210bed5ecdcf462c76bb12ead9cea7f0ee0885b03c6bfdb18de4da13f6946fe00f4849ae1f22e9e4ebaa718677ee1f789903efd689e67b888ac52cf19980800",
+                "signature": "d36313276207c8d502730688b7f4f80199894567fc604970eb56a71601c7138a0d69e212537ac3d0f8c3ee62a3d479ec2ffea78ecd1eee7e6c2b7c87dd419206",
                 "publicKey": "8ec6b935c436f4c7d795d854abf64e29e1896be68949a26edf116c604910bf73"
             }
         ]
