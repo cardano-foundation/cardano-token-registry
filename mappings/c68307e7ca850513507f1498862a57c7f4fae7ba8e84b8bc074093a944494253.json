@@ -11,9 +11,13 @@
         ]
     },
     "name": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "DIBS",
         "signatures": [
+            {
+                "signature": "672d1a6ef36f55f662f8a27b2e94c8e16200d563d4028c09af1fa816a9329dfbd963afd21f9cbeeb4da8864e711f9339934d061cca6391609f9980634f88d50a",
+                "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
+            },
             {
                 "signature": "672d1a6ef36f55f662f8a27b2e94c8e16200d563d4028c09af1fa816a9329dfbd963afd21f9cbeeb4da8864e711f9339934d061cca6391609f9980634f88d50a",
                 "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
@@ -52,9 +56,13 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "DIBS is a fast-paced logic game in which you have fun while attempting to steal DIBS Tokens from your pals.",
         "signatures": [
+            {
+                "signature": "7050b8223d1b8f31dbcae031c33969b297531b818393a07712e58232312d3eca1dc1f6044b990dbd05f92e2de6160d2f808febfe015637a76e31868eca1da80d",
+                "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
+            },
             {
                 "signature": "7050b8223d1b8f31dbcae031c33969b297531b818393a07712e58232312d3eca1dc1f6044b990dbd05f92e2de6160d2f808febfe015637a76e31868eca1da80d",
                 "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
