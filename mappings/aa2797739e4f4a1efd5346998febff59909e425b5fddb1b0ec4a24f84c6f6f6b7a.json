@@ -1,0 +1,24 @@
+{
+    "subject": "aa2797739e4f4a1efd5346998febff59909e425b5fddb1b0ec4a24f84c6f6f6b7a",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Lookz",
+        "signatures": [
+            {
+                "signature": "69231edb1b5bfdfd4f0c942706f598f4e4f20170c8eb23e36f85e9ab910daa062727afc1b70dd3e1e0080214859c1bcc1c691cddd606e64528eac760daef0708",
+                "publicKey": "3f6e385781dc9ea4e722df440a43b09dedbcbc3a16404e0dd030a6922c6108f6"
+            }
+        ]
+    },
+    "policy": "820182018282051a02efc5208200581c1e6f9538646be1753ed4ad5c8195429329ff563384436a29d531e8dc",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Lookz token for WyldLookz CNFTs",
+        "signatures": [
+            {
+                "signature": "0de3d0d5640760a46ccd200a39bb0fdd431f1ddbab6eb78fc2c6a15a9aaed8435047a4f7305e07c6fcf45d420be4d23d1fcc11614f53da2eb738cfce7b73aa04",
+                "publicKey": "3f6e385781dc9ea4e722df440a43b09dedbcbc3a16404e0dd030a6922c6108f6"
+            }
+        ]
+    }
+}
