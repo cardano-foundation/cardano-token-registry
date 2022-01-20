@@ -40,15 +40,5 @@
         "publicKey": "32dec804488223a3743ac317ed170b7d7ed4197d5efda24ded34f5ad1458c671"
       }
     ]
-  },
-  "description": {
-    "sequenceNumber": 2,
-    "value": "Governance token for harmlesscoin.com",
-    "signatures": [
-      {
-        "signature": "1a6f30d5f2b9cbbab776f6bc55819c5e4601fd5ddb4b683e014b112cc42aaa77ad3d4014f4f0e3257e6a527bcadb6b2c93c92a29fc6e78d727af0aa3a29a370b",
-        "publicKey": "32dec804488223a3743ac317ed170b7d7ed4197d5efda24ded34f5ad1458c671"
-      }
-    ]
 }
 }
