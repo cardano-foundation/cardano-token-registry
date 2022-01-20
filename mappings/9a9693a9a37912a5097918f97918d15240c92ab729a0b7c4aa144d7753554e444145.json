@@ -2,7 +2,7 @@
     "subject": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://wedn-coin.io",
+        "value": "https://sundaeswap.finance",
         "signatures": [
             {
                 "signature": "86d053076b030f958a439053b5d6c30c82c4a14101091a7d906b303123daf8a54e794f7050a7bb3c487890bfcef68b06159a6c1901bf8c249d8a73968288d60e",
@@ -12,7 +12,7 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "WEDN",
+        "value": "SUNDA",
         "signatures": [
             {
                 "signature": "fa4d45aa6257069257a0d3b7fb4c11fa45b912ddb023285d62155b1f2f76d73115f7dea201bd182849f508efca16e1a75719fc48dd40b3415d087913a2e61f01",
@@ -42,7 +42,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "DAO.",
+        "value": "SundaeSwap is a decentralized exchange and liquidity provision protocol. SundaeSwap DAO Token allows holders to participate in SundaeSwap governance and additional features introduced by the DAO.",
         "signatures": [
             {
                 "signature": "1184f295a81e50f96dc8bef728ef3d69e95bd07a407666ece6567b3d453ccbae92ea01b55640f1ef73343d011f6adc20e4f27e8105a6a6b8efbd2c8a81e6530a",
