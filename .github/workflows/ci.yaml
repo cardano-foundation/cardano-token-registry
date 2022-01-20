@@ -35,7 +35,8 @@ jobs:
 
           echo "Obtaining PR file change diff:"
           echo
-          git --no-pager diff --name-status origin/"${BASE}" "${GITHUB_SHA}" > "${GITHUB_SHA}.diff"
+          # git --no-pager diff --name-status origin/"${BASE}" "${GITHUB_SHA}" > "${GITHUB_SHA}.diff"
+          git --no-pager diff --name-status FETCH_HEAD $(git merge-base FETCH_HEAD master) > "${GITHUB_SHA}.diff"
           cat "${GITHUB_SHA}.diff"
           echo
 
