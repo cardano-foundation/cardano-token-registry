@@ -35,7 +35,7 @@ jobs:
 
           echo "Obtaining PR file change diff:"
           echo
-          git --no-pager diff --name-status "${{ github.event.pull_request.base.sha }}" "${GITHUB_SHA}" | grep '.*mappings/' > "${GITHUB_SHA}.diff"
+          git --no-pager diff --name-status "${{ github.event.pull_request.base.sha }}" "${GITHUB_SHA}" > "${GITHUB_SHA}.diff"
           cat "${GITHUB_SHA}.diff"
           echo
 
