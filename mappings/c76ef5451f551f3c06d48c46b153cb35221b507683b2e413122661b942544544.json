@@ -12,10 +12,10 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "BitEd",
+        "value": "BitEd Token",
         "signatures": [
             {
-                "signature": "d7682a985861f1edf862e07a9e713f4090b7208d5bfe8e885c1fbd56e41635a1e6004347da9a6ef2070400fb9c2f349282d6d3a8e4f585d12746f1118d19a40a",
+                "signature": "9a5e7bb00e1b4e2c9d4d40d894ba6f019400ca2f4138f65d5d8bd7ef9c5a9143f837428c29c40af9757da139e37d8eced1973e9d029700c9d46073ab22476e09",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "The BitEd Token (BTED) is an governance token built on the Cardano Blockchain. BitEd an organization seeking to improve education for children globally. Charitable projects receiving donations will be voted on by token holders. BitEd will make a by-weekly donation and use the tokens to maximize donations to selected projects. No one project will receive multiple donations.",
+        "value": "The BitEd Token (BTED) is a governance token built on the Cardano Blockchain. BitEd an organization seeking to improve education for children globally. Charitable projects receiving donations will be voted on by token holders. BitEd will make a by-weekly donation and use the tokens to maximize donations to selected projects. No one project will receive multiple donations.",
         "signatures": [
             {
-                "signature": "0a8aca52103bcc63d283db7ac62d7f1d08916bb169078caa2f510cc82986d60365b494db6dbeb834c69c33e21f43712fa214bb24266c3f51096a4953f57b220b",
+                "signature": "2b478f17b2336f49d936d4556b1d854c635fe5afc55f9e279bbeb938d78ebe3985a62596050efad75f1ca4cfd3c681e2a2bfc4aa6984793cc8486ec855cb9b04",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
