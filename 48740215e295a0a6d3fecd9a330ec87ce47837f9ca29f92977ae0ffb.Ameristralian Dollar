@@ -1,2 +1,5 @@
 $ git clone git@github.com:hodlamr/cardano-token-registry
 $ cd cardano-token-registry
+$ git add mappings/baa83...d65.json
+$ git commit -m "Ameristralian Dollar"
+$ git push origin HEAD
