@@ -34,15 +34,17 @@ jobs:
           echo
 
           echo "Obtaining PR file change diff:"
-          echo
-          git --no-pager diff --name-status origin/"${BASE}" "${GITHUB_SHA}" > "${GITHUB_SHA}.diff"
-          cat "${GITHUB_SHA}.diff"
+          echo "base: ${BASE}"
+          echo "github sha: ${GITHUB_SHA}"
+          echo "event base: ${{ github.event.pull_request.base.sha }}"
+          git --no-pager diff --name-status origin/"${BASE}" HEAD > "HEAD.diff"
+          cat "HEAD.diff"
           echo
 
           rm -f fail-location fail-filename || :
           echo "Validating all changed PR files are in the ${LOCATION} directory:"
           echo
-          awk '{print $2}' "${GITHUB_SHA}.diff" | sort \
+          awk '{print $2}' "HEAD.diff" | sort \
             | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-location; }'
           echo
 
@@ -78,6 +80,6 @@ jobs:
           echo "Running the metadata validation tool on this PR:"
           echo
           VALIDATOR="./token-metadata-creator validate"
-          awk '/^M/ {print $2}' "pull-request/${GITHUB_SHA}.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 master/$2 pull-request/$2" && $1 master/$2 pull-request/$2' -- "$VALIDATOR"
-          awk '/^A/ {print $2}' "pull-request/${GITHUB_SHA}.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 pull-request/$2" && $1 pull-request/$2' -- "$VALIDATOR"
+          awk '/^M/ {print $2}' "pull-request/HEAD.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 master/$2 pull-request/$2" && $1 master/$2 pull-request/$2' -- "$VALIDATOR"
+          awk '/^A/ {print $2}' "pull-request/HEAD.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 pull-request/$2" && $1 pull-request/$2' -- "$VALIDATOR"
           echo
