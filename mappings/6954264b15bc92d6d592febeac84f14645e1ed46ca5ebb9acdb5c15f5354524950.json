@@ -1,0 +1,44 @@
+{
+    "subject": "6954264b15bc92d6d592febeac84f14645e1ed46ca5ebb9acdb5c15f5354524950",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "StripperCoin",
+        "signatures": [
+            {
+                "signature": "f71d29da752251462575a38a2b98c75103d2dc9ad2cbb78c8a5560ac5298c1f99c10c3b806f679db0d36db551345dfd2dd12d31a74e53b9006f53c20178dcf00",
+                "publicKey": "0b389b3b8324d513fb2a99e5dd6069c25f1722f00272127defb81ac1c7d620be"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "STRIP",
+        "signatures": [
+            {
+                "signature": "59593dc9a30d2ad4adf43c498941733239af20e3ec33f6e311b07ee8b03be4ffd30286ff3535212b41cde4434e4c1d2c24b6bcd151e9449e6f579ede9f9cad03",
+                "publicKey": "0b389b3b8324d513fb2a99e5dd6069c25f1722f00272127defb81ac1c7d620be"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 3,
+        "signatures": [
+            {
+                "signature": "214f00879b33eb130b5e5b4eeb890e80946eb8b406c5913ade708e365b4a548b150b1102528e53ab065aaf104397105c7f49ddaab4e54f1601d4837d35c09600",
+                "publicKey": "0b389b3b8324d513fb2a99e5dd6069c25f1722f00272127defb81ac1c7d620be"
+            }
+        ]
+    },
+    "policy": "820182018282051a0339498a8200581cd387a8ea45317a81e72597edc8668bdf15af2fda2e717a4803c4e0e5",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "https://strippercoin.io",
+        "signatures": [
+            {
+                "signature": "bacd1150ddd683cedb8c38c736f730901a19df0025b858911028e45416e4d6140b33694a0faa8b60b5945cf71e4e910cb2f6a342a7217605571c32827d8ce70e",
+                "publicKey": "0b389b3b8324d513fb2a99e5dd6069c25f1722f00272127defb81ac1c7d620be"
+            }
+        ]
+    }
+}

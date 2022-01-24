@@ -1,7 +1,7 @@
 {
     "subject": "5cf69e1ffa60c789dcd6083fc6b6536b58039d557ea42201a1d5a579486f646c72",
     "url": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "https://www.hodlerstaking.com/",
         "signatures": [
             {
@@ -11,7 +11,7 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "Hodler Coalition Coin",
         "signatures": [
             {
@@ -21,7 +21,7 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "HODLR",
         "signatures": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "Stake ₳DA with the Hodler Coalition. Save the World.",
         "signatures": [
             {
