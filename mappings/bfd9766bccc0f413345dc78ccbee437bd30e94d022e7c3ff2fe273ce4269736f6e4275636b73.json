@@ -7,10 +7,6 @@
             {
                 "signature": "b8cbf4b899e567e3081ce735d5ce5dbdff84bc32fd74e2667bed1961d0c60078ccfc21cf013611863140419e4f8cbff06f1225e7b4b37d00a42f125d74724208",
                 "publicKey": "26b0858db08fcc0e300ff8e12c4b5bfebdb1d5cdd4075bec4a501261f172b202"
-            },
-            {
-                "signature": "b8cbf4b899e567e3081ce735d5ce5dbdff84bc32fd74e2667bed1961d0c60078ccfc21cf013611863140419e4f8cbff06f1225e7b4b37d00a42f125d74724208",
-                "publicKey": "26b0858db08fcc0e300ff8e12c4b5bfebdb1d5cdd4075bec4a501261f172b202"
             }
         ]
     },
@@ -21,10 +17,6 @@
             {
                 "signature": "47a5f0d2a4e7b4c9a68de4af544fea8cfef5818ecef8fde59719a51345f741da6881717e2bdcc1085c62b39c56b930803d9203ee9890387b6b149d9991db3b0f",
                 "publicKey": "26b0858db08fcc0e300ff8e12c4b5bfebdb1d5cdd4075bec4a501261f172b202"
-            },
-            {
-                "signature": "47a5f0d2a4e7b4c9a68de4af544fea8cfef5818ecef8fde59719a51345f741da6881717e2bdcc1085c62b39c56b930803d9203ee9890387b6b149d9991db3b0f",
-                "publicKey": "26b0858db08fcc0e300ff8e12c4b5bfebdb1d5cdd4075bec4a501261f172b202"
             }
         ]
     },
@@ -32,10 +24,6 @@
         "sequenceNumber": 0,
         "value": "BiBu",
         "signatures": [
-            {
-                "signature": "e60c4d03a45afa623be40379f6441593452e85f1682539dfad444e4f767afa5f1872898a47cbc1d15096cc91ea2e9d2c9967339e068d5e24f362ed41b2bea902",
-                "publicKey": "26b0858db08fcc0e300ff8e12c4b5bfebdb1d5cdd4075bec4a501261f172b202"
-            },
             {
                 "signature": "e60c4d03a45afa623be40379f6441593452e85f1682539dfad444e4f767afa5f1872898a47cbc1d15096cc91ea2e9d2c9967339e068d5e24f362ed41b2bea902",
                 "publicKey": "26b0858db08fcc0e300ff8e12c4b5bfebdb1d5cdd4075bec4a501261f172b202"
@@ -50,19 +38,15 @@
             {
                 "signature": "a5f5c15532421d1616522a8c4fefa43672d3c38e7b2d7c4120940155656a1e39408ae2b189d9530a0463e5a9244e5a87b27618d9295505ac22b7a687553f0203",
                 "publicKey": "26b0858db08fcc0e300ff8e12c4b5bfebdb1d5cdd4075bec4a501261f172b202"
-            },
-            {
-                "signature": "a5f5c15532421d1616522a8c4fefa43672d3c38e7b2d7c4120940155656a1e39408ae2b189d9530a0463e5a9244e5a87b27618d9295505ac22b7a687553f0203",
-                "publicKey": "26b0858db08fcc0e300ff8e12c4b5bfebdb1d5cdd4075bec4a501261f172b202"
             }
         ]
     },
     "description": {
-        "sequenceNumber": 2,
+        "sequenceNumber": 0,
         "value": "In Bison we Trust | Initial mint = 500000000000000 | MAX supply = 500000000000000",
         "signatures": [
             {
-                "signature": "991b52bd37876f0b2fc05ddc2d5ac77e819d167dd2a0c34d6612191162adbd8da7b20d98d565d5209e737bc133e69fb19049550ffeafc4fabef90552df26df07",
+                "signature": "b21c37e0a5478443a1b8881e854d3ae0173de75fb85134e68491740cf2baa1641a0872003f76527f397ff90af1aad1dd644c4781d7d02dae5a7acb22702e6e0b",
                 "publicKey": "26b0858db08fcc0e300ff8e12c4b5bfebdb1d5cdd4075bec4a501261f172b202"
             }
         ]
