@@ -33,10 +33,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "The ROYAL memecoin that was destinedto rule the Cardano metaverse",
+        "value": "The ROYAL memecoin that was destined to rule the Cardano metaverse",
         "signatures": [
             {
-                "signature": "3a77cc77ad3bc18484ae3995f32992dd56e53b3e0b0665a759226fd20a6c2f3b32f072f7c59d67464b84a3c8a67216bcd9360ab8d1d7427e70a5c69b0a721f02",
+                "signature": "b0283956b25c950f93615e2fe78b12700f80b4ebed157f4ac24873241446b46983499e1d6006b31e610b835679216b35672bf273f8fae15a4da044ed9be93d08",
                 "publicKey": "36f51154048fd7b8f4f89ea87a62ba95dabfb0ed2d29edc3694417a1036a579a"
             }
         ]
