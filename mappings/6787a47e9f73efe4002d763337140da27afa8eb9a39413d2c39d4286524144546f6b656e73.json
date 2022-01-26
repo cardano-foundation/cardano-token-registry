@@ -1,0 +1,34 @@
+{
+    "subject": "6787a47e9f73efe4002d763337140da27afa8eb9a39413d2c39d4286524144546f6b656e73",
+    "name": {
+        "sequenceNumber": 1,
+        "value": "RADTokens",
+        "signatures": [
+            {
+                "signature": "29c2c358ec33fb461c96e49983d7a08a10ded4adc223b20b489952fb5e144c2266e0daeb1c616957c63d7b777e703b68f37ccd874e5fcef7e84a7fabf8ab3c08",
+                "publicKey": "1cebfb9b67ce3dde649d1ba84d99513f2b75cf00e824d6381e10fd2313f90ecf"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 1,
+        "value": "RAD",
+        "signatures": [
+            {
+                "signature": "8de24205f7f8bd58ffc593637f987b156b5fd7bcea64bae6c1ce4bc288c83da7597d796b3fb7a6f6dd64a0f68fa9fd8700c8348aa95ca416e49b6b2c15d6e906",
+                "publicKey": "1cebfb9b67ce3dde649d1ba84d99513f2b75cf00e824d6381e10fd2313f90ecf"
+            }
+        ]
+    },
+    "policy": "820182018282051a0314c8668200581c40c37e3193cba9540842a8a136ffe69d9eaef4260666358688a06bc1",
+    "description": {
+        "sequenceNumber": 1,
+        "value": "RAD Tokens - Cardania Digital Assets, ©2022",
+        "signatures": [
+            {
+                "signature": "d2894ccec4fd617ffa06edaeac78f5ea2c09a24225bf395404046b3c03195145214aa08dfcddcfb127c9fb629673d592306c4face499636446345b2ce6ff0d08",
+                "publicKey": "1cebfb9b67ce3dde649d1ba84d99513f2b75cf00e824d6381e10fd2313f90ecf"
+            }
+        ]
+    }
+}
