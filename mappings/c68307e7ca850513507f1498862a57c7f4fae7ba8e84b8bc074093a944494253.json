@@ -15,7 +15,7 @@
         "value": "DIBS",
         "signatures": [
             {
-                "signature": "672d1a6ef36f55f662f8a27b2e94c8e16200d563d4028c09af1fa816a9329dfbd963afd21f9cbeeb4da8864e711f9339934d061cca6391609f9980634f88d50a",
+                "signature": "7fee4c55b64b1f4c5e0d54fb32c74e44c5d2b6b5a1a725c1563a995fd6944ddb535c4c3efc5396f278d978903050f55c1dfb74893ac67c49d587c0de35666305",
                 "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
             }
         ]
@@ -56,7 +56,7 @@
         "value": "DIBS is a fast-paced logic game in which you have fun while attempting to steal DIBS Tokens from your pals.",
         "signatures": [
             {
-                "signature": "7050b8223d1b8f31dbcae031c33969b297531b818393a07712e58232312d3eca1dc1f6044b990dbd05f92e2de6160d2f808febfe015637a76e31868eca1da80d",
+                "signature": "cfc3ef4859cd5e5295537f53110361e5be063226d53e6173026900c135f239a34387a6250342fc57990001ea01b56198ce28d527f174911ceeba8421e9f39e0c",
                 "publicKey": "ca56db0923b8c19bcfd33af6257a87a17cf025cbd14539fc0105e397d4874f72"
             }
         ]
