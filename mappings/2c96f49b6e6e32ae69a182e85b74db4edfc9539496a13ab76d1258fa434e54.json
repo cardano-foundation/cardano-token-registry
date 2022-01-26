@@ -1,5 +1,15 @@
 {
     "subject": "2c96f49b6e6e32ae69a182e85b74db4edfc9539496a13ab76d1258fa434e54",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://cardanonativetoken.github.io/",
+        "signatures": [
+            {
+                "signature": "0885fac1f99b35b9dcae54af61e07a5364a1b30ea9d22f8d64e324189fdfbdd98cdf7db811494da29d1508ef210b4570eec484cf8fe9642424a1ceb519e8440d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "CardanoNativeToken",
