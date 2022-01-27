@@ -1,0 +1,54 @@
+{
+    "subject": "40bd871a85d2b5ff0efe75ef036e1f4ac17a4ad273c371b94501ae31464c414e4f",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://flanotoken.com",
+        "signatures": [
+            {
+                "signature": "8132509905ebf8cd6a96c9e9c5dc90d5884a3ef90bba39d75d749d4b301415144b7e09a3bcd592eaea0f6a10ac409e953830bfb9eb17d3fe65102e055cfe110a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "FlanoToken",
+        "signatures": [
+            {
+                "signature": "172c4397dd391d905985fcd073432a35c0b09acbe7b39ec3e838ced404bfc934a6426eeb8a340952c5b2e16e6773faedc56d0081d5df24d9bd12378707ea970f",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "FLANO",
+        "signatures": [
+            {
+                "signature": "a9bd494681b4892cc5ea7633a6f161c30152f4927a198ab82bbbf0725ee4c175ee77eb1030f3f41f0192d0850abfd4fcbc128a8bc28f095d2d2e3ea919961707",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "7e0c5f761992061c79f81ca7e077869dcf2b37758d04ee1d938157bd112395f3bd82ed469f9b68af80b53eed024bd88de3bba6a6080e951c313a736a0db48708",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a0311a8c58200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "FLANO utility token has trading and monetization features. Holders are able to Stake to generate additional yield. Liquidity providers will be paid in FLANO Tokens.",
+        "signatures": [
+            {
+                "signature": "e0393862a83b713d2d278c4fc55f5121a8692eeb5ce0f918b4df780634d6b4f0399682908bba4f8553a780c63fb50901dcdf1237587fd8277c635afd2d317801",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
