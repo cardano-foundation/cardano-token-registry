@@ -1,0 +1,24 @@
+{
+    "subject": "be10bf4c0caa83fb7c75fb0fcf981d439f7731f8c81b12a775b3593d4e45465459",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "NEFTY",
+        "signatures": [
+            {
+                "signature": "71a78a06f3223bbd2df89dc4e78286525115d162dde1cd9adc80ca44fbc9e7a8fc56ea06e59037a5b41edbb19d3b02c362611211ab630bb03a0f9f9137d54706",
+                "publicKey": "8f51dc0d79368ee423e35b5f919aaae89766f232d8955cb219dd57570d17f43f"
+            }
+        ]
+    },
+    "policy": "820182018282051a0300e9b28200581ce69025cd300255eebeb21d2db8acdb7d9b42a752fee52b6e565a6434",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "NEFTY token is the utility token used across multiple platforms developed by NeftyLabs.",
+        "signatures": [
+            {
+                "signature": "8e24d5864634d14a4ffe4b1971605525203a0da611e99e8b6054d099a5396c637e31b738836401c531a0a97d0a9c2caa2392ca788db18361d2900e7bccf47800",
+                "publicKey": "8f51dc0d79368ee423e35b5f919aaae89766f232d8955cb219dd57570d17f43f"
+            }
+        ]
+    }
+}
