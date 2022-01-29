@@ -32,7 +32,7 @@
     },
     "decimals": {
         "sequenceNumber": 1,
-        "value": 0,
+        "value": 1,
         "signatures": [
             {
                 "signature": "e30a50aa3a946ca7f2e22da3546359ec51e0e6e4a324d6f73dd9fcb965f02dbc39350df75909625a1d4074e323ea2d7bee45c45311d0629a78ae583a1b27f307",
