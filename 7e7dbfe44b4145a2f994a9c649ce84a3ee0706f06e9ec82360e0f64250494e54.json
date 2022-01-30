@@ -2,19 +2,19 @@
     "subject": "7e7dbfe44b4145a2f994a9c649ce84a3ee0706f06e9ec82360e0f64250494e54",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://beerhouse.io/",
+        "value": "https://beerhouse.io/"
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "PINT",
+        "value": "PINT"
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "PINT",
+        "value": "PINT"
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 0,
+        "value": 0
     },
     "policy": "7e7dbfe44b4145a2f994a9c649ce84a3ee0706f06e9ec82360e0f642",
     "logo": {
