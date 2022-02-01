@@ -20,6 +20,16 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "SUNDAE",
+        "signatures": [
+            {
+                "signature": "0d5c050ab535289135a5b0b37ff136e995b948db4732bb958ac63500bc7f6c6023f4f8414c23cc803e996a250edb995e8743e592b38f1a48a4f4dc4f26320105",
+                "publicKey": "d04bf126a9c638b999f4ce633b875eeae3c8326fb2f3475f2b5ccd2b55bc9912"
+            }
+        ]
+    },
     "decimals": {
         "sequenceNumber": 0,
         "value": 6,
