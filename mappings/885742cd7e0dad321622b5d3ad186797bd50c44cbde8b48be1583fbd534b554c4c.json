@@ -5,10 +5,6 @@
 			{
 				"publicKey": "dcf131d92e529688b5baa7170a7bf372f133c51497d3e6ae9b2721a5b1bfe8e8",
 				"signature": "73e4f8208c9d6776a46a52c0bb6f63fc4b4107f20e9cc00e7ae4ffc1afabf7d941f8379bce6814c3ce613936a8d97167f6d17a98ee744e3ed61f8598ad882b0e"
-			},
-			{
-				"publicKey": "dcf131d92e529688b5baa7170a7bf372f133c51497d3e6ae9b2721a5b1bfe8e8",
-				"signature": "73e4f8208c9d6776a46a52c0bb6f63fc4b4107f20e9cc00e7ae4ffc1afabf7d941f8379bce6814c3ce613936a8d97167f6d17a98ee744e3ed61f8598ad882b0e"
 			}
 		],
 		"sequenceNumber": 0,
@@ -19,10 +15,6 @@
 			{
 				"publicKey": "dcf131d92e529688b5baa7170a7bf372f133c51497d3e6ae9b2721a5b1bfe8e8",
 				"signature": "5db35fe7b6149a628eb6701eabfcfa1497c78c4de91a6442e759547388c4381a10282b6c9d8b0b08a698fbb97a816e22990b508af32a60ee8c14de40da2fc505"
-			},
-			{
-				"publicKey": "dcf131d92e529688b5baa7170a7bf372f133c51497d3e6ae9b2721a5b1bfe8e8",
-				"signature": "5db35fe7b6149a628eb6701eabfcfa1497c78c4de91a6442e759547388c4381a10282b6c9d8b0b08a698fbb97a816e22990b508af32a60ee8c14de40da2fc505"
 			}
 		],
 		"sequenceNumber": 0,
@@ -30,10 +22,6 @@
 	},
 	"description": {
 		"signatures": [
-			{
-				"publicKey": "dcf131d92e529688b5baa7170a7bf372f133c51497d3e6ae9b2721a5b1bfe8e8",
-				"signature": "6e9ae7402af20b6a24c274af0c78fa7caffa84e8d54ab28bc9d1a496fe060ee4df6c4af285c2a4305d652a74edd506d337ddc19fadd9c929f4cfc98419dcfc0d"
-			},
 			{
 				"publicKey": "dcf131d92e529688b5baa7170a7bf372f133c51497d3e6ae9b2721a5b1bfe8e8",
 				"signature": "6e9ae7402af20b6a24c274af0c78fa7caffa84e8d54ab28bc9d1a496fe060ee4df6c4af285c2a4305d652a74edd506d337ddc19fadd9c929f4cfc98419dcfc0d"
@@ -54,10 +42,6 @@
 	},
 	"ticker": {
 		"signatures": [
-			{
-				"publicKey": "dcf131d92e529688b5baa7170a7bf372f133c51497d3e6ae9b2721a5b1bfe8e8",
-				"signature": "febcca628a937621088518eb9f4e23c81bef68406d5ce507cd23c07f6e0a090fc233e8acf0a9a3d420dc25faba0628cbecf641d59f567a29354a374afef24003"
-			},
 			{
 				"publicKey": "dcf131d92e529688b5baa7170a7bf372f133c51497d3e6ae9b2721a5b1bfe8e8",
 				"signature": "febcca628a937621088518eb9f4e23c81bef68406d5ce507cd23c07f6e0a090fc233e8acf0a9a3d420dc25faba0628cbecf641d59f567a29354a374afef24003"
