@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Blinker Puzzle No. I.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "df126bfaf8bf35fc34476bee23a879b1803a68533b83a5bbd08be2cd3322fd9e063671a385a6d2547d73701343f31bf08cfb0d5e10fda1abf1d45e4f4411420d",
+                "signature": "6f44aa523f69a6f5d4726ea8e17e9fe86ff50024d1d9c0151376d1692ec337aee2c0b18e7720bde727d3f196e4c2deac74c8aa78f08e82d651b70ea087dd0f07",
                 "publicKey": "b2e0e6843c304eb2f0609887b0020b4a4bc0277ebbf51aad26f2e93ce85357e0"
             }
         ]
