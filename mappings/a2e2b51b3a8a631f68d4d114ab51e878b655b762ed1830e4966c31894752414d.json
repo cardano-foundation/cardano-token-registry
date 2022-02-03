@@ -1,7 +1,7 @@
 {
     "subject": "a2e2b51b3a8a631f68d4d114ab51e878b655b762ed1830e4966c31894752414d",
     "url": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "https://gram-token.one",
         "signatures": [
             {
@@ -29,7 +29,7 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "GRAM",
         "signatures": [
             {
@@ -57,7 +57,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "A unit of mass in the metric system equal to 1/1000 KILO.",
         "signatures": [
             {
