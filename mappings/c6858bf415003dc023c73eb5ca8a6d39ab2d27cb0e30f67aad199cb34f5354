@@ -1,0 +1,8 @@
+token-metadata-creator entry --init c6858bf415003dc023c73eb5ca8a6d39ab2d27cb0e30f67aad199cb34f5354
+  --name "OST" \
+  --description "One Small Town Token" \
+  --policy asset1xemcc2qscmtyflk8nfw8k447rkmwlkq6cyfrm9
+  --ticker "OST" \
+  --url "http://www.onesmalltoken.com" \
+  --logo "icon.png" \
+  --decimals 4   
