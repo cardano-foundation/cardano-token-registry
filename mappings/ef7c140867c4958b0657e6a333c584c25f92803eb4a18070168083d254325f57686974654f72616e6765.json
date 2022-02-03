@@ -1,11 +1,11 @@
 {
     "subject": "ef7c140867c4958b0657e6a333c584c25f92803eb4a18070168083d254325f57686974654f72616e6765",
     "name": {
-        "sequenceNumber": 0,
-        "value": "White Orange - Tier II - Ray Suit",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "f9ff36030c283409dd30202415177ec1b4aa0c0b62495908a7fb8cd47f6f664280bffbef53300077591db430aa322918365ebe2fb0b96ab1d8be9bb60929570a",
+                "signature": "f85f193c6b098c2e6d5d122df98096f8ec3f2dca75e89c93209ca073f770e4cd28cf6406e66352619073804ae11f33c7c5dcb5de1668d1ea4e78e8f05e993f08",
                 "publicKey": "5bcb18de8637e5b8eac1e206f2ee6a9b1b9bebe4315e7c9e4a74c9ebee8b9e01"
             }
         ]
