@@ -10,16 +10,6 @@
         "sequenceNumber": 0,
         "value": "ItchyButt"
     },
-    "url": {
-        "signatures": [
-            {
-                "publicKey": "eacd4d45dced12c99b02cfc98d4f54f6b38186061579a0d558b9b9eaad9b2782",
-                "signature": "ddec2bafae8401a6ebf6352c768030505a57937d801a129e469033626a39165b2161d6e3a6be1cf8d4d76e38b7103864cb8c2fd5811dd6bbf1602a981a2ff80d"
-            }
-        ],
-        "sequenceNumber": 0,
-        "value": "https://itchybutt.io/"
-    },
     "description": {
         "signatures": [
             {

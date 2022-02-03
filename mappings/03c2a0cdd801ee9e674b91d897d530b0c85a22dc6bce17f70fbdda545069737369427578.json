@@ -10,16 +10,6 @@
         "sequenceNumber": 0,
         "value": "PissiBux"
     },
-    "url": {
-        "signatures": [
-            {
-                "publicKey": "eacd4d45dced12c99b02cfc98d4f54f6b38186061579a0d558b9b9eaad9b2782",
-                "signature": "5f391029192491c4b83df777bde001ed6f16d37ed68c6ba06824dcb6f7b412ac4ffc0ce97741df79f8ac6dbdb170eb773cc5045588a78ecc12236ae0c631be05"
-            }
-        ],
-        "sequenceNumber": 0,
-        "value": "https://pissibux.io/"
-    },
     "description": {
         "signatures": [
             {
