@@ -5,11 +5,21 @@
         "value": "Blink",
         "signatures": [
             {
-                "signature": "f0490a6d5314531ae48d458f528496a27645df04f3cfb2e989e7176531308382af2b4aa6eae42075cb4c5f0ea4d68536c93a1a9d3cbe2846c06b82d0b14d3301",
+                "signature": "4eb6fa9eb92c7a6144e9e1598f38b5281cb95e798d198fefc3ed1843f7f8d6a76cd9b6a0d6075b5cb7a929b003c0c3644229feeb2e5a2ba721f29cea07e2ba0f",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             },
             {
                 "signature": "f0490a6d5314531ae48d458f528496a27645df04f3cfb2e989e7176531308382af2b4aa6eae42075cb4c5f0ea4d68536c93a1a9d3cbe2846c06b82d0b14d3301",
+                "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "BLNK",
+        "signatures": [
+            {
+                "signature": "2f9a0e3925bdd27ab407b350ffb070d1ad9dcfaca565d2865943b5f1d72e942a2588872e57d9432858580716d98f18801daf350bd6865bd65b117b674d1f350c",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             }
         ]
@@ -44,11 +54,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "A payment token to be used for services that may or may not include technical analysis of digital security systems.",
         "signatures": [
             {
-                "signature": "c8529903956d79a2c04eea7b2d6fbedb5acc73572119c2ee55f82eb57669ab79830eda578e40fa0681daa990ebc32c268798a1a26375bd7b014b2a9212b10008",
+                "signature": "bd36c6d3c272fddd03515d24189dc7fe58cc31abd6653b9a9eb560ca5f36b83d2e22e5e1d263158d58c9f376884dd4f978f1f12e98d30096d6be24a4d2ed4e07",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             },
             {
