@@ -5,21 +5,11 @@
         "value": "Blink",
         "signatures": [
             {
-                "signature": "4eb6fa9eb92c7a6144e9e1598f38b5281cb95e798d198fefc3ed1843f7f8d6a76cd9b6a0d6075b5cb7a929b003c0c3644229feeb2e5a2ba721f29cea07e2ba0f",
+                "signature": "f0490a6d5314531ae48d458f528496a27645df04f3cfb2e989e7176531308382af2b4aa6eae42075cb4c5f0ea4d68536c93a1a9d3cbe2846c06b82d0b14d3301",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             },
             {
-                "signature": "f0490a6d5314531ae48d458f528496a27645df04f3cfb2e989e7176531308382af2b4aa6eae42075cb4c5f0ea4d68536c93a1a9d3cbe2846c06b82d0b14d3301",
-                "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
-            }
-        ]
-    },
-    "ticker": {
-        "sequenceNumber": 0,
-        "value": "BLNK",
-        "signatures": [
-            {
-                "signature": "2f9a0e3925bdd27ab407b350ffb070d1ad9dcfaca565d2865943b5f1d72e942a2588872e57d9432858580716d98f18801daf350bd6865bd65b117b674d1f350c",
+                "signature": "4eb6fa9eb92c7a6144e9e1598f38b5281cb95e798d198fefc3ed1843f7f8d6a76cd9b6a0d6075b5cb7a929b003c0c3644229feeb2e5a2ba721f29cea07e2ba0f",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             }
         ]
@@ -33,7 +23,7 @@
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             },
             {
-                "signature": "3a9a266aff82e8e7be3ad60fe971ef9f5653d582a0d4c28a8973ca7f9dd365513643cc530d0ea86d052218c63c4797e303077566cec1600dc2e3b3287bef6b04",
+                "signature": "d39f263fc89a1e767de3dc5a26c7803bbc3de568e1959c9a0ecc691167910a87342d76ccaffeda5ece03c9ae0df561564a4fffa3e1ce6c82b972e3fab6d1f203",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             }
         ]
@@ -48,7 +38,7 @@
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             },
             {
-                "signature": "f5a6af556bc679fcaa43ec74bd09179c2abc5a73cf88daf9b0e0ec0d5958d99fd21ac49d51ad3233559938823b9960156df499175e50f6b6d823294463e0190f",
+                "signature": "9650da60625a75cb42d848a7c0a6f91be12716cb6197625b38b3067fbdea85d412f84d3864df1356b8073eff6926ce1c8c8055f74a01c392d17c0e6fbf870a0b",
                 "publicKey": "ee6117668a16fab5b1191322047764623e1ef25f30a2ac7a03174d019ab2d729"
             }
         ]
