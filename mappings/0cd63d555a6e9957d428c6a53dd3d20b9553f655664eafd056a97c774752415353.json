@@ -1,0 +1,44 @@
+{
+    "policy": "820182018282051a02c00f9e8200581c9adc3e5e9b15876fea6900d6ec840d8d64eced5283668337efe9c980",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "ed1604e7591c85ba9e825304944a767388beda7884c145c85742bc13d6ae6e35",
+                "signature": "424076d62229375ed77aff204c5300d64d14fb052039337f90b4c79b0ba9dffb1e83bb989b5e3b850c3f1525d5e0df8d0a23168bac54792d1a154cd24ee80a00"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "GRASS"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "ed1604e7591c85ba9e825304944a767388beda7884c145c85742bc13d6ae6e35",
+                "signature": "76a08dd56077fe62fd153a4e70ea5a1376519b921a6c861dc5d3f28ca25a99ddf790f9c8d4881aa71cea264a16ec50bb1e3f3f345c6fde428610a8d09128a001"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://goattribe.io"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "ed1604e7591c85ba9e825304944a767388beda7884c145c85742bc13d6ae6e35",
+                "signature": "fb70d950992fe363650fdaddc5cbf827c06cbbd2f7311476016da0baf9ec0559ba1be098922e34e1e55463bfc328bcf65b6e9acaddc25da39744b1b51193f606"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Grass Token is a native asset on the Cardano blockchain that powers the GOAT Tribe ecosystem"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "ed1604e7591c85ba9e825304944a767388beda7884c145c85742bc13d6ae6e35",
+                "signature": "9167d2a72a991760ec3d44b8583e334ea477a3e35bed618d3d6b638937ddf1342ba21c91928581950893e458546336ebdef3df52401847fb703f432c323fa606"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "GRASS"
+    },
+    "subject": "0cd63d555a6e9957d428c6a53dd3d20b9553f655664eafd056a97c774752415353"
+}
