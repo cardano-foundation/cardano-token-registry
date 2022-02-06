@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Metropolitano rarity 1/5",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "27b68f3df55724b9c3e3fb4d79bfa4bbec355a96f4d6c2d09b0aae64013767d06177b71b2c3ee96b666efd1347b40f5b915d540a1c3d486d4d02c9e1f8b01107",
+                "signature": "e3a375be61b5e49be1ad7e419b4f96a78a4a9e752b45cf816dbf60cb67ff412252237ba981d8a8f530c8dddb37d61304fdf5f00e5d84701177fa44b14a41130c",
                 "publicKey": "3b9e3b7d3ed965896118d4abdf07464fb6050d2c4acc4932209178d19d130b71"
             }
         ]
