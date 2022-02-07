@@ -21,11 +21,21 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "TARCH",
+        "sequenceNumber": 1,
+        "value": "STRCH",
         "signatures": [
             {
-                "signature": "bbfcf5217441eeaec03c3753dec390454bdb2fee51c8bf18e03dede9636443e61d033fb4a92a3dde9880a63a47f5aac05994511d5a0770e604a7f10cb3851700",
+                "signature": "ce8e0fd02f7b66eea1b8a6bb81d661d9b125fca13afed84b0dfd0419d790f9ffa19e728058775d68e367d0b3f4411959dee5963fb128eca42b40b111e4da690d",
+                "publicKey": "95d2f577a068693c52dd9e55fa01641dcb9287faccecf3c6f00b4175548504bd"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "e3e10bd692684d4cf730856f48bb45a201aabcabc6d51968050aaffcf237d113816c7f9cbe4293905d8431e1f81f7da7112fdc22f3635bdbd7d51378c55e6c02",
                 "publicKey": "95d2f577a068693c52dd9e55fa01641dcb9287faccecf3c6f00b4175548504bd"
             }
         ]
