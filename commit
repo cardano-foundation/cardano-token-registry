@@ -1,0 +1,3 @@
+$ git add mappings/baa83...d65.json
+$ git commit -m "Your Token Name"
+$ git push origin HEAD
