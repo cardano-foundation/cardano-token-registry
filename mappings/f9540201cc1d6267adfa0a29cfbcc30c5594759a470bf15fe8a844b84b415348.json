@@ -1,4 +1,4 @@
- {
+{
     "subject": "f9540201cc1d6267adfa0a29cfbcc30c5594759a470bf15fe8a844b84b415348",
     "url": {
         "sequenceNumber": 0,
@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Cardano Kash is a token awarded to delegators in the KASH stake pool.",
+        "value": "Cardano Kash is a token awarded to delegators in the KASH stake pool",
         "signatures": [
             {
-                "signature": "b1d47cbbfb61f27057b1089f44f253edc97346dae7df802f9ecd5160cbe8e6a440bb48fea65e21ef5a4e62f570e9bf08ed9db4fdeb12112a1b418d32954f860d",
+                "signature": "4d570ac6b4a36f42f171b0513063119655c285ac11930e1e3333d9acadec3f1e03f95eeafc0e266d0668d071d97933c4e0bb8fa8be836432a77b5b1540519c08",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
