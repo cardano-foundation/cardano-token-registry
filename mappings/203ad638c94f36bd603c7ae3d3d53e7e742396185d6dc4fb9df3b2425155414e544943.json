@@ -1,7 +1,7 @@
 {
     "subject": "203ad638c94f36bd603c7ae3d3d53e7e742396185d6dc4fb9df3b2425155414e544943",
     "url": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "https://quanticnetwork.github.io/",
         "signatures": [
             {
@@ -11,7 +11,7 @@
         ]
     },
     "name": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "Quantic Network",
         "signatures": [
             {
@@ -21,7 +21,7 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "QTC",
         "signatures": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "Assets Tokenization Platform from Real World to Metaverse. Development efforts on Quantum Computing Security for Blockchain Networks Protocols.",
         "signatures": [
             {
