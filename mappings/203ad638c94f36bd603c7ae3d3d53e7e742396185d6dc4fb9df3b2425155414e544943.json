@@ -4,11 +4,11 @@
         "signatures": [
             {
                 "publicKey": "1a28a78718c94ce101f85969655a3015460f23d6d41380a54da2efb8d1e63bda",
-                "signature": "d760e739656e6c04c3c408ec95aaa48b21d0265eb744f686b810f6025740bb9793610f6f50ad3bc2de0cd87f0b348fb04800a846998ab82158a9a2f0e88e360a"
+                "signature": "a1f2772a0d50587154700edf9b43852d5a61eb6d94cf89df6231bfe198a9c0bf9dca52188c238c731f7e50db2294f3f62f0df75c44b5a3418c489803c7e46f0b"
             }
         ],
         "sequenceNumber": 1,
-        "value": "QUANTIC"
+        "value": "Quantic Network"
     },
     "url": {
         "signatures": [
