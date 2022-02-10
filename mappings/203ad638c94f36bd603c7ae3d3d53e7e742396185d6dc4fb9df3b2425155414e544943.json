@@ -24,11 +24,11 @@
         "signatures": [
             {
                 "publicKey": "1a28a78718c94ce101f85969655a3015460f23d6d41380a54da2efb8d1e63bda",
-                "signature": "4ef53f848627b13c30f183b1b7b44e390c90f187af278f3fa775b02bed9a95e989765b3d82a61263b9c436d8e30112d2cb62f3a4fec383f548911a0d26080c01"
+                "signature": "bb4bc4cc14e95ef6abe0d7998e80a2b4be89dccc5390858e6d701f9dbddbb40d81103a0def5288a6970ac52a25f8f9a5435731bada1b04db31c4e8ecfcc08508"
             }
         ],
         "sequenceNumber": 0,
-        "value": "A Real Assets Tokenization Platform Based on Quantum Computing on Blockchain Networks."
+        "value": "A Platform for Real World and Metaverse Assets Tokenization Researching Quantum Computing for Blockchain Networks."
     },
     "logo": {
         "signatures": [
