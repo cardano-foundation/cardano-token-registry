@@ -24,11 +24,11 @@
         "signatures": [
             {
                 "publicKey": "1a28a78718c94ce101f85969655a3015460f23d6d41380a54da2efb8d1e63bda",
-                "signature": "b1601fe1c4976b4d84440f9c0ef8ee81e17e4a8adace21d9f6040be61b2510a2ea9a27afd92b67461ecd7bed4beb7fcec1b83bedea23f7b08b6726b19d30f805"
+                "signature": "f8fdf794e322a8e556974079f74bce58e2c5874f788a703d419b205b3e3d5a443ab00f3915591e7fc164f210c3b3d7646bd16891ef73f658f43131b448f8cf0f"
             }
         ],
         "sequenceNumber": 1,
-        "value": "Real World and Metaverse Assets Tokenization Researching Quantum Computing for Blockchain."
+        "value": "Assets Tokenization Researching Quantum Computing."
     },
     "logo": {
         "signatures": [
