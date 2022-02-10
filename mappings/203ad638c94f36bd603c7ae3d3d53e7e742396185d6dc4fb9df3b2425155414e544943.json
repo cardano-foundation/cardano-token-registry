@@ -4,11 +4,11 @@
         "signatures": [
             {
                 "publicKey": "1a28a78718c94ce101f85969655a3015460f23d6d41380a54da2efb8d1e63bda",
-                "signature": "a1f2772a0d50587154700edf9b43852d5a61eb6d94cf89df6231bfe198a9c0bf9dca52188c238c731f7e50db2294f3f62f0df75c44b5a3418c489803c7e46f0b"
+                "signature": "d760e739656e6c04c3c408ec95aaa48b21d0265eb744f686b810f6025740bb9793610f6f50ad3bc2de0cd87f0b348fb04800a846998ab82158a9a2f0e88e360a"
             }
         ],
         "sequenceNumber": 1,
-        "value": "Quantic Network"
+        "value": "QUANTIC"
     },
     "url": {
         "signatures": [
@@ -17,18 +17,18 @@
                 "signature": "0df58301a1e1d82b0d29cb667ffe9219cc86667bf6ff00757e4e46b1cc05f4842e71850b2e812e68e598121384177dec7553acfeb9ab82dea8752027be83fe0f"
             }
         ],
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "https://quanticnetwork.github.io/"
     },
     "description": {
         "signatures": [
             {
                 "publicKey": "1a28a78718c94ce101f85969655a3015460f23d6d41380a54da2efb8d1e63bda",
-                "signature": "4ef53f848627b13c30f183b1b7b44e390c90f187af278f3fa775b02bed9a95e989765b3d82a61263b9c436d8e30112d2cb62f3a4fec383f548911a0d26080c01"
+                "signature": "f8fdf794e322a8e556974079f74bce58e2c5874f788a703d419b205b3e3d5a443ab00f3915591e7fc164f210c3b3d7646bd16891ef73f658f43131b448f8cf0f"
             }
         ],
         "sequenceNumber": 1,
-        "value": "A Real Assets Tokenization Platform Based on Quantum Computing on Blockchain Networks."
+        "value": "Assets Tokenization Researching Quantum Computing."
     },
     "logo": {
         "signatures": [
@@ -47,7 +47,7 @@
                 "signature": "defa062c794a3290fa4cdb19d442a08f83230297a4f2234b5ea144ee5ab133cbb2886f26507c11dbbf18bab3d6da294b0b78958cb72e606c2011473f6dfb4f08"
             }
         ],
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "QTC"
     },
     "subject": "203ad638c94f36bd603c7ae3d3d53e7e742396185d6dc4fb9df3b2425155414e544943",
