@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Starch Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "a657d4144228dd89b865b04567acb1247d1d038eb5dd33fbe58abe74dba80a607a36fcb2a78b8a5c420af5c196e03346678f47bcd28b17fb2aaab38642060f03",
+                "signature": "ae4ffb680e056d31ef43156935b44569c2270b324007375bc8652b76cbdedbe30ddfbdae634e47ceccb4e701672415095b626d8381022ed4838f5ad522a1c000",
                 "publicKey": "95d2f577a068693c52dd9e55fa01641dcb9287faccecf3c6f00b4175548504bd"
             }
         ]
