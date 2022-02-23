@@ -1,11 +1,11 @@
 {
     "subject": "db43efe8f97fcd7cac91b549192787d0d40b3dbf1ccf01a75db77bdd476c6f7661727279",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://glovarryio707.gitbook.io/untitled/usdglov-token/the-glovarry-usdglov-token-and-its-utilities",
+        "sequenceNumber": 1,
+        "value": "https://glovarryio707.gitbook.io",
         "signatures": [
             {
-                "signature": "c8cc331521ddb7de527687fd349ecd2c5a10eeba62c5b92cd97ede0008c74c793acbf50cee747e9827a2ff9e3b1ae307fde7c95560f3dc908d2dde944146bf0f",
+                "signature": "69670921489af1e406197869103726bf513989f83163c9455e60d202f7aaab04961a640a74bf205319fa41b32d09a5a835f0557ee5edbbe9fb8c4782c457f908",
                 "publicKey": "5a0cc8b801265a399e1083d81d92d86c80bc3dfe3a84ae2e8803bad24e65d544"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": " is a Cardano Native Token deployed on the Cardano Network. GLOV has a total supply of 500 MILLION, With , you will be granted the ability to interact with our platform on the Cardano network, staking, minting and collecting NFTs, Swapping, providing liquidity.",
+        "sequenceNumber": 1,
+        "value": "GLOV is a Cardano Native token deployed on the Cardano Network. GLOV has a total supply of 500 MILLION. With GLOV, you will be granted the ability to interact with our platform on the Cardano network, staking, minting and collecting NFTs, Swapping, providing liquidity.",
         "signatures": [
             {
-                "signature": "bcd877296a5d19450112a945eb23373f1e13ea4be068416ffffc148035e70fadbb286b69be88d96f655ef2430cd3b42fd78b4665b439631e10d810bddd2d3102",
+                "signature": "40f4ed34e55400135f17018e2ef1da1e91e6940bcf5d4488bd855900689e052ed5ab56f3b9df012500c60cbe6a1369536b35feca23067bdcaa647c2b7b10d901",
                 "publicKey": "5a0cc8b801265a399e1083d81d92d86c80bc3dfe3a84ae2e8803bad24e65d544"
             }
         ]
