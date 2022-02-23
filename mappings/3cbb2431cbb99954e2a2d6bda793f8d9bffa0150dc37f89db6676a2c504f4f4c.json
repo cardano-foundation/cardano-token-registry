@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Tool Kash",
+        "sequenceNumber": 1,
+        "value": "Pool Kash",
         "signatures": [
             {
-                "signature": "bcbaffba8c8392ec9c52014143a54f5f6f17e964bd7e64f2e32ab94d09acc49b02f36788d95330669ae69d40857af7ea0cb19706f9e2e7a4cdcdfe7bb8a69c00",
+                "signature": "74dd338bb2a48edab54d782a17d878fe7942bf7a64b987cbf7437de6ad11b9acd1c1b862d0c4df1adda5bd83099cdd6be3842e56f36deed0e57c824b0b252c00",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
