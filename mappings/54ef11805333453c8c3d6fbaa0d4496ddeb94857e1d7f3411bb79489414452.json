@@ -1,0 +1,24 @@
+{
+    "subject": "54ef11805333453c8c3d6fbaa0d4496ddeb94857e1d7f3411bb79489414452",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "ADR",
+        "signatures": [
+            {
+                "signature": "ed1244050e400d34cff7d59cce8ef1b7e3fbb3b9970d16f0e5622cc777b4a9a85e6c824ad06dfccdf7171562f2c3fa71f33e0bababe3cd9c8b4a8a73d002ad09",
+                "publicKey": "9f0066009acec39a14d5232bfce08a1ba47d4de5d4c4c7ff43f3a4d6321a2d4f"
+            }
+        ]
+    },
+    "policy": "820182018282051a033da3b58200581cde7ee20636c1a3de29aefc00a31447d1400d8fc9b2ed7d0af096c5c3",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Revenue share token issued by Loxe Inc.",
+        "signatures": [
+            {
+                "signature": "39b85414fc0c3dd88addd687b4bb302ebe0446c241d43d95977bc78d1846db9411d0519622b6d6239c0c7ac1f1a54c68915ecd05ac7a80e19d78a5b55b34a905",
+                "publicKey": "9f0066009acec39a14d5232bfce08a1ba47d4de5d4c4c7ff43f3a4d6321a2d4f"
+            }
+        ]
+    }
+}
