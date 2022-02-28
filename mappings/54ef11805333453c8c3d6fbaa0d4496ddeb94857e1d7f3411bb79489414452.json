@@ -1,5 +1,15 @@
 {
     "subject": "54ef11805333453c8c3d6fbaa0d4496ddeb94857e1d7f3411bb79489414452",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://loxeinc.com/",
+        "signatures": [
+            {
+                "signature": "1ad937d5616ae4fc87472f275c07c72849bb44755953a23a8ade7661891e15e4f10057c6d2a0934b9d3b8228cc25066e19d5b6e2130e8ca18b2873ee7bdae800",
+                "publicKey": "9f0066009acec39a14d5232bfce08a1ba47d4de5d4c4c7ff43f3a4d6321a2d4f"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "ADR Token",
