@@ -1,0 +1,26 @@
+{
+   a561173b1e3f145933f94351f79e16b6f90dc8d549ac6f26867233c0: {
+      ADAPE: {
+         description: "",
+         files: [
+            {
+               mediaType: "image/png",
+               name: "ADAPE",
+               src: "ipfs://QmQvnhAK67vdm5gQZwEBh5n6yGZNhBZFJcqKeCJnAR6ULj"
+            }
+         ],
+         image: "ipfs://QmQvnhAK67vdm5gQZwEBh5n6yGZNhBZFJcqKeCJnAR6ULj",
+         mediaType: "image/png",
+         minting: {
+            blockchain: "cardano",
+            mintedBeforeSlotNumber: 54440382,
+            type: "time-lock-policy"
+         },
+         name: "ADAPE Token",
+         symbol: "ADAPE",
+         tokenType: "token",
+         totalSupply: 28000000
+      }
+   },
+   version: "1.0"
+}
