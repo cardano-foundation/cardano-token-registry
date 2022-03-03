@@ -1,0 +1,74 @@
+{
+    "policy": "820182018282051a03423df28200581c2cbe7b8aae4b6a8d844f19b32dd1ce91211e59535c98358d306b38d3",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "9080d59a110e091eee255ec7079a5376f2eb75b233ca04c15ef80d1253880ddd",
+                "signature": "85e511d2dbaa6c6a4437f725dfa4cc5b1c4f1fe956a0250c8735dd7104c5ce4b9f248ee031dd18363e0cc0e6f2674ec1ad04fc45fad29e95a0115fd3886acb07"
+            },
+            {
+                "publicKey": "9080d59a110e091eee255ec7079a5376f2eb75b233ca04c15ef80d1253880ddd",
+                "signature": "85e511d2dbaa6c6a4437f725dfa4cc5b1c4f1fe956a0250c8735dd7104c5ce4b9f248ee031dd18363e0cc0e6f2674ec1ad04fc45fad29e95a0115fd3886acb07"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Banana"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "9080d59a110e091eee255ec7079a5376f2eb75b233ca04c15ef80d1253880ddd",
+                "signature": "132527ab4eafb931ba8f79e6b26f9b0e5a42d983c352b57487478eedabcc507a799dd890a82dc3bef752312085da0b0016d2b522399df2e8b62efe9f31f0d50d"
+            },
+            {
+                "publicKey": "9080d59a110e091eee255ec7079a5376f2eb75b233ca04c15ef80d1253880ddd",
+                "signature": "132527ab4eafb931ba8f79e6b26f9b0e5a42d983c352b57487478eedabcc507a799dd890a82dc3bef752312085da0b0016d2b522399df2e8b62efe9f31f0d50d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://Cardanoapes.club"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "9080d59a110e091eee255ec7079a5376f2eb75b233ca04c15ef80d1253880ddd",
+                "signature": "655eb260daec73c2528e3a52509c8195db650919a95c2e5a99a8df08c59aff4b14c8d43c50e31b5a5c368d1d0d464bc30a154e007a31d9f59499a7303bdac005"
+            },
+            {
+                "publicKey": "9080d59a110e091eee255ec7079a5376f2eb75b233ca04c15ef80d1253880ddd",
+                "signature": "655eb260daec73c2528e3a52509c8195db650919a95c2e5a99a8df08c59aff4b14c8d43c50e31b5a5c368d1d0d464bc30a154e007a31d9f59499a7303bdac005"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Banana Token for Cardanoapes"
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "9080d59a110e091eee255ec7079a5376f2eb75b233ca04c15ef80d1253880ddd",
+                "signature": "18e0f893b29b10de54ec5ab096239f72f0c3f9677e92e199907eb6503c4e1100f592a5dc76ffefefe71595e37d2d91bf4f6b18d40d1af6bef41e80b2375fae03"
+            },
+            {
+                "publicKey": "9080d59a110e091eee255ec7079a5376f2eb75b233ca04c15ef80d1253880ddd",
+                "signature": "18e0f893b29b10de54ec5ab096239f72f0c3f9677e92e199907eb6503c4e1100f592a5dc76ffefefe71595e37d2d91bf4f6b18d40d1af6bef41e80b2375fae03"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAABcSAAAXEgFnn9JSAACnVUlEQVR4nO39d8AtSVUuDj+rqsMObzr5TGLywJCDCgJDEBQUGNIMIAIqoHAlDIhECRIlCxeQq6IICM7MDxiS3itBQJJ+SoYZmJxPDm/coburvj+qqrs>
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "9080d59a110e091eee255ec7079a5376f2eb75b233ca04c15ef80d1253880ddd",
+                "signature": "394ffc62f1f2342cb0d48ac90235af2b4b604ea1b1acf9b87a807762e4ddbecd471f1400ef8eaa2d0db286240b8736e894b98525f84d292e9dfbf64a1f54c30e"
+            },
+            {
+                "publicKey": "9080d59a110e091eee255ec7079a5376f2eb75b233ca04c15ef80d1253880ddd",
+                "signature": "394ffc62f1f2342cb0d48ac90235af2b4b604ea1b1acf9b87a807762e4ddbecd471f1400ef8eaa2d0db286240b8736e894b98525f84d292e9dfbf64a1f54c30e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "BNA"
+    },
+    "subject": "127fb4d51dc05d6b8a58aba62c1e0d9a3f6a702026a22059f434e632"
+}
