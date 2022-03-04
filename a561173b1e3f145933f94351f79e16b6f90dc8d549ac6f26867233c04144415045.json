@@ -2,10 +2,10 @@
     "subject": "a561173b1e3f145933f94351f79e16b6f90dc8d549ac6f26867233c04144415045",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://github.com/SapSalGaeToken/XGAE",
+        "value": "https://twitter.com/adapetoken",
         "signatures": [
             {
-                "signature": "0dfbeee712cce456b5acd23b4bf8acf298dcc149f67435fa136cbc956d2f42659796b25f266793296ddc16ce89a6e539776475a17654b63bdda7ec005e549e04",
+                "signature": "d003884c738ba51189b72d5b2bf432365dd9e0bec7e5a3da5c0ea99f4b9f86bf9a88382a3c864897b66e29894bd07c0afe0dc5988d8863559e4a2071b3ee7f04",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "A GameFi and NFT-as-a-Service Platform for Play & Earn Gam",
+        "value": "Cardano Meme Token",
         "signatures": [
             {
-                "signature": "78e784b2e8f48fd55ec1462b63f92d31fc1e29628cf0ad3586bd9512d0e929860843f2ef99355880d7d573f560bf90cd81cbbe27c362053c49cecb59d0510506",
+                "signature": "4d4029e905c2ea8fe8eacc9d92db2095daf4165e4e4f9dc78d46ff7a070ecb6ce2c55fe78944820cf56774f9d6813c71b6745f0998d99e2c5f7de0a596d78a0b",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
