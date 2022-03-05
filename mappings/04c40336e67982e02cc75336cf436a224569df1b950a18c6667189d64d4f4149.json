@@ -1,43 +1,31 @@
 {
     "subject": "04c40336e67982e02cc75336cf436a224569df1b950a18c6667189d64d4f4149",
     "url": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "https://moaipool.com/",
         "signatures": [
             {
-                "signature": "b9b722bef67aa784b8a49ec6d32d80e2d794e80c5314b40f035013a61394a0ce31d35b0f40ecdacbf74e4b3c8e1e640156666ffe60e8f4ef12ac3cad63d6f009",
-                "publicKey": "fb294d0fb73b6b5a1700558a21c93d9ed07c10bb5c08787fa43a913e9008a12d"
-            },
-            {
-                "signature": "b9b722bef67aa784b8a49ec6d32d80e2d794e80c5314b40f035013a61394a0ce31d35b0f40ecdacbf74e4b3c8e1e640156666ffe60e8f4ef12ac3cad63d6f009",
+                "signature": "6b9ac83d8622ada47969d9456f4f39c68241cefa0909a2b4b231e72e13589422c37b557eb6b3cc3c5255d9f0d37610e165f48a08f58e511fb7d6139c6dcb0a0c",
                 "publicKey": "fb294d0fb73b6b5a1700558a21c93d9ed07c10bb5c08787fa43a913e9008a12d"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "MOAI Token",
         "signatures": [
             {
-                "signature": "9b3b2d05f7fee44f397b7d7c8968db4dc9b2c5b97fc1510874a49f9e4125427a43fc501c41a2786f1d386ed0fd63f632a5182fd40c70fed337cda4ecfe14730b",
-                "publicKey": "fb294d0fb73b6b5a1700558a21c93d9ed07c10bb5c08787fa43a913e9008a12d"
-            },
-            {
-                "signature": "9b3b2d05f7fee44f397b7d7c8968db4dc9b2c5b97fc1510874a49f9e4125427a43fc501c41a2786f1d386ed0fd63f632a5182fd40c70fed337cda4ecfe14730b",
+                "signature": "73a8f4464fd7be643c2894a8ffc01951ad9ab7c4051cf19cda71bc74dd47e80e10a60455a335025d4d9b225ee5b2fa8bcfd197cdede277a15196dbae552abc03",
                 "publicKey": "fb294d0fb73b6b5a1700558a21c93d9ed07c10bb5c08787fa43a913e9008a12d"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "MOAI",
         "signatures": [
             {
-                "signature": "ee1506d14a7a4b60773d95192f9fd5c0f24b7d11b42eb6a8fefcaa8c08a27b3087865faeb0bbcc0dd9e26d6e0ba1bd60ae2f9da152026f0405dabdb92a61b20c",
-                "publicKey": "fb294d0fb73b6b5a1700558a21c93d9ed07c10bb5c08787fa43a913e9008a12d"
-            },
-            {
-                "signature": "ee1506d14a7a4b60773d95192f9fd5c0f24b7d11b42eb6a8fefcaa8c08a27b3087865faeb0bbcc0dd9e26d6e0ba1bd60ae2f9da152026f0405dabdb92a61b20c",
+                "signature": "beae99d458b70945eafbf587e5dd148274ddca340bb243668355bb4037da2fcf9838a4118102c47544e8da2aea26b6868ef1f50553094130ca4d5b0d94a08508",
                 "publicKey": "fb294d0fb73b6b5a1700558a21c93d9ed07c10bb5c08787fa43a913e9008a12d"
             }
         ]
@@ -49,23 +37,15 @@
             {
                 "signature": "efc38ccafee6861ddb8c36c16218a11ebeffdbb393b04764b6783313166202d97b535ddcac8ab3baf8c73a18cb26a5273c54ed4efcfa0655ad8bbf136f967d09",
                 "publicKey": "fb294d0fb73b6b5a1700558a21c93d9ed07c10bb5c08787fa43a913e9008a12d"
-            },
-            {
-                "signature": "77565da1eae76737316ec111d8f80004b22d8ad720ee3f55be2b1a49e98b5c4bace470320341e8c43421c46ce02171f668ca7d073ba12f4c16fdc4e08825e70d",
-                "publicKey": "fb294d0fb73b6b5a1700558a21c93d9ed07c10bb5c08787fa43a913e9008a12d"
             }
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "MOAI pool governance token. This token is given exclusively to delegators of MOAI pool and allows participation in treasury voting.",
         "signatures": [
             {
-                "signature": "d5d328a757d8f70db7b86d0bf70fb75d869645b59745f3139bd2329bb751e4730f7bff05b2ac83863f2e54944cf7ebdfad19d4bb602e67626dda2c501b32d00a",
-                "publicKey": "fb294d0fb73b6b5a1700558a21c93d9ed07c10bb5c08787fa43a913e9008a12d"
-            },
-            {
-                "signature": "d5d328a757d8f70db7b86d0bf70fb75d869645b59745f3139bd2329bb751e4730f7bff05b2ac83863f2e54944cf7ebdfad19d4bb602e67626dda2c501b32d00a",
+                "signature": "352e0ffb01e68386e065c6d2361ff90b74aba73570f08a9b69272c8583e3f8666be39ef29b61eee5ae632badc20525894aa1f0c72c030928536fad3546ee450f",
                 "publicKey": "fb294d0fb73b6b5a1700558a21c93d9ed07c10bb5c08787fa43a913e9008a12d"
             }
         ]
