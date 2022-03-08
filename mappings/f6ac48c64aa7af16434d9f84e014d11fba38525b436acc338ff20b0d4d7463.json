@@ -11,11 +11,11 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "Mith",
+        "sequenceNumber": 1,
+        "value": "Mtc",
         "signatures": [
             {
-                "signature": "f3a609c9a8557a61e8c41ef6b066fe460399848657d6f2ab3f72fdd6cd90c73833969781b90345dc00378a06404450070cc6c921f4c6eac077b0305e7471050e",
+                "signature": "03b78c2938f0791daba9ec2c45e3d04703e6c33ef7c3da11cdc827864ad7fe450a289dd605472cb0537b6ca60e32bd4f842d182a23b57eab966263b0e3f2f203",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
