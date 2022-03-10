@@ -1,0 +1,14 @@
+1 echo -n "Nature.Art" | xxd -ps
+2
+3 010688e904b1425eb1cc95507adebbb839d55bfcafd28fff66cfa336
+4
+5 token-metadata-creator entry --init 010688e904b1425eb1cc95507adebbb839d55bfcafd28fff66cfa336
+6
+7 token-metadata-creator entry 010688e904b1425eb1cc95507adebbb839d55bfcafd28fff66cfa336\
+8 --name "Nature Art NFT" \
+9 --description "2 one of a kind Nature.Art NFT's" \
+10 --policy policy.json
+11
+12 token-metadata-creator entry 010688e904b1425eb1cc95507adebbb839d55bfcafd28fff66cfa336 -a policy.skey
+13
+14 token-metadata-creator entry 010688e904b1425eb1cc95507adebbb839d55bfcafd28fff66cfa336 --finalize
