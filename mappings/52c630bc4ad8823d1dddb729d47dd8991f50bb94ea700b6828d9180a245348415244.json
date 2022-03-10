@@ -4,31 +4,21 @@
         "signatures": [
             {
                 "publicKey": "3f16d28a5e817af9d3a2261e939567b417d3ccf7404148d6b91e2eac29a106af",
-                "signature": "041e8e307336b831ee33cc29507c2b93c6fb73e875c80a6797fd54a625c4a847bffcbf9513472e88c11733d55834e9318ced5933e731428fdd384b04396aaa05"
+                "signature": "8f7638273be0552092ad1ddaaa1b5de4df06ddee27eeea258ad55c5d83dc4b218f275b9b2930207f61ffd9780ec2a6c774b3a094c2df2157e430d153a7413b0b"
             }
         ],
         "sequenceNumber": 0,
-        "value": "SHARD"
-    },
-    "url": {
-        "signatures": [
-            {
-                "publicKey": "3f16d28a5e817af9d3a2261e939567b417d3ccf7404148d6b91e2eac29a106af",
-                "signature": "9114d5f508ec7c8d3d4a7f853fcde9a7ba85659aacd46a0be0b6c4223bfdff5a25979afe44130e6b7fa404b9c80c6ca23859c23d5117d00a9860c51448d25d00"
-            }
-        ],
-        "sequenceNumber": 0,
-        "value": "https://emeralddao.io"
+        "value": "$SHARD"
     },
     "description": {
         "signatures": [
             {
                 "publicKey": "3f16d28a5e817af9d3a2261e939567b417d3ccf7404148d6b91e2eac29a106af",
-                "signature": "c1f1848294265d5722106234f0322835fbf5d19bf1abf3aaa61da4b081dc6f208d5c6004423b48b7ed282bc48cba45e17026b64f1139e1d48395223c01b80e09"
+                "signature": "e0e388d3307566a636cdd8c679c8a0c91ee5e2c761b7787d93632fd840f5d61b41f3239f4904e8c3abba36e0956d95303f2c1eb835220af5244633de9d052406"
             }
         ],
         "sequenceNumber": 0,
-        "value": "The official utility token of the Emerald DAO."
+        "value": "The official utility token for Emerald DAO"
     },
     "logo": {
         "signatures": [
@@ -44,11 +34,11 @@
         "signatures": [
             {
                 "publicKey": "3f16d28a5e817af9d3a2261e939567b417d3ccf7404148d6b91e2eac29a106af",
-                "signature": "135d472b28df324c6562776b7bddbb0fef422fb414459fb02a9e1c61ae7287e3cd39a9cae6c0f62b3350c22657ac378fbef41857b14722a576863e414efee009"
+                "signature": "0e7751e56b6be68153472955f9be7a1e0b52be7d80411ff439775ef5025def6051db5cad2c7e8851473765e6519e948d555b2130be29a8d0765d520890984b0b"
             }
         ],
         "sequenceNumber": 0,
-        "value": "SHARD"
+        "value": "$SHARD"
     },
     "decimals": {
         "signatures": [
