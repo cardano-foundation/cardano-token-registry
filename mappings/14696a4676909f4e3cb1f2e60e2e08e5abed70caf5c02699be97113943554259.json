@@ -4,10 +4,10 @@
         "signatures": [
             {
                 "publicKey": "bbb0b89aaff5d943bd6e509d56dd63eedf5593fc1263d4648bec253ef7161f2b",
-                "signature": "f42a4da06ecd10ee67435314234e35dab62272f91a1c15edfad4029d9f93729d9464bf469217eca78e84b708efe9d257960ffe6cd5489d8280f57cb187359503"
+                "signature": "d6fe419513b14f686520b506cd50468cc6e7330bffd94a79a3eec00e5565dd4757fa7a37f3369f180c7c565708719247cc0c571d18c07278bd4d1470602e260b"
             }
         ],
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "Cuby Token"
     },
     "url": {
@@ -24,11 +24,11 @@
         "signatures": [
             {
                 "publicKey": "bbb0b89aaff5d943bd6e509d56dd63eedf5593fc1263d4648bec253ef7161f2b",
-                "signature": "b470aaabe5d251e0f470f1d6843ad1dae2e6a5e88b42bb01396caa445cd316b47e74ebe4c0b8547f82d04ddf3560de1b19c4e9a13929ba6ca57d115f221ff602"
+                "signature": "d4a7f68e4e986b6394e2b82cfab4b8922c63e7e1c4b1063da91fdc5b24d42803163c4020048f15f00cfded9c46f88586d3c078f23b1f4fb2f3197f1762156f03"
             }
         ],
         "sequenceNumber": 0,
-        "value": "Highest supply on-Chain token on Cardano. Use CUBY to buy exclusive Cubes CNFT drops"
+        "value": "Highest supply token on Cardano. Use Cuby to buy exclusive Cubes CNFT drops."
     },
     "logo": {
         "signatures": [
