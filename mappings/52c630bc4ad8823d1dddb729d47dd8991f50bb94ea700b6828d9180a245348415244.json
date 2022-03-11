@@ -1,5 +1,4 @@
 {
-    "subject": "52c630bc4ad8823d1dddb729d47dd8991f50bb94ea700b6828d9180a245348415244",
     "name": {
         "signatures": [
             {
@@ -24,7 +23,7 @@
         "signatures": [
             {
                 "publicKey": "3f16d28a5e817af9d3a2261e939567b417d3ccf7404148d6b91e2eac29a106af",
-                "signature": "b3fbca1bf1c44720164180262c51d52b599765552882c42196c89f54f74eacf284be65f0046bb2d633ae6006f7e4dcfeddf937ca32946713210b38e56ad09f04"
+                "signature": "fa66172da81b6aa52ca2368d00c2034c15c9efc7d6c3b20786719e72feeb5fc526de536cba196b882bb3940309d324523242e9fcca175c164014f68602572e0d"
             }
         ],
         "sequenceNumber": 1,
@@ -50,6 +49,7 @@
         "sequenceNumber": 0,
         "value": "$SHARD"
     },
+    "subject": "52c630bc4ad8823d1dddb729d47dd8991f50bb94ea700b6828d9180a245348415244",
     "decimals": {
         "signatures": [
             {
