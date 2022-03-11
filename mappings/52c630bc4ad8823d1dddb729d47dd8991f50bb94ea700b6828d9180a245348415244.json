@@ -1,5 +1,4 @@
 {
-    "subject": "52c630bc4ad8823d1dddb729d47dd8991f50bb94ea700b6828d9180a245348415244",
     "name": {
         "signatures": [
             {
@@ -10,15 +9,25 @@
         "sequenceNumber": 0,
         "value": "$SHARD"
     },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "3f16d28a5e817af9d3a2261e939567b417d3ccf7404148d6b91e2eac29a106af",
+                "signature": "9114d5f508ec7c8d3d4a7f853fcde9a7ba85659aacd46a0be0b6c4223bfdff5a25979afe44130e6b7fa404b9c80c6ca23859c23d5117d00a9860c51448d25d00"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://emeralddao.io"
+    },
     "description": {
         "signatures": [
             {
                 "publicKey": "3f16d28a5e817af9d3a2261e939567b417d3ccf7404148d6b91e2eac29a106af",
-                "signature": "e0e388d3307566a636cdd8c679c8a0c91ee5e2c761b7787d93632fd840f5d61b41f3239f4904e8c3abba36e0956d95303f2c1eb835220af5244633de9d052406"
+                "signature": "fa66172da81b6aa52ca2368d00c2034c15c9efc7d6c3b20786719e72feeb5fc526de536cba196b882bb3940309d324523242e9fcca175c164014f68602572e0d"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "The official utility token for Emerald DAO"
+        "sequenceNumber": 1,
+        "value": "The official utility token of Emerald DAO"
     },
     "logo": {
         "signatures": [
@@ -40,6 +49,7 @@
         "sequenceNumber": 0,
         "value": "$SHARD"
     },
+    "subject": "52c630bc4ad8823d1dddb729d47dd8991f50bb94ea700b6828d9180a245348415244",
     "decimals": {
         "signatures": [
             {
