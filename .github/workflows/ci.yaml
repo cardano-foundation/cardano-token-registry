@@ -3,6 +3,7 @@ on:
   # Trigger on open, synchronize or reopen PR activity against the default base branch
   pull_request:
     branches: [ "master" ]
+  push:
 jobs:
   Validate-Metadata:
     runs-on: ubuntu-latest
