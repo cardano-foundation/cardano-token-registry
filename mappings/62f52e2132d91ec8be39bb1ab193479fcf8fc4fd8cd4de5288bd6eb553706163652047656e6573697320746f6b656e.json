@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Space Genesis token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "a99bcd7b263aaf66b579fb9d403309946a92e1c9f30087154a5a4421824683aaa827d7587a2087ce65f6047060e4fb58d45e5e7514efa127068f72acad5ecf0b",
+                "signature": "9c38b71aafe946094fa58735659558b9a8669011daef7513842a591b89cbd25b9a7efdf3a4483e9ecde85cd4d2b8a3c516614362f194c09b7962143b25cfef01",
                 "publicKey": "ee37292441af7107c53b0b514ec5163368954409cd669cc9e7d617994dee9c6a"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "SGEN token allows the users and holders to participate in the Space Genesis ecosystem, including governance, use the platform features for application development and utilize other features in the future.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "2652a9dcf1925748d1bacc0f1f75c66bcc22073605918bbfe00ba164fa7f19687d9d7f885c03f9d4d7a0e9ade1d8c4c7e79e900a8d6496afa25f5ee3f6069201",
+                "signature": "1f2f2a7f5370e4374935691958c08c2513d6259ce085c216e5d798ef4b4d7056111b85a66f091a6f3b6bce3813b00b425df627b38d7e15384af9c8203ea68e08",
                 "publicKey": "ee37292441af7107c53b0b514ec5163368954409cd669cc9e7d617994dee9c6a"
             }
         ]
