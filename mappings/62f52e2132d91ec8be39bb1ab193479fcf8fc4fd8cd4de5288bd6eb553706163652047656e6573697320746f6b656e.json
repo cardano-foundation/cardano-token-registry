@@ -11,7 +11,7 @@
         ]
     },
     "name": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "VOID",
         "signatures": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "VOID",
         "signatures": [
             {
