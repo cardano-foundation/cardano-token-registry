@@ -10,7 +10,7 @@
             }
         ]
     },
-    "name": {
+    "VOID": {
         "sequenceNumber": 0,
         "value": "Space Genesis token",
         "signatures": [
@@ -51,7 +51,7 @@
             }
         ]
     },
-    "description": {
+    "VOID": {
         "sequenceNumber": 0,
         "value": "SGEN token allows the users and holders to participate in the Space Genesis ecosystem, including governance, use the platform features for application development and utilize other features in the future.",
         "signatures": [
