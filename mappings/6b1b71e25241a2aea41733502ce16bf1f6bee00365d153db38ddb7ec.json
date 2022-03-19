@@ -1,0 +1,59 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "16a788c03f638761d2f3f390518b517cea2c422116c22470d62dbb0186e07de7",
+                "signature": "797526e7b8ba7d134d6bf3eda7511411cef74249443ff5c33cb27243730f5b3f6a3fcb7ea76914400b240c1793181ab6a3eb62dfcd32227fdcc793c28eb9ae09"
+            },
+            {
+                "publicKey": "16a788c03f638761d2f3f390518b517cea2c422116c22470d62dbb0186e07de7",
+                "signature": "797526e7b8ba7d134d6bf3eda7511411cef74249443ff5c33cb27243730f5b3f6a3fcb7ea76914400b240c1793181ab6a3eb62dfcd32227fdcc793c28eb9ae09"
+            },
+            {
+                "publicKey": "16a788c03f638761d2f3f390518b517cea2c422116c22470d62dbb0186e07de7",
+                "signature": "797526e7b8ba7d134d6bf3eda7511411cef74249443ff5c33cb27243730f5b3f6a3fcb7ea76914400b240c1793181ab6a3eb62dfcd32227fdcc793c28eb9ae09"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Bill Token"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "16a788c03f638761d2f3f390518b517cea2c422116c22470d62dbb0186e07de7",
+                "signature": "83418765376e458368d7ea96a2e2326a3e30f141b2d799a97699bbab65bb7e2c36823aa78db53780c1818ba05938736f7198afa0b73fbbe2c173921add29d70a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The native token for Uncle Bill"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "16a788c03f638761d2f3f390518b517cea2c422116c22470d62dbb0186e07de7",
+                "signature": "515d2d0cd811e5892ed2b75205cd7611c3400a94b52ec5794f9eea62c1b92d5385687689c5cd3518bb5ea51e46f1f3634c262cd10cb002e8ab5f03dca10e640e"
+            },
+            {
+                "publicKey": "16a788c03f638761d2f3f390518b517cea2c422116c22470d62dbb0186e07de7",
+                "signature": "515d2d0cd811e5892ed2b75205cd7611c3400a94b52ec5794f9eea62c1b92d5385687689c5cd3518bb5ea51e46f1f3634c262cd10cb002e8ab5f03dca10e640e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "BILL"
+    },
+    "subject": "6b1b71e25241a2aea41733502ce16bf1f6bee00365d153db38ddb7ec",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "16a788c03f638761d2f3f390518b517cea2c422116c22470d62dbb0186e07de7",
+                "signature": "3a545850f9aa79a08b84918bc25aaf0f2f17c2fef28d8eafd10189bf05e3601547fb366a399813a1eabf833302f2bc292e0b3bfd6f1bdcc433da15058c63c603"
+            },
+            {
+                "publicKey": "16a788c03f638761d2f3f390518b517cea2c422116c22470d62dbb0186e07de7",
+                "signature": "3a545850f9aa79a08b84918bc25aaf0f2f17c2fef28d8eafd10189bf05e3601547fb366a399813a1eabf833302f2bc292e0b3bfd6f1bdcc433da15058c63c603"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 18
+    }
+}
