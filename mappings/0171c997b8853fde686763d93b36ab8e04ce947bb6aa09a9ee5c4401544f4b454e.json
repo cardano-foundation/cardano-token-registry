@@ -1,15 +1,5 @@
 {
     "subject": "0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401544f4b454e",
-    "url": {
-        "sequenceNumber": 0,
-        "value": "https://token.stakepool.cc",
-        "signatures": [
-            {
-                "signature": "262c65dce6c3ae895ad849f7e04d556e9619698a85413a657573118cd503f287df355c50426662bb92d1823817c3ffcac9664f1f463d0af756a0d7f88a91ed02",
-                "publicKey": "e97047c106dd6dae814408603d499051c9aa682117ee43ebb687d371851a5634"
-            }
-        ]
-    },
     "name": {
         "sequenceNumber": 0,
         "value": "TOKEN",
@@ -53,10 +43,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Token minted as a stake pool reward. Ticker: TOKEN",
+        "value": "https://dripdropz.io/explore-projects/TOKEN",
         "signatures": [
             {
-                "signature": "a4a757da1db8b7915bd60190ecaa9bfdc558a83b5cc11bc2fc324a94252597c498d94e55f9ea01c9112c394c1971deb7764a09c9f7f9f6876854f5a6c166300c",
+                "signature": "8ca3ecced0fbccb9eb057084e9b6d55843bd54287634695ca782a3b290d840cb271f5358d92743e36e0d5499ec890dd9da239da99af5f59ec814f0f3c131b701",
                 "publicKey": "e97047c106dd6dae814408603d499051c9aa682117ee43ebb687d371851a5634"
             }
         ]
