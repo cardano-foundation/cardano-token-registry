@@ -1,7 +1,7 @@
 {
     "subject": "0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401544f4b454e",
     "name": {
-        "sequenceNumber": 10,
+        "sequenceNumber": 0,
         "value": "TOKEN",
         "signatures": [
             {
@@ -11,7 +11,7 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 10,
+        "sequenceNumber": 0,
         "value": "TOKEN",
         "signatures": [
             {
@@ -21,7 +21,7 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 10,
+        "sequenceNumber": 0,
         "value": 0,
         "signatures": [
             {
