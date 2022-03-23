@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Mythium is the utility token for Adaverse, adverse.cc",
+        "value": "Mythium is the utility token for Adaverse, adaverse.cc",
         "signatures": [
             {
-                "signature": "13864603f522af9e1a361d020163e64166d62c48d6abec1201f32b54692aa790e9d6fedef71bf64cb770fe94f06d2aa16fd39ad8ecc20911bdf0c16f2ac9aa0d",
+                "signature": "91ef4817b818caac0dd82118563313ca15b8bba3a4f7d4e7779dfb7c0eaa5378156b31dfc72dcde4a83e2e2eae829bf7fa82042bd67476450c67d31f9b17530e",
                 "publicKey": "b510011180f2b02f11790efb3d49a9d059f1a5a2102e82310f4bfe14e6f688be"
             }
         ]
