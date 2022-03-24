@@ -1,41 +1,41 @@
 {
     "subject": "b9d1d94f3fcb207fb76fdf7468fe7514c58ac6fa2b1e878d9e0bad6c476f7463686920546f6b656e",
     "url": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "https://cardano.ideascale.com/c/idea/405243",
         "signatures": [
             {
-                "signature": "7a1da9244a5addadce06027e3785505263629fecdad11bf23f76979bd8f004bf713e1729638c2588fb664827b93851ba0b54616e0574af942b7fdc2c60aac603",
+                "signature": "cf73be54dbd48e7248576c65f7fd09459da99aa75914341b3c5e38b28f0f3b5e90006a1ae0fcd99b67d3f9d6716e3dfe9b7acb8b1201061ad19277647597db07",
                 "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "Gotchi Token",
         "signatures": [
             {
-                "signature": "a226214c0ab77bf08e794c1ce187379eb790ddb3503889c31f3d0588e14714cfcf77f55928b66610f8e8897a071280ef276376cf5ebc78a1571e0ae410524d0f",
+                "signature": "56f11c10ecb328be6a3757ff94b13191ae5f5ceffaba82f4fe8c6879e5fb4f3771de0af870611ca7d1be9ad80d84db401d32adffabfd49eae29cb153757e360d",
                 "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "GTCHI",
         "signatures": [
             {
-                "signature": "24368a24ba79bbe8b9323da9b202bcb50ed0b99c92e01279b033bacf4c9605310b9c6b5498e1121462e9bbb454d9188dcd8f6bcc631836d4cab1c2f2dbb85e09",
+                "signature": "4fbe8ac452711c08e7da52b91c444871934371048b33a679cfe05d38e7b15afc559edc0d5d9f5adb916e5ce89348969f316d30b65f9047583803a4485e646b0c",
                 "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
             }
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 6,
         "signatures": [
             {
-                "signature": "e00514d56e20c01e32125a07fc2d3aa7b77cdf5fb1ace3c35c07743a73aef3eb4a1939f92fad6b4ef584943e5c768873cd3c89267014f4e6a0e961ac4f407b0f",
+                "signature": "4c88b71884c747b42bbbecd30c9adbb98230bd21b5aeccf909f5e9094fb8d66893e728629be78eb7b327128f5567ace5efa14086bc3186bb8134ebd34c3cfd01",
                 "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
             }
         ]
@@ -43,10 +43,10 @@
     "policy": "82008200581ccdf2d603926d0a9bd3eb693a131c3dcbc2f1f80bf0f1cd299a2c7be5",
     "description": {
         "sequenceNumber": 1,
-        "value": "Adagotchi will use these tokens to travel through the blockchain.",
+        "value": "Adagotchi use these tokens to travel through the blockchain.",
         "signatures": [
             {
-                "signature": "e81cece7065b5c9f5291f68bb7fa9498dfa89dcbdd98df34e2e5a7ed9e9cb1e5189fd1a51a00d3fc06296e771f96eb76429ab25409f472fc8fe5bb204c0a1b0e",
+                "signature": "d0f4fa5eaec6e1f8461d0be669cfedd9e7db85f2295950c78b24756e6623ef215fcfc57d6511c82f54611c9ef074cbcf9e0df39bff028b9fd7f96b8b3d9f5903",
                 "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
             }
         ]
