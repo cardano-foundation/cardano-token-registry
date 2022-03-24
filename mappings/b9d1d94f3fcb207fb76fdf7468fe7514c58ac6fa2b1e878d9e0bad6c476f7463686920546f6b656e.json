@@ -1,0 +1,54 @@
+{
+    "subject": "b9d1d94f3fcb207fb76fdf7468fe7514c58ac6fa2b1e878d9e0bad6c476f7463686920546f6b656e",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://adagotchi.io",
+        "signatures": [
+            {
+                "signature": "b835d71162c3ccd0881f760c21031e76b06d21952a06d0e514fd892df35040702d1bdba797d7503719ea36ff1ee00d5ebf5f05a3bbd7f6f9c024cf6f7e3b700b",
+                "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Gotchi Token",
+        "signatures": [
+            {
+                "signature": "a226214c0ab77bf08e794c1ce187379eb790ddb3503889c31f3d0588e14714cfcf77f55928b66610f8e8897a071280ef276376cf5ebc78a1571e0ae410524d0f",
+                "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "GTCHI",
+        "signatures": [
+            {
+                "signature": "24368a24ba79bbe8b9323da9b202bcb50ed0b99c92e01279b033bacf4c9605310b9c6b5498e1121462e9bbb454d9188dcd8f6bcc631836d4cab1c2f2dbb85e09",
+                "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "e00514d56e20c01e32125a07fc2d3aa7b77cdf5fb1ace3c35c07743a73aef3eb4a1939f92fad6b4ef584943e5c768873cd3c89267014f4e6a0e961ac4f407b0f",
+                "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
+            }
+        ]
+    },
+    "policy": "82008200581ccdf2d603926d0a9bd3eb693a131c3dcbc2f1f80bf0f1cd299a2c7be5",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Adagotchi use these tokens to travel though the blockchain",
+        "signatures": [
+            {
+                "signature": "17a20e1416dd3cb468aa94cb829a8616da910e1ad09ad07f7c248a6399a6192cd5e03a5de94bfee3f44d45200ff8dd36df7332cc11a0ca77b6ce05655efa4b0f",
+                "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
+            }
+        ]
+    }
+}
