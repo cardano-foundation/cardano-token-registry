@@ -2,10 +2,10 @@
     "subject": "b9d1d94f3fcb207fb76fdf7468fe7514c58ac6fa2b1e878d9e0bad6c476f7463686920546f6b656e",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://adagotchi.io",
+        "value": "https://cardano.ideascale.com/c/idea/405243",
         "signatures": [
             {
-                "signature": "b835d71162c3ccd0881f760c21031e76b06d21952a06d0e514fd892df35040702d1bdba797d7503719ea36ff1ee00d5ebf5f05a3bbd7f6f9c024cf6f7e3b700b",
+                "signature": "7a1da9244a5addadce06027e3785505263629fecdad11bf23f76979bd8f004bf713e1729638c2588fb664827b93851ba0b54616e0574af942b7fdc2c60aac603",
                 "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
             }
         ]
@@ -42,11 +42,11 @@
     },
     "policy": "82008200581ccdf2d603926d0a9bd3eb693a131c3dcbc2f1f80bf0f1cd299a2c7be5",
     "description": {
-        "sequenceNumber": 0,
-        "value": "Adagotchi use these tokens to travel though the blockchain",
+        "sequenceNumber": 1,
+        "value": "Adagotchi will use these tokens to travel through the blockchain.",
         "signatures": [
             {
-                "signature": "17a20e1416dd3cb468aa94cb829a8616da910e1ad09ad07f7c248a6399a6192cd5e03a5de94bfee3f44d45200ff8dd36df7332cc11a0ca77b6ce05655efa4b0f",
+                "signature": "e81cece7065b5c9f5291f68bb7fa9498dfa89dcbdd98df34e2e5a7ed9e9cb1e5189fd1a51a00d3fc06296e771f96eb76429ab25409f472fc8fe5bb204c0a1b0e",
                 "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
             }
         ]
