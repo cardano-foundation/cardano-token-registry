@@ -4,17 +4,17 @@
         "signatures": [
             {
                 "publicKey": "7c9f86dabf0cb437113576781026a65cb7922270239f887a8e30b5d0b3ad5b0d",
-                "signature": "f529b137fe6f54a429fd6db7221354adbd544ebae0907b1a0f570ef440451187371fe65c916bfa263fba12f8d88a1f94762da310668be9d1b360b7029b020d09"
+                "signature": "be8701694cc8261a7cfcae6d11003160f54300efc2a1802ce8966219cb5141ee8f9e58315160fc8e0d7402ba1517d4beb06360220ad64c3e12ab0a15a0a2ca08"
             }
         ],
         "sequenceNumber": 0,
-        "value": "CAT-DANO"
+        "value": "CATDANO"
     },
     "url": {
         "signatures": [
             {
                 "publicKey": "7c9f86dabf0cb437113576781026a65cb7922270239f887a8e30b5d0b3ad5b0d",
-                "signature": "1878cc1835d5fd31c8b7ec8cd7f73f2788182e9747fc4a953293bba47953597b29bbbf8b0ecaddd3cbae14e95fa670b269b4254959cdf5ccb4c1de113696a100"
+                "signature": "a6186d017d5144553cea30155ca10597c6b3c6277b07811dfa26971cf337ef0b2c6e91f27a3423e90548518afc5a638cc8dfe6e6319a3d3f577e223b34477a08"
             }
         ],
         "sequenceNumber": 0,
@@ -24,17 +24,17 @@
         "signatures": [
             {
                 "publicKey": "7c9f86dabf0cb437113576781026a65cb7922270239f887a8e30b5d0b3ad5b0d",
-                "signature": "54288356b3663c4b914b599e4a2d725bd26110a541c22a07daa3de7a66a748099b9ac8779133ed59f2ca99c179502810c1e6f1eaf8277ff088268f0e6115a209"
+                "signature": "789b14d0a14d4df0e010e2898ea2cb71e9d919f850ca21aac5cc5e3f5f6dfa2d9443de7ab172de803d665cc71a14ce494eef1660a1f73584e82aacf22c96e607"
             }
         ],
         "sequenceNumber": 0,
-        "value": "PEToken PetLoverStake [PET♥]"
+        "value": "Cat PEToken powering PET-Universe, [PET♥]LoverStake staking pool community"
     },
     "logo": {
         "signatures": [
             {
                 "publicKey": "7c9f86dabf0cb437113576781026a65cb7922270239f887a8e30b5d0b3ad5b0d",
-                "signature": "6098346a5162747fe6dec0925ed22a660abb34413cbd7b762014f03cf1bc374f570951023e3339893eddf77c42fe9b486c5baa8ad61d15e0a00a2d2dbf51e606"
+                "signature": "9eab01d304853575fa662b0e48200838e359db0446603d639fde94bf3abc6d8a2b3768ea19277341b994d288b9590748bf6d982bbcbdb4c4a2ba31a30c6cfc02"
             }
         ],
         "sequenceNumber": 0,
@@ -44,18 +44,18 @@
         "signatures": [
             {
                 "publicKey": "7c9f86dabf0cb437113576781026a65cb7922270239f887a8e30b5d0b3ad5b0d",
-                "signature": "4ac732a8299234b7cc0da629c4b4ef008159f1690d3ccaa0002e42d646a31c4e5fcdeb9174dad23e1dbe666c521f1c76614ca175b083a9d3bc8392c6d903d70a"
+                "signature": "ddfcf36a26ac3f1d7b1aeae0450f7eca675f2d078a7e969978d2785ab5405a2457a200bab4dc3c1e23e6e869befc03a7367f253b5a972aa5046be295de25790a"
             }
         ],
         "sequenceNumber": 0,
-        "value": "PET♥"
+        "value": "CAT♥"
     },
-    "subject": "be18c25cdb2dbe713131a313d257456664d0f3bc9fc316fd256fcf2fbe18c25cdb2dbe713131a313d257456664d0f3bc9fc316",
+    "subject": "be18c25cdb2dbe713131a313d257456664d0f3bc9fc316fd256fcf2f43415444414e4f",
     "decimals": {
         "signatures": [
             {
                 "publicKey": "7c9f86dabf0cb437113576781026a65cb7922270239f887a8e30b5d0b3ad5b0d",
-                "signature": "47b118344c8de58be651d83da62a0503a8486ac5ca9e06df718c88a65a4702bf3cf2496897bbbb9d2a10d2cfc21737bc7ca93358f0d8fdab0eba02df08cf6709"
+                "signature": "6ac32402a4bc0eccaae3983a59aee0e7704f0a87747e161830153e15a5e6c722d6d0e787b98da2ff86834b74d90adcdb8c109508864360c9d64971289fa40c00"
             }
         ],
         "sequenceNumber": 0,
