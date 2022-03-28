@@ -49,15 +49,5 @@
         "sequenceNumber": 0,
         "value": "GRAVY"
     },
-    "subject": "59eccbbd4cdf738e6272ccabfbb6d1c02f6335ed4f860bfde4d53cb84752415659",
-    "decimals": {
-        "signatures": [
-            {
-                "publicKey": "f8368a44152bbba7922d94baaa416306cd032552daadb4aff1052724a1af4f16",
-                "signature": "7a985ac50091f2cec8660bc31692306fc1e7e76fef6d5fff6c619a5437cf1f2555435854a3747b6da037a4a92b3bf4a51c79136d52214acc916ffcdea8c8960d"
-            }
-        ],
-        "sequenceNumber": 0,
-        "value": 4
-    }
+    "subject": "59eccbbd4cdf738e6272ccabfbb6d1c02f6335ed4f860bfde4d53cb84752415659"
 }
