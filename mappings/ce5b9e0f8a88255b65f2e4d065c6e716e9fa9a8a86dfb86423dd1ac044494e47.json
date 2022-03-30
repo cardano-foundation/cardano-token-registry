@@ -1,0 +1,64 @@
+{
+    "subject": "ce5b9e0f8a88255b65f2e4d065c6e716e9fa9a8a86dfb86423dd1ac044494e47",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://pxlz.org",
+        "signatures": [
+            {
+                "signature": "a00d931fc0e41682e322d81c5903ffd1b7daea501dc9caa40332ca165f1e85615399e6e81dd53456ed189442fd005df913192e6975a67a2afcfa35f0918e5706",
+                "publicKey": "2f67dce658bd5b5cc8202b237b4096cf0cce10f44ed4ef6cd5d73558c1b7259d"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "DING",
+        "signatures": [
+            {
+                "signature": "94d8e92729064dce233b1f3ee980dd8d6151a3c4252d1e71bfb3b2d17439a172b01eeb25720b76dc2df66c5f2683775620f11fcf2b6c22da0f4b0192db816d0d",
+                "publicKey": "2f67dce658bd5b5cc8202b237b4096cf0cce10f44ed4ef6cd5d73558c1b7259d"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "DING",
+        "signatures": [
+            {
+                "signature": "c5d825957b8bb072780ead843854eebf0380a04d34e5c8fd9e611f8c3afa187db4b996ed45db7c4b47a0705bd6656e912b45d6c65f0dc5b40c135b9009fe8d0a",
+                "publicKey": "2f67dce658bd5b5cc8202b237b4096cf0cce10f44ed4ef6cd5d73558c1b7259d"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "bcf9db9d5ee3bf17b827086349bc676a2019b27f059c16e1de00df0beb347d598663deab570c46f31f74e390fdd6e6eb6cadf9da035225d71b085f0f69b16907",
+                "publicKey": "2f67dce658bd5b5cc8202b237b4096cf0cce10f44ed4ef6cd5d73558c1b7259d"
+            }
+        ]
+    },
+    "policy": "82018201828200581ce3124f98d11157535bc61ce8db0e04e95cfcf552a86bb116e593a76e82051a0368a83f",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAAUkAAAFJCAYAAAAWit+oAAAACXBIWXMAAAsTAAALEwEAmpwYAAAGuWlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNy4wLWMwMDAgNzkuZGFiYWNiYiwgMjAyMS8wNC8xNC0wMDozOTo0NCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPS>
+        "signatures": [
+            {
+                "signature": "ff8f601ef6493db7fa59ee2928cbd6301a1d9bb52a860f3271ee4b69c76d587664bf509d29be98933632ac2cb6f3e30b73fb9f1c0a73083bbc17d39d291cc50a",
+                "publicKey": "2f67dce658bd5b5cc8202b237b4096cf0cce10f44ed4ef6cd5d73558c1b7259d"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The DEADPXLZ governance & utility token.",
+        "signatures": [
+            {
+                "signature": "33b1c3e4007bcdb8ad9f9ae6038c2be3d5c3351df901da2d5dde2eef2c9d67229d3a9af191247ca093a5f6480b93827f26a8b3f43c46b0fb932a9d75e09ee305",
+                "publicKey": "2f67dce658bd5b5cc8202b237b4096cf0cce10f44ed4ef6cd5d73558c1b7259d"
+            }
+        ]
+    }
+}
