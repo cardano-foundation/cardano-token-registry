@@ -2,7 +2,7 @@
     "subject": "da2f0678f09b807e93048e9157cd94be794c995ba1c1ef5a0ca8b31c",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://github.com/7robbie5/halal-broker",
+        "value": "https://halal.broker/portal.html",
         "signatures": [
             {
                 "signature": "263bf7d2198c3b2128ff292c9e9d2bbe10781bb1caf16654ae7ab844e96f44e3fb6915d571783d31ce87b0fc7cb811418c7a67fa0ea56f9c56fa5b62641c890e",
@@ -43,7 +43,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Halal Crypto Trading and Services with Financial Solutions",
+        "value": "Halal Broker Token",
         "signatures": [
             {
                 "signature": "b5c05bf40089a76cabde0d1c555cdb4186f67a924e38438800ad764f86af3848b47bada8327cc1daf85818bce6523f25986b98c021185fcfeb87c8307ea8130a",
