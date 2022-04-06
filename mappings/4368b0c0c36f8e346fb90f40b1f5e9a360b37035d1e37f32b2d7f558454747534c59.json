@@ -2,7 +2,7 @@
     "subject": "4368b0c0c36f8e346fb90f40b1f5e9a360b37035d1e37f32b2d7f558454747534c59",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://eggsly.website",
+        "value": "https://tecmeup.com",
         "signatures": [
             {
                 "signature": "587c3eddcf9a7ae69ce6e8f7a4d61713209c8d1fcbe135b2ec952c0ebd019ad9fc27e88e2af4e37fdaee6c02d3a8bddfc49213cd820f589ba7192bb187ed1a02",
@@ -53,7 +53,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Eggsly is the native token from Eggsly Mag",
+        "value": "Eggsly is a token created on the Cardano blockchain by content creator Tecmeup. The purpose of the token is to support the continuous creation of content related to all things crypto. If the token gets added value to it in the future, the development of a marketplace to showcase art, music, real estate and others will be considered.",
         "signatures": [
             {
                 "signature": "6bb43c5246c88e32854621a2b70ad0325774a3e6b0c65540996c2465a6c4c10ec08a07cd1071e43169e49a905b384219147256973d48f27e2bb0d0efdf2ebb0c",
