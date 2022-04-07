@@ -1,5 +1,15 @@
 {
     "subject": "f6ac48c64aa7af16434d9f84e014d11fba38525b436acc338ff20b0d4d7463",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://mithrandircoin.org/",
+        "signatures": [
+            {
+                "signature": "24816fd10eebff57afa9cc30ba7917bbf32b7c261bf1104d8f8eaf40f0d5709d61ca810b62896d9f90ca9187527e08a29fcd54b246db054dd16be0a78b96e806",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "Mithrandir Coin",

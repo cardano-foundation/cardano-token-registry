@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The Utility Token for the CatnClever Application on the Cardano Blockchain",
+        "sequenceNumber": 1,
+        "value": "Tesla’s World Token delivering renewable energy and food security solutions",
         "signatures": [
             {
-                "signature": "11b78f6f1aad18daedd4367858072dbf0db817f841805c19b3275f05f768c58e3c8ce322c62a83dc547a5b1e03c3b9dbd76ab38e53f58b4a941a638e89ff3f0d",
+                "signature": "6b8f620cb40d668e50a53df18ce54cb5bfc797e910aee451f9de53331e026812f1dbb33163c6c35ccfb61cb192772df13ccd0eb5ba29b636146a9ac2755c4707",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
