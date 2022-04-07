@@ -2,7 +2,7 @@
     "subject": "d1ec168628a7cdbb92e8d92a184503223626188ddd2d34811b7f5816434841494e6553",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://www.chaines.io/",
+        "value": "",
         "signatures": [
             {
                 "signature": "e91fda34f70436aa0ddd2a72227438da77ae8349d5ee45b3f59cad964f0ec560e9554369eaf1ef89e3239a42f4fd79100e345d1c6a0774db33c90c1bdc6c230c",
@@ -12,7 +12,7 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "CHAINeS",
+        "value": "void",
         "signatures": [
             {
                 "signature": "9269ab67470dc4a3dbbec5d95dc159e32944c1c6a3c89c8cc95184b1c684a6776aa0278a8f3c7cea3ec4e3a2233515db51698206cfb9b49a9e08635ad36ad90a",
@@ -22,7 +22,7 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "HAINE",
+        "value": "void",
         "signatures": [
             {
                 "signature": "c2d07f4474ced8fd3c38d2d92dbd9745ad341aa8065fe42a99572c69fa4a7897af40a3d800fcc056d88f8dd0552f21c677dc2a24a04bb76a4d010054256ca90e",
@@ -53,7 +53,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "LINKING PEOPLE->FARM",
+        "value": "void",
         "signatures": [
             {
                 "signature": "f2ca0ecfdbd1f317a85f40728a83cd8503d01d4655d6bd9566920cea9614dcc7bee06b335309a5ecacadc4b5ea119c723a212f8cc3e6b4c75e4ca02f3cf25203",
