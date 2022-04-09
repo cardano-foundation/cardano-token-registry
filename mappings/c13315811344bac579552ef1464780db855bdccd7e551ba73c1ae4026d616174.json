@@ -95,18 +95,18 @@
         "signatures": [
             {
                 "publicKey": "37873720931e59e70c973bb37e2558bbe3abe05e4ed214db2dd59251626d690a",
-                "signature": "c6236bf6777822822e287de65165fcbf6870a4bdab21061cfb8ec25db1cf954ba418ce339a9df7a265972a24424efe8fdc741b031f68dfbfa391375495dcc80e"
+                "signature": "44f8aa7a9887d10b7494c77f24f9c0df1bc4fb708f48cefc36a264c8a70e87d02e2dc192ea18d5778eda655171484fc252595d463c98d95299712c420263b90b"
             },
             {
                 "publicKey": "847c1ce2f800ac1fd87a9cde6f05bfe264ab44d003b237ac94dce581fd65b7d3",
-                "signature": "9dc8071e8cdddc9e302bbdb849be2f82cdc92b7d1609f0b82e05624c44697fcc1d2c032ebe56306d804ca2f420cda34010f7089bd10a9f0f20876fef2b70e50d"
+                "signature": "bb4d613cbfadcf9d1f38d356c32047d444502ae6dcdef6c3d9aa37fceb96205ea1271bfb1eddcf15b10ad63fe8e6aadfc8e61b47069ac862f88d75d819af6409"
             },
             {
                 "publicKey": "e64114019258b51914efc000763a7b8a4b73ae99994e9ae2a16b2c46212d78b6",
-                "signature": "c6ceb50d0476d4e94b6fbae191d4035a954181af47a894d33129de524dbdac79e9cc9ab7869ca81d005cbeb32ef77dc7578216b8fe46d43a39480b0ad914eb02"
+                "signature": "0068897b7491387ddd3dc239bd77e3981c5313683f89d2436e9edf0e9a1e5c457a23598f9a26f90ea074c18d82066e897fc92c18facc55fa4d8df19446dea408"
             }
         ],
-        "sequenceNumber": 0,
-        "value": 4
+        "sequenceNumber": 1,
+        "value": 2
     }
 }
