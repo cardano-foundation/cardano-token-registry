@@ -4,14 +4,18 @@
         "signatures": [
             {
                 "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
-                "signature": "718e00c6679f22fc637bbd67a04942027a19d834f2b7ed025cbe42dfdfd8417b886efe55e85f8322224f358bed6674822f2717464c1ba319e055e7245966bd00"
+                "signature": "0836abd1650430c75285cf7a23a6975533625b40f90b598bce3e969d8954e84438df489dafe6464e3178dcdf8a835a5df37d8b79daee5a2ab940d9bc3c68720b"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Halal Broker"
+        "sequenceNumber": 1,
+        "value": "VOID"
     },
     "url": {
         "signatures": [
+            {
+                "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
+                "signature": "e712944bd58356fdc385836aead559481e60b073577f49ce8d8bcb9d06679a78d8291ead0936131a507bf11badfe54f95c6ed3d9de6abc6d6e67fde6200f8900"
+            },
             {
                 "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
                 "signature": "e712944bd58356fdc385836aead559481e60b073577f49ce8d8bcb9d06679a78d8291ead0936131a507bf11badfe54f95c6ed3d9de6abc6d6e67fde6200f8900"
@@ -24,14 +28,18 @@
         "signatures": [
             {
                 "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
-                "signature": "a55e3b8b7bfd8692a619d8cfd1c9d51c1de190b77518479bc1b5e05a9a255450c0168afe37614c5d7cb964b278516cce0eecb1a999531015386a0474f2b86c05"
+                "signature": "1dad54745eedff4128a796dd45c35cfdb46f20c0d41cb2d26b2759c742482baa0f5f34617c9258c8988b3ff3124f7bde82d6dc96b906519bceb401a71d67d70b"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Halal Broker Token"
+        "sequenceNumber": 1,
+        "value": "VOID"
     },
     "logo": {
         "signatures": [
+            {
+                "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
+                "signature": "b0e4bbd8183461021fa0456101b247f93322c4add5cf236d20db29b5d77277597a753e0c41a989ebb1f79bc22da483064ffb7d709c31fe556f89a270d78c170d"
+            },
             {
                 "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
                 "signature": "b0e4bbd8183461021fa0456101b247f93322c4add5cf236d20db29b5d77277597a753e0c41a989ebb1f79bc22da483064ffb7d709c31fe556f89a270d78c170d"
@@ -45,6 +53,10 @@
             {
                 "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
                 "signature": "07aebc335cb110ba9837c6638135633ddb78d8bef92b124fc99f8f81029c5cb8fca71a0332a6c3146f498d0aa870348b04beea4a136a60f1a25bbc8a25436909"
+            },
+            {
+                "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
+                "signature": "07aebc335cb110ba9837c6638135633ddb78d8bef92b124fc99f8f81029c5cb8fca71a0332a6c3146f498d0aa870348b04beea4a136a60f1a25bbc8a25436909"
             }
         ],
         "sequenceNumber": 0,
@@ -53,6 +65,10 @@
     "subject": "9a3c722722dda2f407d639c5cda46845c9090f204b61677765d1279348616c616c2042726f6b6572",
     "decimals": {
         "signatures": [
+            {
+                "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
+                "signature": "f614fbc1a600bf826092cc546d7211272b742eb9c28bcac4deb890b8e4c907474efc4c335375e75dab133b286c52bd114459e5c3122aae2ea316f3bbf64e6e00"
+            },
             {
                 "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
                 "signature": "f614fbc1a600bf826092cc546d7211272b742eb9c28bcac4deb890b8e4c907474efc4c335375e75dab133b286c52bd114459e5c3122aae2ea316f3bbf64e6e00"
