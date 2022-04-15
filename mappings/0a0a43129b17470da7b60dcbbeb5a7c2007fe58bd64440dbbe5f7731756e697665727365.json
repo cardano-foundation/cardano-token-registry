@@ -2,30 +2,30 @@
     "subject": "0a0a43129b17470da7b60dcbbeb5a7c2007fe58bd64440dbbe5f7731756e697665727365",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://universe.ne0.xyz",
+        "value": "https://one.ne0.xyz",
         "signatures": [
             {
-                "signature": "b23c107ce9d3a57a94341ae48e7ec5c3db2b6efeca1cee4841273423b996dc02a94c692bdb7e79d4455c3747bdcfda41d9ae68db5f6c97e9adbaec7869feab03",
+                "signature": "e0a606c03efc67268be8139f41258d6b24504ffe3ad76a8be96419fa9a516d5916c0e70bd8ab5630c9dad190a7cec4a7a997a5fd34fcdfb66f69416ce01f8007",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
             }
         ]
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "Universe",
+        "value": "One",
         "signatures": [
             {
-                "signature": "35a293ba52163599e12b2cc1a5ca03721343b6def3405d83aaf56c87c200f5ebcdadffd26a1507b8743b97ecea91255e02570a2dd668d425e2d132452e072e03",
+                "signature": "ba087cbdc4976de5bdd4a5377fcfd78d967c0a1e045116e6c276541d32843462f2e20f3ac7f166256fc5fe01b7c0685693a8c882a06da3016a031eb81b9dd50f",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "unvrs",
+        "value": "one",
         "signatures": [
             {
-                "signature": "65673781da3a2b12af980fef8e1dcb9d985afc6664097204886f618f9586e34daff40ee1021631b45662af1c3701ce307cd22aae9da1f3a1aa9e9e88435f440b",
+                "signature": "08941891f4ba64d2294efa293ddfe59fe75b50b24ddc94ea99f11b45626edc5fc7017fe9608e7757a4e9a88fb992bb3844559627ec6fc8d447a72a3d15ca010c",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
             }
         ]
