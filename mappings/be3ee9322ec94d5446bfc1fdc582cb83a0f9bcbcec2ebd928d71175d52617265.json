@@ -4,11 +4,11 @@
         "signatures": [
             {
                 "publicKey": "51d6dc2dc7f57ead3bb66081abcbcb53fb9ba11e82d3aaf41e81ce2ea71266e4",
-                "signature": "52fc614e28f373461da5cc663ecbb52c928063f2bf042ea83628711d1ebb669429927107ef06f6b7a99b3f379dc2b1dc81630b5cf3890b83e32dcc5e40753a0d"
+                "signature": "a5702b77533594fe0a3812385af77c001ef22fa63bcdb1321e701f88b12d55be37382c4176f18a8530632f5729f307b40c748b87cf3532e8ec9c2718ac9e4a05"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Rare"
+        "sequenceNumber": 1,
+        "value": "VOID"
     },
     "url": {
         "signatures": [
