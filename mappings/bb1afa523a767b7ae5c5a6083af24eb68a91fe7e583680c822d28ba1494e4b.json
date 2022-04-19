@@ -7,7 +7,7 @@
                 "signature": "8d1fdb45fc2168c65aabb5578e37cfbe3ca94445b73dc0857838d7fd088d636b57a6bda4cb6c90136e48cf18dc4a463cd65b15d79b7d7fe86d39915829004703"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "INK"
     },
     "url": {
@@ -17,7 +17,7 @@
                 "signature": "cc24b4cc2fb33b9cabc966fd412132164bc8bc525a8b09d9b3a81927121f9d2e1b322d092305db223db2531f30d46c7148b301115a3eaa296453e8517018b209"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "https://squid.poker"
     },
     "description": {
@@ -27,7 +27,7 @@
                 "signature": "a78d5d6154a281dda12908d3406796d8053825ac4ac28e16c6fe61ea0744c6c33e078d260566419d9f2dea2fb13c3cb60b4ff7c2582dbc2f4ddbc6ad21695b0e"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "🦑"
     },
     "logo": {
@@ -37,7 +37,7 @@
                 "signature": "38864e375155ae1e3cf94c3aba5cfaff48d86874cb76557814365455196f08018cb732ae8018b952ca56b23ae87855c7a8c98831050bac9350a07794eda61f05"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "iVBORw0KGgoAAAANSUhEUgAAADAAAAA2CAMAAAC2heqoAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACRQTFRFAAAA////iYmJYmJiCQkKbVQSy351ydSHn05EnaOgRUdHAAAApiCNfAAAAAx0Uk5T//////////////8AEt/OzgAAAe1JREFUeNq0lQlywzAIReFju3Z6//sWsWhLvLQzZTKOZfMCXyBC35PRZG/v5/W2bV/Nto0eABUpt/fAvjdA72+B3Wz7BbAaYLbr4gYgWUdgFboCCAqsIgBYrawEdA6oP3X+RpAwXQKkQIug6ynEFK8AhUhbFaBr0Qr0RteiQ7aYdOjtLPkDwFjX4zAdKgL8ABD5XwB1hx4CbUthdg0QHcxH768hzupQzqN3BJrZcjipVL2jfZJgDA8qQ+5e3mP8ceSThBwh25nZ8Z1zxIFb/5pbIcrnPRWEDh6UMBtA/BzQEGTNMI+70ql2RRZEqFReQ5QNevM/MXhNbI8fmTggjwHyAop41nxph1gyerWDX6Ld2cuyL7tksyRapvuKA9QD3ADyulA0TS6WhbEsC3z9CYC/QQWqvz0W8l7K5vZv2w+LU7zVslkpewkpAubqNSopmzuWlCA90HI6vKpEr8h/yYxEAhhVd51gAXiQ4AdIQgQciNJzpDRIiBMXIkICOzJsUp37FaCmmcEJ1CApIVKqAKJ6GgMGZOEGoIqAnVa7sF3LBi3oJSSQIkyf70rejhI6gKov83gb50Y+AGcmExBn4uwM+ZCIOZ7A7SCIAH8H7mYHYwCMkFMDV/8G+JhD/LV1M9gHp0zA9/1QCscfAQYAYtIr/SnZSGQAAAAASUVORK5CYII="
     },
     "ticker": {
@@ -47,7 +47,7 @@
                 "signature": "f299599637395f04a96e52c96de7b1ee6efc51626d266e07704e0a9fcfdc1f29c5edcc4c881fe2a90bcfe454700da2390d00c86cd1483170ce6b1149f9c99d0b"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "ink"
     },
     "subject": "bb1afa523a767b7ae5c5a6083af24eb68a91fe7e583680c822d28ba1494e4b",
@@ -55,10 +55,10 @@
         "signatures": [
             {
                 "publicKey": "82a41da09a06e2f65fc3efc0bb76f010c63ead941318473e21bd09f0bdf5fd63",
-                "signature": "b235610f6b52c5c7f58f79f76cba377f6491ed72eb623ef76acbcb2a654b757477810d30d6e10a79e898d1b42009bc83991475ddd79ae85e311abc349afd8001"
+                "signature": "45d5bf4c2ba8b143711eb7cd85209352bd5de00a726dfae170e07c35880ae260301d19be0d47d75cdbe557b72b9cec2870a540ef8223e73ba0736601828b160d"
             }
         ],
-        "sequenceNumber": 0,
-        "value": 2
+        "sequenceNumber": 1,
+        "value": 3
     }
 }
