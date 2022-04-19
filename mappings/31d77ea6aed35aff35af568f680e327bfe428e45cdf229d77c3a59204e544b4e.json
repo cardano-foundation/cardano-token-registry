@@ -20,6 +20,16 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 1,
+        "value": "NTKN",
+        "signatures": [
+            {
+                "signature": "ee2430ccacbdc5482f9fbc972fc9b4546715ba19e46dba0d7df500c41863a33c045d58a40e3c3b3b43f9e51a6393e88e8b68458d1466c717bc1a4d550d881c05",
+                "publicKey": "bb723b8ccccbfa505117aca2c1058d1f125e4c37a46bc4eb28f852e8e4ccef14"
+            }
+        ]
+    },
     "decimals": {
         "sequenceNumber": 0,
         "value": 0,
