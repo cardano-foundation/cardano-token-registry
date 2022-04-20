@@ -1,5 +1,15 @@
 {
     "subject": "141de94d882e6426622898984d8861c4a69e0da5df8c930177926dd9534556",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://starseyeview.io",
+        "signatures": [
+            {
+                "signature": "8033dc87c50ecb28a5f07330cf00b3f4a4a28632c7ce97b4c89e7d2217f4f83d6a9c3465c8be478d13076daf4a29e3c29acd0a0214248b78394e9aac5152ac00",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "Stars Eye View",
