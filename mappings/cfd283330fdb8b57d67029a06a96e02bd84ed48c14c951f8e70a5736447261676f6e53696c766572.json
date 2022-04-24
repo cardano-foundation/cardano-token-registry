@@ -4,11 +4,11 @@
         "signatures": [
             {
                 "publicKey": "7805300d2481de33c26f390604e16eb2ae579c604db0cfe783d7e9245fed6f49",
-                "signature": "3c92468a6c002d7ad8c77b767efa8c587d0ad465f6a52e629275db9301e31238167ea6ef4d8d5869bb68082c4db8dfc8a9c5c57acf2990efcd70f93740dc1907"
+                "signature": "51be44854da9589d0f58796fe0577c1a92df2ba600a6aeeee621fc744309c291b9f38cad69289d5ffc4f1b00f99f0b725cb61bdb470e706899866dd873e81f0d"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "DragonSilver"
+        "sequenceNumber": 1,
+        "value": "Dragon Silver"
     },
     "url": {
         "signatures": [
