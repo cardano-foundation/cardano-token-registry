@@ -1,0 +1,54 @@
+{
+    "policy": "82008201818200581c1e229fb1bb034db5e9c35dc585ef659ef1905718b01212b89eed32cc",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "d7bb56098f34b92677778c0d604b7e0cbde1d521d5f58a86508fb7e64d3490f6",
+                "signature": "6563203d799167ca956979c628f6951fd914ecc23ba92bfff45d129611e42670da4b94cb18df39e28cbb87b4cb6cbce08303ee8189152b24351e45ed75c2fc04"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "GRASS"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "d7bb56098f34b92677778c0d604b7e0cbde1d521d5f58a86508fb7e64d3490f6",
+                "signature": "5cb49aeadbc23108d08d19471f429e09e2f59e3340996fe951a9cf4a3b97cea747495bce9584bc726aa9609132da3bf28a6ecb284529417ca6b0786c73f3c807"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://www.goattrib.io/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "d7bb56098f34b92677778c0d604b7e0cbde1d521d5f58a86508fb7e64d3490f6",
+                "signature": "f12579d0a215bd5dd02ca8b1211765bcdc3ff0026d23d80addadd82841ffe08fa396c9ba75054673912b1e70a0b5c2db6d6703f10d0bd384d7e1aafee27cd407"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Grass is utility token that powers the GOAT tribe ecosystem"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "d7bb56098f34b92677778c0d604b7e0cbde1d521d5f58a86508fb7e64d3490f6",
+                "signature": "c43db2a218a69c4a8cd16241c44709c626fb5a3b300df9a171099ca8bfc4762d73a2f2aa917334c93ba2e8973db9b8ed3bcb566f92d62ee719dca99a07e43904"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "GRASS"
+    },
+    "subject": "32cc9c6c3456bc048d14a4a8e4ee3592e9664e8daac921a8ef52d92a4752415353",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "d7bb56098f34b92677778c0d604b7e0cbde1d521d5f58a86508fb7e64d3490f6",
+                "signature": "2d293120e416f09d823d71c55537a7fe593ce4ee3f7ac039f40a83434fe409144c3c2f6a50e06954f21278c7e9a66e124ab535eeabd0a1593b7f373577b33a0c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
