@@ -4,11 +4,11 @@
         "signatures": [
             {
                 "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
-                "signature": "718e00c6679f22fc637bbd67a04942027a19d834f2b7ed025cbe42dfdfd8417b886efe55e85f8322224f358bed6674822f2717464c1ba319e055e7245966bd00"
+                "signature": "0836abd1650430c75285cf7a23a6975533625b40f90b598bce3e969d8954e84438df489dafe6464e3178dcdf8a835a5df37d8b79daee5a2ab940d9bc3c68720b"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Halal Broker"
+        "sequenceNumber": 1,
+        "value": "VOID"
     },
     "url": {
         "signatures": [
@@ -24,11 +24,11 @@
         "signatures": [
             {
                 "publicKey": "99c0a5d374b057e0119b079869b200651499214e4368cc382b979a3db0588208",
-                "signature": "a55e3b8b7bfd8692a619d8cfd1c9d51c1de190b77518479bc1b5e05a9a255450c0168afe37614c5d7cb964b278516cce0eecb1a999531015386a0474f2b86c05"
+                "signature": "1dad54745eedff4128a796dd45c35cfdb46f20c0d41cb2d26b2759c742482baa0f5f34617c9258c8988b3ff3124f7bde82d6dc96b906519bceb401a71d67d70b"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Halal Broker Token"
+        "sequenceNumber": 1,
+        "value": "VOID"
     },
     "logo": {
         "signatures": [
