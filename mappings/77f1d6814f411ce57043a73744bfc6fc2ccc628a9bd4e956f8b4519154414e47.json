@@ -1,0 +1,27 @@
+{
+      "721": {
+        "77f1d6814f411ce57043a73744bfc6fc2ccc628a9bd4e956f8b45191": {
+          "TANG": {
+            "name": "Tangent",
+    
+           "image": "ipfs://QmWAh1M2JbsASArUcFv2qYpx3KxSZJTo1YtXuBwT1WVAst", 
+	    "mediaType": "image/png",
+
+	    "description":"Tangent is the NFT Partnership Built on the Cardano Blockchain",
+
+	   "name": "Tangent",
+	   "symbol": "TANG",
+	   "tokenType": "token",
+	   "totalSupply": 3141592650,
+
+           "publisher" :[
+                "https://tangent.art/"
+           ]
+
+        }   
+ 
+      },
+          "version": "1.0"
+
+    }
+  }
