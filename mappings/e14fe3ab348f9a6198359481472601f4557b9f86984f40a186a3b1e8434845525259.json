@@ -20,6 +20,16 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CHERRY",
+        "signatures": [
+            {
+                "signature": "4f84769918be920ace67c0cce3d16806d98a5fba76e06ae12167034c61eade671f6aae660c4067cfb9f7d6869923d650ab64806b31d21ea13768986bc1dd1002",
+                "publicKey": "91dcf614fe16d5ab97d50e94364e4c1c052775cdcc23ecdfae7bead4a911bd50"
+            }
+        ]
+    },
     "policy": "820182018282051a02f2399a8200581cc70f11d57e596575f36960acfc7edd6a484a3210eb8d712adf116427",
     "logo": {
         "sequenceNumber": 2,
