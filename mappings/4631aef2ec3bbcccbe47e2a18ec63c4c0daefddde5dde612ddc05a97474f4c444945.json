@@ -1,0 +1,53 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
+                "signature": "ddd58d846c6d81257d0b6d5261c056e6ecca1fbeac5554eb5c1a89384088635b657931db169b16dbc178042b32a2d6bace2d67da167b79d4c1433471b2795a08"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Goldie Dog"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
+                "signature": "8efa7a28da17ea37a31a9d2a4a9dfaa9aedb50a6cef3412f04374fd004483e51ff9089815f76c0c361109c339d805442245d991ac4cbd038ab8f8d670a5a8909"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://goldiedog.io/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
+                "signature": "d9901bcbda02f8018623ec618b54556d158ed2347f6d566b84a31f409bc968b59d01036021bd8a72e16441d1e4ce85a31863e45a61cd96beb7c512a464160908"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "I am a Golden Retriever. I will be your friend to the end."
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
+                "signature": "dd569562e59d05debc84b2eac1c588f8030eca865f6b1efa72c1c27daa88eb9c7ed451d03aca0110e55e814c8fe162941a138d936ac1ed95cb55602596799105"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "GOLDIE"
+    },
+    "subject": "4631aef2ec3bbcccbe47e2a18ec63c4c0daefddde5dde612ddc05a97474f4c444945",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
+                "signature": "cb2eab60cd53a12b508663e6d463525e04c7484d85f854b01a1f31e904180d7e0bbdde20dde4c722ca9f490382477486dd6ef52be7904c5dfcaf3714b94b2b0d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
