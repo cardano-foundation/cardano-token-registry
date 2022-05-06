@@ -1,0 +1,24 @@
+{
+    "subject": "ac86e52d7c59925d38a5ae8ad657eea6578d1e4a8b229dd07c71a3476465786d61726b6574636170",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Dexmarketcap App",
+        "signatures": [
+            {
+                "signature": "f64d3ee628d10ca9a70f04ed4c1988cecdc229367682184ae3abd784705ae1fa3baedf2d77326837d59e5f5df884248b4dcf46e6ba3f628e4cc743fe7f331c04",
+                "publicKey": "1a448ee4d965a34d5b101564565e074044f1e00e65a6f959db55217ca4b199e8"
+            }
+        ]
+    },
+    "policy": "82008200581c573326a9ce5d907ee1690f0b76e3fc1ee964b405ec5888b4a2b731dd",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "A currency for the Dexmarketcap.",
+        "signatures": [
+            {
+                "signature": "072b740b1d2a1ea8c0d23dbc0e9d1b456a255f5e475fd773d2a076ee27958c8985ff99761f2cbcb8c754e48a9b4047384ecd322533ccc98f1d774bbdbc630b0b",
+                "publicKey": "1a448ee4d965a34d5b101564565e074044f1e00e65a6f959db55217ca4b199e8"
+            }
+        ]
+    }
+}
