@@ -1,0 +1,53 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
+                "signature": "e827188b14d69357ad63ccaae61c2029095c305971a50a84b7bec2a20e049c10dbd5f34d924402e6635e014796a145288c726045c42eb6d18d8351b8a2013b07"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Tangent"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
+                "signature": "d3fbf6fb9147dfc7e790973af42a01bd5e41336624031bd9e17a224b2b2d14db975f3f332c63d3bca255070023f561744df97cd7836cc2e1f2497eac4edda606"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://tangent.art/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
+                "signature": "901045895e67e81656ae3e94b7f6461de530527a743f2c7b3b6639c37fc63276b5e6f1d90b43e7b6623e3c5186502b44445c5428a62bb17b05b22e3b175c5d08"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Tangent is the Radical Art & Finance Project Built on Cardano"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
+                "signature": "8acb2d65bcc7cfc51ab8d0639106594a362484a54e134e344883fa6c0d3d88b9fd2760cb23a08f961248bf2a9f142a98e4a7e01d2536fffd76b6c627704ffd09"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "TANG"
+    },
+    "subject": "e2087044f1a5028aec705eb05609370754d64587adbdc27eeb33005854414e47",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
+                "signature": "7d7d8fd3d033b56d8bf6f0a1bb13d160f146ddf2f50628f7af83a4fc564e19f16cbc6e16924004930e1ea22b68e194d66c1488a0dab0ea199174be64448c8c0e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
