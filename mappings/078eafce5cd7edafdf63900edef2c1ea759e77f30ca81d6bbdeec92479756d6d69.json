@@ -1,0 +1,44 @@
+{
+    "policy": "82018201828200581c5620460af10da577bbfe8ab7772e69725ba284fffc56f5cc72aaf53f82051a094241d5",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1bba4b5549d3fb62be81707e0e17d1f7d5c3f3689884313af361e21d1b84c2a2",
+                "signature": "87914fde1955a30cf63ac8c29fc2b35232aa5e4b0cf8d82a895104ff210f3ba4493c041b1a5bcdf5a59784c258ca7bac81b500f89df591491f66d27b9124ad00"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "YUMMI"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "1bba4b5549d3fb62be81707e0e17d1f7d5c3f3689884313af361e21d1b84c2a2",
+                "signature": "13108981c12fb90d66b322d43eb554b13b31e26fb54140a6a7bf16e0e3ad8ae57bd971681f36b819c39bc65eef9aa1e2cfdd6ee594ab0ed7e38c260679513501"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://yummi-universe.gitbook.io/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1bba4b5549d3fb62be81707e0e17d1f7d5c3f3689884313af361e21d1b84c2a2",
+                "signature": "3f8a7048e0d3292acf80026eb3bad9a0ad2467d9e9db96ade07603c8b37da614e821b6d4a1c603ced48d3e6dc5e4d0a970727ee07d46cdb12d747f34070f550f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The Official Yummi Universe Coin"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1bba4b5549d3fb62be81707e0e17d1f7d5c3f3689884313af361e21d1b84c2a2",
+                "signature": "4c98a50e9e40e0904c36709795dc602da89a4d67c583596a194513316520b5c35070f6e876126b8517972cd6dfaba842a836409501ba0bd402fd2777161f7f0f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "YUMMI"
+    },
+    "subject": "078eafce5cd7edafdf63900edef2c1ea759e77f30ca81d6bbdeec92479756d6d69"
+}
