@@ -1,0 +1,64 @@
+{
+    "subject": "fae630fc793b5bb14735616b6f28cfae6d81a82ec05ecca98da3aedc544144",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://theapedao.io/",
+        "signatures": [
+            {
+                "signature": "f837dcea2b724e52c3ee93e1d3b5f17f7bf324bcf8a5913c90429d171f8e641967c347f63d14229de2083ef84cf38c1b87141f43faeb3f240c163730dcad470f",
+                "publicKey": "183c7384741d55c9d819864d4dc833817688e76955f0272861bdacbdeeeef77a"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "TAD",
+        "signatures": [
+            {
+                "signature": "5d834b45254321a6cef236a9fb3c42bd69193e51cdc98333589d45c604501737ecec2d87840f6ffcc31d8031aabad84d60a2634d0ddd6d594055b427563b0a0a",
+                "publicKey": "183c7384741d55c9d819864d4dc833817688e76955f0272861bdacbdeeeef77a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "TAD",
+        "signatures": [
+            {
+                "signature": "cd7c61bfa1ed63330a56087e5061af5f54b118a09531a5221eda067f1174103e2e24151443767af202117fbfa689fc8f28946465e3b6730500793c7af1d49407",
+                "publicKey": "183c7384741d55c9d819864d4dc833817688e76955f0272861bdacbdeeeef77a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "a7c4e6681815e6cd355f30310e91a6ebe89430fc909ad4769be48bb1f4ac2215dfa78ccc0b02af50325c29566f7fdbaea139a0bef2d59ba32350f2dbfc5a6709",
+                "publicKey": "183c7384741d55c9d819864d4dc833817688e76955f0272861bdacbdeeeef77a"
+            }
+        ]
+    },
+    "policy": "82018201828200581c89356e7ddcf66b0c7e00a77c113cc2e46299e4525f3813b48f3e51bb82051a041d7e25",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAAmIAAAJiCAMAAABTiF7UAAAA1VBMVEVHcExEExP1ZGRIFBT7aWk2EBA/ExPWWFg9FBQ1EBBBExNAEhLmWVnYTk7fU1N0Hx+oODhJFRU0EBD////PR0c7EhI/ExP6aGhDFBRPFxdVGRnzY2PpXl>
+        "signatures": [
+            {
+                "signature": "74765d59b54a6a5baea5e7b02c3e6c4dfc76a7cab855c26414e141810df4f9385098bbef2d5bc5f9245efcddf19284739c0a055514cf69a80bbea302608f7b02",
+                "publicKey": "183c7384741d55c9d819864d4dc833817688e76955f0272861bdacbdeeeef77a"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The official monetary currency of The Apes",
+        "signatures": [
+            {
+                "signature": "6371886d63e121eaa2e7610eea00c59ce084511cc1fd5c4ab0f9b498433f2d34fa9753bf8385955ecb2bcba9adfee663be1b72ac2aeced3ee33e38d2c7571602",
+                "publicKey": "183c7384741d55c9d819864d4dc833817688e76955f0272861bdacbdeeeef77a"
+            }
+        ]
+    }
+}
