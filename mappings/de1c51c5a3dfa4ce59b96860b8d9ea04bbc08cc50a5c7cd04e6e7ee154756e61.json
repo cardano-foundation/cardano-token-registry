@@ -2,7 +2,7 @@
     "subject": "de1c51c5a3dfa4ce59b96860b8d9ea04bbc08cc50a5c7cd04e6e7ee154756e61",
     "name": {
         "sequenceNumber": 0,
-        "value": "Tuna",
+        "value": "TUNA",
         "signatures": [
             {
                 "signature": "ac0472e450c863da814e1e0d7319565f62c50c945b38f3df2e663260deacd1dc4afa5b3c68013e3900e90bcf5269637c1aa4bfeb0e33a96e94db87fec209c70e",
@@ -43,7 +43,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Terra+LUNA=Tuna",
+        "value": "Terra+LUNA=TUNA",
         "signatures": [
             {
                 "signature": "c5a610d13bd6c1920894f8c2df8119fcdbf37c69aaf76b35587c98bf0f59067c1bb6cf7432f96396d1cfaa32f9df4260a8fa5282501692e3b92401c9fd53dc05",
