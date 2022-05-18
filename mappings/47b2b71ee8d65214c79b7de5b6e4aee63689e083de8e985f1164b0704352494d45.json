@@ -7,10 +7,6 @@
             {
                 "signature": "aae498646b521ad1a927384e5576b103c7bf30297c2481506b2f58e7a8b44a890f7daacff5602523eeaeab9d24e51950b8219458b8d5f8d5099e1e9c5cb4df07",
                 "publicKey": "f6a8cf2644be889520305082e82f3e91c8194a1fb31fe14e429394d6ed387e09"
-            },
-            {
-                "signature": "aae498646b521ad1a927384e5576b103c7bf30297c2481506b2f58e7a8b44a890f7daacff5602523eeaeab9d24e51950b8219458b8d5f8d5099e1e9c5cb4df07",
-                "publicKey": "f6a8cf2644be889520305082e82f3e91c8194a1fb31fe14e429394d6ed387e09"
             }
         ]
     },
@@ -21,10 +17,6 @@
             {
                 "signature": "3406face4800c06668bac2bf151c28c0964a7d6d15588f7034d638bf52ef0da0cc8a4f612132197cd7d1f032730220add6128a92bf514389f6ded143104e8e05",
                 "publicKey": "f6a8cf2644be889520305082e82f3e91c8194a1fb31fe14e429394d6ed387e09"
-            },
-            {
-                "signature": "3406face4800c06668bac2bf151c28c0964a7d6d15588f7034d638bf52ef0da0cc8a4f612132197cd7d1f032730220add6128a92bf514389f6ded143104e8e05",
-                "publicKey": "f6a8cf2644be889520305082e82f3e91c8194a1fb31fe14e429394d6ed387e09"
             }
         ]
     },
@@ -32,10 +24,6 @@
         "sequenceNumber": 0,
         "value": "CRIME",
         "signatures": [
-            {
-                "signature": "ed603c3837c07c7ec8e9c6e8a40caddff0f4f38d14307fd56df865713de2c3db35901a50787bc50868bc3487ba518ce17d2e3112eb5e297b378d62c66c1d9705",
-                "publicKey": "f6a8cf2644be889520305082e82f3e91c8194a1fb31fe14e429394d6ed387e09"
-            },
             {
                 "signature": "ed603c3837c07c7ec8e9c6e8a40caddff0f4f38d14307fd56df865713de2c3db35901a50787bc50868bc3487ba518ce17d2e3112eb5e297b378d62c66c1d9705",
                 "publicKey": "f6a8cf2644be889520305082e82f3e91c8194a1fb31fe14e429394d6ed387e09"
@@ -60,10 +48,6 @@
             {
                 "signature": "f280cee902a7c36a222f709fa63749396984017df19c9e9cee28c61ab787349b9fec488038d704611b1d63484309a884d3870000b0ae1ff0cc78f3651fc5000f",
                 "publicKey": "f6a8cf2644be889520305082e82f3e91c8194a1fb31fe14e429394d6ed387e09"
-            },
-            {
-                "signature": "f280cee902a7c36a222f709fa63749396984017df19c9e9cee28c61ab787349b9fec488038d704611b1d63484309a884d3870000b0ae1ff0cc78f3651fc5000f",
-                "publicKey": "f6a8cf2644be889520305082e82f3e91c8194a1fb31fe14e429394d6ed387e09"
             }
         ]
     },
@@ -71,10 +55,6 @@
         "sequenceNumber": 0,
         "value": "The Crime Network is an NFT-based network of games, comics, collectibles, music, and marketplaces in Web3 and the Metaverse. The native token, CRIME, is used for transactions in the Crime Network.",
         "signatures": [
-            {
-                "signature": "c0d858627cd10f5382845f1e8a50721c7b918e8f9001164c24006bd5710bb9a260954a88b3fa8c0352f780aa0d862352cce25722a8be9434e0d339d12cdfb301",
-                "publicKey": "f6a8cf2644be889520305082e82f3e91c8194a1fb31fe14e429394d6ed387e09"
-            },
             {
                 "signature": "c0d858627cd10f5382845f1e8a50721c7b918e8f9001164c24006bd5710bb9a260954a88b3fa8c0352f780aa0d862352cce25722a8be9434e0d339d12cdfb301",
                 "publicKey": "f6a8cf2644be889520305082e82f3e91c8194a1fb31fe14e429394d6ed387e09"
