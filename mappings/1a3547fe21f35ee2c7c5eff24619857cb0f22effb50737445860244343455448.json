@@ -2,14 +2,14 @@
     "subject": "1a3547fe21f35ee2c7c5eff24619857cb0f22effb50737445860244343455448",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://cbtcbridge.com",
+        "value": "https://microchains.network/",
         "signatures": [
             {
-                "signature": "59b9959626b5380512c1d5461875021567db071c4a73cc29714fca19ef45bfa0424935a365fa075e48d5ea68d7bb831f5a455670f0928ab6e3aced12ca8e2900",
+                "signature": "e092aff4847e2137de24f2722fd54e6771a76f98acb55e003caa55133ddd8a89dad3f462f0adb519815f137e8e4754cee15afd6386b1d050aadb9a4f4978c207",
                 "publicKey": "dccaf53e32652765ba2130aa997fc49b4552f0bf2b6dc64f65207d7c7fe07049"
             },
             {
-                "signature": "cdfe2c324081689e3a7c525f30cc2e14abf00b758e1469fdaa0516d7a0fd36867945c5856d17ae80bb0f9a04d3b14a6ba1618ca9c6a97b3e7d40998ecd58f306",
+                "signature": "221c5f0ea056dab6c4e3a302f05f8ed5354f487ad35d6b06de0572329d02984b4f95708b09115771625fc105eb85f288dea244985529d47446b97d92d3919607",
                 "publicKey": "9e6951c554d9d145dcf63ebb517f12c17e7375aeb04722082de7be4e03397a38"
             }
         ]
