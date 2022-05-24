@@ -13,11 +13,11 @@
         "signatures": [
             {
                 "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
-                "signature": "5ddb2896fd769c06e47325cce7f938851dae9fa08ef85e288ac05de059d8ecd39377e5041702efd81ceb71352bf3f6dc929b01c8d69878907b31cfc51e31b007"
+                "signature": "8efa7a28da17ea37a31a9d2a4a9dfaa9aedb50a6cef3412f04374fd004483e51ff9089815f76c0c361109c339d805442245d991ac4cbd038ab8f8d670a5a8909"
             }
         ],
         "sequenceNumber": 0,
-        "value": "https://goldiedog.io"
+        "value": "https://goldiedog.io/"
     },
     "description": {
         "signatures": [
