@@ -13,11 +13,11 @@
         "signatures": [
             {
                 "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
-                "signature": "8e332aabcc8461d377032ed81173cb3af5a3be3bd10174a29e4eb0a949445732293b8818f48dd60e5bd846a1ada41d09813aa138976b4f6fdb6f17b37c8e800b"
+                "signature": "d3fbf6fb9147dfc7e790973af42a01bd5e41336624031bd9e17a224b2b2d14db975f3f332c63d3bca255070023f561744df97cd7836cc2e1f2497eac4edda606"
             }
         ],
         "sequenceNumber": 0,
-        "value": "https://tangent.art"
+        "value": "https://tangent.art/"
     },
     "description": {
         "signatures": [
