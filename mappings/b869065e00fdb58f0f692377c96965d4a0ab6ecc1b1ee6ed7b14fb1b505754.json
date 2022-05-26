@@ -11,21 +11,21 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "PIGGY",
+        "sequenceNumber": 1,
+        "value": " Piggy Wallet",
         "signatures": [
             {
-                "signature": "02d5a4e6e9b11d496de5b93779df875e4e8c31222cc5c18965b7f9045da526114a685083f1b7731be4e38c39bc3c554e83f8c0ff186f209f18bd24ad9f720308",
+                "signature": "e795aaf19c1c33a0f510802e5109cdd30e0997f29ae66bb179e7f9cc5f357451a63375eb0f296fe518b9d140a9ae3a73625c0d9108a07713eddd353020656905",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "PET",
+        "sequenceNumber": 1,
+        "value": "PWT",
         "signatures": [
             {
-                "signature": "fcda3989ff6166d2fed63fc2c9b38b0dfbbe3a48955cb5d3eb639fcae8c9c6f5374a2f24f904072dbfcd0711ccade92d81ae6c81b1eeb748af51756a011c6003",
+                "signature": "e81b86151e6561687d609b97b34427aa65e27a13a12f9f98861327f1f9c9bb0007f802e1156647a4135515556586046e0351875e19b016759a551972ccb7140f",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
