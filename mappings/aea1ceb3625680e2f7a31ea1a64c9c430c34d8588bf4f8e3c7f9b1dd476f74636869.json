@@ -1,0 +1,54 @@
+{
+    "subject": "aea1ceb3625680e2f7a31ea1a64c9c430c34d8588bf4f8e3c7f9b1dd476f74636869",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://cardano.ideascale.com/c/idea/405243",
+        "signatures": [
+            {
+                "signature": "bc0140b0a8349034d9b906e6014906acd69752d9739343b9fd54016fa2cc4a21573dc071ace90badab866b4f1e9678ef3b449ccc7ef865321859808106517c04",
+                "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Gotchi",
+        "signatures": [
+            {
+                "signature": "58af506e3499b1eb49f0bea6e2b3ec5228f486446537f6baee0a41da89f7279954a9008460cddf16524205ea37b4ededf1e904a14e4a5d832de4c12e896e9f01",
+                "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "GTCHI",
+        "signatures": [
+            {
+                "signature": "b7945cda7448d8503d2dd0ba38450eac803fc54031f940a16d23bc10cb6005b49ba0d7345fb16867695c0d4833d1be309a9946a0753ddb95d292cec7763ef90c",
+                "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "1ce185a6a3b10157b3d0c2d9652ceeda9046f51161eb0368a372afb565260edab2650798b9b853ae32dfb83abf34bc69e13abbe0044938985af58b58fad26d0f",
+                "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
+            }
+        ]
+    },
+    "policy": "820182018282051a0540fa218200581c91ca04e1b53718d632e88599d7a1f617c12248418964142a0a9c5328",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Adagotchi use these tokens to travel through the blockchain.",
+        "signatures": [
+            {
+                "signature": "92aadaabed2a1bfa90a7767a68361a7f69bd7ed9df308ba1c5e8958c9a798c23c29458f844b86db275fa489c65fc69003744404f11dbca8b76e3463715a0be06",
+                "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
+            }
+        ]
+    }
+}

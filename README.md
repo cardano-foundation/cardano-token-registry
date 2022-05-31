@@ -45,7 +45,7 @@ For a comprehensive description of all fields and how to generate them, please s
 
 1. Submissions to the registry must consist of a single commit, directly off the **master** branch of the **cardano-token-registry** repository.
 
-2. Submissions must add or modify a singular file in the [mappings/](mappings) folder. Multiple mappings should be split accross multiple PRs.
+2. Submissions must add or modify a singular file in the [mappings/](mappings) folder. Multiple mappings should be split across multiple PRs.
 
 3. The file name must match the encoded `"subject"` key of the entry, all lowercase.
 

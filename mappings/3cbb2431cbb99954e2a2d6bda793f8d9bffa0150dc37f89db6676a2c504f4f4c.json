@@ -1,11 +1,11 @@
 {
     "subject": "3cbb2431cbb99954e2a2d6bda793f8d9bffa0150dc37f89db6676a2c504f4f4c",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://www.cardanokash.io",
+        "sequenceNumber": 1,
+        "value": "https://kashpool.io/",
         "signatures": [
             {
-                "signature": "d1c263382d65ea99f8bb0dd54bb2e7c73816444550483ec4a1e22f058eae58801240db7ea7cdbafeb489c395e9d02ed4173db33a9a2b64117f343c5b14c76101",
+                "signature": "f3cf152118be0144ce4b2bf36a1e52f4b9392c551417962af008b2e79c7be6b99a4b9327fa2736859431027738d95e4cabbf55ed5703e81250d107e8f2c23d07",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "POOL token was created to award early delegators to the Kash Stake Pool",
+        "sequenceNumber": 1,
+        "value": "Pool Kash Token was created to award delegators of certain stake pools, on top of the ADA the pool has earned",
         "signatures": [
             {
-                "signature": "ddd4b805e28d5bc2afbd55a2e1eea2f5c3c979f3e11a898959a64c1f3a132aa0318192d79851bffea221137d327b574c32b7988575a23c6f160486a4836a8b01",
+                "signature": "baa0a4d2694f9bc8ea65203911055edced10799502b7d9dcc52fa513ebd4866d275ecd43e0f42ddff1c27215abe6061093b6c4d92c2dbd6aeba1a750d6250b06",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
