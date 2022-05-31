@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Metaspacepad",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "052a41695507de8e7cffccbf7f8ef9295aab77a5fea792f1e0a2a905c01fdb23022a7d5cde0ddfd2b3d2171df6dcf8844864c9dbdff53644c5258c2056e54102",
+                "signature": "16642568b19168ea99fc20597783b2cff8750ad57de3f51a2dfd663f7e6ee2005117b1f89fa4975e4e62d6934074635c6a03d1a91d362b0ac8436df0f1a86802",
                 "publicKey": "9d16b7540a28c7ab43c1a76378b3573ff143e99d324178b486b202d60e388b66"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Decentralized Metaverse IDO platform on the Cardano Blockchain.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "e9b25b730a8db5000f8384616a44b1bc484fa213f4687d24761f215981222fef16c63f12abfb023234b589e5360cb04c5c514b2c5a8eab86910596aaf692c409",
+                "signature": "048bff1fcbe84bfd6a52323aec490580bdf174f9168f2af46ce0683f7150e282f125b57e489766d28772607e5c0bf35345a725074c794120e9628832dca8f803",
                 "publicKey": "9d16b7540a28c7ab43c1a76378b3573ff143e99d324178b486b202d60e388b66"
             }
         ]

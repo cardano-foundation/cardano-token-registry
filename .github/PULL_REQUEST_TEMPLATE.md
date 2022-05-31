@@ -11,7 +11,7 @@ Please include a short summary of the changes in this PR.
 
 ## Checklist:
 
-- [ ] For metadata related changes, this PR code passes the Github Actions metadata validation
+- [ ] For metadata related changes, this PR code passes the GitHub Actions metadata validation
 
 
 ## Metadata PRs
