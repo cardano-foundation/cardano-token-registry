@@ -1,0 +1,44 @@
+{
+    "subject": "d4ae3ee0e5eced2d59ad90bb27822702b570f457702b220c9477a73a534f4c41524953",
+    "name": {
+        "sequenceNumber": 1,
+        "value": "SOLARIS",
+        "signatures": [
+            {
+                "signature": "63fc0bc64c097565523463a87f160990445253794ab1a54b7704746b068754adc78a117308a8aa26b89d6a8d22dc132067ae7bec135e46588e862a165987b80b",
+                "publicKey": "d233aa138acd2d587e6c5d5a9f2687fcf3314ced21e72617930f7d1d00615e35"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 1,
+        "value": "SOLARIS",
+        "signatures": [
+            {
+                "signature": "960ed9023a90130c8591ab981af5667513cd25ca8f336804963094e957fb5c2e8157a4bf063f5a9207685dda0860df0f55464c707ca0ae05b01e60e9962e1505",
+                "publicKey": "d233aa138acd2d587e6c5d5a9f2687fcf3314ced21e72617930f7d1d00615e35"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 1,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "5e7ff0fc8cd7de969d2bcabfb2b4598c98d55f51757aacdb9a9b6e7236d558da3d114ab6c25bb7fbf463c326fd3cae6d363d478dbb80b6ffe5cca4f852514109",
+                "publicKey": "d233aa138acd2d587e6c5d5a9f2687fcf3314ced21e72617930f7d1d00615e35"
+            }
+        ]
+    },
+    "policy": "820182018282051a04a808a08200581c1a819b783edc49031e00e4582de4d44dc2feb75cd2f76153098604d7",
+    "description": {
+        "sequenceNumber": 1,
+        "value": "TOKEN OF THE SOLARIS PROJECT",
+        "signatures": [
+            {
+                "signature": "ed58045809b946e90430eb9f7194a9bf9716c210b11b608203bbc33aa9d57192bdff0ab6c57653ddc26b7d109745ea02699925a3405e5c48b61da79e20c6e30f",
+                "publicKey": "d233aa138acd2d587e6c5d5a9f2687fcf3314ced21e72617930f7d1d00615e35"
+            }
+        ]
+    }
+}
