@@ -1,12 +1,16 @@
 {
     "subject": "aea1ceb3625680e2f7a31ea1a64c9c430c34d8588bf4f8e3c7f9b1dd476f74636869",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://cardano.ideascale.com/c/idea/405243",
+        "sequenceNumber": 1,
+        "value": "https://adagotchi.io/",
         "signatures": [
             {
-                "signature": "bc0140b0a8349034d9b906e6014906acd69752d9739343b9fd54016fa2cc4a21573dc071ace90badab866b4f1e9678ef3b449ccc7ef865321859808106517c04",
+                "signature": "6c768f68da3ea1cd08bbc5204b24f99395c61470f588a64c1ea4b52a291219d912cb9bf02f8aebf11893a71030bea40705f76469869934d4304183764c8ba80a",
                 "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
+            },
+            {
+                "signature": "36d648c60ded9e57c76e1748d059a434336a4bba65a7421eb81953f826c241e8e7970586b74718cde685bfd73d2fa2100a83ff4f1a4496867871ad18f4089f0c",
+                "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
             }
         ]
     },
@@ -14,6 +18,14 @@
         "sequenceNumber": 0,
         "value": "Gotchi",
         "signatures": [
+            {
+                "signature": "58af506e3499b1eb49f0bea6e2b3ec5228f486446537f6baee0a41da89f7279954a9008460cddf16524205ea37b4ededf1e904a14e4a5d832de4c12e896e9f01",
+                "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
+            },
+            {
+                "signature": "a694126919ea299f321da31bdc6461e4f37180536a5ca4d54c66aadc2013974072e4f41ca7446781a890cb51958e19e5b46d469ff492caba6ff111516a7d6a07",
+                "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
+            },
             {
                 "signature": "58af506e3499b1eb49f0bea6e2b3ec5228f486446537f6baee0a41da89f7279954a9008460cddf16524205ea37b4ededf1e904a14e4a5d832de4c12e896e9f01",
                 "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
@@ -27,6 +39,14 @@
             {
                 "signature": "b7945cda7448d8503d2dd0ba38450eac803fc54031f940a16d23bc10cb6005b49ba0d7345fb16867695c0d4833d1be309a9946a0753ddb95d292cec7763ef90c",
                 "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
+            },
+            {
+                "signature": "e7aba7b743ee39942b5b66c02c14ee26aed11dacf0533c52e8527ab9960c25bc48b59bb762b8b5171c5449586f769a12c77c0cbae8d6b54a77e10688ebfa9600",
+                "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
+            },
+            {
+                "signature": "b7945cda7448d8503d2dd0ba38450eac803fc54031f940a16d23bc10cb6005b49ba0d7345fb16867695c0d4833d1be309a9946a0753ddb95d292cec7763ef90c",
+                "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
             }
         ]
     },
@@ -34,6 +54,14 @@
         "sequenceNumber": 0,
         "value": 6,
         "signatures": [
+            {
+                "signature": "1ce185a6a3b10157b3d0c2d9652ceeda9046f51161eb0368a372afb565260edab2650798b9b853ae32dfb83abf34bc69e13abbe0044938985af58b58fad26d0f",
+                "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
+            },
+            {
+                "signature": "5032c9c3bc0c020bfe694e9859de54e07fb466b777f0a1124e3e5592113b44a7d733af4a832afe9c6a7c6a231175cbdb890790c7b5e65a47421f02c347c18a08",
+                "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
+            },
             {
                 "signature": "1ce185a6a3b10157b3d0c2d9652ceeda9046f51161eb0368a372afb565260edab2650798b9b853ae32dfb83abf34bc69e13abbe0044938985af58b58fad26d0f",
                 "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
@@ -45,6 +73,14 @@
         "sequenceNumber": 0,
         "value": "Adagotchi use these tokens to travel through the blockchain.",
         "signatures": [
+            {
+                "signature": "92aadaabed2a1bfa90a7767a68361a7f69bd7ed9df308ba1c5e8958c9a798c23c29458f844b86db275fa489c65fc69003744404f11dbca8b76e3463715a0be06",
+                "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
+            },
+            {
+                "signature": "05522cf1c43d17dde6982f38b78c1ec41a5bc1feee13aba1e293e333b59ca837f727f43d29ec9ae3329aa0dd09583b5263de163ef5570e0c4a55646d149caf06",
+                "publicKey": "35931e59b312f23489651cc7323b256544f493321a32f2cc9ca5653bfb61d883"
+            },
             {
                 "signature": "92aadaabed2a1bfa90a7767a68361a7f69bd7ed9df308ba1c5e8958c9a798c23c29458f844b86db275fa489c65fc69003744404f11dbca8b76e3463715a0be06",
                 "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
