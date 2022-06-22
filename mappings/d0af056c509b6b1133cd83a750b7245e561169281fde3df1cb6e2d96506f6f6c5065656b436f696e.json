@@ -1,11 +1,31 @@
 {
     "subject": "d0af056c509b6b1133cd83a750b7245e561169281fde3df1cb6e2d96506f6f6c5065656b436f696e",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://poolpeek.com",
+        "signatures": [
+            {
+                "signature": "af8ddb1601d9c5f6506fb98996bb96a4fdc8a78019005b0db14586361247d8a4c91450d386c8bf513a029b056176b99e2274d085365a31d9d5e46029378a2207",
+                "publicKey": "336a6bcfcebb8ada28a8c59247891284f9092a82cbc47462905771208ad76433"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "PoolPeekCoin",
         "signatures": [
             {
                 "signature": "9091cb3d2203018bb6b9f4259d42e0fe850dc938a3e3bb39fbdf9204b49e7fb1d72c403992c19e936810e2a0374128ffd1776e98d2da0d382fc130c7fc75a503",
+                "publicKey": "336a6bcfcebb8ada28a8c59247891284f9092a82cbc47462905771208ad76433"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "PPC",
+        "signatures": [
+            {
+                "signature": "fc7e8d87e905a49200a22c70eae5fb5704fc22e62d86ac165d74436261611dd543ed4391564ce3d2a8915642343da9e263bbe9f766689002368a48a8a753e404",
                 "publicKey": "336a6bcfcebb8ada28a8c59247891284f9092a82cbc47462905771208ad76433"
             }
         ]
