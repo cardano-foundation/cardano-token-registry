@@ -8,7 +8,7 @@
             }
         ],
         "sequenceNumber": 0,
-        "value": "GRASS"
+        "value": "VOID"
     },
     "url": {
         "signatures": [
@@ -28,7 +28,7 @@
             }
         ],
         "sequenceNumber": 0,
-        "value": "Grass Token is a native asset on the Cardano blockchain that powers the GOAT Tribe ecosystem"
+        "value": "VOID"
     },
     "ticker": {
         "signatures": [
