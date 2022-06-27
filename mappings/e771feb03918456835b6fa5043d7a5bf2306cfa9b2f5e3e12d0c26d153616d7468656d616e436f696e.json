@@ -5,10 +5,6 @@
             {
                 "publicKey": "40a8e228415bf97d0d9144b5a9a0ea268bd5d41a73036a2fee56b36a90170fc3",
                 "signature": "04e44c5d22a755007e4acc9b5ad662065966b76b222b286f1f01e0797ba649229ebbd18568ba6ec763ea4aa18fe6f5cee16cdccd35df9388c011cd8a41e9ee07"
-            },
-            {
-                "publicKey": "40a8e228415bf97d0d9144b5a9a0ea268bd5d41a73036a2fee56b36a90170fc3",
-                "signature": "04e44c5d22a755007e4acc9b5ad662065966b76b222b286f1f01e0797ba649229ebbd18568ba6ec763ea4aa18fe6f5cee16cdccd35df9388c011cd8a41e9ee07"
             }
         ],
         "sequenceNumber": 0,
@@ -16,11 +12,7 @@
     },
     "description": {
         "signatures": [
-            {
-                "publicKey": "40a8e228415bf97d0d9144b5a9a0ea268bd5d41a73036a2fee56b36a90170fc3",
-                "signature": "95d9fd1ed2ad7123ac1852e8e28693da3b164f4212e141a1dc78b00f87f0bd0a2d1ed92724f9764b0c38db1b998285a59e634cf91e1d32a578340e4da974390b"
-            },
-            {
+           {
                 "publicKey": "40a8e228415bf97d0d9144b5a9a0ea268bd5d41a73036a2fee56b36a90170fc3",
                 "signature": "95d9fd1ed2ad7123ac1852e8e28693da3b164f4212e141a1dc78b00f87f0bd0a2d1ed92724f9764b0c38db1b998285a59e634cf91e1d32a578340e4da974390b"
             }
@@ -33,10 +25,6 @@
             {
                 "publicKey": "40a8e228415bf97d0d9144b5a9a0ea268bd5d41a73036a2fee56b36a90170fc3",
                 "signature": "951b795d83aa550deb2b889826f1745ecdb90dfcb59e46ce120c52c42732f3fa14e0ccd634f0af32f46554b7d250082846f2066184c7458079059bc48c1c5f00"
-            },
-            {
-                "publicKey": "40a8e228415bf97d0d9144b5a9a0ea268bd5d41a73036a2fee56b36a90170fc3",
-                "signature": "951b795d83aa550deb2b889826f1745ecdb90dfcb59e46ce120c52c42732f3fa14e0ccd634f0af32f46554b7d250082846f2066184c7458079059bc48c1c5f00"
             }
         ],
         "sequenceNumber": 0,
@@ -44,10 +32,6 @@
     },
     "ticker": {
         "signatures": [
-            {
-                "publicKey": "40a8e228415bf97d0d9144b5a9a0ea268bd5d41a73036a2fee56b36a90170fc3",
-                "signature": "078312c0661c7dbf58fb5cde7f095113f155cfb5ed0fa39617746baf6272beeb59f25f46f98f9fba9d12aa1c492b2de6e872d75640b2d220706425d331380908"
-            },
             {
                 "publicKey": "40a8e228415bf97d0d9144b5a9a0ea268bd5d41a73036a2fee56b36a90170fc3",
                 "signature": "078312c0661c7dbf58fb5cde7f095113f155cfb5ed0fa39617746baf6272beeb59f25f46f98f9fba9d12aa1c492b2de6e872d75640b2d220706425d331380908"
