@@ -4,7 +4,7 @@
             {
                 "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d",
                 "signature": "b63fc11a5572197d9be843e6300113853e11e8d1282a49a6693ca2c9407a9042c6f269de3647ad363330db0ca119a250a19df7c1621d088bb3af6dbc8419e605"
-            },
+            }
         ],
         "sequenceNumber": 0,
         "value": "Discoin"
@@ -14,7 +14,7 @@
             {
                 "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d",
                 "signature": "cac8d968a31db444c9e0cb8d931f45235770d1a986d5e5bba157beb11c015512000bdd706d413d408de37e3daac5ce6885ec0a412d3a377a43e0ae179e3e030b"
-            },
+            }
         ],
         "sequenceNumber": 0,
         "value": "https://discoin.family"
@@ -24,7 +24,7 @@
             {
                 "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d",
                 "signature": "f845ef4174a4958cf4f8becd6950d9df6f60697e2ac660a5ac135b485aeb6cd892da8897786f28bf901d325ac710a660cf705eb63e4d3efee813e262a7616400"
-            },
+            }
         ],
         "sequenceNumber": 0,
         "value": "Community asset for people of Neo Miami"
