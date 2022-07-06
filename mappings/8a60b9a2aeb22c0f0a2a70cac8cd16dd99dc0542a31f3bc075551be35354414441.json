@@ -4,11 +4,11 @@
         "signatures": [
             {
                 "publicKey": "c6d447425c78720615beb2145a36480210273ba8fe27fb14049c88fff93a4766",
-                "signature": "75d5245639b761412daae04c02c5fc7c92b880d4cb64580955cac2c1381ec377d6d8f25ed51eb774da3dc229822a74fd21522cb1e6a257a98294731e337d5b06"
+                "signature": "e194473c2c71f8acb892d2dd59eabceced2f81533f91ffc429cb4323db0b81716afe463bb8fc3bd1c4fad08007ec3d7ba9b9b0cd0fd630b4326e45c4a8527f0f"
             }
         ],
         "sequenceNumber": 0,
-        "value": "ADAStake"
+        "value": "STADA"
     },
     "url": {
         "signatures": [
