@@ -4,21 +4,21 @@
         "signatures": [
             {
                 "publicKey": "c6d447425c78720615beb2145a36480210273ba8fe27fb14049c88fff93a4766",
-                "signature": "ef09a3004c2d0c1b5e1c6dba66c96461cd64007f8ac87e099b917d9b2b3fc7a8ff82e693f90fe0a8c53f6cd613a2b9ea7025c1489a11be0dfb94b43bfd879f06"
+                "signature": "a0349c820517a97e2fdc01868f4f2194711b338196161b979c04ac57bd1f092e8fe2a21e9fcdf51c1ee1c1d2aafe4fc19f912f55c462a691b5679b24ac22930e"
             }
         ],
         "sequenceNumber": 0,
-        "value": "ADAStake"
+        "value": "StakeADA"
     },
     "url": {
         "signatures": [
             {
                 "publicKey": "c6d447425c78720615beb2145a36480210273ba8fe27fb14049c88fff93a4766",
-                "signature": "72dbda4e3eb5e64009afdd666da4eacf26c61d92fc4cad65bc58b102bdc4ce0280f0ef081d8556ed9dad785b63d226a16107400b530cc5f66110008723f18908"
+                "signature": "c2d8de13ea3c8433b2969faba7e52f896341bc71c524f5997d89218911217f82df19947b46a2f874e7b39ba89cde44439ab661e93bb5cd09fdad95bde944b00c"
             }
         ],
         "sequenceNumber": 0,
-        "value": "https://adalend.finance/"
+        "value": "https://stada.pro/"
     },
     "description": {
         "signatures": [
