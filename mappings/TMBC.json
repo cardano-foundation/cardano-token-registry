@@ -1,0 +1,27 @@
+{
+  "721": {
+    "392ce4c5f8e1e08f354bc05f3c074e3b6d65f070a86324b76a7b25a5": {
+      "TMBC": {
+        "description": "Trust Me Bro Coin is a community coin based on trust!",
+        "files": [
+          {
+            "mediaType": "image/png",
+            "name": "TMBC",
+            "src": "ipfs://QmeWLEAXriGMUD9JioPJWovbvTxeeUxmfWJSCz4HSiHTMU"
+          }
+        ],
+        "image": "ipfs://QmeWLEAXriGMUD9JioPJWovbvTxeeUxmfWJSCz4HSiHTMU",
+        "mediaType": "image/png",
+        "minting": {
+          "blockchain": "cardano",
+          "mintedBeforeSlotNumber": 63159499,
+          "type": "time-lock-policy"
+        },
+        "name": "Trust Me Bro Coin",
+        "symbol": "TMBC",
+        "tokenType": "token",
+        "totalSupply": 45000000000
+      }
+    }
+  }
+}
