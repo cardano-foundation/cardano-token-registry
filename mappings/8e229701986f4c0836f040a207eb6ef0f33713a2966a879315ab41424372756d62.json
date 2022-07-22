@@ -21,11 +21,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 3,
+        "sequenceNumber": 1,
+        "value": 0,
         "signatures": [
             {
-                "signature": "8f68d63ebe34d39e1f27ce018be2836f89dac6b6bedb8ec46f4e56b3e34922cb89d037fc05c7de70c3c76f3bff043b61fdbff71259a78723b202ba2751404d02",
+                "signature": "883aefc25db5e8089b246c46901227ef9ef53542cdbe25b40c900de2cd838d9ae37334c59a9a7ecfe44a423c615361d5936fcf702188b166ba9bed1c31035209",
                 "publicKey": "f02820dba3e198d834c5269cdb9656ef4e382693e99f69aa131a113abc398e18"
             }
         ]
@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Chip is a blockchain based open world mobile game designed to immersively engage our users and provide non stop entertainment. Crumb is an in-game monetary asset used for buying and selling (This token can only be minted via gameplay and will be used to pay users for completing tasks in game) in Chips. The token will be based on the Cardano blockchain and shall be the primary means of transaction within the ecosystem.",
+        "sequenceNumber": 1,
+        "value": "Chips is a blockchain based open world mobile game designed to immersively engage our users and provide non stop entertainment. Crumb is an in-game monetary asset used for buying and selling (This token can only be minted via gameplay and will be used to pay users for completing tasks in game) in Chips. The token will be based on the Cardano blockchain and shall be the primary means of transaction within the ecosystem.",
         "signatures": [
             {
-                "signature": "e2800819ef14ac8df81b2d6fda6c4a1abbf2b3e1158159db820fdbcb1756f6cd552e01347cb72482e7533483041274fbf84529880225a73fd07f79eda995f006",
+                "signature": "4b14b099fb0d5ef11e9963af1d51c03e88ba7d9d6cc018a1e29e81eb0abb478f403ed2584cffb1c662949bfdbe137df7881d7b0f655d7c1c9f24609c0a4a5003",
                 "publicKey": "f02820dba3e198d834c5269cdb9656ef4e382693e99f69aa131a113abc398e18"
             }
         ]
