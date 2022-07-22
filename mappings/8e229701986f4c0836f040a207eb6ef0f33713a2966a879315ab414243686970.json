@@ -22,7 +22,7 @@
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 2,
+        "value": 0,
         "signatures": [
             {
                 "signature": "f15c88f72ae25f2b422135717f91dd1f10529a1c9b5fa9f4ad9f31a70b233664cbdaad38502a4c58182ba2f634669cba018f4d9621885225c7fb446353f4640b",
@@ -43,7 +43,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Chip is a blockchain based open world mobile game designed to immersively engage our users and provide non stop entertainment. The game will be built on the Cardano blockchain and will comprise 2 tokens. The first token is the Chip token which will have many of its functionalities tied to Dao operations.",
+        "value": "Chips is a blockchain based open world mobile game designed to immersively engage our users and provide non stop entertainment. The game will be built on the Cardano blockchain and will comprise 2 tokens. The first token is the Chip token which will have many of its functionalities tied to Dao operations.",
         "signatures": [
             {
                 "signature": "b60bc3ff17a07d2030d6fe4b9688739a1bbd9f24ff6f4c1c19ff253bdd37e4a654c21d318427cb42c12aa0895087702c561d86acb932d429a283f23b7e3bef0f",
