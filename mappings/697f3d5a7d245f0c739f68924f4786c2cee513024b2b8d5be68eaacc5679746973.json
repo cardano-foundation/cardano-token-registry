@@ -2,10 +2,10 @@
     "subject": "697f3d5a7d245f0c739f68924f4786c2cee513024b2b8d5be68eaacc5679746973",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://vytis.online/vytis",
+        "value": "https://vytis.online/",
         "signatures": [
             {
-                "signature": "ee53634e514dffe35bc0ecf4af37f0f46266f91c2c64d8cf3ad1576d9bbca4b94f9e89cbba437f2da1b8d77f045b83b993c4495ace0abe7720dbecd01c8cd70f",
+                "signature": "a913502557d4ce7881f78374b34b51b8731e0b5cc5cf96b8340f7037e416e6fca3382ea05c1abc1ef938dd365bc9ac7647f21960abdaae10c08c5efaf074dc08",
                 "publicKey": "6f6b8e903e8609f8030d760caf8be31becc32a0a059b42cefa382587fc8d2b5b"
             }
         ]
@@ -32,10 +32,10 @@
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 4,
+        "value": 6,
         "signatures": [
             {
-                "signature": "79fd44d1998b8109f07d663c2b41ca2f3b791b68b96c65498b617db219368f15411fa8cd7d0676dcb4bc22ba6e541ae78513887cd638f196d881ae8aeb15310e",
+                "signature": "31c79a5be3f36eaab235f9a87efa2d9ee25880bb00e3322657be78361c51eba6c316c01895a6e62457ddab2d60a8269718b653b53319c0966ffc67e855eb0403",
                 "publicKey": "6f6b8e903e8609f8030d760caf8be31becc32a0a059b42cefa382587fc8d2b5b"
             }
         ]
@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "future blockchain",
+        "value": "Cardano powered decentralized exhchange",
         "signatures": [
             {
-                "signature": "9f250bb5a16b05fc203cc0e8b393352a4b2b5af50ac7ed0d3e6499c659ee416c05f3ab13e0ecb910d2e519cfca895619aead0012d2d40f92123e201c81c3bc0b",
+                "signature": "5b6c5133914cfeb8b87c72ec9d410b7459ff0264516539931b1feaa395092bcb6f5024127a24220704ea09692375f0fbdaf69b7d33cbde42a960106b81de7b04",
                 "publicKey": "6f6b8e903e8609f8030d760caf8be31becc32a0a059b42cefa382587fc8d2b5b"
             }
         ]
