@@ -1,11 +1,11 @@
 {
     "subject": "697f3d5a7d245f0c739f68924f4786c2cee513024b2b8d5be68eaacc5679746973",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://vytis.online/vytis",
+        "sequenceNumber": 1,
+        "value": "https://vytis.online/",
         "signatures": [
             {
-                "signature": "ee53634e514dffe35bc0ecf4af37f0f46266f91c2c64d8cf3ad1576d9bbca4b94f9e89cbba437f2da1b8d77f045b83b993c4495ace0abe7720dbecd01c8cd70f",
+                "signature": "8316521bd573b83ad82250d550934f72514fa551e51292087798b4f65555ebb96408cfc169461351a48a5a18e3b1946df9c67f10673858f2bc8debe4c5be4f07",
                 "publicKey": "6f6b8e903e8609f8030d760caf8be31becc32a0a059b42cefa382587fc8d2b5b"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 4,
+        "sequenceNumber": 1,
+        "value": 6,
         "signatures": [
             {
-                "signature": "79fd44d1998b8109f07d663c2b41ca2f3b791b68b96c65498b617db219368f15411fa8cd7d0676dcb4bc22ba6e541ae78513887cd638f196d881ae8aeb15310e",
+                "signature": "27f478c18c7e9904630493391d166cf3a17d1aa2d17d884c7f77bf1d773cdeffdc177019c9bce12cf1744e1f73fa6be7f3a5d03a68fbe1ec2c54fae416186600",
                 "publicKey": "6f6b8e903e8609f8030d760caf8be31becc32a0a059b42cefa382587fc8d2b5b"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "future blockchain",
+        "sequenceNumber": 1,
+        "value": "Cardano based decentralized exchange",
         "signatures": [
             {
-                "signature": "9f250bb5a16b05fc203cc0e8b393352a4b2b5af50ac7ed0d3e6499c659ee416c05f3ab13e0ecb910d2e519cfca895619aead0012d2d40f92123e201c81c3bc0b",
+                "signature": "842d992fa6de265f08005b56cd4fa19f120af69b4bddd2218071db8a79a27475254cf9dd71ab7fc2e815a26a0e273ae0ffface63a57f59d22a95345a4860e804",
                 "publicKey": "6f6b8e903e8609f8030d760caf8be31becc32a0a059b42cefa382587fc8d2b5b"
             }
         ]

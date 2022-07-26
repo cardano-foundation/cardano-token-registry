@@ -1,11 +1,11 @@
 {
     "subject": "697f3d5a7d245f0c739f68924f4786c2cee513024b2b8d5be68eaacc5a616c6769726973",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://vytis.online/vytis",
+        "sequenceNumber": 1,
+        "value": "https://vytis.online/",
         "signatures": [
             {
-                "signature": "b4fd37f81b960780326f5ef62e60a2fa8f28c8d647d05b23a247c2adf008bb066c2e154829819818546a08c82c430c97aacddcaa3ea878ab5568f9edd1f3190c",
+                "signature": "85fc5832b3d40936694106a61bcb18980bead810ffb7111920a9d67fa53ee37ccfb28c4a0e1cd134ca1694228769095c9ca2450d65d32c9cd8d4614e24317506",
                 "publicKey": "6f6b8e903e8609f8030d760caf8be31becc32a0a059b42cefa382587fc8d2b5b"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 4,
+        "sequenceNumber": 1,
+        "value": 6,
         "signatures": [
             {
-                "signature": "429e2b5cd5f60e1d991f0de06d1266ae7e579eead00de946a63faa464e5bd24a42babb731c6d7c2cd7d7d76df23976b50ef90541b03d975957e773097a820c05",
+                "signature": "b0c84337ad67000e692e9d936ac28197b1d294e6aed5f46f2b8f1050c0f1efba2e2e27a9184ab701c9909477cae29d36d5b6ac9fd42ae6a98e62dedbfa385703",
                 "publicKey": "6f6b8e903e8609f8030d760caf8be31becc32a0a059b42cefa382587fc8d2b5b"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Lietuvos fanu moneta",
+        "sequenceNumber": 1,
+        "value": "Lithuania coin.",
         "signatures": [
             {
-                "signature": "49bcb00fbcf1bddd3818caaffccd4f188d3006ddb977f436bb040be2628a1d31d102f4c4e47a1a3742980a0775a8c7fb9fd2b37772ebf0fbc57038a31e730703",
+                "signature": "cca7d454ed84b6843c92f42a2bf643f6d09221a771be4666b7676c53186beb93e69f95f1f69010fec03318e6f257f32f3541efbc2db3c156474a4549a80dd80d",
                 "publicKey": "6f6b8e903e8609f8030d760caf8be31becc32a0a059b42cefa382587fc8d2b5b"
             }
         ]
