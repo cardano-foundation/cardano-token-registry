@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 1,
-        "value": "Shut Up And Take My ADA 💵",
+        "sequenceNumber": 2,
+        "value": "Shut Up And Take My ADA 💰",
         "signatures": [
             {
-                "signature": "7394c31bc76f44f541dba6a51cb447c1b65c4bae7f6674d820e372971a4aa22ee5aaabea17420499cae7beb842bf83e664c1b269ba5e2e8174dac29a21470b01",
+                "signature": "726fccb5b26008ac7cb69f24465ccad73621c6c651447e8756491b4168dcb364a39e9ceb4aae7d2a7771bbbcca13d7b00607e057884d17351970b9d107ccc70f",
                 "publicKey": "0661d8501fdae23a17fc7a623caff851c476a7fddc3b1da328a070abafc5d0c2"
             }
         ]
