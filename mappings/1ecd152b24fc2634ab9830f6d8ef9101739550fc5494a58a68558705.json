@@ -10,10 +10,10 @@
     } ]
   },
   "description" : {
-    "value" : "123",
+    "value" : "31",
     "sequenceNumber" : 0,
     "signatures" : [ {
-      "signature" : "f5d5c36a8e0e55fcfea115354126a7943134c471d403db360f7d9df66a68f1f278018e4516ed04b36dc2c39451745278ac4051815a3a61c26ceda0afebd16c0a",
+      "signature" : "e8e062c077c25a307ed29e39346d6e35fc8ff1bd252a840af9d344fda35d1fc6f68b68f0994302162971d9c4e580e7388572e8d8e94d7c12d62eb32cdfb7a901",
       "publicKey" : "33b237bf3d2ead6856a8d3d67eae048f3c905696fff679accb8fb58dc839afe9"
     } ]
   }
