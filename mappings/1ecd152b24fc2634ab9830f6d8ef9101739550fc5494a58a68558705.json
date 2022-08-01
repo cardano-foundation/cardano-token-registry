@@ -10,10 +10,18 @@
     } ]
   },
   "description" : {
-    "value" : "31",
+    "value" : "123",
     "sequenceNumber" : 0,
     "signatures" : [ {
-      "signature" : "e8e062c077c25a307ed29e39346d6e35fc8ff1bd252a840af9d344fda35d1fc6f68b68f0994302162971d9c4e580e7388572e8d8e94d7c12d62eb32cdfb7a901",
+      "signature" : "f5d5c36a8e0e55fcfea115354126a7943134c471d403db360f7d9df66a68f1f278018e4516ed04b36dc2c39451745278ac4051815a3a61c26ceda0afebd16c0a",
+      "publicKey" : "33b237bf3d2ead6856a8d3d67eae048f3c905696fff679accb8fb58dc839afe9"
+    } ]
+  },
+  "logo" : {
+    "value" : "undefined",
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "ca938253fc177ec6bc164ea74ac201a3f1c02d99c8831285b059d3153f143b5f33efd3d9dd3fd7961fb1af5662bc613c31b7c14265e54237a59b15ff5618340c",
       "publicKey" : "33b237bf3d2ead6856a8d3d67eae048f3c905696fff679accb8fb58dc839afe9"
     } ]
   }
