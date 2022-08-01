@@ -1,6 +1,14 @@
 {
   "subject" : "1ecd152b24fc2634ab9830f6d8ef9101739550fc5494a58a68558705",
   "policy" : "82008200581c5d0a9b07ed8b187f54af1c1814936275e1097f3fc8e951b4c0544836",
+  "decimals" : {
+    "value" : 0,
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "79e5a08726b23ee82ca06d424ed5b91a600ff8385f0668489e59822740f6b5655862424f3160af9e74d39ee214d3083e23f5388b7aff621798ad9d833d77e802",
+      "publicKey" : "33b237bf3d2ead6856a8d3d67eae048f3c905696fff679accb8fb58dc839afe9"
+    } ]
+  },
   "name" : {
     "value" : "123",
     "sequenceNumber" : 0,
