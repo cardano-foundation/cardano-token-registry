@@ -24,13 +24,5 @@
       "signature" : "820df14716fa4bb3100ebee58daabf5bd3e4cba087413d9080403acc0632ea716f67985f66601adb4cc35446e1c5ed75aec67db1bda702067bdcd20547edd60d",
       "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
     } ]
-  },
-  "logo" : {
-    "value" : "null",
-    "sequenceNumber" : 0,
-    "signatures" : [ {
-      "signature" : "4fd3c87c10c243510208a825bb75d77dc6da816f7c72fe1e227f4cc82b4d937f61c2fd9d2d645267e0c5f1e35cdd956fbd373896c5c424aff0dc13ddafb5d70b",
-      "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
-    } ]
   }
 }
