@@ -1,0 +1,36 @@
+{
+  "subject" : "a4cc2cb33c3b420213808864b12937ba15b9e8bf759174027404ff2e",
+  "policy" : "82008200581c554cdb173db2e2e28f8e10ea7d64af0a95359dbfaf8bd0b28cd736b1",
+  "decimals" : {
+    "value" : 0,
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "0aa5315f44351ec8c669d265b5696c04472b4d49814128b9f079fe94f37dd3f85548dac736e3ffa896ecf68710fe6c01517e571c250a5ff40cfd75a6a643c700",
+      "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
+    } ]
+  },
+  "name" : {
+    "value" : "123",
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "d14bdb4744c55630e72415f7e9dfe397d9165d71cc1a55ccd096e2b3605e872be951bdec09a6301b81aa3224e1af20a214496bf1cf73aac7d29a8b535c7be10e",
+      "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
+    } ]
+  },
+  "description" : {
+    "value" : "23",
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "82abc88c819c8cfe8a095bbe6c020ddbb624d7ab1ab1facf4bd3b6b3d49f0cee5c2a9f31db2dc06c449f47302c2123764e704cf615e3b2b8f9b41c845545820e",
+      "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
+    } ]
+  },
+  "logo" : {
+    "value" : "undefined",
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "fbf7e3f3455d641557ad63b013bdc150d00b46bcef6fff8df5e9894f4d2722bd7255f8d6b65719a69153e7c65e9ddecb14ac7ec58b653426a533df618f44c80d",
+      "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
+    } ]
+  }
+}
