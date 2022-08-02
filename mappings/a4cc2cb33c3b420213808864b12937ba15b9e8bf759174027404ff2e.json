@@ -26,10 +26,10 @@
     } ]
   },
   "logo" : {
-    "value" : "undefined",
+    "value" : "null",
     "sequenceNumber" : 0,
     "signatures" : [ {
-      "signature" : "fbf7e3f3455d641557ad63b013bdc150d00b46bcef6fff8df5e9894f4d2722bd7255f8d6b65719a69153e7c65e9ddecb14ac7ec58b653426a533df618f44c80d",
+      "signature" : "4fd3c87c10c243510208a825bb75d77dc6da816f7c72fe1e227f4cc82b4d937f61c2fd9d2d645267e0c5f1e35cdd956fbd373896c5c424aff0dc13ddafb5d70b",
       "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
     } ]
   }
