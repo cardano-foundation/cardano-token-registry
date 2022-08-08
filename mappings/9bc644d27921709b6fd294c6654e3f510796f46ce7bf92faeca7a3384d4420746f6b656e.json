@@ -7,15 +7,19 @@
             {
                 "signature": "f637ff689eaf9a7f0b54956b374b21904d23fa86485c54f521570cf0a151b940ddf5315035691365f0a2b9195bf886c0ac9b3d76306c06adf95469eea587df08",
                 "publicKey": "32a9ddeaf125eeced037abd877699d3b77e3168511e77a34bde659266ca579ff"
+            },
+            {
+                "signature": "f637ff689eaf9a7f0b54956b374b21904d23fa86485c54f521570cf0a151b940ddf5315035691365f0a2b9195bf886c0ac9b3d76306c06adf95469eea587df08",
+                "publicKey": "32a9ddeaf125eeced037abd877699d3b77e3168511e77a34bde659266ca579ff"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "MD Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "2ffcaabe31979bdf3c8998d4bad06d825346a5190c80f9781c4ee489ebcd1ac8ba429dc7fb8c11961e79eedbd374a1d476e6ff42599ad8ea289fe1192e903b02",
+                "signature": "28cb8d8b715afbfa927bd1041c8cddcf92158cf263b57d402bfc380cdbd81d7017f3f5f377963bfb17f52869ac3c22ac6e3a871f854751d56adef635c6ad9805",
                 "publicKey": "32a9ddeaf125eeced037abd877699d3b77e3168511e77a34bde659266ca579ff"
             }
         ]
@@ -27,6 +31,10 @@
             {
                 "signature": "248bff0f2d9cf2ad494b328630a4e9834cb0ea24d212ed1c3ed1632e7eb5387101fcc76bd0b037f01c679dc9759a23e26d3f6ce19659c3cda3afa7b1b23fb502",
                 "publicKey": "32a9ddeaf125eeced037abd877699d3b77e3168511e77a34bde659266ca579ff"
+            },
+            {
+                "signature": "248bff0f2d9cf2ad494b328630a4e9834cb0ea24d212ed1c3ed1632e7eb5387101fcc76bd0b037f01c679dc9759a23e26d3f6ce19659c3cda3afa7b1b23fb502",
+                "publicKey": "32a9ddeaf125eeced037abd877699d3b77e3168511e77a34bde659266ca579ff"
             }
         ]
     },
@@ -34,6 +42,10 @@
         "sequenceNumber": 1,
         "value": 0,
         "signatures": [
+            {
+                "signature": "ba4f78fe2c6de90eba6a65c665ce4f129543177bd4555cfebda6352666e59125bc001a3123ae0c10b1011d69a7b7a0f21d6c47299e34c7553dd8e20a1bbaa406",
+                "publicKey": "32a9ddeaf125eeced037abd877699d3b77e3168511e77a34bde659266ca579ff"
+            },
             {
                 "signature": "ba4f78fe2c6de90eba6a65c665ce4f129543177bd4555cfebda6352666e59125bc001a3123ae0c10b1011d69a7b7a0f21d6c47299e34c7553dd8e20a1bbaa406",
                 "publicKey": "32a9ddeaf125eeced037abd877699d3b77e3168511e77a34bde659266ca579ff"
@@ -48,15 +60,19 @@
             {
                 "signature": "8f77d396024dc995639b568a14e922d7a9caff3312745a7e029f7b9b634a601ea9eae0b8a87edcced7d9bf6564d49932f3c11a09f2705ce33736131eae986709",
                 "publicKey": "32a9ddeaf125eeced037abd877699d3b77e3168511e77a34bde659266ca579ff"
+            },
+            {
+                "signature": "8f77d396024dc995639b568a14e922d7a9caff3312745a7e029f7b9b634a601ea9eae0b8a87edcced7d9bf6564d49932f3c11a09f2705ce33736131eae986709",
+                "publicKey": "32a9ddeaf125eeced037abd877699d3b77e3168511e77a34bde659266ca579ff"
             }
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The Mad Dog Token (MD Token) is fundamentally designed as a native utility and governance token.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "8627ef8fb4a4afb968899c87d27346cb6ad46ddabb2a0568318404aa2bd431d76d6a8fd6e7253c3178b123c916938c8a42de1ecc87ee824a58fb03d593ada405",
+                "signature": "c2680d0e6979c6df6c25ea7774543407935b0875169ae911cc9c4eb38edd523e24c70109bfa3afc83056617c381bf87571f66c34e1a68fd330e204a1abc3da05",
                 "publicKey": "32a9ddeaf125eeced037abd877699d3b77e3168511e77a34bde659266ca579ff"
             }
         ]
