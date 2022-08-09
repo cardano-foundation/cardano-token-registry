@@ -1,0 +1,44 @@
+{
+    "policy": "820182018282051a05f62fab8200581c20a463a59ee2d85b5542dc66f7d38d74ad9b125c55def5f9d6b2979d",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "f5606828a2865ec8f22d9f64f66022f97db44b6a944127f686b35ec2d437f460",
+                "signature": "538e2d981f6b454a7d8315e8f2ebfc181712d6419f2e4f92b017537f25b34f20a0add72b2e4f26544275d5437ff4e9b674d1ac884dfeda98c4744e1229775606"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "TESTDELETEME"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "f5606828a2865ec8f22d9f64f66022f97db44b6a944127f686b35ec2d437f460",
+                "signature": "ae777d9d04f1ce7bf0d68dcc2266004bd8a5a186c4672dd08f868d32a2c999f7b84a786980a6bad9edfd3c50d104ae37b1e2047128fa2cf3dc21f230aaf09601"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "TESTDELETEME"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "f5606828a2865ec8f22d9f64f66022f97db44b6a944127f686b35ec2d437f460",
+                "signature": "885c3dac7052745e6ed795a7bedc5b4816a9ffc47f31fe83414d2426e5a26b914e32ed1ad4c6843ff7b0bbb6c42f4d46932eec6f9f1b0198dca14ef1e839df05"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "TESTDELET"
+    },
+    "subject": "af3c0c0e6d4b0f17279dbfdc7246df15a6012ba19b1f8c7128fb1c065445535444454c4554454d45",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "f5606828a2865ec8f22d9f64f66022f97db44b6a944127f686b35ec2d437f460",
+                "signature": "37e7cf5a82e4e17841d6b6f2e75116cc10d7fb4ced216eee721d97a3c663680bc642f778cbb079d242cb5d0c20a94d02ad97b6ebc8b8b4cf2e2d29f754fd9105"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}
