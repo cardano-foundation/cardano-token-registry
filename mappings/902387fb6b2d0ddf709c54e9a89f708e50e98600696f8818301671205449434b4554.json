@@ -1,0 +1,29 @@
+{
+    "subject": "902387fb6b2d0ddf709c54e9a89f708e50e98600696f8818301671205449434b4554",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://rafflesocial.com/",
+        "signatures": []
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "TICKET",
+        "signatures": []
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "TICKET",
+        "signatures": []
+    },
+    "policy": "902387fb6b2d0ddf709c54e9a89f708e50e98600696f881830167120",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "https://ipfs.io/ipfs/QmQvh7veRAt85S3eTWs4VdGMr97Xn19vncvXEaxndLZuDw",
+        "signatures": []
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "TICKET by rafflesocial.com",
+        "signatures": []
+    }
+}
