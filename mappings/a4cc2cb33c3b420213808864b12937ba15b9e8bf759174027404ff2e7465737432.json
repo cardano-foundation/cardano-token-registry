@@ -1,0 +1,44 @@
+{
+  "subject" : "a4cc2cb33c3b420213808864b12937ba15b9e8bf759174027404ff2e7465737432",
+  "policy" : "82008200581c554cdb173db2e2e28f8e10ea7d64af0a95359dbfaf8bd0b28cd736b1",
+  "ticker" : {
+    "value" : "ABCD",
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "b6776e75cb0eb63057dc81e4160c249828719b915f2bf3673759ed66b484e231e42ed9eb5a4fecb84b023e2354f2f9467bcdfeb5099938d45fa8eb1649cd010f",
+      "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
+    } ]
+  },
+  "decimals" : {
+    "value" : 0,
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "e06d2b35b4745c50faac875e35f11a8deca4fe213e46cebed46c4782f33a76210e43a4dff9ddb4e5d6add50ed172ffe977c0c208f9260efe2a33a3132c0d8705",
+      "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
+    } ]
+  },
+  "name" : {
+    "value" : "test2",
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "4f072b271013bce3d3bae8de6d259a9943d8f450638d9b269f2b37fefd39dab0361256f66df3652230db528be096b4bc8ceb386f9f3cdf40aadaa4314543a80c",
+      "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
+    } ]
+  },
+  "description" : {
+    "value" : "test2",
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "6d78a53add41ee9ff11038b05e3ea6b1815e34f7c3c90b0f6c18b926faace076a1647b27313bcad33f927fecf052a7f792fbfdae91574d67ebc85def3d31f60c",
+      "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
+    } ]
+  },
+  "url" : {
+    "value" : "https://opensea.io/",
+    "sequenceNumber" : 0,
+    "signatures" : [ {
+      "signature" : "c7c2bf12c7c6e4680ee3bbd5f1d53b825bf7c294c1dbc8e20bb76d45240c86aca9ddc9c2b1adaf27a4275b30bacc04fdd066e85ec9d98abd22f059a7063dce0a",
+      "publicKey" : "b3b28e3353f7af29d82b00064d4f278df0a549ccd1591c392b27d2dc3146d79a"
+    } ]
+  }
+}
