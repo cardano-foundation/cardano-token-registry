@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "MD Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "381440f76ae97ca80a67b621df2b284b091bba3e496ca1545539faef32c023839991d32ae2a8ae26686b0f64632fd58198a0c590b938867cbf5c84e09915f00f",
+                "signature": "d023402460952b099d6c48dcf77046b7c7d093cc2ddbe84a1edd05375c8db13d1b749032421b71658d96f912c182d26b8b8ceddb75b0a9a3bf7a7a47f2cd9508",
                 "publicKey": "7734801c7a77603a077fad8358cb283f2c0746701d7e07f0f37bfc847f32e800"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The Mad Dog Token (MD Token) is fundamentally designed as a native utility and governance token.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "c2df95f92825e5f2eef3198adc5b68494412b3bddcddc3537d5d2c981a46406381a413cd129703afab04338e76298a0510e2e52ef723680420e6ca4ddda76b05",
+                "signature": "a648fb7ec834b740d99f2ccd3e1c6167d82393e8a4330c16cc070c0570684c861d17e55433982eeb50e6cb7de8d62393c5a6fc29a3191d932ef736283b0eb10b",
                 "publicKey": "7734801c7a77603a077fad8358cb283f2c0746701d7e07f0f37bfc847f32e800"
             }
         ]
