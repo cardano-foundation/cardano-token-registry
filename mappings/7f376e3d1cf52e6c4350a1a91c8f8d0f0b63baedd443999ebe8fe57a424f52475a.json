@@ -1,0 +1,54 @@
+{
+    "subject": "7f376e3d1cf52e6c4350a1a91c8f8d0f0b63baedd443999ebe8fe57a424f52475a",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://battleborgz.com/",
+        "signatures": [
+            {
+                "signature": "016b9053adf3bbd0980947b5993621940eadad2dae9753f3c5f2a3a17943b95dab98f0cb46adfc12d3178cd8a0a25b66b8313f8948e6eace2bb9ebf4157d2a0a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "BORGZ",
+        "signatures": [
+            {
+                "signature": "571f8a93cfa61c97d74425b8c29ebba694e5943f37089ad4cb7a2a261c2d67d99fa84f7df7128f8c2fb51f50dfa06e349bbea35fe033f27de7019bb3c3ca2d09",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "BORGZ",
+        "signatures": [
+            {
+                "signature": "357bd5e7e04dab2f239c85ca743154dd2e9470d0324f1e27acad6d9459252db149855a3e4e308cc76822243fed978c42f6d6eaff4855be55ed785f1d816caa0e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "d4873ca071832e5752b65c5b8e2d97d569ce7396437e442e2a0e652ddc59f3a56574cee65eee8817801a3f035b06a63d732581f001da2e28d8ee61664451a805",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a02f0430d8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "BORGZ is the play to earn token for the Battle Borgz online game.  Play-to-earn helps connect users with Battle Borgz on an advanced level. In this Sci-Fi, action and adventure game, players directly participate in battles and demonstrate their skills while exploring the game system.  The most exciting aspect of the  token is that the longer you hold your Battle Borgz NFTs, the more  you will acquire, as tokens will be automatically sent to wallets with one or more Battle Borgz NFTs.",
+        "signatures": [
+            {
+                "signature": "bab82ca168a1a3b15813c7ff9adcd5795484eec3578f0d400c2a570432ab9eb69ddc5abca840b6e356d04ebecfd001babdd2a1871ae343574352ecee63f8640b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
