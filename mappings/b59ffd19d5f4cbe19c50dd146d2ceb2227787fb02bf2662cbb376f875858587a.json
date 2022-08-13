@@ -1,0 +1,64 @@
+{
+    "subject": "b59ffd19d5f4cbe19c50dd146d2ceb2227787fb02bf2662cbb376f875858587a",
+    "url": {
+        "sequenceNumber": 1,
+        "value": "https://www.mvpz.io/",
+        "signatures": [
+            {
+                "signature": "a1b260ba78608e4e6e7149ed4cc912c547060b2c5559a87e034ab0f923c070f0b7e2b21a5a0f5a0671eee9e9a6f625976facdc810dbb7270393b7c31ef90bf01",
+                "publicKey": "74eed5999c6bb84c564550c814197949be430fe4b79aef8cd1cf1d8648025f2e"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 1,
+        "value": "XXXz",
+        "signatures": [
+            {
+                "signature": "3996bd18dad520f4a2f5166f12270d729e5416180f6904fd06efef7f86eccc59e78e3bdff6dfe21ea0dccd28493f333250344adb3d5032d694450da5516a9e06",
+                "publicKey": "74eed5999c6bb84c564550c814197949be430fe4b79aef8cd1cf1d8648025f2e"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 1,
+        "value": "XXXz",
+        "signatures": [
+            {
+                "signature": "307fca23979edb7b263aee438b09586510bc41646737f04e746a4135f0b05fc3c397bcbef7c8a31dd704ed9cc7c81651e3339755cba40225aa5425e9be04fe04",
+                "publicKey": "74eed5999c6bb84c564550c814197949be430fe4b79aef8cd1cf1d8648025f2e"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 1,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "4f2ea7ec8dcff2f7795db1a97aaa9fb2916a972b3c0db377908dcad5480122eca2e8d4e626d6aa5953e52bc3b08925c706d55cdef8e39e3052adee9c55caa700",
+                "publicKey": "74eed5999c6bb84c564550c814197949be430fe4b79aef8cd1cf1d8648025f2e"
+            }
+        ]
+    },
+    "policy": "820182018282051a041d5f718200581c7f4a7f37ed21898924539fdea3f6559449a27cb9508ab8f5f9b3ff38",
+    "logo": {
+        "sequenceNumber": 1,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAASYAAABJCAYAAACQEYvhAAAAAXNSR0IArs4c6QAAAilpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkJz8+Cjx4>
+        "signatures": [
+            {
+                "signature": "1e9e056e8144e8247f04e424484a0ce56711291013066de85aca7ab18f84ade8007af3a4da4ada406d4a2e910818763cb886a9b63e909f493679604eb35cf706",
+                "publicKey": "74eed5999c6bb84c564550c814197949be430fe4b79aef8cd1cf1d8648025f2e"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 1,
+        "value": "MVPz First Test Native Governace Token",
+        "signatures": [
+            {
+                "signature": "5edf6ab93b7178a5c350a5f5f14efc640898bd33269ba2ef85f0d6a9f916c03ba241ed487504ad1f6b0b14e2e3251aecd3ce13857211850f6fde48b732c51d0e",
+                "publicKey": "74eed5999c6bb84c564550c814197949be430fe4b79aef8cd1cf1d8648025f2e"
+            }
+        ]
+    }
+}
