@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Bull Vertigo Token",
+        "sequenceNumber": 1,
+        "value": "BullVertigo Token",
         "signatures": [
             {
-                "signature": "749ade8840e0df75c8b69df8bd25bffd4a51101cf5860b18486cb5f11b1854a6a685b217aa3f85757696888271fd39828a2be5d7cd7a3251fffaf0a3697c4903",
+                "signature": "b8fc6a6c9e0e29cad658f41a27085fd2dcf104018523988d59b76dbc259900a1a29f7b6e9819f4f0e7939c5b9f5edcb4eada249d498cc3482d2e59731287290d",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -32,10 +32,10 @@
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 0,
+        "value": 3,
         "signatures": [
             {
-                "signature": "d0b99aa2079277bff7d72d7f222c0f181fd9f46614a25ec58c470e0c8b86a7a536d23abe87f7e568f40d5fb80c4c295fbb99c2beafbd0987572bab7ccc455d0d",
+                "signature": "10e479e86dad8596814fbf318a0a63aab021bf275f3a58cd096cc25035ceb698486b1a88d9001b4e7e641fcec746db211dee60dfa5a5e638df6d9316faac9900",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
