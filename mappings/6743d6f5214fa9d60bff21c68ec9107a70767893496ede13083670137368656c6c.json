@@ -1,14 +1,13 @@
 {
-    "policy": "82008201818200581c573678b6838b64d3fd739872c3e6eb492684a3f8a3a06b31633a2b44",
     "name": {
         "signatures": [
             {
                 "publicKey": "e054bda15631e2f755befd5437ccf4bb1eadcd7bc5ee85ca9834b5ad837a1b1a",
-                "signature": "9bdf1254eb4c8c625b84d80b60fba884a4b2ae8d9b8ab2351a2a2142942e92ac69ad5557a3eef1fc65fda95efffd9135fc142995457003e2438fec6dcab23207"
+                "signature": "0279c6753e52f954ff208a7f72837e89a9a5245c8b2d5a3f12185559996370e0e827f866759aa8f391003d8fe89d115f19c8ab95d83f08303bce747e99fb710d"
             }
         ],
         "sequenceNumber": 0,
-        "value": "/bin/bash"
+        "value": "shell"
     },
     "url": {
         "signatures": [
