@@ -1,0 +1,24 @@
+{
+    "subject": "26791d8edf49fc680a816d6298a42de557493ce41da284e33e10d62f4d55534849",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "MUSHI TOKEN",
+        "signatures": [
+            {
+                "signature": "22985d2b8ee1271439282412523898496ce168a1be8916c831ce565c3d335aae5dce2e2476819a31bbea092785158cae3bbc3decba8aaee011f0963687b6d608",
+                "publicKey": "0e8c2d992055d5a6c4ebaec95cefb8ddc221995146fc83391b46829e4006988a"
+            }
+        ]
+    },
+    "policy": "820182018282051a060041408200581c2c297b6f45e9ed3e13d572e5563e4784b64c8553dfaeaee913e54a59",
+    "description": {
+        "sequenceNumber": 1,
+        "value": "Mushi token for fungible token services",
+        "signatures": [
+            {
+                "signature": "4e624c91091add139194c2396b608ea1f131dae5682134a0b9f7018b7e1562397b7ef70573c717e770dbf81a3861169d1992753e230d8fa173c2965cebde5e00",
+                "publicKey": "0e8c2d992055d5a6c4ebaec95cefb8ddc221995146fc83391b46829e4006988a"
+            }
+        ]
+    }
+}
