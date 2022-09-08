@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "CAPGOLD - The ultimate Gold-Backed Cryptocurrency! Each CAPGOLD-Token in Circulation represents 1 Gram of physical, Government-Guaranteed pure 999.9 Finegold. Automatically pegged to the actual Price for Gold on the worldmarket, CAPGOLD always stands for stability, robustness and safety. Secure, diversify and increase the value of your Portfolio with turning Crypto into physical Gold. CAPGOLD makes your Crypto safer and stronger!",
+        "sequenceNumber": 1,
+        "value": "The Ultimate Gold-Backed Cryptocurrency!",
         "signatures": [
             {
-                "signature": "1ca482271671e8a33897b155f3cd00b357a4f4570fb9dc862a00aaa228e15f589c6a86f87568433b4962dc5f14354c8d27638b0aeaeb8c0156e8d165db628c01",
+                "signature": "f1d6556cbc74404d38c2e3949d65c434a7dc958d3996b4d182e4c9bdb892eee3c3bdc977bf571afb40d44bc125f4472c6854b8ab1b324162617cc30585c3fa0a",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
