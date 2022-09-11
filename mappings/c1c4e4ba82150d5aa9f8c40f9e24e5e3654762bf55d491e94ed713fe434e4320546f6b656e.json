@@ -11,19 +11,19 @@
             {
                 "signature": "9889533a2e61b37ae5faf3bd987019e1de00a638139d154cb6c193d5254331dd4c4cb901985b9548cef7af6d874a12e51bdc09ca27a4b29b2b143fb109e01405",
                 "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
+            },
+            {
+                "signature": "9889533a2e61b37ae5faf3bd987019e1de00a638139d154cb6c193d5254331dd4c4cb901985b9548cef7af6d874a12e51bdc09ca27a4b29b2b143fb109e01405",
+                "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "CNC Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "df26caaf446739d139468354689b2cc9de1a0ac5eb5cba78416e16a4431310bf343781e3c12a836843cae769f21234a8e650948ac0ef7de8085a4b29ea5a8a07",
-                "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
-            },
-            {
-                "signature": "df26caaf446739d139468354689b2cc9de1a0ac5eb5cba78416e16a4431310bf343781e3c12a836843cae769f21234a8e650948ac0ef7de8085a4b29ea5a8a07",
+                "signature": "6563cdbe263c8bca697387d992ce1a1eab60ac401b74ff746eb99f3c7f6b500a5a2bb01381f0e8a96574cd4be0be768c3a053f2dbfd0f8aeab2a5c90ad47ef03",
                 "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
             }
         ]
@@ -39,6 +39,10 @@
             {
                 "signature": "2db3726c77c018522bbf3f5421fc0e3e0993aca651d073fb616ce98d4772528daaf9e8303f94516ce826d80d7954aa9533f531582479210f6fc8378390410b03",
                 "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
+            },
+            {
+                "signature": "2db3726c77c018522bbf3f5421fc0e3e0993aca651d073fb616ce98d4772528daaf9e8303f94516ce826d80d7954aa9533f531582479210f6fc8378390410b03",
+                "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
             }
         ]
     },
@@ -46,6 +50,10 @@
         "sequenceNumber": 0,
         "value": 6,
         "signatures": [
+            {
+                "signature": "2693f3bb91f3f7ad17460e195eb62b296d7bb789a53d1c5d7b277f71273567818ffa6362a716faa66b7a173aa3e5be3983c2afa79667ffcc77fe0f85bacaa204",
+                "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
+            },
             {
                 "signature": "2693f3bb91f3f7ad17460e195eb62b296d7bb789a53d1c5d7b277f71273567818ffa6362a716faa66b7a173aa3e5be3983c2afa79667ffcc77fe0f85bacaa204",
                 "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
@@ -68,19 +76,19 @@
             {
                 "signature": "0b24e2ca5380cf2902cce7411d560030017863a73b2b32b84df9fad78e09b513b8387f968f23cba0c6c85e159723fb71b977b6ba7f8003f25f69aa42a5753f00",
                 "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
+            },
+            {
+                "signature": "0b24e2ca5380cf2902cce7411d560030017863a73b2b32b84df9fad78e09b513b8387f968f23cba0c6c85e159723fb71b977b6ba7f8003f25f69aa42a5753f00",
+                "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
             }
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Climate Neutral Cardano is a Community Group of climate-neutral Cardano stake pools",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "170be90fc27286e25d8b3cd52427761d0b21b7a4ca60181a48f2546699ede4c6a4c710185178f9c1d701814021eab9905246716f3feae4a010536ba4b1b1af00",
-                "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
-            },
-            {
-                "signature": "170be90fc27286e25d8b3cd52427761d0b21b7a4ca60181a48f2546699ede4c6a4c710185178f9c1d701814021eab9905246716f3feae4a010536ba4b1b1af00",
+                "signature": "94bf5f5e71622f9699ff58a5e6e912077f6eefed901d7baca218a206635304fd0231a9a5c4a1fe23b63ec4c408198abc0b7c1e0982d585657438cfc622a2e00d",
                 "publicKey": "9a2ca08efcc2f75898afdfd3c6e83a973649b3df087c44a3aeae3b81d80a4e80"
             }
         ]
