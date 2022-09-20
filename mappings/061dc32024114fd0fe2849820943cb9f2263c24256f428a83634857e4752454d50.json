@@ -24,10 +24,10 @@
         "signatures": [
             {
                 "publicKey": "50fc57f6d46b859fa89fc2150e7eda077d1899e083970516c0a56e8a24fd62e5",
-                "signature": "8777d204192be9e521d999f5e3d08c1ec65e771747a62df3c0ba4760f83b7756342c76845782584355f2594f21634de592f8bb76dd5162ad250e42a4112f490c"
+                "signature": "a6f8ad9071860b56e8b88533b462f4c593a57937dfa96f904a4b613c2b9f8be73e0e97bccae0f294a046507ff456754948ced8b7887d42297b04a44796b6bd02"
             }
         ],
-        "sequenceNumber": 2,
+        "sequenceNumber": 0,
         "value": "Utility token for Great Empires' ecosystem."
     },
     "logo": {
@@ -55,10 +55,10 @@
         "signatures": [
             {
                 "publicKey": "50fc57f6d46b859fa89fc2150e7eda077d1899e083970516c0a56e8a24fd62e5",
-                "signature": "b0010db5cd1a0ba38f21fc837fb58efaa80f837698e698b8701c45249020d1e339cbc3a99c4b8d141c03bcecf06699c2da09c1f5a56d40a2065ed316a7b4880d"
+                "signature": "eee7908df0850662c1d13f8f1b8234fc612e0f84ceb4c12643a09a08ca088e33c40b7cdc7234ecbd92194ad8b6682f5bcf1bd8c974bdd4613b87d932b9ee170b"
             }
         ],
         "sequenceNumber": 0,
-        "value": 4
+        "value": 0
     }
 }
