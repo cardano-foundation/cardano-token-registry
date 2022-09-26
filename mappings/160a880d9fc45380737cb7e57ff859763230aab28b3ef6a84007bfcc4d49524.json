@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "MIRA - Chains of War",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "cb1af45adb161b86041cacab2a9ff17675ed82333ebd14dbef92115ac943a21a99028d0aa082798a5d3976995a6465aab59956f8afded11e9d9ef57d763c9308",
+                "signature": "24c591c8b6ca8152c56a98adba39bb64d7914006142350e6b84ab065e95cb8b366fc401b68a49f5ba39680271507face5bce22511b3311c43c94dc8651dfd80c",
                 "publicKey": "c9c085b5d4bed90b15d633728d59ce80df2c786d880a3495af58a9032c5042d1"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The Official Chains of War Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "3114bfe0e155ead5e9c11fca897f5b90dea7c472408e433daa35cf6394d5d82200fb59e2375dabdc537504c399ced09aacb8a0d6eee32d23448109d17af37b05",
+                "signature": "4b630457d539fcc3718edd41fa399dc9856984a862f763fe49563e13c26cfae86420f1d701ba0bff7d2e8843a3ae37b05de6ccfb932cb21b4fbc19e460d1d509",
                 "publicKey": "c9c085b5d4bed90b15d633728d59ce80df2c786d880a3495af58a9032c5042d1"
             }
         ]
