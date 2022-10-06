@@ -7,15 +7,19 @@
             {
                 "signature": "bd47e69abec6fe92aab32eb0357956b72699a726af207aa794a37c766f8c8778cee25c2a361dd326c425b398d25e5667971ea156aee7c4f154b5acbc60e2b505",
                 "publicKey": "850d3bcfe0d5022761982a610a9ced17f2a18e9c86cf3d0a5f5f7a2c896d63da"
+            },
+            {
+                "signature": "bd47e69abec6fe92aab32eb0357956b72699a726af207aa794a37c766f8c8778cee25c2a361dd326c425b398d25e5667971ea156aee7c4f154b5acbc60e2b505",
+                "publicKey": "850d3bcfe0d5022761982a610a9ced17f2a18e9c86cf3d0a5f5f7a2c896d63da"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Byron Network Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "fce524744a8f5cd36f92fbb6e7590f474a55f4a5761bc65ee92837e9030b3d9c2a5b1df97da312a2c86762bfdcf4fa515d0a70439aacdbac2ad1b0cb0e1bc806",
+                "signature": "f2321d001214a67a32b1f4ba89947a04002f7c7546759536d189ec2ab7962a844477c529d7fa3bcb66f0d5c4b11a4c56e43a7bc5170bc1586de494d003617200",
                 "publicKey": "850d3bcfe0d5022761982a610a9ced17f2a18e9c86cf3d0a5f5f7a2c896d63da"
             }
         ]
@@ -27,6 +31,10 @@
             {
                 "signature": "621c2a831e40952aa9b9fb6905499abc254a52166a5c58999f962c30f87afbe28b320a4958aacb8765161757c79d0b5a6d72427f506ed22e8cdaf7edab80f902",
                 "publicKey": "850d3bcfe0d5022761982a610a9ced17f2a18e9c86cf3d0a5f5f7a2c896d63da"
+            },
+            {
+                "signature": "621c2a831e40952aa9b9fb6905499abc254a52166a5c58999f962c30f87afbe28b320a4958aacb8765161757c79d0b5a6d72427f506ed22e8cdaf7edab80f902",
+                "publicKey": "850d3bcfe0d5022761982a610a9ced17f2a18e9c86cf3d0a5f5f7a2c896d63da"
             }
         ]
     },
@@ -34,6 +42,10 @@
         "sequenceNumber": 0,
         "value": 6,
         "signatures": [
+            {
+                "signature": "758d65985a10b293b408365b7f87a3b402f57762b1e13ab807c32807853fc59b3334d65b7531d1299346e88483bde9b152c11f53997928d6fc1033a441a9970b",
+                "publicKey": "850d3bcfe0d5022761982a610a9ced17f2a18e9c86cf3d0a5f5f7a2c896d63da"
+            },
             {
                 "signature": "758d65985a10b293b408365b7f87a3b402f57762b1e13ab807c32807853fc59b3334d65b7531d1299346e88483bde9b152c11f53997928d6fc1033a441a9970b",
                 "publicKey": "850d3bcfe0d5022761982a610a9ced17f2a18e9c86cf3d0a5f5f7a2c896d63da"
@@ -48,15 +60,19 @@
             {
                 "signature": "eb982af270a86549429dd372cff89dc29a01cffcb9c76353932d7676e54a91ec03d2e94939a8ac4fdd85c13713e2bedc7491a670e0d2ad452ad7c82ce606f303",
                 "publicKey": "850d3bcfe0d5022761982a610a9ced17f2a18e9c86cf3d0a5f5f7a2c896d63da"
+            },
+            {
+                "signature": "eb982af270a86549429dd372cff89dc29a01cffcb9c76353932d7676e54a91ec03d2e94939a8ac4fdd85c13713e2bedc7491a670e0d2ad452ad7c82ce606f303",
+                "publicKey": "850d3bcfe0d5022761982a610a9ced17f2a18e9c86cf3d0a5f5f7a2c896d63da"
             }
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Byron Network is a Cardano-based ecosystem of DApps. BYNET tokens give access to advanced DApps’ options and rewards while enabling governance.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "44d7d2e1b9e1397007515cf3efb4e816b707d59c0858bfa55b5905250d8840aa969e933de758f17f5539b59d733bd6c73b6cf58adb6e75c0111ee6167d7ecc00",
+                "signature": "68f7ab13bf03b089b4b7f9e05d97ab31bbc5a89f9d203de495e3225869bfd19e01f689ec9dd6f7ec929c8deabb8739630ad096b75c3a07b9f9cbbcddbec1290f",
                 "publicKey": "850d3bcfe0d5022761982a610a9ced17f2a18e9c86cf3d0a5f5f7a2c896d63da"
             }
         ]
