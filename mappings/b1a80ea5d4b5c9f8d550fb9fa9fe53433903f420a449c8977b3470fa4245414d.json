@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 4,
+        "sequenceNumber": 1,
+        "value": 0,
         "signatures": [
             {
-                "signature": "6f64663ad56f049008f10cea10f279ee0f8915ff5ea1ad94a0cabea7ec8ac374e949ca3848968adb58bb209a0aaf119d8e36b77f4f41e317426254f0f5c36402",
+                "signature": "965df670b9881aa95c4e5361833df095d1cc30d93d0395060d11ee9c8b9f98a6bf92d052f9f2e0b1286fa84c8e5b8a32a6d630f268fb49d59fc64f9113092308",
                 "publicKey": "5662c14f1303f7ff415e678141f2dd0995ed3c3c98fa981fe247e3a3f2a082fb"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": "GPS based Assets on the Cardano Blockchain",
         "signatures": [
             {
-                "signature": "7adbc6760413a614b4bab4d35db457890ac95e817f9a3fc18513663fa915d63e508eb867229993e1cefb48918dc0254f5ed4fdd9ecefa9b8a02db5a13876ee00",
+                "signature": "9de29fce3c280b3b456eba72ee46173acd0a05bbab5e5f502c8a730ad6bffdacfe3497bafe59635e24d7e8b10c5e8368ffe67b8623f385bf7b46eb090488d505",
                 "publicKey": "5662c14f1303f7ff415e678141f2dd0995ed3c3c98fa981fe247e3a3f2a082fb"
             }
         ]
