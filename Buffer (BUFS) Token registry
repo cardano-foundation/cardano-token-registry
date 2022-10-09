@@ -1,0 +1,10 @@
+{	
+ 	"policyId": "f13515ca37ae4a0cf44f13860f325f0d017ee9988f2e7598c06e1d9a",
+ 	"name": "Buffer",
+ 	"symbol": "BUFS",
+ 	"website": "https://BufferBufs.com",
+ 	"description": "Emerging token you don't want to miss!",
+ 	"totalSupply": 100000000000,
+ 	"amounts": [1, 5, 3, 4, 5, 10, 25, 100, 1000, 10000, 100000],
+ 	"decimalPlaces": 6
+ }
