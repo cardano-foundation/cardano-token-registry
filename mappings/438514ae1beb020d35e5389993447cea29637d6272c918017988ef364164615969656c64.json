@@ -21,11 +21,11 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "AdaYield",
+        "sequenceNumber": 1,
+        "value": "ADY",
         "signatures": [
             {
-                "signature": "69afb241bb28334f4762c24b3e5bd34190f7871a191905caaba338a88e392185ffee9588e7adbb0521dd9435c5871b7ddf0db2bdbd15a0189dabd3c4d222bb0f",
+                "signature": "e95d9900cd1752d3b3078c6266d8b8534d77f9f4750068d88e07d496b2588125c1e8c48ebdf8b3c3e7eccbcc1ddabcc51590dd635e7068687ee401f6648ec700",
                 "publicKey": "9bd78131066dff104a9f707fae0916d9ee9309738ea2599263fd2e8cf397e42e"
             }
         ]
