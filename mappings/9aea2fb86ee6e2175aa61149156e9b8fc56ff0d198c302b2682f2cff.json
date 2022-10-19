@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "CIC-Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "6537eb66fb1a3fe9dd9b0f003d2946fb2bee737ca92fcc5add8d85ca6246f29ca86eb61599fed320e841e6e27ebb4a8a5038ce1128203cdc5120abc820e8150a",
+                "signature": "1642e93e97ce523ec41ef5afc683b954f21b3e6e2bcb81b30e93b13242680fe58e2171d027a6bce2e8d96717505083761b50b6f5e6b26002bfd67f22f783360c",
                 "publicKey": "f0acfd563458e8e49fe40b8f2c38b249d8a13103c2cedd9c23231e652acb49ff"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The currency of the Cardano-Intelligent-Contract.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "0f5cceeb9421610da81577c98b21923a647714d4b425008fa4bdd4a633ce8a77d15d21dbe45bc16536483255399c1436276aab018f1978e73009b52928517503",
+                "signature": "417393befddf41d7a9083b08f29e152b83d36b79f4cdadb329f1b2a5f60b2cb331d7c4c3f526fdf7825caa1bc21e91edce94b0b2970d4d96200848b261895105",
                 "publicKey": "f0acfd563458e8e49fe40b8f2c38b249d8a13103c2cedd9c23231e652acb49ff"
             }
         ]
