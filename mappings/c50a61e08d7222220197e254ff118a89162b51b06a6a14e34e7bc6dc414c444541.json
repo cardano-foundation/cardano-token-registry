@@ -1,0 +1,23 @@
+{
+    "subject": "c50a61e08d7222220197e254ff118a89162b51b06a6a14e34e7bc6dc414c444541",
+    "name": {
+        "sequenceNumber": 1,
+        "value": "VOID",
+        "signatures": [
+            {
+                "signature": "d9272bfd29a6ea0bb48280c24e8c3110b22801222a7279e62933f2a2ec18645065b4f1bbb9a41dae20ff59060f2f85485a2a53aba7958ac489f01f985ac55b0c",
+                "publicKey": "71ddc5375fd273cb54d2f29bd114cf4977b208885f13ba89928dbe1bbf492d47"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 1,
+        "value": "VOID",
+        "signatures": [
+            {
+                "signature": "65817369e3a203ae73ea40f507da5fc68490f3aa4581c46fa4ab4b4d89a6b84d9f1631fde33034d879c739e9e13a73f839aafa09c73ecbec3b6bf3e78abbcc09",
+                "publicKey": "71ddc5375fd273cb54d2f29bd114cf4977b208885f13ba89928dbe1bbf492d47"
+            }
+        ]
+    }
+}
