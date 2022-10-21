@@ -21,11 +21,11 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "WMT/A",
+        "sequenceNumber": 1,
+        "value": "WMT/ADA",
         "signatures": [
             {
-                "signature": "20be7de1c21af2f0c42932302b60f582967be74bcd1e7be6381df66d2867cd8d73980c553fe3dfdc4c81bff91a77b2b6d726a49271b49892a8c099b88d664b0a",
+                "signature": "cb6c7362f8f8657cbeca769e4fa430032e8a25f095d5826c04b8ae7bdffe4c3cce9135d2f8df2e273158e9be71051c1e989886a309d3f6d64bfa17b2e638b006",
                 "publicKey": "8be31922e29ee7d3d5d81ea29b795c558bf5a3b5faf3ea3257c1beaf4946302e"
             }
         ]
