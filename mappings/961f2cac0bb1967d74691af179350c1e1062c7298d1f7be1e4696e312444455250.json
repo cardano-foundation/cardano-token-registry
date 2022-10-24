@@ -11,21 +11,21 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "$DERP",
+        "sequenceNumber": 1,
+        "value": "Derp Utility Token",
         "signatures": [
             {
-                "signature": "814d8051ec8be709739071927b278c677e7befd7c8c226f64b9cba5fd55130272f53a0a6e8a3f8c2d494f5e9d3e29497d43cea006e868f2fc92ce53140c0460f",
+                "signature": "4caa1a365034d40b3fdb93b1cd6ca7f0ff42ef1e8d203bef59edf6fa93df34642ba2709365a1abe787bbc0150d2c919fa5441b9768036381d37fd291c2d28d0c",
                 "publicKey": "3536d19b6e915e964c12084e14a7f7e6488324f347ca879b80296d10158534d7"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "$DERP",
+        "sequenceNumber": 1,
+        "value": "DERP",
         "signatures": [
             {
-                "signature": "13a4fb6ac980da639dd1aafa81f68303d7794dc97514fb92f47e91b1c09d5e4b64f91ebf6a40cc5e52bc8f6497d951920d3ab40c2eb9e33fd4e629467db0fb05",
+                "signature": "5673d30017b941170f71618e86c3a717ad480586c936dffb8d1fde729dda8c81483849d65a4f35b5a333918f0208988584318221480ccbfd9631333aff8f3c01",
                 "publicKey": "3536d19b6e915e964c12084e14a7f7e6488324f347ca879b80296d10158534d7"
             }
         ]
