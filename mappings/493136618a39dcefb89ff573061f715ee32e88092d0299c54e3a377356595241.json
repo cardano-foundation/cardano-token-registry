@@ -32,7 +32,7 @@
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 0,
+        "value": 6,
         "signatures": [
             {
                 "signature": "564b293c0ce40f8a177327729f3f466b3f21f870828c5f085394f9618c1625977258ad9483ce85cf661f5c8651a9fe76ff20e586a62eb3a60a649aba1219ec01",
@@ -53,7 +53,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Create your channel and earn $VYRA. Post to earn - Storys, videos, memes and more on Cardano.",
+        "value": "Social Media Platform on Cardano.",
         "signatures": [
             {
                 "signature": "0d1d65e5da2b37c76db32b27af9fc31f19231c9f09fda6f4d024611a1d4fde541f78d535c4c5e17614ee107304dae5e0dbc795e196b297f978632d540ca4e206",
