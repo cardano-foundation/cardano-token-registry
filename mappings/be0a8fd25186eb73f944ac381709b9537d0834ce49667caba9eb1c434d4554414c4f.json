@@ -7,8 +7,8 @@
                 "signature": "d9a6c9c48fb2b21e05d83ba6f08c219a0b41a88d6534540714c42866f4aeb2c20957419e618ec60496aa92d7f3d29e9cfb00f8dbbd7ebacc2f8e3950fef91f01"
             }
         ],
-        "sequenceNumber": 1,
-        "value": "METALO"
+        "sequenceNumber": 2,
+        "value": "VOID"
     },
     "url": {
         "signatures": [
@@ -27,8 +27,8 @@
                 "signature": "ea6a2488b7a4404597ee1c3bdc7e87a53194b5ad2a2151a1514a927850da812b043f86b3ad356a864e36c165f1ed213df2a9341d2202f7ca9e66cae568eaa906"
             }
         ],
-        "sequenceNumber": 1,
-        "value": "The utility token that powers METALOVERSE"
+        "sequenceNumber": 2,
+        "value": "VOID"
     },
     "logo": {
         "signatures": [
