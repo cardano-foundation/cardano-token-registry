@@ -1,0 +1,54 @@
+{
+    "policy": "820182018282051a04a7d0f28200581cdc96577bc49cfec0de78e993c195161347dea9023c8d6dae75480c3e",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "993f0ae8aace2a040e7087a04b6c8e5e84fc799f481c1164288e366a7a53ca6c",
+                "signature": "a39c66034cc23fdb2c0ba99c3fcc2fce3f3c602f81388ede33bbc80eb130402c6ff1f43914da5cbd66112a6f3dfe8edc386a2c18dd8294904f6b0abc3aa0d507"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "METALO"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "993f0ae8aace2a040e7087a04b6c8e5e84fc799f481c1164288e366a7a53ca6c",
+                "signature": "f9b15c47d2055e3123e0279f33818fe244d50872316a5b8b09ec932249b582302d5979ef282f225147fd574ce294cfdc7c26a6a736f284d7fb965418d6efe20e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://metaloverse.io"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "993f0ae8aace2a040e7087a04b6c8e5e84fc799f481c1164288e366a7a53ca6c",
+                "signature": "8674ec787eb524e3d8396f5e1050c3c0a5504fcca84a8376ca64d5f82cfb50c4a7663c098d9068f7643c104e60773c7dfcb95598e6bf84cbd6acf0ae2adcb20c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The utility token that powers METALOVERSE"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "993f0ae8aace2a040e7087a04b6c8e5e84fc799f481c1164288e366a7a53ca6c",
+                "signature": "3fac660c6aed403874c6e912363c41cdbb2c13f5e1a2c2474158450d65887f7ee307e8ee8ed6552572edc9e2b4a67fa33a5a82b219757697c5fbb3d2ad04eb0b"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "METALO"
+    },
+    "subject": "8531bdf5d3455e1d47a005207fbe3ee29d560f38d2b5e0143c26830e4d4554414c4f",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "993f0ae8aace2a040e7087a04b6c8e5e84fc799f481c1164288e366a7a53ca6c",
+                "signature": "729b572cdb1f69d78b08c5b351c4811b563b814f558dd58d85e3e986aa8652800b46f7c0263b4ddd90d40c6a44b98629c1aa60306e431426d1729e3aec93500f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
