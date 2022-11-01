@@ -1,11 +1,11 @@
 {
     "subject": "e58260a36677777f6a622beae74c8b00f831e9577e1aef65548fd7714a4152",
     "name": {
-        "sequenceNumber": 0,
-        "value": "JAR",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "ff5984a1e59fc889ee713c94979640aef7472e18c218b84efce5627518b391681306e6b97d1f608a8a7c1183da9a46498feb2f794a2edc211895bf3e89bf0304",
+                "signature": "9a248ca2d029e53786a12cc13c9d5632e7bdae4eda84d5907b826fc9c378fd11afb1e6df9d8ea4278a6cff539c5a373fd58bae89e38bff1bffd86825ada0500f",
                 "publicKey": "71f8f5c3ed617572899add086b7cc77a55d5a1519c100f11f1ad808bec4ea226"
             }
         ]
@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "This is the official token of JAR Studio NFT",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "4db48a2f2b5eef7bf150f53404af4d23b255e8a90702a10bfd09d0153fd3beb93afd0d7af014b4695a6a7761f96db5202851dda331a0fdfc30c87eadc9bff208",
+                "signature": "6808b5e0eb57b1be15e0c572893aa6b44e8d11167ca79a01832a1fbf42be8d523a66557b2190e71d21ff275b5cf222e1f0130057e08787bb39ca3a2605aff104",
                 "publicKey": "71f8f5c3ed617572899add086b7cc77a55d5a1519c100f11f1ad808bec4ea226"
             }
         ]
