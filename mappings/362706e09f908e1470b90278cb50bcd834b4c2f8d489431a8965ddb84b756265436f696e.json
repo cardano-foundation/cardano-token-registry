@@ -1,62 +1,44 @@
 {
-    "subject": "362706e09f908e1470b90278cb50bcd834b4c2f8d489431a8965ddb84b756265436f696e",
-    "url": {
-        "sequenceNumber": 0,
-        "value": "https://kubecoin.org",
-        "signatures": [
-            {
-                "signature": "92c71f256a7f10fbbb4699fcfe55f855b289a1cfe0692e22a3c0773bb1369940efc39507ac231137808ee4c0c1f27a9ab4882adaba9a87ba2a9f848f47523c0d",
-                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a"
-            }
-        ]
-    },
-    "name": {
-        "sequenceNumber": 0,
-        "value": "KubeCoin",
-        "signatures": [
-            {
-                "signature": "772ca47b27da8224ec14d978c095f143ac97361c49d9f49f1bb236d56ef8349798bfe079fad6dcd22ad357d11dfb9f88dadd2856a2c6b055d82476dbc8b9b20e",
-                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a"
-            },
-            {
-                "signature": "772ca47b27da8224ec14d978c095f143ac97361c49d9f49f1bb236d56ef8349798bfe079fad6dcd22ad357d11dfb9f88dadd2856a2c6b055d82476dbc8b9b20e",
-                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a"
-            }
-        ]
-    },
-    "ticker": {
-        "sequenceNumber": 0,
-        "value": "KUBE",
-        "signatures": [
-            {
-                "signature": "7387a9f7fbc2f37930e32099b4d9fe45d1b97cf9dd7a64f018039baec973ff6a1e116f63c5c05124e86e39d3fafd729be1befba044dc7981b975d2328b6b8f0a",
-                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a"
-            }
-        ]
-    },
     "policy": "820182018282051a031c16978200581c1e877165fc4734d51e23c4ec4bf9de77faaa56c5994a0fddc7c028fb",
-    "logo": {
-        "sequenceNumber": 0,
-        "value": "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",
+    "name": {
         "signatures": [
             {
-                "signature": "0bcac780e37820502860874f4767aa2934583175bc7260fb0e5f1ef55a3daad99deb859d4589708baf04e9a410dd034fcb0add8526e09bf807e7d20382483f01",
-                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a"
+                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a",
+                "signature": "9a7f707827d7a923b94106c707983be37003d6b9aea2da602392e0acbdd654e55bae1677fa907254b62baab9721c4107817e179c8795925131476a5010a3f906"
             }
-        ]
+        ],
+        "sequenceNumber": 3,
+        "value": "InvalidCoinK"
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The digital currency for the travel and leisure industries, universally adoptable through multi-brand platforms",
         "signatures": [
             {
-                "signature": "fb5c674ab07dbe0d77e7321443b72c4a1d2b8df69a73e5e4b95cd87737d0ce07e781a9c0495d0d99d00286489430d6a0917a4612018f3c313e8a829394050b01",
-                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a"
-            },
-            {
-                "signature": "fb5c674ab07dbe0d77e7321443b72c4a1d2b8df69a73e5e4b95cd87737d0ce07e781a9c0495d0d99d00286489430d6a0917a4612018f3c313e8a829394050b01",
-                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a"
+                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a",
+                "signature": "a787184b376b99fd8cc537d98c4fcf15a566f7773ecfde043960c3fd67e93391437563d57ab6991cab2a512ce125845839a014924818ca20f0d3c0d43f88b508"
             }
-        ]
+        ],
+        "sequenceNumber": 3,
+        "value": "Invalid coin as it doesn't meet needed requirements. A new one has been generated to replace it"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a",
+                "signature": "c56d36c88e3330031ba3a4412a0198a6d447a73c174a50cc3ca22555eac14df0cb737ce898f300c11d124e3d7bd8bb65a4e5f68c71dc968c525fcdc5d781a208"
+            }
+        ],
+        "sequenceNumber": 3,
+        "value": "UVCK"
+    },
+    "subject": "362706e09f908e1470b90278cb50bcd834b4c2f8d489431a8965ddb84b756265436f696e",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1fbe209729388d315b4850aee376402aea273ab3d6669fd1b75e8bed13bff42a",
+                "signature": "f4098f78ad7a6f0d148c9619ed45dae289d2c65b416e97763c3a1ea03fab43be32a646fa44e7a0426cd9743ab7117bfc16a038d3a5d056aaaac549b09a593f0b"
+            }
+        ],
+        "sequenceNumber": 3,
+        "value": 7
     }
 }
