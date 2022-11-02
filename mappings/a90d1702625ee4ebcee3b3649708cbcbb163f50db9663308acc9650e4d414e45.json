@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": " is the main utility token of Lucky Lions. It can be used for various purpose, and our goal is to maximise the utility of the token and to nurture a community that are engaging and prosperous.",
+        "value": "$MANE is the main utility token of Lucky Lions. It can be used for various purpose, and our goal is to maximise the utility of the token and to nurture a community that are engaging and prosperous.",
         "signatures": [
             {
-                "signature": "631f03b35c74e7fc9f8f1afa350959c85506635dd6519c2d8f4048f81978dfdc89a37ce5217ac905d4356735c1bba62408017c6c29f52b0d54e86d1de299e20f",
+                "signature": "7f723c104669f9dcbcc43be0c2eb452cf68a047695dae8c120a1066de503483d8c84bc6d2eb44135a84f522f740bbc25a65981428dc831b485a88983abefa70b",
                 "publicKey": "647fd616cd2587ea4380004ddd1f2977eca7a4274ad91a7a07f6b12cedc0d3eb"
             }
         ]
