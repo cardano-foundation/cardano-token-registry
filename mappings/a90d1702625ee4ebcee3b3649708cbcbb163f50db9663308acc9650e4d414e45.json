@@ -12,10 +12,10 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "Lucky Lions Mane Token",
+        "value": "Lucky Lions MANE Token",
         "signatures": [
             {
-                "signature": "b594abfb8c7115d05a6df1f6644869c8648802b2869c782dd0d0900b313395e1407fb538260ba9669dfab2824b1a9d7e5561bdb89d8ffdb7f2cdcf6a26f8260c",
+                "signature": "38b5a2be464db3b5ce2480037559106919a089baf3376e06ae1b3d316e6c8b2c5af2a0f193bde7ea7db93765ebacac84be10d34637425dfb3b8828bc8b687400",
                 "publicKey": "647fd616cd2587ea4380004ddd1f2977eca7a4274ad91a7a07f6b12cedc0d3eb"
             }
         ]
