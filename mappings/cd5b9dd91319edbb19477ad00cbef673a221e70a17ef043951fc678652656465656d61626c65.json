@@ -4,11 +4,11 @@
         "signatures": [
             {
                 "publicKey": "c7993000c36331577e1dc6c966447674fa63737361598969539ae274134f32bd",
-                "signature": "8db52a6c01882cabc521262919d89b4457c9dab68564a4efb32eaba212177b98f3c4676ff1b664768cb44421f24893c3010e0c60f69f9fb1891d39a22ec80901"
+                "signature": "e825fdc08090d8825cba03faf4811af6673238c0becde82d0af92bb1ec01686cef3aff33a06013395d767a1b5c9be03409cca7093909f452aa41ac128e4b7e0a"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Redeemable"
+        "sequenceNumber": 1,
+        "value": "Redeemable USD"
     },
     "url": {
         "signatures": [
@@ -24,11 +24,11 @@
         "signatures": [
             {
                 "publicKey": "c7993000c36331577e1dc6c966447674fa63737361598969539ae274134f32bd",
-                "signature": "cdb5edcbc66dde3ae00aa4d4ecdee154620db4f73ebe6b75bab79d1e9fc8cf4698951278e2f84db08120eca630402d4727e7dabf74a26dedc57c137e9f9e7401"
+                "signature": "a9799c280dd35b4e46ee5c524485b0985837554e2d8b9944ab2bf254669aa47b45d878df023f21b785b7d1eb9fcad90e2bdcad3add7bc7fbca5a354d0220c603"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Shareslake coin. A coin to preserve purchasing power over time. A 'stablecoin' pegged to living costs."
+        "sequenceNumber": 1,
+        "value": "The fiat-backed stablecoin issued by Shareslake. Powering the fully stable branch of Cardano."
     },
     "logo": {
         "signatures": [
@@ -44,11 +44,11 @@
         "signatures": [
             {
                 "publicKey": "c7993000c36331577e1dc6c966447674fa63737361598969539ae274134f32bd",
-                "signature": "cd2c788ad1d721ff104ce52b7631274afbd68b473021a610164336b53864fb3d28e59bed4d8bc497988b4772d8c04530b7d8242c7c8c3b13fe348f323a2efc0d"
+                "signature": "1b3e50818eca0fc904d9ed115e31a8acfce7977e680ba94d1a5184a8d7d05078d916c1c82b20b833d2eea2ad4fdb6a16325761ed0f76a5c3928153c57c15db09"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "RED"
+        "sequenceNumber": 1,
+        "value": "RUSD"
     },
     "subject": "cd5b9dd91319edbb19477ad00cbef673a221e70a17ef043951fc678652656465656d61626c65",
     "decimals": {
