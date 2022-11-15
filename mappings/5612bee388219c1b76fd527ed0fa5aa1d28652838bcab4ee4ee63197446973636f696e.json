@@ -6,7 +6,7 @@
                 "signature": "92262ae9ab0c71fd102aa1decaf1b6d35e56f38ca12884ec493df3da7902f5db716c80415a6e47963121cac47f17494aed8398a7955f720a7fa8b4389c1f2d0a"
             }
         ],
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": "discoin"
     },
     "url": {
@@ -16,7 +16,7 @@
                 "signature": "47a599e92e493ee2f889284d56d9b684bb0d00814ee2250877cbae2a6409179c2356238057a602ce7916d875c137d972bd199d3dd95391be72b562295de95205"
             }
         ],
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": "https://discoin/"
     },
     "description": {
@@ -26,7 +26,7 @@
                 "signature": "8cedd4fb5dfccba8d1aed6c144e57b234717179188db29c793c30046a40b0228d6d6bfe477ba983c56dbfa4991ae4cb2f9071ce9f4fe652aa66f4241b88b1802"
             }
         ],
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": "discoin"
     },
     "logo": {
@@ -46,7 +46,7 @@
                 "signature": "2129dfe3cf456ec710ba471ebe883489b9fd4c32f6a2545cf6d742dd24604998e44dd0ab0e1433138930148113cbf7d33d4617075544185251beb9f0e9f5f808"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 3,
         "value": "DISCO"
     },
     "subject": "5612bee388219c1b76fd527ed0fa5aa1d28652838bcab4ee4ee63197446973636f696e",
@@ -57,7 +57,7 @@
                 "signature": "d7cf443cbc1eac92532c1ea0c28a07d5084fa913b7fd2d3e743c095ea76d14f33e49ffc2d397e1744e79af3bdbb3c0d709aa39586b69f6f8a39d93ba0d07e407"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 2,
         "value": 8
     }
 }
