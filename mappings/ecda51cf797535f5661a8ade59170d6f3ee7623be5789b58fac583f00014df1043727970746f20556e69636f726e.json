@@ -10,6 +10,16 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CRU",
+        "signatures": [
+            {
+                "signature": "3b79a8931e64b4971344c26c678e736573bb79049c234b606903de6faaaf8566303f754160091e3843882c4aa35d5564da8bc1c72caa6e870a7e6978aeb56307",
+                "publicKey": "9ecca9794a78ed700a7de100e8a8eed9c3f0b748294f3079284b331726c7377e"
+            }
+        ]
+    },
     "decimals": {
         "sequenceNumber": 0,
         "value": 6,
