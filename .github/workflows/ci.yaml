@@ -4,6 +4,12 @@ on:
   pull_request_target:
     branches: [ "master" ]
 jobs:
+  approve: # Pre-approval step
+    runs-on: ubuntu-latest
+    steps:
+    - name: Approve
+      run: echo For security reasons, all pull requests need to be approved first before running any automated CI.
+
   Validate-Metadata:
     runs-on: ubuntu-latest
     steps:
@@ -11,6 +17,7 @@ jobs:
       - name: Checkout pull request
         uses: actions/checkout@v3
         with:
+          ref: ${{ github.event.pull_request.head.sha }}
           path: pull-request
 
       - name: Checkout base branch
