@@ -40,6 +40,8 @@ jobs:
           path: ledger
 
       - name: Validate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # shellcheck disable=SC2016
           # Debug:
@@ -51,14 +53,12 @@ jobs:
           pushd pull-request
           echo "Fetching base branch '${BASE}':"
           git fetch origin ${BASE} --depth=1
-          git remote add mainRepo git@github.com:cardano-foundation/cardano-token-registry.git
-          git fetch mainRepo
           echo
 
           echo "Obtaining PR file change diff:"
           echo "BASE: ${BASE}"
           echo
-          git --no-pager diff --name-status HEAD..mainRepo/master > "HEAD.diff"
+          git --no-pager diff --name-status origin/"${BASE}" HEAD > "HEAD.diff"
           cat "HEAD.diff"
           echo
 
