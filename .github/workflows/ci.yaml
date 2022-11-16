@@ -13,6 +13,12 @@ jobs:
   Validate-Metadata:
     runs-on: ubuntu-latest
     steps:
+      - name: eventdata
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: |
+          echo "${GITHUB_CONTEXT}"
+
       # Checkout both this pull request and the master branch
       - name: Checkout pull request
         uses: actions/checkout@v3
