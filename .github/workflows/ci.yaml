@@ -125,8 +125,6 @@ jobs:
         env:
           BLOCKFROST_PROJECT_ID: ${{ secrets.BLOCKFROST_PROJECT_ID }}
         run: |
-            echo All good
-            echo "status=success" >> $GITHUB_OUTPUT
             # Get the policyid from the file (or determine the asset id)
             # if it is smart contract based and policyid is not avail...ignore it
             # call blockfrost to check if that asset already exists
@@ -148,10 +146,11 @@ jobs:
 
             rm -f fail-location fail-filename || :
             echo "Validating if asset has been minted on mainnet already:"
+            echo "status=success" >> $GITHUB_OUTPUT
             echo
             awk '{print $2}' "HEAD.diff" | sort | awk 'match($0, /mappings\/[0-9a-f]+\.json/) { print substr( $0, RSTART+9, RLENGTH-14 )}' \
               | while read policy; do echo "Checking subject ${policy} with policy id ${policy:0:56}"; if [ $(curl -w '%{http_code}' -s -H "project_id: ${BLOCKFROST_PROJECT_ID}" -q -o /dev/null https://cardano-mainnet.blockfrost.io/api/v0/assets/policy/${policy:0:56}) = "200" ]; \
-              then echo "status=success" >> $GITHUB_OUTPUT; else echo "::warning file=mappings/${policy}.json::No assets with policy id ${policy:0:56} have ever been minted on mainnet."; echo "status=failure" >> $GITHUB_OUTPUT; fi; done
+              then echo "Assets with policy id ${policy:0:56} have been minted on mainnet."; else echo "::warning file=mappings/${policy}.json::No assets with policy id ${policy:0:56} have ever been minted on mainnet."; echo "status=failure" >> $GITHUB_OUTPUT; fi; curl -w '%{http_code}' -s -H "project_id: ${BLOCKFROST_PROJECT_ID}" -q -o /dev/null https://cardano-mainnet.blockfrost.io/api/v0/assets/policy/${policy:0:56}; done
             echo
             
       - name: Check optional validation outcome
