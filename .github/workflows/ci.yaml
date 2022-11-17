@@ -36,6 +36,7 @@ jobs:
       - name: Validate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
         run: |
           # shellcheck disable=SC2016
           # Debug:
@@ -106,6 +107,9 @@ jobs:
 
       - name: Optional Check - LedgerX Top100
         id: ledgerxcheck
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
         continue-on-error: true
         run: |
           # run over every file in the diff
@@ -143,6 +147,7 @@ jobs:
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
           BLOCKFROST_PROJECT_ID: ${{ secrets.BLOCKFROST_PROJECT_ID }}
         run: |
           # Get the policyid from the file (or determine the asset id)
