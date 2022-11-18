@@ -30,23 +30,13 @@
             }
         ]
     },
-    "decimals": {
-        "sequenceNumber": 0,
-        "value": 0,
-        "signatures": [
-            {
-                "signature": "63ef333a4db00378d61b4207c9a3d4de2bd79e7a0f9e20f7f86529413e734ef3999cbb7ac70abf4942f9b35534fa75723656903caf0e33125dec16de44aa4609",
-                "publicKey": "0c0c6dc5f6b02995465ae5de8bdf07d5466932288bea414614ca7d2a96c63002"
-            }
-        ]
-    },
     "policy": "820182018282051a04714eda8200581c3c1d1b517e331202f2e4e978bc67e714dce43468cee68e90ae17d5ec",
     "description": {
-        "sequenceNumber": 0,
-        "value": "Dividends token for the Cardano Ark",
+        "sequenceNumber": 1,
+        "value": "Utility token for the Cardano Ark",
         "signatures": [
             {
-                "signature": "58e6c37eb1b754ca74083006f54b785892e8fc36d75642ba8d870197eb662258eca8b9f7338ac0ef5230848a4612a71a27e8b90fa3d4e3e51eb86638477f6d01",
+                "signature": "a21155d191890beb8da3682207ee92251efbc9d8e3262e14ed9dc969ead6c981ff857a80d526ab3702da0a3debebad4b42cfed5be6d73c7931e38ab25f704105",
                 "publicKey": "0c0c6dc5f6b02995465ae5de8bdf07d5466932288bea414614ca7d2a96c63002"
             }
         ]
