@@ -7,10 +7,6 @@
             {
                 "signature": "e0a606c03efc67268be8139f41258d6b24504ffe3ad76a8be96419fa9a516d5916c0e70bd8ab5630c9dad190a7cec4a7a997a5fd34fcdfb66f69416ce01f8007",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
-            },
-            {
-                "signature": "e0a606c03efc67268be8139f41258d6b24504ffe3ad76a8be96419fa9a516d5916c0e70bd8ab5630c9dad190a7cec4a7a997a5fd34fcdfb66f69416ce01f8007",
-                "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
             }
         ]
     },
@@ -18,10 +14,6 @@
         "sequenceNumber": 0,
         "value": "One",
         "signatures": [
-            {
-                "signature": "ba087cbdc4976de5bdd4a5377fcfd78d967c0a1e045116e6c276541d32843462f2e20f3ac7f166256fc5fe01b7c0685693a8c882a06da3016a031eb81b9dd50f",
-                "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
-            },
             {
                 "signature": "ba087cbdc4976de5bdd4a5377fcfd78d967c0a1e045116e6c276541d32843462f2e20f3ac7f166256fc5fe01b7c0685693a8c882a06da3016a031eb81b9dd50f",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
@@ -35,10 +27,6 @@
             {
                 "signature": "08941891f4ba64d2294efa293ddfe59fe75b50b24ddc94ea99f11b45626edc5fc7017fe9608e7757a4e9a88fb992bb3844559627ec6fc8d447a72a3d15ca010c",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
-            },
-            {
-                "signature": "08941891f4ba64d2294efa293ddfe59fe75b50b24ddc94ea99f11b45626edc5fc7017fe9608e7757a4e9a88fb992bb3844559627ec6fc8d447a72a3d15ca010c",
-                "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
             }
         ]
     },
@@ -46,10 +34,6 @@
         "sequenceNumber": 0,
         "value": 18,
         "signatures": [
-            {
-                "signature": "6dfa4feede06fffc2e83713ce3e45fb610d441edbbf27b02753f7f10c796f2b1e4bb5aadda351202199ea59a48d14f42a62cbe42a5e6d13201d9ea153aa08608",
-                "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
-            },
             {
                 "signature": "6dfa4feede06fffc2e83713ce3e45fb610d441edbbf27b02753f7f10c796f2b1e4bb5aadda351202199ea59a48d14f42a62cbe42a5e6d13201d9ea153aa08608",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
@@ -71,10 +55,6 @@
         "sequenceNumber": 0,
         "value": "Fundamental Cardano Token",
         "signatures": [
-            {
-                "signature": "34b8436ee9f1cf960c65bd75d1689f9fa72d3badb45e9a7897e5b93f6d5fa9916ef0def16524984fe1bf0bcc77edb18073f020d52edddcabe281a952d3e33a03",
-                "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
-            },
             {
                 "signature": "34b8436ee9f1cf960c65bd75d1689f9fa72d3badb45e9a7897e5b93f6d5fa9916ef0def16524984fe1bf0bcc77edb18073f020d52edddcabe281a952d3e33a03",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
