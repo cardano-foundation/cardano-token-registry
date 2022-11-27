@@ -1,8 +1,8 @@
 {
     "subject": "007394e3117755fbb0558b93c54ce3bc6c85770920044ade143dc7424506f636b65744368616e6765",
     "name": {
-        "sequenceNumber": 0,
-        "value": "Pocket Change",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
                 "signature": "c5d3f373ce4552dbb9df994c79cad0a758dc053cd135fa48ce42fc91dd87a58c78949f8c409d40da736acadef9660b4a2a6438e5d944881d6287dfb5e4acd608",
@@ -32,8 +32,8 @@
     },
     "policy": "820182018282051a02fa647f8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
     "description": {
-        "sequenceNumber": 0,
-        "value": "Official currency of Pocket Towne",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
                 "signature": "8d5ede8393cc22209f22a1f84c4f89b531d1e6ad646b1d3506cc45ade59093c98edea717f0ecc8bce3ed9416d93026397cd90bb8d0ea46158e0d54518fa8af0a",

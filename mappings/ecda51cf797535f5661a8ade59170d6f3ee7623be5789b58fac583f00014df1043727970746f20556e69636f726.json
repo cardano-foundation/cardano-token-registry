@@ -1,8 +1,8 @@
 {
     "subject": "ecda51cf797535f5661a8ade59170d6f3ee7623be5789b58fac583f00014df1043727970746f20556e69636f726",
     "name": {
-        "sequenceNumber": 0,
-        "value": "Crypto Unicorn",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
                 "signature": "54b8101a18998a789c2d024d1cef88f6b87c75d8b5a3c094864dc483ddf9b9d73b2e7b33c0d7c1658c06b5f9b2092b468984626ed0ef15e88d9876bdbd150109",
@@ -41,8 +41,8 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Crypto Unicorn",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
                 "signature": "a7f41d4267dbbd35bc2ba37640fb7ce16554fdc7f51c2bffb0e1b8a3039789251663db663ee071b3f6cf56bfcec90af87378524c7979e998692dfa5666ed2706",
