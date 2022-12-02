@@ -62,16 +62,19 @@ jobs:
           cat "HEAD.diff"
           echo
 
-          rm -f fail-location fail-filename || :
-          echo "Validating all changed PR files are in the ${LOCATION} directory:"
+          rm -f fail-location fail-filename fail-subject-is-hex || :
+          echo "Validating all changed PR files are in the ${LOCATION} directory and are hex and are valid length filenames:"
           echo
           awk '{print $2}' "HEAD.diff" | sort \
             | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-location; }'
+          awk '{print $2}' "HEAD.diff" | sort \
+            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[[:xdigit:]]*\.json$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-subject-is-hex; }'
           echo
 
           [ -f "fail-location" ] && echo "ABORTING: File change location validation failed"
           [ -f "fail-filename" ] && echo "ABORTING: File name validation failed"
-          [ -f "fail-location" ] || [ -f "fail-filename" ] && exit 1
+          [ -f "fail-subject-is-hex" ] && echo "ABORTING: Subject-is-hex validation failed"
+          [ -f "fail-location" ] || [ -f "fail-filename" ] || [ -f "fail-subject-is-hex" ] && exit 1
 
           popd
           echo "Obtaining the latest metadata GitHub PR validation tool:"
