@@ -62,19 +62,22 @@ jobs:
           cat "HEAD.diff"
           echo
 
-          rm -f fail-location fail-filename fail-subject-is-hex || :
+          rm -f fail-location fail-filename fail-subject-is-hex fail-subject-length || :
           echo "Validating all changed PR files are in the ${LOCATION} directory and are hex and are valid length filenames:"
           echo
           awk '{print $2}' "HEAD.diff" | sort \
-            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-location; }'
+            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass location: {}" || { echo "FAIL location: {}"; touch fail-location; }'
           awk '{print $2}' "HEAD.diff" | sort \
-            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[[:xdigit:]]*\.json$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-subject-is-hex; }'
+            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[[:xdigit:]]*\.json$ ]] && echo "pass is hex: {}" || { echo "FAIL is hex: {}"; touch fail-subject-is-hex; }'
+          awk '{print $2}' "HEAD.diff" | sort \
+            | xargs -I{} bash -c 'FNAME={}; FLENGTH=${#FNAME}; if (( $FLENGTH % 2 )); then echo "FAIL length: $FNAME"; touch fail-subject-length; else echo "pass length: $FNAME"; fi'
           echo
 
           [ -f "fail-location" ] && echo "ABORTING: File change location validation failed"
           [ -f "fail-filename" ] && echo "ABORTING: File name validation failed"
           [ -f "fail-subject-is-hex" ] && echo "ABORTING: Subject-is-hex validation failed"
-          [ -f "fail-location" ] || [ -f "fail-filename" ] || [ -f "fail-subject-is-hex" ] && exit 1
+          [ -f "fail-subject-length" ] && echo "ABORTING: Subject-length validation failed"
+          [ -f "fail-location" ] || [ -f "fail-filename" ] || [ -f "fail-subject-is-hex" ] || [ -f "fail-subject-length" ] && exit 1
 
           popd
           echo "Obtaining the latest metadata GitHub PR validation tool:"
