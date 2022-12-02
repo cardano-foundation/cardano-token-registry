@@ -75,8 +75,8 @@ jobs:
 
           popd
           echo "Obtaining the latest metadata GitHub PR validation tool:"
-          echo "curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.metadata-validator-github-tarball.x86_64-linux/latest/download/1/metadata-validator-github.tar.gz"
-          curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.metadata-validator-github-tarball.x86_64-linux/latest/download/1/metadata-validator-github.tar.gz
+          echo "curl -sLO https://github.com/input-output-hk/offchain-metadata-tools/releases/download/v0.4.0.0/metadata-validator-github.tar.gz"
+          curl -sLO https://github.com/input-output-hk/offchain-metadata-tools/releases/download/v0.4.0.0/metadata-validator-github.tar.gz
           echo
 
           echo "Extracting the latest metadata GitHub PR validation tool:"
@@ -89,9 +89,9 @@ jobs:
           ./metadata-validator-github "${GITHUB_REPOSITORY_OWNER}" "$(cat "${GITHUB_EVENT_PATH}" | jq -r '.repository.name')" "${{ github.event.number }}" --expect-branch "${BASE}" --no-auth
           echo
 
-          echo "Obtaining the latest metadata validation tool:"
-          echo "curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.token-metadata-creator-tarball.x86_64-linux/latest/download/1/token-metadata-creator.tar.gz"
-          curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.token-metadata-creator-tarball.x86_64-linux/latest/download/1/token-metadata-creator.tar.gz
+          echo "Obtaining the latest metadata creator tool:"
+          echo "curl -sLO https://github.com/input-output-hk/offchain-metadata-tools/releases/download/v0.4.0.0/token-metadata-creator.tar.gz"
+          curl -sLO https://github.com/input-output-hk/offchain-metadata-tools/releases/download/v0.4.0.0/token-metadata-creator.tar.gz
           echo
 
           echo "Extracting the latest metadata validation tool:"
