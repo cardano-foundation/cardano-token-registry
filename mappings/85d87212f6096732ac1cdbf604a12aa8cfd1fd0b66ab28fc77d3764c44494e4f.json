@@ -52,10 +52,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "A currency for cryptodino ecosystem.",
+        "value": "A currency for Cryptodino ecosystem.",
         "signatures": [
             {
-                "signature": "bd621d90ceec40111ba191ce7ffc6bac47dc3fbde700ea28564cf8f84175f88e764d3c890a91cdeffa2fb4a8a717b3124d63b2431ede88ab5ae80c4207a86807",
+                "signature": "072c28d043df8aa6b57ac6c49c8627be84f7250fcdfe94f3ddecc99e3cd1ac93b8813cb360cc9b09ac8205a97ab696e414483b96fcc914fb443ee3eb1a6a3e00",
                 "publicKey": "6bc8d8661d0f81f7870343f73f83b6725567e94b42e13fdd4d61e7c7b418b36d"
             }
         ]
