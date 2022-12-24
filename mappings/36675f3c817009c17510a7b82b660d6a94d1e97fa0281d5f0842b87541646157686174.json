@@ -1,0 +1,34 @@
+{
+    "subject": "36675f3c817009c17510a7b82b660d6a94d1e97fa0281d5f0842b87541646157686174",
+    "name": {
+        "sequenceNumber": 1,
+        "value": "AdaWhat",
+        "signatures": [
+            {
+                "signature": "e21987b5578d3ccaedca1c13c09dcecc1b23993aa055e1d8671798bef5f4df568a361b0f46dba99153f488dd1a627a4cc0ac367f3184a91522b4c4d6b31fa604",
+                "publicKey": "8604ca437c46e9bfe11f04b07e4d759e00d445456c6f438830e3a14ffe69e60e"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 1,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "63bf579af569c39a404fc207b83a69047c00d76a6b52a124839562c94217f202a6f4a5517ae4ccca3eea245feeee2bbf5b0c4f352a1fd4f14a35814e92fba202",
+                "publicKey": "8604ca437c46e9bfe11f04b07e4d759e00d445456c6f438830e3a14ffe69e60e"
+            }
+        ]
+    },
+    "policy": "820182018282051a4216766b8200581c97740cdcd344a632629d14b1a656a850b572e2941d87db244d5c8f16",
+    "description": {
+        "sequenceNumber": 1,
+        "value": "Parody of 'Jigga What? by Jay-Z/Timbaland/Amil with vocla by Josh J",
+        "signatures": [
+            {
+                "signature": "d0d0e6c0ebe5e92ecc34e2f6c346e02e13a483a52647ef30f363737f3cee4d9ee507fb9ab5aae75371e3d20ffe4ef111d0712329a8453e6ba3f28226a2fbff00",
+                "publicKey": "8604ca437c46e9bfe11f04b07e4d759e00d445456c6f438830e3a14ffe69e60e"
+            }
+        ]
+    }
+}
