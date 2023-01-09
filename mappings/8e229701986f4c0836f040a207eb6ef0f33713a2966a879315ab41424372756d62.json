@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "Chips is a blockchain based open world mobile game designed to immersively engage our users and provide non stop entertainment. Crumb is an in-game monetary asset used for buying and selling (This token can only be minted via gameplay and will be used to pay users for completing tasks in game) in Chips. The token will be based on the Cardano blockchain and shall be the primary means of transaction within the ecosystem.",
+        "sequenceNumber": 2,
+        "value": "Chips is a mobile game that attempts to curb crime, violence, and poverty by incentivizing positive decisions. Crumb is an in-game monetary asset used for buying and selling (This token can only be minted via gameplay and will be used to pay users for completing tasks in game) in Chips.",
         "signatures": [
             {
-                "signature": "4b14b099fb0d5ef11e9963af1d51c03e88ba7d9d6cc018a1e29e81eb0abb478f403ed2584cffb1c662949bfdbe137df7881d7b0f655d7c1c9f24609c0a4a5003",
+                "signature": "2a833c51e299ad9895b819898b19068534a937afb9c24604f96204ba46e5186c8b2a518328ec57bbce554946b8968e749f74210a5cca67064238a5477f833705",
                 "publicKey": "f02820dba3e198d834c5269cdb9656ef4e382693e99f69aa131a113abc398e18"
             }
         ]
