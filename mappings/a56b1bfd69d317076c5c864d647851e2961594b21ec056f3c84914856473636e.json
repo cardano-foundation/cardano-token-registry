@@ -1,0 +1,54 @@
+{
+    "policy": "82008201818200581c64bc555839bd635b3f3db2062b3779ca177f6a3fb1bcb41cd1eddf6c",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "7b2e9754181a2b8f9dd8a19c90c5ee8e8378ce362fd47c20b637b25dc163a2ae",
+                "signature": "7f0c90232ad78f13dd36efb59be7ffdcd4341aad0796066f2f71c1721b8393618cf9df55fb32a523b2e0bb7eaea5c9957e4331119829088fe0167f4090d44c00"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "DSCN"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "7b2e9754181a2b8f9dd8a19c90c5ee8e8378ce362fd47c20b637b25dc163a2ae",
+                "signature": "549a1f94a0f9553243d093372807e50419ff63a55820bbfca3e347213e2ad4d486455fded81c870be9822bff7298ed77f0dee63b865e2c052e14980ef927b603"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://cryptoversecomics.com/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "7b2e9754181a2b8f9dd8a19c90c5ee8e8378ce362fd47c20b637b25dc163a2ae",
+                "signature": "f7e116faf2a6a44a4bbd25b10c7026df50152ec23bc3c165fffef72004303aca06fb71d799d19a8200c5b65713a13cf0b7bcf2b1dcd1279fd8e8e2b9f3523905"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Cryptoverse Comics' utility token is the Data Stream Credit Note"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "7b2e9754181a2b8f9dd8a19c90c5ee8e8378ce362fd47c20b637b25dc163a2ae",
+                "signature": "ec105a2259eb5c2792655f6b3d9d02cb37594e9c22d291a61cd864f734c04a3e02a4f4c1115a9fdf3d1a5272777f5bd46964df970b84da46158519e89fe27a09"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "DSCN"
+    },
+    "subject": "a56b1bfd69d317076c5c864d647851e2961594b21ec056f3c84914856473636e",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "7b2e9754181a2b8f9dd8a19c90c5ee8e8378ce362fd47c20b637b25dc163a2ae",
+                "signature": "521c3ac45ff31e5a9ca115c6f606536bda4ea48bfbcf387a5ed712523dbd1d30654a1c90eefe81c89a52b2d361d4c144890d6cd4aa2fdaf9ccf7936f7b200008"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}
