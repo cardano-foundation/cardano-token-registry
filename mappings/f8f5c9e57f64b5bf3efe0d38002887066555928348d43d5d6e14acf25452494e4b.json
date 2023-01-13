@@ -1,11 +1,11 @@
 {
     "subject": "f8f5c9e57f64b5bf3efe0d38002887066555928348d43d5d6e14acf25452494e4b",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://www.minimagics.io/",
+        "sequenceNumber": 1,
+        "value": "https://minimagics.io/",
         "signatures": [
             {
-                "signature": "32f95d837e71a1fea56e263d946367e4a6d90e685e81fe9696f521d84f05231ee6f67fcb9c9faa4a05b53c32c5583347d515b7314accc87c608185deea53140c",
+                "signature": "3f79da1924c0f2766013cb07ab9289e6f01b792854e1a5f303a74a7842adcff50f71812b6fe72dc616296489ad43214bdcf1c197bc4704bb47d8d4e689af570c",
                 "publicKey": "9c5baca9a7d47e4136be750039cf0f5297ad571a8dab2aa2141b63060929ad21"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "a67dc7b289c7a068e1443904bed00993b6b06d9c94d8edc4f6066d9257d857ebafde8096e28232a502f514980af91386a9a0a4369ad89b6bea321c093f747802",
+                "signature": "d5e6f9082f9ea6f27c83580d85bdf18c358f601de4866cf035c88f83d0be4fdf7567288198ecfa9a66f6207e1a862a760c3540a638e188fd1fd0a5bce885040c",
                 "publicKey": "9c5baca9a7d47e4136be750039cf0f5297ad571a8dab2aa2141b63060929ad21"
             }
         ]
