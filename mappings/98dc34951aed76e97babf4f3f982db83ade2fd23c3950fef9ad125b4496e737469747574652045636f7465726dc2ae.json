@@ -1,11 +1,11 @@
 {
     "subject": "98dc34951aed76e97babf4f3f982db83ade2fd23c3950fef9ad125b4496e737469747574652045636f7465726dc2ae",
     "name": {
-        "sequenceNumber": 0,
-        "value": "Institute Ecoterm®",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "1022fa4f515600df4b6d8cbadee46692aa111c48b5d57ceb6dd13b4fc45798de339c0831ea91246b9303ecda2fcb7c248f90d72a785166f707d964adacb36301",
+                "signature": "8ea792ea8cc9226a44d919428ebd10d4a6894f450f442cddc86d44eb2ea7857e70236582dd7d9d274e9ff42ea8143c6edd6f1f2904a0532bc1f37afa97f27208",
                 "publicKey": "37f2b330d5eb39de702fd4031a39ac6cf38479054a16aa8192e66879ad64ff06"
             }
         ]
@@ -14,6 +14,10 @@
         "sequenceNumber": 0,
         "value": "IE",
         "signatures": [
+            {
+                "signature": "9e2c7e4cd703d012aa5576efff7bb84a785b492f9e9c9cbdcb093122830f3ff430fe5c328db99b32bd9ee7237326729793d8659e0c2edddde4e213df02a4b40e",
+                "publicKey": "37f2b330d5eb39de702fd4031a39ac6cf38479054a16aa8192e66879ad64ff06"
+            },
             {
                 "signature": "9e2c7e4cd703d012aa5576efff7bb84a785b492f9e9c9cbdcb093122830f3ff430fe5c328db99b32bd9ee7237326729793d8659e0c2edddde4e213df02a4b40e",
                 "publicKey": "37f2b330d5eb39de702fd4031a39ac6cf38479054a16aa8192e66879ad64ff06"
@@ -28,15 +32,19 @@
             {
                 "signature": "76747967e1aa3496de300db2773943a07767fbc4888e8f9a56b2d9248b6134e9bcfd77a96c4a1d0802022e62edb757142ac57f89cea7df45698ed12461f63a0c",
                 "publicKey": "37f2b330d5eb39de702fd4031a39ac6cf38479054a16aa8192e66879ad64ff06"
+            },
+            {
+                "signature": "76747967e1aa3496de300db2773943a07767fbc4888e8f9a56b2d9248b6134e9bcfd77a96c4a1d0802022e62edb757142ac57f89cea7df45698ed12461f63a0c",
+                "publicKey": "37f2b330d5eb39de702fd4031a39ac6cf38479054a16aa8192e66879ad64ff06"
             }
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Sustainable construction using EARTH as a building material",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "4431e3805c6ef8e9e9fcf4fe0f4132c00905af5c0bad4d662a90886bbd778026db5d26fed962d34c93eeafdfae3198d35aebf8cc1acfbe74496653dfe1350b0f",
+                "signature": "6ec2b0f486cd5b43b6f877eab5a0a42f4814346af6d195c9057b0fea685877eaeec05526180e387d76f2ceb21b61d9e2822e749fff3acdc89c05144489197a05",
                 "publicKey": "37f2b330d5eb39de702fd4031a39ac6cf38479054a16aa8192e66879ad64ff06"
             }
         ]
