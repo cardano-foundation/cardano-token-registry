@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": " Token provides access to utilities in TVKills's ecosystem!",
+        "value": "TV Token provides access to utilities in TVKills's ecosystem!",
         "signatures": [
             {
-                "signature": "511c70aaee714b097dd017a2abe8d798c491b8d12e34b5beb9750e4b36c701bc9659f3056e771b85f0514ba9490b3294f68e378d560ba83466b5353b03c83103",
+                "signature": "8d23edf8c76f14a09102d75c11fd367bccc7c5ddfde5a51251a7695cf7b17f54bcd4a65257928f7b9f62f652d76a027ad1f3f52d54581c1497842e4b4fe46f09",
                 "publicKey": "a23ae2be5e8483990561a5c03898ade242f781b729bdf890ad3f1460c1161aaa"
             }
         ]
