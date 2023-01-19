@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Flac Finance",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "c060a4e4fceafcb69a4915da6fbaccd1f5a0431a48ea4b860aa1480162740b5947e3a59fe0105e20f98c578af6cf1c8fa17a1459ddaa19dc94a920b42810600e",
+                "signature": "655af248521e834eb671bd5fe1d5fec284c3ed33b3009bc218456adf1e1c810eabbfd84a36867a007a8d6dff72533d91a93b903a18a5b6a494ea46da7d3d1703",
                 "publicKey": "7736a765f7f0ba6d156b02182a3ed60ae62d4d9e07892609e1c4973f08af26d0"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "A RealFi banking platform on Cardano",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "bc47d1b636f021cfe8a7d8d1929f485e52a1f825e52e0c14c143681f9662776ed6b1e0a41bdd25e81194387fc38e0b1f57785b2b738dfafe716399ab3e994b06",
+                "signature": "9adfeea5ccfd752cb5158b37324ed5e065cdce21b737e73e4a2377b5b65438875b640191baa8bd99d665706093b9428c1db9cedceebd3492ba844ebe529b0e01",
                 "publicKey": "7736a765f7f0ba6d156b02182a3ed60ae62d4d9e07892609e1c4973f08af26d0"
             }
         ]
