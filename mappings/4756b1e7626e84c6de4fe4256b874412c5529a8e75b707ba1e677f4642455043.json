@@ -5,10 +5,6 @@
             {
                 "publicKey": "21d1f20771ede3b4222fbc2c42df8843452f636c9a44396cf0026773ea7a58a4",
                 "signature": "d1c6231aeb18caef0e6dc6749ffac32467b11c05b180a80f859be891b75ec5377a1215feab75547efbd19968725843e9c0d2c11b50f6c4990964eb0237d2410d"
-            },
-            {
-                "publicKey": "21d1f20771ede3b4222fbc2c42df8843452f636c9a44396cf0026773ea7a58a4",
-                "signature": "d1c6231aeb18caef0e6dc6749ffac32467b11c05b180a80f859be891b75ec5377a1215feab75547efbd19968725843e9c0d2c11b50f6c4990964eb0237d2410d"
             }
         ],
         "sequenceNumber": 0,
@@ -19,10 +15,6 @@
             {
                 "publicKey": "21d1f20771ede3b4222fbc2c42df8843452f636c9a44396cf0026773ea7a58a4",
                 "signature": "0d5c69753dff82874494c74368689771933807413c8887737693327b8f2a2b296224b6c66fd7e84805a2b0dd7d338de91ad08b278d81c3a1b5dcbcadbe5e4300"
-            },
-            {
-                "publicKey": "21d1f20771ede3b4222fbc2c42df8843452f636c9a44396cf0026773ea7a58a4",
-                "signature": "0d5c69753dff82874494c74368689771933807413c8887737693327b8f2a2b296224b6c66fd7e84805a2b0dd7d338de91ad08b278d81c3a1b5dcbcadbe5e4300"
             }
         ],
         "sequenceNumber": 0,
@@ -30,10 +22,6 @@
     },
     "description": {
         "signatures": [
-            {
-                "publicKey": "21d1f20771ede3b4222fbc2c42df8843452f636c9a44396cf0026773ea7a58a4",
-                "signature": "f2b4576cae59e5dbfbfc7d45407e8cbef9742fa77ac5b0fd4135cd91920ce8dc562c44f5202dd2ac8d8aad09c3357fcb62ccffcac8314f3d3f9067ceb24d6309"
-            },
             {
                 "publicKey": "21d1f20771ede3b4222fbc2c42df8843452f636c9a44396cf0026773ea7a58a4",
                 "signature": "f2b4576cae59e5dbfbfc7d45407e8cbef9742fa77ac5b0fd4135cd91920ce8dc562c44f5202dd2ac8d8aad09c3357fcb62ccffcac8314f3d3f9067ceb24d6309"
@@ -57,10 +45,6 @@
             {
                 "publicKey": "21d1f20771ede3b4222fbc2c42df8843452f636c9a44396cf0026773ea7a58a4",
                 "signature": "49316b295fc863ef025b2b09cc1a7f3d51b9021229c27efce75df99ccba206eb6d2747eec88bd18d5ba51e85a7ea9cefebb3aea8263f846bd41586e90b5c7f02"
-            },
-            {
-                "publicKey": "21d1f20771ede3b4222fbc2c42df8843452f636c9a44396cf0026773ea7a58a4",
-                "signature": "49316b295fc863ef025b2b09cc1a7f3d51b9021229c27efce75df99ccba206eb6d2747eec88bd18d5ba51e85a7ea9cefebb3aea8263f846bd41586e90b5c7f02"
             }
         ],
         "sequenceNumber": 0,
@@ -69,10 +53,6 @@
     "subject": "4756b1e7626e84c6de4fe4256b874412c5529a8e75b707ba1e677f4642455043",
     "decimals": {
         "signatures": [
-            {
-                "publicKey": "21d1f20771ede3b4222fbc2c42df8843452f636c9a44396cf0026773ea7a58a4",
-                "signature": "6228685213fa7433cc52992d9f37440749d8d1b325121059d3f9771da377a0636d0f74bfa9caf4a15cc5563e7c58830172bc1f3f1631818629907e09f16de909"
-            },
             {
                 "publicKey": "21d1f20771ede3b4222fbc2c42df8843452f636c9a44396cf0026773ea7a58a4",
                 "signature": "6228685213fa7433cc52992d9f37440749d8d1b325121059d3f9771da377a0636d0f74bfa9caf4a15cc5563e7c58830172bc1f3f1631818629907e09f16de909"
