@@ -1,0 +1,54 @@
+{
+    "policy": "82018201828200581c562ff28c46902addd3fec1444a5396f78c9dcd820355db6a4cd7123282051a06ce9448",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "14168ca3da5f6dcaf3f8d20126932344c361e45fffc7e7cb0fc568e0cfd783cf",
+                "signature": "d2245b69a9d3d8687f154621dc5196c36a8e35d9884dec5136c171faaff31732145994d0c2dc160c8102a580b1600c5752fb3a2f4cc0ef22ae6d4b58512d1f00"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "CKN"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "14168ca3da5f6dcaf3f8d20126932344c361e45fffc7e7cb0fc568e0cfd783cf",
+                "signature": "ffc34bb76b64a828922df1e9d6044c6647a54441924864e8cbb9397edac2275ad678686eacbdc52a68a0d76b266209027b59b7681cd1f031f735f3382277da07"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://ckn.network/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "14168ca3da5f6dcaf3f8d20126932344c361e45fffc7e7cb0fc568e0cfd783cf",
+                "signature": "8f84e2fcd4d763e151278db0fea1f0d8f16c866aed727117edf0cb603ab222449ba8be7bb183016a1ecae400ccae0151480849ed134a38244414d51ed2ecec07"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The official KNIGHT currency"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "14168ca3da5f6dcaf3f8d20126932344c361e45fffc7e7cb0fc568e0cfd783cf",
+                "signature": "ad51db46e7af53cf72a37c622d0f94d26c032b593989666f8b79a015bcb70d41ae4cb132cece4e7d675282e66a9fd127c713b259cbedb8f89d656476ba37c70e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "CKN"
+    },
+    "subject": "6b59f4226407e96a970e845f1f36ba67d1b03ecff827c6b1eae3955c636b6e",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "14168ca3da5f6dcaf3f8d20126932344c361e45fffc7e7cb0fc568e0cfd783cf",
+                "signature": "5437bf23dfc5a4a4f701b96c9bf54163f7e990af6f0e1591c870383e0d2bd51e85cd276dabd06ed075b40864c2da4e580c4b5478782989e26b8aba94b9b4eb0d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}
