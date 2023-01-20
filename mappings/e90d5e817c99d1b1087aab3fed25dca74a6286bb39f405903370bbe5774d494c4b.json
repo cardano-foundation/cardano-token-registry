@@ -1,0 +1,53 @@
+{
+    "subject": "e90d5e817c99d1b1087aab3fed25dca74a6286bb39f405903370bbe5774d494c4b",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://muesliswap.com/",
+        "signatures": [
+            {
+                "signature": "41bcfad9202f574e3ef3f907e61609c9e68b7c3bba2ada267b9682960495e3c09eaebbbc04b2f3ae45a21429c8db62016cc7bcc8a4a31f57e7003a3acebfd80f",
+                "publicKey": "f208ff78f2ebe5d394ce285f2bbdfb337444c8ee2ed047d8c85c0086451a35d5"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "wrapped MILK",
+        "signatures": [
+            {
+                "signature": "2088a1b27d1ef83cb9d62bff0234f431282f8172072cc6db017359b2a104422361c9278d147058b1b8c347fd0d87bad811168e850479a871a51c09d90a37a300",
+                "publicKey": "f208ff78f2ebe5d394ce285f2bbdfb337444c8ee2ed047d8c85c0086451a35d5"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "wMILK",
+        "signatures": [
+            {
+                "signature": "33184d66be8d12d3f894b44ebee0033987dcc647c1220611138d856a8b715e1997c5e540a00b970a291311288449bc6f5f4b0bc1b03a5ac3de15ca7c97625e0a",
+                "publicKey": "f208ff78f2ebe5d394ce285f2bbdfb337444c8ee2ed047d8c85c0086451a35d5"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "619cc7fcf5e4700dba260924a6e030e76c59bddde4fd5441f29ced1ac9ceacdca33abca78a4030a70a7fa9ad48e8e2996c7663373bd563e0e48f2709d8e54f05",
+                "publicKey": "f208ff78f2ebe5d394ce285f2bbdfb337444c8ee2ed047d8c85c0086451a35d5"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "A wrapped version of MILK, with decimal places attached!",
+        "signatures": [
+            {
+                "signature": "5d313c2621a57873eb353520de8e2ffe36c2ac8a40c46d68377ae86ad6aef4e8723b416cba0b3f9a2484e419e591c69ea0d5996ecd208ddbb48c9a95d1466401",
+                "publicKey": "f208ff78f2ebe5d394ce285f2bbdfb337444c8ee2ed047d8c85c0086451a35d5"
+            }
+        ]
+    }
+}
