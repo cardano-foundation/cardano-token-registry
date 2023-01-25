@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "AdaYield- The only token that pays not to sell. More AdaYield = More ADA",
+        "sequenceNumber": 1,
+        "value": "ADAYield (ADY) - token that yields ADA for its community.",
         "signatures": [
             {
-                "signature": "c734d236751f9b742cd5d31a3a2ac53526c2360f5325f277fbe9f7f0bd47546ff047d8a9e5ec8226c3cc12b05b6f7afc9e0c65ebe62259c4127690a64f4a8a00",
+                "signature": "27992fc3a884b6232210f30e2c80e8c29870c3bbe3d96aff8313a7050ccc3cadffe6ad7c9b6b622b006796157aab0551f58ac5c9e460eee91b03b784de25c307",
                 "publicKey": "9bd78131066dff104a9f707fae0916d9ee9309738ea2599263fd2e8cf397e42e"
             }
         ]
