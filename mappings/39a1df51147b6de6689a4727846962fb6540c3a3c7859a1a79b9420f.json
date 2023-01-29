@@ -1,0 +1,43 @@
+{
+  "type": "all",
+  "scripts": [
+    {
+      "type": "before",
+      "slot": 83372099
+    },
+    {
+      "keyHash": "39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+      "type": "sig"
+    }
+  ]
+}
+
+
+{
+  "721": {
+    "265517120e166c4d208bd30ec0ceb4da9aabb312bce1d30351f609d7": {
+      "BTR": {
+        "decimals": "0",
+        "description": "Project share currency",
+        "files": [
+          {
+            "mediaType": "image/png",
+            "name": "BTR",
+            "src": "ipfs://QmRzSmFw9gnaP61frvorf43qhwrEwqRhVCu7CChJ82ryQj"
+          }
+        ],
+        "image": "ipfs://QmRzSmFw9gnaP61frvorf43qhwrEwqRhVCu7CChJ82ryQj",
+        "mediaType": "image/png",
+        "minting": {
+          "blockchain": "cardano",
+          "mintedBeforeSlotNumber": 83372099,
+          "type": "time-lock-policy"
+        },
+        "name": "BattleRol",
+        "symbol": "BTR",
+        "tokenType": "token",
+        "totalSupply": 1000000
+      }
+    }
+  }
+}
