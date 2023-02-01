@@ -1,5 +1,15 @@
 {
     "subject": "4d038d08e68f53d21462e8982a5334c6ffbf65e7ae7eb064c568dd1e464f524745",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://forge.adabox.io/",
+        "signatures": [
+            {
+                "signature": "1f9e1b3b1b5b997abd68dbef2b70c296c6cf896817aceb9486a5d31af7e8984d91e93566d8c5ade371ebc4a23d41071909964a0c8599c278a75c7cd89a330005",
+                "publicKey": "1898a07e880fe2f8a171c193eef8cc2cd8a2445aa4af7b63158ba6c7ecda6e76"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "Forge Minting Token",
