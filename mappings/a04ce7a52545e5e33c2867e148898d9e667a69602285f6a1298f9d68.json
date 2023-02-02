@@ -1,0 +1,23 @@
+{
+    "subject": "a04ce7a52545e5e33c2867e148898d9e667a69602285f6a1298f9d68",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "qADA",
+        "signatures": [
+            {
+                "signature": "a660ab6860e40860cd40f7f90936c54bef57fadd30a0806dd4facd0dfcc9ae5df91f11f0cc3085411917de96b19a1256b5501e9ec0968439b8d120f1ad242406",
+                "publicKey": "d44aa229a3bb85393dda213962ce26b6a10ffaec4ee485f3fa1e170e2b2995cb"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "qADA is an interest bearing token minted upon deposit into the Liqwid ADA market and burned when redeemed. Earn interest and Cardano staking rewards from qADA's liquid staking derivative property directly in your wallet. The underlying ADA is loaned out to borrowers, the remaining amount is staked to Cardano single stake pool operators and qADA accrues the yield from both simultaneously.",
+        "signatures": [
+            {
+                "signature": "6e2eec7679ce6bead05bbe9cb946dc20f4cb284f8709b3003329a18bcb12605a6edb401c3abe680efd24f4bd2e4fe3c4e4c9d82e49dba5dc199b7f9d8cc3960b",
+                "publicKey": "d44aa229a3bb85393dda213962ce26b6a10ffaec4ee485f3fa1e170e2b2995cb"
+            }
+        ]
+    }
+}
