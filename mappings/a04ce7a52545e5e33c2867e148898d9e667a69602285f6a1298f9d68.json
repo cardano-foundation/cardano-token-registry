@@ -1,0 +1,18 @@
+{
+  "subject": "a04ce7a52545e5e33c2867e148898d9e667a69602285f6a1298f9d68",
+  "name": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "Liqwid Finance qADA qToken"
+  },
+  "ticker": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "qADA"
+  },
+  "description": {
+    "signatures": [],
+    "sequenceNumber": 0,
+    "value": "qADA is an interest bearing token minted upon deposit into the Liqwid ADA market and burned when redeemed. Earn interest and Cardano staking rewards from qADA's liquid staking derivative property directly in your wallet. The underlying ADA is loaned out to borrowers, the remaining amount is staked to Cardano single stake pool operators and qADA accrues the yield from both simultaneously."
+  }
+}
