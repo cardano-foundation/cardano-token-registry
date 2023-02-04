@@ -1,0 +1,64 @@
+{
+    "subject": "ab3e31c490d248c592d5bb495823a45fd10f9c8e4f561f13551803fb43617264616e6f20436f6d6d756e697479204368617269747920436f696e",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://ccccoin.io/",
+        "signatures": [
+            {
+                "signature": "206cab1f6f43d3e44094d8d054b046ee8e34e00d10530f685b917a915cb0ed198ed909338a4d126f064daa30f947aebf9cd06a217f0801cc8f5bdafbe579b004",
+                "publicKey": "996febf3f923eed84a5df236cfd8e861e81f2b269848c8bf2c286c72e840c1b7"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Cardano Community Charity Coin",
+        "signatures": [
+            {
+                "signature": "9ac626a4e7a05909925dff0ce5e711909e8604704b3983bb86728cbceace9a7b9375083cba95f53c53b3204ae864d5e6135f71ac631f88c20c6dec0e2c480803",
+                "publicKey": "996febf3f923eed84a5df236cfd8e861e81f2b269848c8bf2c286c72e840c1b7"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CCCC",
+        "signatures": [
+            {
+                "signature": "e11da380a7c70be7a52683bf3f59440a3b17d6ea61460e704bc2ebce35956c1a29bd9d46052822b019e49bc36c05d58faec5c3b4b9a790115e6391f7e196bd06",
+                "publicKey": "996febf3f923eed84a5df236cfd8e861e81f2b269848c8bf2c286c72e840c1b7"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "571254eea25f1463aec6e90029a3616870526a57e004476eba5c1d66f2692435d4bd89c8d1c26e244194276736ce81c016d966e8f4932a271671b8112e2a9e0d",
+                "publicKey": "996febf3f923eed84a5df236cfd8e861e81f2b269848c8bf2c286c72e840c1b7"
+            }
+        ]
+    },
+    "policy": "82008200581c6acf2086fcea92e51e5b6c0c9cb3089a8f1e07d2093c63e7a937d45c",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAABdwAAAXcCAMAAAAP67xWAAAB8lBMVEVHcEwBauwBbu0BeO4Ba+wBe+8Bee4BYusBY+sBbOwBaewBivEBd+4BYOoBiPEBi/EBbewBifEBh/EBdu4Bde4BaOwBhfABfO8Beu8BhPABdO4BjfIAovUAo/U>
+        "signatures": [
+            {
+                "signature": "82921252ec3feb3b3024e95389598a4a617d5a702c815822b048201a361eba68f785ed28e48cb715bec5d66c1c38d4f56b7cb3e060d416f3a9a73d81c7d43e03",
+                "publicKey": "996febf3f923eed84a5df236cfd8e861e81f2b269848c8bf2c286c72e840c1b7"
+            }
+        ]
+},
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Making a difference, one trade at a time.",
+        "signatures": [
+            {
+                "signature": "cad0460131e8978cbe0e0e1e030f3a93037a14dc2a0756d01eb266986e9db68094b9354ffa2babe982f19c0a1302ff2e43312dd2f8094f5d5c63c081cae3c80e",
+                "publicKey": "996febf3f923eed84a5df236cfd8e861e81f2b269848c8bf2c286c72e840c1b7"
+            }
+        ]
+    }
+}
