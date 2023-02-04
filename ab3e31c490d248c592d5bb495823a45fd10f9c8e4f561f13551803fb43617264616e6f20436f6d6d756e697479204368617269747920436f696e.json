@@ -41,6 +41,16 @@
         ]
     },
     "policy": "82008200581c6acf2086fcea92e51e5b6c0c9cb3089a8f1e07d2093c63e7a937d45c",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAABdwAAAXcCAMAAAAP67xWAAAB8lBMVEVHcEwBauwBbu0BeO4Ba+wBe+8Bee4BYusBY+sBbOwBaewBivEBd+4BYOoBiPEBi/EBbewBifEBh/EBdu4Bde4BaOwBhfABfO8Beu8BhPABdO4BjfIAovUAo/U>
+        "signatures": [
+            {
+                "signature": "82921252ec3feb3b3024e95389598a4a617d5a702c815822b048201a361eba68f785ed28e48cb715bec5d66c1c38d4f56b7cb3e060d416f3a9a73d81c7d43e03",
+                "publicKey": "996febf3f923eed84a5df236cfd8e861e81f2b269848c8bf2c286c72e840c1b7"
+            }
+        ]
+},
     "description": {
         "sequenceNumber": 0,
         "value": "Making a difference, one trade at a time.",
