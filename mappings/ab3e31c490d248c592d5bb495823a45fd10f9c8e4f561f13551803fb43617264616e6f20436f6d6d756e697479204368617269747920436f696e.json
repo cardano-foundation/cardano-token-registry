@@ -31,8 +31,8 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 18,
+        "sequenceNumber": 1,
+        "value": 0,
         "signatures": [
             {
                 "signature": "f30c82cc718293135bc9b52e639ceb959a924bc11fdd58e6eee33c5f8c4249af613467948b6f9173aae1252397a64efe7eb8861ecbd1b7e351786c5a76adb009",
