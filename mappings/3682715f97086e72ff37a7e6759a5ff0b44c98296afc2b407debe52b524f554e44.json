@@ -1,0 +1,44 @@
+{
+    "subject": "3682715f97086e72ff37a7e6759a5ff0b44c98296afc2b407debe52b524f554e44",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "ROUNDTRIP",
+        "signatures": [
+            {
+                "signature": "2ac37051824f2f637960976cfada9f760d71f3dba85a2e5b8a30bf30fcc25ed119bc51551b0220cd1ccdf10624cb23b4adc24b20d900d4fe4870db3ea5715a03",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "ROUND",
+        "signatures": [
+            {
+                "signature": "2e2ea6126c593fae2a111f70565b905a4a96960e41cf7a08a759013bfa4ce0455965650db26fd00251387d29a8c99ef39d1e869e7421eb3cfebb96451e5b9f07",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "8003505b8fe9613cd2f654c1c5c3b098f1521530bdb975de76819b2542b68ff94849277406ab4b8088e58093f43907df8fbe973a8c90596e6352649a98e46f07",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a050678678200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Recycle your Tokens and NFTs",
+        "signatures": [
+            {
+                "signature": "a0fa02f060e8ec9bbfaaa8655b7b0d478a21921163dde3cb2f07c67ec17d192710ff9835decde0062a1deac4b31ce58f057df800526a91fc3b62675409b6b200",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
