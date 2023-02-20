@@ -11,21 +11,21 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Chosen Coin",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "769963d1529c8a627c5a5920a265f0c4504dbcf5ea7c2fb8349a121a82204959ed0532a48d1b2b79559d6ec7f059ec2a8c677dd8dd9169311995af2e0a2bee0b",
+                "signature": "a634d46922421f65afa4980a8aeca39a11c2c9f355534e8fbd46196088a28e25dbf23157b98290309f5948a19101a4a9a8e14bfc48c63949957beb509b3f0202",
                 "publicKey": "df6644efd04896b8f14fb1d3ed9c132f930ed3c75ba5e2b07260e3c99a6eace9"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 1,
-        "value": "CHOSEN",
+        "sequenceNumber": 2,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "8057a128ba683366e4f72fa9f0e9c96046613c4cf3bb7cc62d88c6f22b1b66f6eed6a7a3f681d3b49c5ed542cb34dbf4258de06e92a6f4ee2251c105156a6e0f",
+                "signature": "9939dd9d51458bdc5703c438f90b06775052ca9e195af3c1120c267fb5b092c11b88b19073ebe86989a6d6d0f8905f13394569be4fbd6df98dccfef3a48cc001",
                 "publicKey": "df6644efd04896b8f14fb1d3ed9c132f930ed3c75ba5e2b07260e3c99a6eace9"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The Chosen Coin is an  asset local to the Chosen Homes Network.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "139279112b0cc6e18da71d6c9e849862fe781676ee787b1182f80dfcec7ec832818eaba0afd10b9446b63bb3535d5d05e71e52a48ef73bbf219336bb3b602b01",
+                "signature": "fa23c2fb0a5c67859af1d17e30e45695a41c57226f5dac77dfae85bd929680fa57d310b346a8a95ef67df298344b5c3bc5d81d5697a45827140f4a5a8c2b3e0f",
                 "publicKey": "df6644efd04896b8f14fb1d3ed9c132f930ed3c75ba5e2b07260e3c99a6eace9"
             }
         ]
