@@ -1,0 +1,54 @@
+{
+    "policy": "82018201828200581c8951811836adb0253f2f3fea641d6d330fb90055fb4f02c6be435ace82051a08a424d6",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "d7470b6d0581fab82c38d25c776899115fe391e1b0aac30ac037688d8fc7765a",
+                "signature": "5005485bff5cac2d68f87e55bbc83efd739146d64cc6e6f69dcae5a149f55160d3ef54ff3f2d04dcbaf4ba6d206fe265298a61cbf96d054d0169b7415d544f05"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "$invada"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "d7470b6d0581fab82c38d25c776899115fe391e1b0aac30ac037688d8fc7765a",
+                "signature": "fa6827657c1dea197b0205f2f80343c108eb294bc2d26320902352d853dffbb5397a056e70331a4bf1579512f89c5930e6542a2c1aa0909f37c12839d9bff906"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://adainvadaz.com/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "d7470b6d0581fab82c38d25c776899115fe391e1b0aac30ac037688d8fc7765a",
+                "signature": "8ae36c2fc183d41a63fc674dc1940646cf167f7e1e2b289f698365aa58846d8cb3a12dde1955e1b28bfb7ebc05aa10c9ddcd04165b12f47127361d642f0a080d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "$Invada is the utility token fuelling the Invadaz ecosystem."
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "d7470b6d0581fab82c38d25c776899115fe391e1b0aac30ac037688d8fc7765a",
+                "signature": "fb0385f3e1855ebd861c8adf1e269a1e1af2414289028c9a8bda73f7e537bd418f27f5377b66284b4f843d319ce11a9b8cfaad45da4faf6bd3b8a7e19b964609"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "$invada"
+    },
+    "subject": "c448753e6dac6d4d3508e47f636122c715e3c8575955ae77307b305f696e76616461",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "d7470b6d0581fab82c38d25c776899115fe391e1b0aac30ac037688d8fc7765a",
+                "signature": "5cd6198d2b4dd0234c1cbb6c423b24b58e4a7a782955d5ba1d3809347b9b1cb1d40675cc333327f63b710512aed0fe991d69c4aabf19cf7ec7db114cbfbf2b0c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
