@@ -7,10 +7,6 @@
             {
                 "signature": "e880c4520a17f1dd91288e99b5dadafbdb164917d0ca46f1749fa9a7072a4e897acc9a66f58538198cc077330302256dbaf57c197ddd9ca0e8e1bf2da7ee7a0d",
                 "publicKey": "998657db5f4a77f4bdd64f4c2c4f15dba3b135a57c4afbdc90c2739b73086e8d"
-            },
-            {
-                "signature": "e880c4520a17f1dd91288e99b5dadafbdb164917d0ca46f1749fa9a7072a4e897acc9a66f58538198cc077330302256dbaf57c197ddd9ca0e8e1bf2da7ee7a0d",
-                "publicKey": "998657db5f4a77f4bdd64f4c2c4f15dba3b135a57c4afbdc90c2739b73086e8d"
             }
         ]
     },
@@ -18,10 +14,6 @@
         "sequenceNumber": 0,
         "value": "BLUES",
         "signatures": [
-            {
-                "signature": "9f02fa8c871de807ca768dddd4add0a9fab24ab5f28cb9f22c0c6bc76a293e04d60f1c387a0312f67d3fe30adffe9b0aac9ac75a5404a3a27010c26326585704",
-                "publicKey": "998657db5f4a77f4bdd64f4c2c4f15dba3b135a57c4afbdc90c2739b73086e8d"
-            },
             {
                 "signature": "9f02fa8c871de807ca768dddd4add0a9fab24ab5f28cb9f22c0c6bc76a293e04d60f1c387a0312f67d3fe30adffe9b0aac9ac75a5404a3a27010c26326585704",
                 "publicKey": "998657db5f4a77f4bdd64f4c2c4f15dba3b135a57c4afbdc90c2739b73086e8d"
@@ -35,10 +27,6 @@
             {
                 "signature": "142cd63d9233de8dae7b813a5f94d6148459eb39a68460f8e2fe5fc16a7a6fec55079a50b4053b1a9258c17dbd4d119a5089f6fd48df5a9176f91ed19eed2c01",
                 "publicKey": "998657db5f4a77f4bdd64f4c2c4f15dba3b135a57c4afbdc90c2739b73086e8d"
-            },
-            {
-                "signature": "142cd63d9233de8dae7b813a5f94d6148459eb39a68460f8e2fe5fc16a7a6fec55079a50b4053b1a9258c17dbd4d119a5089f6fd48df5a9176f91ed19eed2c01",
-                "publicKey": "998657db5f4a77f4bdd64f4c2c4f15dba3b135a57c4afbdc90c2739b73086e8d"
             }
         ]
     },
@@ -46,10 +34,6 @@
         "sequenceNumber": 0,
         "value": 6,
         "signatures": [
-            {
-                "signature": "307b09a8f1e6ebd33cf3d3f527beed0cd3712d8c71f4fb3e5d64c5d04d4c9122fc62603bcc496bb8c3abbc329b9aaf6962540450e4efd6da063a6922eb1b4c06",
-                "publicKey": "998657db5f4a77f4bdd64f4c2c4f15dba3b135a57c4afbdc90c2739b73086e8d"
-            },
             {
                 "signature": "307b09a8f1e6ebd33cf3d3f527beed0cd3712d8c71f4fb3e5d64c5d04d4c9122fc62603bcc496bb8c3abbc329b9aaf6962540450e4efd6da063a6922eb1b4c06",
                 "publicKey": "998657db5f4a77f4bdd64f4c2c4f15dba3b135a57c4afbdc90c2739b73086e8d"
@@ -70,10 +54,6 @@
         "sequenceNumber": 0,
         "value": "Blueshift is a decentralized exchange and a new-generation crypto asset management protocol based on liquidity portfolios.",
         "signatures": [
-            {
-                "signature": "257b61748560a0d56973bffe5660ab05ebd083f9a8db6ad754189aecb04cd720a4f0a1702e95f6d5d6cd250ac914e4c0c44b2124a1e80f5217cd5cdf431ba80c",
-                "publicKey": "998657db5f4a77f4bdd64f4c2c4f15dba3b135a57c4afbdc90c2739b73086e8d"
-            },
             {
                 "signature": "257b61748560a0d56973bffe5660ab05ebd083f9a8db6ad754189aecb04cd720a4f0a1702e95f6d5d6cd250ac914e4c0c44b2124a1e80f5217cd5cdf431ba80c",
                 "publicKey": "998657db5f4a77f4bdd64f4c2c4f15dba3b135a57c4afbdc90c2739b73086e8d"
