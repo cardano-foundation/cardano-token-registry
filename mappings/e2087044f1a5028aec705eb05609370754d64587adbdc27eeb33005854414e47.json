@@ -3,11 +3,11 @@
         "signatures": [
             {
                 "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
-                "signature": "e827188b14d69357ad63ccaae61c2029095c305971a50a84b7bec2a20e049c10dbd5f34d924402e6635e014796a145288c726045c42eb6d18d8351b8a2013b07"
+                "signature": "865b33b7f369655f0b32e183cb74006a353c80f4dd66f98a75cf3419522f4192337d7446958a859a9e07579670ad909d213c8d745d357f19bab25e6915121304"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Tangent"
+        "sequenceNumber": 1,
+        "value": "VOID"
     },
     "url": {
         "signatures": [
@@ -23,11 +23,11 @@
         "signatures": [
             {
                 "publicKey": "6d502d3d6245685ff97ed3198d4be176d684e22adae18d87726519a11d89cff2",
-                "signature": "1913b7bf1cee51b097cd04ed03f8a20956c3f41321a0a6a8433099b6fcfffb9f8cb2bc51a8f74eb1583d38dff82498906cc75324828cb010eb08f4752c2aca01"
+                "signature": "783a31b3138ca50c02f628ce05f6488ea69bc92605e7334638ee777927c677deba40c650660d9cc2ef81c6cdd83d64614f0838273763f9985020837e76eaf60b"
             }
         ],
-        "sequenceNumber": 1,
-        "value": "Tangent is a launchpad and farming platform for innovative NFTs backed by real world assets, and guided by the Tangent DAO. TANG is the governance token of Tangent."
+        "sequenceNumber": 2,
+        "value": "VOID"
     },
     "logo": {
         "signatures": [
