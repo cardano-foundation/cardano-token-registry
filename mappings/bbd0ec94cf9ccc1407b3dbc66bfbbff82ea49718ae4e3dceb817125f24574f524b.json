@@ -1,0 +1,44 @@
+{
+    "policy": "82008201818200581c9f83d9c104583286f723879b0e251ced080488de964d579fc51bdace",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "9017625a69cb65f42c29cbcbdad7cfeecbfd5cac9de2c32b802e8d030260776b",
+                "signature": "8fb19d50920aff4d9e90fb5d5e6998d3f55e68d41aafea29119c1ebf6bf4fbbc5a1030700fbdba9434abd5476bdc80a74eb1eb405c379cb4e271224fb2206f08"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "WORK"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "9017625a69cb65f42c29cbcbdad7cfeecbfd5cac9de2c32b802e8d030260776b",
+                "signature": "1cf7391c21be13cee31d0cc9b8364718f7d4c0e6c1f067826581e712d8874872231f4b044574b16813193cc89db21369301b11760c191c2c41c8e29ba4864605"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://workingdead.io"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "9017625a69cb65f42c29cbcbdad7cfeecbfd5cac9de2c32b802e8d030260776b",
+                "signature": "26123364717541e18a5dd7592e7ee2745ab870990705de50ef3bcfa1667f4980d6bf4b4abdba9a9bd5c2297b4e794cd44ff9e9e14ffb2dfbd72df186ac21f608"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for The Working Dead"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "9017625a69cb65f42c29cbcbdad7cfeecbfd5cac9de2c32b802e8d030260776b",
+                "signature": "0d4ce667eab17d0ba8c6f718f345b7d275d7b04b2e53a7881aca2eda9739b7f2e947633ccca3c3b03e6d0d0b8ee4a84fecfb3739f6f2e1307e0da8af3bd60201"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "WORK"
+    },
+    "subject": "bbd0ec94cf9ccc1407b3dbc66bfbbff82ea49718ae4e3dceb817125f24574f524b"
+}
