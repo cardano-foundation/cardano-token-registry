@@ -68,7 +68,7 @@ jobs:
           awk '{print $2}' "HEAD.diff" | sort \
             | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass location: {}" || { echo "FAIL location: {}"; touch fail-location; }'
           awk '{print $2}' "HEAD.diff" | sort \
-            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[[:xdigit:]]*\.json$ ]] && echo "pass is hex: {}" || { echo "FAIL is hex: {}"; touch fail-subject-is-hex; }'
+            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[0-9a-f]*\.json$ ]] && echo "pass is hex: {}" || { echo "FAIL is hex: {}"; touch fail-subject-is-hex; }'
           awk '{print $2}' "HEAD.diff" | sort \
             | xargs -I{} bash -c 'FNAME={}; FLENGTH=${#FNAME}; if (( $FLENGTH % 2 )); then echo "FAIL length: $FNAME"; touch fail-subject-length; else echo "pass length: $FNAME"; fi'
           echo
