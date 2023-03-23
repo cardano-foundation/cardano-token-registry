@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "ROUNDTRIP",
+        "sequenceNumber": 1,
+        "value": "cEUR",
         "signatures": [
             {
-                "signature": "7dceffebd99e4e404b87d2e55d19254d1c18220485b09e6e39a6663beca478a157f67c2c370d4fee269aeba45a3bccec856f1522332eef7216a4ec4708748d04",
+                "signature": "59b3262ee01a7020d29a2b361034f3aa5adbd5a4e13a4aadb77a21cd782cbc583b4281b710b9b4061fae8e96148fe52ef27659ba1abfd1118abc1c89577c4a09",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
