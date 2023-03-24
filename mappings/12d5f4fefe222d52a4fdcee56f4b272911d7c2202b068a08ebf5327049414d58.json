@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "4008c5f99098d2300bc6ce29d49aae7c3aeaafa9883491b8e8c845b73f9e896f",
+                "signature": "2a0f3818c51a7f36882bc2e48ddd5c585923ad9eac6b82d6727e401b6b99c313518b7e614648bcb0181cb8c82c83bb6057c36d10c137bf2a5217352906ac070a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "IAMX"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "4008c5f99098d2300bc6ce29d49aae7c3aeaafa9883491b8e8c845b73f9e896f",
+                "signature": "e3e981b07185a643d1a898845a78fea49d4d10ff8ab7a3873a53e01c7a27f55884596965f47e021185bc71bbbed912283067c58887ef2e70b3b9425dc1e6290d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://iamx.id"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "4008c5f99098d2300bc6ce29d49aae7c3aeaafa9883491b8e8c845b73f9e896f",
+                "signature": "6bc566b6c316af19bb4d5dbe4f21b6fb23f3f91337b50b1253b2ea9f9b0b390c1c664dfbedb84f2e0fd787b08def3e6856a152dc5d0900e28558698f4f429703"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "IAMX Identity Token"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "4008c5f99098d2300bc6ce29d49aae7c3aeaafa9883491b8e8c845b73f9e896f",
+                "signature": "4fda5da93a0b4a1e25a124fbc6d0189f77afe3ca79dad7e6bfa0d1f1f3be016382bd7ecc93dc2a1414249ab4a708739f6ef4a8794a7359bbbca1eda779a45b0c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "IAMX"
+    },
+    "subject": "12d5f4fefe222d52a4fdcee56f4b272911d7c2202b068a08ebf5327049414d58"
+}

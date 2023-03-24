@@ -1,25 +1,42 @@
 name: CI
 on:
   # Trigger on open, synchronize or reopen PR activity against the default base branch
-  pull_request:
+  pull_request_target:
     branches: [ "master" ]
 jobs:
+  approve: # Pre-approval step
+    runs-on: ubuntu-latest
+    steps:
+    - name: Approve
+      run: echo For security reasons, all pull requests need to be approved first before running any automated CI.
+
   Validate-Metadata:
     runs-on: ubuntu-latest
     steps:
       # Checkout both this pull request and the master branch
       - name: Checkout pull request
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v3
         with:
+          ref: ${{ github.event.pull_request.head.sha }}
           path: pull-request
 
       - name: Checkout base branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           ref: master
           path: master
 
+      - name: Checkout ledger na list
+        uses: actions/checkout@v3
+        with:
+          repository: 'LedgerHQ/app-cardano'
+          ref: develop
+          path: ledger
+
       - name: Validate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
         run: |
           # shellcheck disable=SC2016
           # Debug:
@@ -36,25 +53,37 @@ jobs:
           echo "Obtaining PR file change diff:"
           echo "BASE: ${BASE}"
           echo
-          git --no-pager diff --name-status origin/"${BASE}" HEAD > "HEAD.diff"
+          # git --no-pager diff --name-status origin/"${BASE}" HEAD > "HEAD.diff"
+          gh api \
+            -H "Accept: application/vnd.github+json" \
+            /repos/cardano-foundation/cardano-token-registry/pulls/${PR}/files \
+            | jq --raw-output -c '.[] | [.status, .filename] | @csv' | sed $'s/,/\t/g; s/\"//g; s/added/A/g; s/modified/M/g; s/removed/D/g; s/renamed/R/g; s/copied/C/g; s/changed/T/g; s/unchanged/U/g' \
+            > "HEAD.diff"
           cat "HEAD.diff"
           echo
 
-          rm -f fail-location fail-filename || :
-          echo "Validating all changed PR files are in the ${LOCATION} directory:"
+          rm -f fail-location fail-filename fail-subject-is-hex fail-subject-length || :
+          echo "Validating all changed PR files are in the ${LOCATION} directory and are hex and are valid length filenames:"
           echo
           awk '{print $2}' "HEAD.diff" | sort \
-            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass: {}" || { echo "FAIL: {}"; touch fail-location; }'
+            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass location: {}" || { echo "FAIL location: {}"; touch fail-location; }'
+          awk '{print $2}' "HEAD.diff" | sort \
+            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[0-9a-f]*\.json$ ]] && echo "pass is hex: {}" || { echo "FAIL is hex: {}"; touch fail-subject-is-hex; }'
+          awk '{print $2}' "HEAD.diff" | sort \
+            | xargs -I{} bash -c 'FNAME={}; FLENGTH=${#FNAME}; if (( $FLENGTH % 2 )); then echo "FAIL length: $FNAME"; touch fail-subject-length; else echo "pass length: $FNAME"; fi'
           echo
 
           [ -f "fail-location" ] && echo "ABORTING: File change location validation failed"
           [ -f "fail-filename" ] && echo "ABORTING: File name validation failed"
-          [ -f "fail-location" ] || [ -f "fail-filename" ] && exit 1
+          [ -f "fail-subject-is-hex" ] && echo "ABORTING: Subject-is-hex validation failed"
+          [ -f "fail-subject-length" ] && echo "ABORTING: Subject-length validation failed"
+          # [ -f "fail-location" ] || [ -f "fail-filename" ] || [ -f "fail-subject-is-hex" ] && exit 1
+          [ -f "fail-location" ] || [ -f "fail-filename" ] || [ -f "fail-subject-is-hex" ] || [ -f "fail-subject-length" ] && exit 1
 
           popd
           echo "Obtaining the latest metadata GitHub PR validation tool:"
-          echo "curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.metadata-validator-github-tarball.x86_64-linux/latest/download/1/metadata-validator-github.tar.gz"
-          curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.metadata-validator-github-tarball.x86_64-linux/latest/download/1/metadata-validator-github.tar.gz
+          echo "curl -sLO https://github.com/input-output-hk/offchain-metadata-tools/releases/download/v0.4.0.0/metadata-validator-github.tar.gz"
+          curl -sLO https://github.com/input-output-hk/offchain-metadata-tools/releases/download/v0.4.0.0/metadata-validator-github.tar.gz
           echo
 
           echo "Extracting the latest metadata GitHub PR validation tool:"
@@ -67,9 +96,9 @@ jobs:
           ./metadata-validator-github "${GITHUB_REPOSITORY_OWNER}" "$(cat "${GITHUB_EVENT_PATH}" | jq -r '.repository.name')" "${{ github.event.number }}" --expect-branch "${BASE}" --no-auth
           echo
 
-          echo "Obtaining the latest metadata validation tool:"
-          echo "curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.token-metadata-creator-tarball.x86_64-linux/latest/download/1/token-metadata-creator.tar.gz"
-          curl -sLO https://hydra.iohk.io/job/Cardano/offchain-metadata-tools/musl64.token-metadata-creator-tarball.x86_64-linux/latest/download/1/token-metadata-creator.tar.gz
+          echo "Obtaining the latest metadata creator tool:"
+          echo "curl -sLO https://github.com/input-output-hk/offchain-metadata-tools/releases/download/v0.4.0.0/token-metadata-creator.tar.gz"
+          curl -sLO https://github.com/input-output-hk/offchain-metadata-tools/releases/download/v0.4.0.0/token-metadata-creator.tar.gz
           echo
 
           echo "Extracting the latest metadata validation tool:"
@@ -82,3 +111,87 @@ jobs:
           awk '/^M/ {print $2}' "pull-request/HEAD.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 master/$2 pull-request/$2" && $1 master/$2 pull-request/$2' -- "$VALIDATOR"
           awk '/^A/ {print $2}' "pull-request/HEAD.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 pull-request/$2" && $1 pull-request/$2' -- "$VALIDATOR"
           echo
+
+      - name: Optional Check - LedgerX Top100
+        id: ledgerxcheck
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+        continue-on-error: true
+        run: |
+          # run over every file in the diff
+          # check if the subject (filename - .json) is in the ledger file called 'top100JsonList_ep321-337.json
+          # if so output a warning that there is further catuiousness needed (or so)
+          export BASE="master"
+          export LOCATION="mappings"
+
+          pushd pull-request
+          echo "Fetching base branch '${BASE}':"
+          git fetch origin ${BASE} --depth=1
+          echo
+
+          echo "Obtaining PR file change diff:"
+          echo "BASE: ${BASE}"
+          echo
+          # git --no-pager diff --name-status origin/"${BASE}" HEAD > "HEAD.diff"
+          gh api \
+            -H "Accept: application/vnd.github+json" \
+            /repos/cardano-foundation/cardano-token-registry/pulls/${PR}/files \
+            | jq --raw-output -c '.[] | [.status, .filename] | @csv' | sed $'s/,/\t/g; s/\"//g; s/added/A/g; s/modified/M/g; s/removed/D/g; s/renamed/R/g; s/copied/C/g; s/changed/T/g; s/unchanged/U/g' \
+            > "HEAD.diff"
+          cat "HEAD.diff"
+          echo
+
+          rm -f fail-location fail-filename || :
+          echo "Validating if files are in LedgerX token list:"
+          echo
+          awk '{print $2}' "HEAD.diff" | sort | awk 'match($0, /mappings\/[0-9a-f]+\.json/) { print substr( $0, RSTART+9, RLENGTH-14 )}' \
+              | xargs -I{} bash -c 'if grep -q "{}" "../ledger/tokenRegistry/top100JsonList_ep321-337.json"; then echo "::warning file=mappings/{}.json::Subject {} is part of LedgerX Top 100 token list"; echo "status=failure" >> $GITHUB_OUTPUT; else echo "Subject {} not on LedgerX token list"; echo "status=success" >> $GITHUB_OUTPUT; fi'
+          echo
+
+      - name: Optional Check - Has been minted on mainnet
+        id: ismainnetassetcheck
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+          BLOCKFROST_PROJECT_ID: ${{ secrets.BLOCKFROST_PROJECT_ID }}
+        run: |
+          # Get the policyid from the file (or determine the asset id)
+          # if it is smart contract based and policyid is not avail...ignore it
+          # call blockfrost to check if that asset already exists
+          # output a warning on this step if it does not exist
+          export BASE="master"
+          export LOCATION="mappings"
+
+          pushd pull-request
+          echo "Fetching base branch '${BASE}':"
+          git fetch origin ${BASE} --depth=1
+          echo
+
+          echo "Obtaining PR file change diff:"
+          echo "BASE: ${BASE}"
+          echo
+          # git --no-pager diff --name-status origin/"${BASE}" HEAD > "HEAD.diff"
+          gh api \
+            -H "Accept: application/vnd.github+json" \
+            /repos/cardano-foundation/cardano-token-registry/pulls/${PR}/files \
+            | jq --raw-output -c '.[] | [.status, .filename] | @csv' | sed $'s/,/\t/g; s/\"//g; s/added/A/g; s/modified/M/g; s/removed/D/g; s/renamed/R/g; s/copied/C/g; s/changed/T/g; s/unchanged/U/g' \
+            > "HEAD.diff"
+          cat "HEAD.diff"
+          echo
+
+          rm -f fail-location fail-filename || :
+          echo "Validating if asset has been minted on mainnet already:"
+          echo "status=success" >> $GITHUB_OUTPUT
+          echo
+          awk '{print $2}' "HEAD.diff" | sort | awk 'match($0, /mappings\/[0-9a-f]+\.json/) { print substr( $0, RSTART+9, RLENGTH-14 )}' \
+            | while read policy; do echo "Checking subject ${policy} with policy id ${policy:0:56}"; if [ $(curl -w '%{http_code}' -s -H "project_id: ${BLOCKFROST_PROJECT_ID}" -q -o /dev/null https://cardano-mainnet.blockfrost.io/api/v0/assets/policy/${policy:0:56}) = "200" ]; \
+            then echo "Assets with policy id ${policy:0:56} have been minted on mainnet."; else echo "::warning file=mappings/${policy}.json::No assets with policy id ${policy:0:56} have ever been minted on mainnet."; echo "status=failure" >> $GITHUB_OUTPUT; fi; curl -w '%{http_code}' -s -H "project_id: ${BLOCKFROST_PROJECT_ID}" -q -o /dev/null https://cardano-mainnet.blockfrost.io/api/v0/assets/policy/${policy:0:56}; done
+          echo
+            
+      - name: Check optional validation outcome
+        if: steps.ledgerxcheck.outputs.status == 'failure' || steps.ismainnetassetcheck.outputs.status == 'failure'
+        run: |
+          echo "There were errors during the optional validation steps. Please check the according logs."
+          exit 1

@@ -1,0 +1,44 @@
+{
+    "subject": "6df63e2fdde8b2c3b3396265b0cc824aa4fb999396b1c154280f6b0c",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "qDJED",
+        "signatures": [
+            {
+                "signature": "83408907dffb01db86b5cef1a799e845a935170ef573609add1ecbdb0c8f2d77302104173848d565b9f0f223e60c3142d1f1e93f5ae5d812952a2bd6eacf0a01",
+                "publicKey": "d44aa229a3bb85393dda213962ce26b6a10ffaec4ee485f3fa1e170e2b2995cb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "qDJED",
+        "signatures": [
+            {
+                "signature": "6334959b5b9fcb5f233faf232f948bd00e6169096324d9f9a685b367ff7b634ca4ad96743cf248da770d55a02dbef1d56c6c51aece5e2a67c71c7e2b478da804",
+                "publicKey": "d44aa229a3bb85393dda213962ce26b6a10ffaec4ee485f3fa1e170e2b2995cb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "7c044ee578f2f65b9c5e8f6baadf9c713b2c9c6db71c1cfb492091ed066fa627c3263b6f278e9f1e1a76c1d46a12d1d55b216386b0678d54f3fa8962c641e00a",
+                "publicKey": "d44aa229a3bb85393dda213962ce26b6a10ffaec4ee485f3fa1e170e2b2995cb"
+            }
+        ]
+    },
+    "policy": null,
+    "description": {
+        "sequenceNumber": 0,
+        "value": "qDJED is an interest bearing token minted upon deposit into the Liqwid DJED market and burned when redeemed. The underlying DJED is loaned out to borrowers through the Liqwid protocol.",
+        "signatures": [
+            {
+                "signature": "72d0e8df29347536ab0db01d280195a6df37b6ba5e89be13aa401fe37260cf956f407f04cb73734c4c6344b27aeeccc9700784f14defa43911a7795a3fa8520f",
+                "publicKey": "d44aa229a3bb85393dda213962ce26b6a10ffaec4ee485f3fa1e170e2b2995cb"
+            }
+        ]
+    }
+}
