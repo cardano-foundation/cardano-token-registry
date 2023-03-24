@@ -24,11 +24,11 @@
         "signatures": [
             {
                 "publicKey": "ad850db1cd2929b28492e192a42848343314460b427ac35f2e868973ed81af90",
-                "signature": "7157dc96ec42b6128caa43804433e2b27d652267b0b3a7382461db80cb1fe52aac97a2cb695e62892ebc7a8f2e3655e47e9b9bd3356c6e74e4e46554c353270f"
+                "signature": "1384abda4f6d6d965a6c98224d71a8e7a4ff7071080d4d1bd33563af9d9bbe6f4171fbdb884083c74ddf8f3e3962b766714edd820d821d884e1ae4b95086f004"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Meme coin on Cardano blockchain to honor Charles Hoskinson"
+        "sequenceNumber": 1,
+        "value": "Charly token is a royal coin on Cardano blockchain to honour Charles Hoskinson. Charly is a growing royal community through helping each other."
     },
     "logo": {
         "signatures": [
