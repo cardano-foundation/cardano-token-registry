@@ -24,10 +24,10 @@
         "signatures": [
             {
                 "publicKey": "7b2e9754181a2b8f9dd8a19c90c5ee8e8378ce362fd47c20b637b25dc163a2ae",
-                "signature": "3b5bd3d49727140de2e70bc713262d3806859c4752c897a17ab33454cecbab6f0533face94d917f1731f1ee6a0098e07a6929dd545c708c76a5e44e8eb5b630c"
+                "signature": "a0696d2179b35a386d279b6acfc00b6444cf77edcd0258516114fe81855a005f4b62516797cc0aaa6944b33f76318cd788978a2b6966002eb56db44f5d8a8f0f"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "Comic Coin is Cryptoverse Comics' utility token"
     },
     "ticker": {
