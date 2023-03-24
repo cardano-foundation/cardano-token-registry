@@ -4,10 +4,10 @@
         "signatures": [
             {
                 "publicKey": "d7470b6d0581fab82c38d25c776899115fe391e1b0aac30ac037688d8fc7765a",
-                "signature": "0e8c962f7472901ec23cf14d56cfe4043ef58b85716493aa07f4cece7777940eba8f28c87a7580a0c2c9209b92f54af87c3f13966c1d35618be93e2874bc6c02"
+                "signature": "afedd64f44cedd9600fd8dc217b346bc45f1621ac6d1c54ffabd5c01c5fb5594eedde78424e1d725ea937c0ece7eb28790a0269934ac197641185aa302bfe30e"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "invada"
     },
     "url": {
@@ -44,10 +44,10 @@
         "signatures": [
             {
                 "publicKey": "d7470b6d0581fab82c38d25c776899115fe391e1b0aac30ac037688d8fc7765a",
-                "signature": "d6677ddccaf2d2e5ec4d02fa554d68073dfb879a7a2523ac8ceec3351c3cb92bc3779679e8151c02754319fd184e532e8e2478e128f3d24ab69b6fffea479e0b"
+                "signature": "ef23b91acd931b33c527436655703a26429967d0ae4be58e46d07e969cdc9dccaa4d7199b82595e9ca829d59817e2906c6a34914276f69e26be803aea269f704"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "invada"
     },
     "subject": "c448753e6dac6d4d3508e47f636122c715e3c8575955ae77307b305f696e76616461",
