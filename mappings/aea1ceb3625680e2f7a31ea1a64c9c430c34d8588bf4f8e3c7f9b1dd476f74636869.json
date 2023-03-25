@@ -2,10 +2,10 @@
     "subject": "aea1ceb3625680e2f7a31ea1a64c9c430c34d8588bf4f8e3c7f9b1dd476f74636869",
     "url": {
         "sequenceNumber": 2,
-        "value": "https://finalfantasy.fandom.com/wiki/Gil",
+        "value": "https://www.adagotchi.io/",
         "signatures": [
             {
-                "signature": "468efa6b7377d67e69a4d6a10201429b45c63bfec465ab5415e479633f26c748b8b14a1e1f202ca97778e22a20804756b4bc31874cc394ce0ff906d0f40bd90d",
+                "signature": "06ac7ee8fb9abf27677bdd7411548c44499dc0675940f97e1a5497401a4886dfcfe5491b15d16763a9f0cc424b88d48b0bee5d805bd2c7976df345f64b49d908",
                 "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
             }
         ]
@@ -22,10 +22,10 @@
     },
     "ticker": {
         "sequenceNumber": 2,
-        "value": "TKN",
+        "value": "GTCHI",
         "signatures": [
             {
-                "signature": "8c51f5041c903364937ea217ece88e749f0d883ce41097117b37399660276e9de46000965f2fcd454f2188d4c133e497f3e46e841f19c911f9c34de9ade01304",
+                "signature": "b7945cda7448d8503d2dd0ba38450eac803fc54031f940a16d23bc10cb6005b49ba0d7345fb16867695c0d4833d1be309a9946a0753ddb95d292cec7763ef90c",
                 "publicKey": "2ce301692fa0b390350e4d78859bca203264b032b4962dc20a3c46972bf85c9e"
             }
         ]
