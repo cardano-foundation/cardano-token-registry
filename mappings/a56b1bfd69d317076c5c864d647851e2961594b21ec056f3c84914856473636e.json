@@ -4,11 +4,11 @@
         "signatures": [
             {
                 "publicKey": "7b2e9754181a2b8f9dd8a19c90c5ee8e8378ce362fd47c20b637b25dc163a2ae",
-                "signature": "7f0c90232ad78f13dd36efb59be7ffdcd4341aad0796066f2f71c1721b8393618cf9df55fb32a523b2e0bb7eaea5c9957e4331119829088fe0167f4090d44c00"
+                "signature": "2b7ff7d972976d67f0d7baa994021e9f5c3fb915e85037b7c7015d11ddebda910a23a1ae482dbf4b37346929d41f22118402011f53e00254c86105ba5be28500"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "DSCN"
+        "sequenceNumber": 1,
+        "value": "Comic Coin"
     },
     "url": {
         "signatures": [
@@ -24,21 +24,21 @@
         "signatures": [
             {
                 "publicKey": "7b2e9754181a2b8f9dd8a19c90c5ee8e8378ce362fd47c20b637b25dc163a2ae",
-                "signature": "f7e116faf2a6a44a4bbd25b10c7026df50152ec23bc3c165fffef72004303aca06fb71d799d19a8200c5b65713a13cf0b7bcf2b1dcd1279fd8e8e2b9f3523905"
+                "signature": "a0696d2179b35a386d279b6acfc00b6444cf77edcd0258516114fe81855a005f4b62516797cc0aaa6944b33f76318cd788978a2b6966002eb56db44f5d8a8f0f"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Cryptoverse Comics' utility token is the Data Stream Credit Note"
+        "sequenceNumber": 1,
+        "value": "Comic Coin is Cryptoverse Comics' utility token"
     },
     "ticker": {
         "signatures": [
             {
                 "publicKey": "7b2e9754181a2b8f9dd8a19c90c5ee8e8378ce362fd47c20b637b25dc163a2ae",
-                "signature": "ec105a2259eb5c2792655f6b3d9d02cb37594e9c22d291a61cd864f734c04a3e02a4f4c1115a9fdf3d1a5272777f5bd46964df970b84da46158519e89fe27a09"
+                "signature": "b2b1a5bce7099b20203374eba2ff786179680eb1ad705a8d454d8a6ec35e3c606009305847e5cc43c60cef1c503b5849ec0e6003bb56d88e7db5d05f4b418801"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "DSCN"
+        "sequenceNumber": 1,
+        "value": "CMC"
     },
     "subject": "a56b1bfd69d317076c5c864d647851e2961594b21ec056f3c84914856473636e",
     "decimals": {
