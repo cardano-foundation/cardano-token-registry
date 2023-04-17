@@ -21,11 +21,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": 0,
         "signatures": [
             {
-                "signature": "883aefc25db5e8089b246c46901227ef9ef53542cdbe25b40c900de2cd838d9ae37334c59a9a7ecfe44a423c615361d5936fcf702188b166ba9bed1c31035209",
+                "signature": "af33f1319eb746dea95eeae70832554029587503ac8a0c5eb699a01fbac54b23e169e684d702b8fac7b65e955a7d6e773538874ace949d38c2540337fabeb504",
                 "publicKey": "f02820dba3e198d834c5269cdb9656ef4e382693e99f69aa131a113abc398e18"
             }
         ]
@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 2,
-        "value": "Chips is a mobile game that attempts to curb crime, violence, and poverty by incentivizing positive decisions. Crumb is an in-game monetary asset used for buying and selling (This token can only be minted via gameplay and will be used to pay users for completing tasks in game) in Chips.",
+        "sequenceNumber": 0,
+        "value": "CRUMB is the in-game monetary asset for Chips, a mobile game that incentivizes po sitive decisions and promotes social equality. As an in-game currency,  is used to buy and sell items within the Chips Metaverse.",
         "signatures": [
             {
-                "signature": "2a833c51e299ad9895b819898b19068534a937afb9c24604f96204ba46e5186c8b2a518328ec57bbce554946b8968e749f74210a5cca67064238a5477f833705",
+                "signature": "da7068dd3a88988d16f32211651c8ef70601fe57d48e1cc454492e7378f07f76e2b4f5db07b3227b870468ef49e7b1fde05aac2babb4008de5538071e459a907",
                 "publicKey": "f02820dba3e198d834c5269cdb9656ef4e382693e99f69aa131a113abc398e18"
             }
         ]
