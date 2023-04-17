@@ -1,0 +1,44 @@
+{
+    "subject": "d2f6eb37450a3d568de93d623e69bd0ba1238daacc883d75736abd23527374457267565465737432",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://soft.rosen.tech",
+        "signatures": [
+            {
+                "signature": "2c68db065378c94c675f51228034c1bf47399041e349c6745283731360f63285e8967aa2192ca29f4f179eb8c17ab8d8131323bf64527ba70e5044068c04e103",
+                "publicKey": "8740390e6e0e09919fc0cf4e6e78ba0ad2630c0e5bdb76f7242038f0aaa88522"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Rst Erg V Test2",
+        "signatures": [
+            {
+                "signature": "bd9e9eb21cd2cb1d849a4d071efdc0a3a494324fd0992401767c271064fc2812918af97be7ef7ea608d8379576feffdb22c26aae4afa9a48d0151e84e2256504",
+                "publicKey": "8740390e6e0e09919fc0cf4e6e78ba0ad2630c0e5bdb76f7242038f0aaa88522"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 9,
+        "signatures": [
+            {
+                "signature": "8c9fdc4349f62cbab814c1b56cba41f088fc9b95c0a45cc1ebb461eaab05ffb4fc1d3c434bc1661fbe3f8c2905d2db864451dfdb2619a8d4f4a235eceface700",
+                "publicKey": "8740390e6e0e09919fc0cf4e6e78ba0ad2630c0e5bdb76f7242038f0aaa88522"
+            }
+        ]
+    },
+    "policy": "82008200581c0b41381ef343d617c930855860b8898ffea02edf1f764ce55629bea3",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Rosen Wrapped Ergo On public soft lunch",
+        "signatures": [
+            {
+                "signature": "8da1fe618942823ff0d50775ddb6a3ba5c17747d54f7a4829553e5159d9dcde7448e82dd712f933e2abd43ea2815ebb01b145ef50fc5c5fce7e69bf171e47209",
+                "publicKey": "8740390e6e0e09919fc0cf4e6e78ba0ad2630c0e5bdb76f7242038f0aaa88522"
+            }
+        ]
+    }
+}
