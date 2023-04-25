@@ -1,9 +1,13 @@
 {
     "subject": "6df63e2fdde8b2c3b3396265b0cc824aa4fb999396b1c154280f6b0c",
     "name": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "qDJED",
         "signatures": [
+            {
+                "signature": "647e0575b85561761c780ab73d96d56ff0e373b66e56680da52c00cfe378700ca1cc5c5525b66c391c25e2a4c6d014ebf5ba585bfc20159a7c4db8b299fa520c",
+                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
+            },
             {
                 "signature": "d5e18296a20cde6286593e2ae05b71f103e8e9859da1a6415ff074b78f8a6304b22fe848c3ec8f20d25a46fb9e20d37db3112dd3620ef172be7fe9ea33e52f02",
                 "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
@@ -11,9 +15,13 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "qDJED",
         "signatures": [
+            {
+                "signature": "d0e5054f0b80b61ae0d16cc3f66188515197ad60b2307b27abbc5f1c221d3ab837b6cf6382e68a2adfa7ffb1d46229519450a75b93d44bf4dd9402dd90795703",
+                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
+            },
             {
                 "signature": "41a55c74e83f0202d2780f40eaa7d7afd269334c3e7e1b076d4592e79a438cbc63a6d73134c201759a821f3a1f2930a6211cafcfdb1316ae9bfa90db75763203",
                 "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
@@ -21,9 +29,13 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 6,
         "signatures": [
+            {
+                "signature": "375047da64cb2329e0ac3586442337d817bdd46ee9815b656439b215ad274c13cd63cd0b710b41ded891697418ee8057dce05fc0c7a1790bc880497931a56a08",
+                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
+            },
             {
                 "signature": "f482f04b502f0fdb1ff7104e94d57bf6f53a9aeab743cbaca499ac1995f663739698dc609f50a7f92cfa4111d784f1f28a788c8ad26ca6e06bd42f79b900ee09",
                 "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
@@ -37,13 +49,21 @@
             {
                 "signature": "07f7f583e21c89f65c21dd353cd61cc5ea80cf9bc31318dd628bd6c1c29a2785552d210e2065c3a0d5bdcf3fd6b72c9d525e1c4f3ecaa1acce768c9762e2da0a",
                 "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
+            },
+            {
+                "signature": "07f7f583e21c89f65c21dd353cd61cc5ea80cf9bc31318dd628bd6c1c29a2785552d210e2065c3a0d5bdcf3fd6b72c9d525e1c4f3ecaa1acce768c9762e2da0a",
+                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
             }
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "qDJED is an interest bearing token minted upon deposit into the Liqwid DJED market and burned when redeemed. The underlying DJED is loaned out to borrowers through the Liqwid protocol.",
         "signatures": [
+            {
+                "signature": "8e03abcfc48ddfe1d8ac7ea829d5bf0b7b8aafeee6a97305d05ab419c1bcedc84e84b6d06704d8b7257d77fb9adea9fdfa157f8b20fffd3c130f25f27614bf07",
+                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
+            },
             {
                 "signature": "cba13a3d14143660f0c301ae139be87e02c7d9938bc4aaf1bd0c29028d919e931df074ea92842b539b0a8ec3ae59b21b387ef58be0ada5d09d7c9f8f41e9e20f",
                 "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
