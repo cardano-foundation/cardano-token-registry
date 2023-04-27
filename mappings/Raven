@@ -1,0 +1,25 @@
+{
+   76240bee6f2c218982eaff87af43a121803f7eccf5abf7cc0319cdfd: {
+      Raven: {
+         description: "Ride the wave of excitement with Raven.",
+         files: [
+            {
+               mediaType: "image/png",
+               name: "Raven",
+               src: "ipfs://QmTTCYBzjUpB94K9unriFPWx3NG8phUNTSWdwHq3hNtLAD"
+            }
+         ],
+         image: "ipfs://QmTTCYBzjUpB94K9unriFPWx3NG8phUNTSWdwHq3hNtLAD",
+         mediaType: "image/png",
+         minting: {
+            blockchain: "cardano",
+            mintedBeforeSlotNumber: 91073040,
+            type: "time-lock-policy"
+         },
+         name: "Raven",
+         symbol: "Raven",
+         tokenType: "token",
+         totalSupply: 4200000000
+      }
+   },
+}
