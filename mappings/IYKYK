@@ -1,0 +1,26 @@
+{
+   b72d8fc2823d89e0705648a832ebb7c589c2fa343345f32d620d45ab: {
+      IYKYK: {
+         description: "If you know you know https://twitter.com/IYKYK_Cradano",
+         files: [
+            {
+               mediaType: "image/png",
+               name: "IYKYK",
+               src: "ipfs://QmVFeJemDVgPFzE3hdvwvDx5XJgD9LB8VsigUSA6916ct7"
+            }
+         ],
+         image: "ipfs://QmVFeJemDVgPFzE3hdvwvDx5XJgD9LB8VsigUSA6916ct7",
+         mediaType: "image/png",
+         minting: {
+            blockchain: "cardano",
+            mintedBeforeSlotNumber: 90961917,
+            type: "time-lock-policy"
+         },
+         name: "IYKYK",
+         symbol: "IYKYK",
+         tokenType: "token",
+         totalSupply: 7389758975
+      }
+   },
+   version: "1.0"
+}
