@@ -1,7 +1,7 @@
 {
    631fcb5de9b499574b5555f6372551afa2b4765b642927f56d317571: {
       PEPE: {
-         description: "First PEPE coins on Cardano" https://twitter.com/pepe_cardano,
+         description: "First PEPE coins on Cardano https://twitter.com/pepe_cardano",
          files: [
             {
                mediaType: "image/png",
