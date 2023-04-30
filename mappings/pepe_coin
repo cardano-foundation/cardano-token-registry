@@ -1,0 +1,26 @@
+{
+   631fcb5de9b499574b5555f6372551afa2b4765b642927f56d317571: {
+      PEPE: {
+         description: "First PEPE coins on Cardano",
+         files: [
+            {
+               mediaType: "image/png",
+               name: "PEPE",
+               src: "ipfs://QmcvitwQG97H5X7369YJhTUukkT31qda56nncd4jwwm59x"
+            }
+         ],
+         image: "ipfs://QmcvitwQG97H5X7369YJhTUukkT31qda56nncd4jwwm59x",
+         mediaType: "image/png",
+         minting: {
+            blockchain: "cardano",
+            mintedBeforeSlotNumber: 78088925,
+            type: "time-lock-policy"
+         },
+         name: "PEPE COINS",
+         symbol: "PEPE",
+         tokenType: "token",
+         totalSupply: 12345678910
+      }
+   },
+   version: "1.0"
+}
