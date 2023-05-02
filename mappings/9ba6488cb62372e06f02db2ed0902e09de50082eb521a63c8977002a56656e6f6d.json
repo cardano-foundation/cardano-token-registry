@@ -1,5 +1,15 @@
 {
     "subject": "9ba6488cb62372e06f02db2ed0902e09de50082eb521a63c8977002a56656e6f6d",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://platypuscyberpunks.com/",
+        "signatures": [
+            {
+                "signature": "ee86dfae7b3379b4fde559998c234778903bb2afa3071b20423eeb07ed4e1e8ee8cd1863e1505efc1f9dd8eed7395fc853f832ad9e24568b90eed99c6e286804",
+                "publicKey": "31dc85d3e6b5129dda8d083218c2d90aeaa4897da9577031963e8a7ea04344d1"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "Venom",
@@ -16,6 +26,16 @@
         "signatures": [
             {
                 "signature": "465c22c5ca771b8ac76c6cd782a3bfd2f97caf658229277529e2aa1c0ce5f80fbf83d0bf21963245d0c126f1b014923560a05af9c37139c2e6080fc5913f9704",
+                "publicKey": "31dc85d3e6b5129dda8d083218c2d90aeaa4897da9577031963e8a7ea04344d1"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 4,
+        "signatures": [
+            {
+                "signature": "98e842dc09a170e1d120399ec3a722faf3c02243a06e7043ae46dc30fdc431bf30c1cb9b1aef0fd9ea451ad146dfebb1fdbeebda1effc7bd2f4c0d3572cf1a00",
                 "publicKey": "31dc85d3e6b5129dda8d083218c2d90aeaa4897da9577031963e8a7ea04344d1"
             }
         ]
