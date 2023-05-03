@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Mynth Token",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "9d5e20cf0739c4b9750dc50a29ac0b9424187ea2beffc6c1053e9838a3fa5fa76c85c6a0ae267b65b929bf398ef0f8535ff1bf3d9558797fe90db13dc726610d",
+                "signature": "dda75001180fb3287d196132b678be8acb3e72f22946a438c38363cf12b1ce6da6bcf0ab0c751d5f63b1dd2613df7418dc28670814f427b5c1adf056aad25506",
                 "publicKey": "8313d34038754be5863ae8a8254359b636e3a7a86fc4c64fcfb25976084ae6be"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Mynth enables cross-chain swaps for Cardano",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "a6b383807d9488b7d263a2ab45baf3fb903d3ac58b089950046d350913d0cf4e6862c65ef85531cd35f29a3a3723c81615ee1fe682740f7e599ec05ae772d205",
+                "signature": "d70d4fdfc61c95c923d69986cf7d75ac003c95cdd6560670c3baafe6259cd0b53d9618842c1eafcdfee442ab2fb13a13a9d6e3bca2f3b79534a598475d6bde08",
                 "publicKey": "8313d34038754be5863ae8a8254359b636e3a7a86fc4c64fcfb25976084ae6be"
             }
         ]
