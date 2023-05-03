@@ -12,7 +12,7 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "$ADUH",
+        "value": "ADUH",
         "signatures": [
             {
                 "signature": "e77cf70ec90a5ce06acab49936d4f59254fc1b72f6fca30ab3eb50aab3ffce4d868548fb9479eb868bd3dc4f605e2d66c06308c4750c8aaa6c00218ee2fe3c07",
@@ -22,7 +22,7 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "$ADUH",
+        "value": "ADUH",
         "signatures": [
             {
                 "signature": "6a4bffd12e1bbb480e0bd4e98a39174f96e79f0eda64856eac4f5a129625c8f23ce0c79de3a4fb3d3ed75f13498fbe24e352537ee3a14f4356ceaebdfca12305",
