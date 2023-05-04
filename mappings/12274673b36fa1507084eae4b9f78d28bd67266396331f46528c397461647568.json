@@ -11,21 +11,21 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "$ADUH",
+        "sequenceNumber": 1,
+        "value": "ADUH",
         "signatures": [
             {
-                "signature": "49460c39feddb3a7fd0f84f0f7cad97c7fbf71f11dc786a487a471d6ea142a3002f93bb0c5272bc3befd82432ed62832fabdf2b4a772fd906e3c35e4b32b2400",
+                "signature": "ee9157408e389704555a291219ac0d2ec1456d56c44f5484923a82dcf856cb7264640011fe80c7938e17aad754fcff00da2f1eecf26072406db481670032230c",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "$ADUH",
+        "sequenceNumber": 1,
+        "value": "ADUH",
         "signatures": [
             {
-                "signature": "4a1cc45526b547b7a2a9af171177b8e8b67bdb5f771b38000fcd0e5e96e05afb17a030c59c7fb19d1354a6d5e5608e42d183a8965e98fbbf6498a106a87a8d00",
+                "signature": "5344c113f932c3ac0614ae1b2162813e6037f791d4050a14b31198f6e75386128fd00abd926bfcbf37e985b74945d17f509b28e8021a36eb94f91b2847480e0e",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
