@@ -30,6 +30,16 @@
             }
         ]
     },
+    "decimals": {
+        "sequenceNumber": 1,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "9215502da0550f726488e04937cfe5cfca309624950279e9a0a31b7f532daa23ad4c2963a11da0e282dcb112f34604ca2db5ebe099e2dd07e8788cebc1344504",
+                "publicKey": "fc583d799d79abb5829187bdf833147e942db3c360590b683a61d5fbe0e00ba4"
+            }
+        ]
+    },
     "policy": "82018201828200581c4a40954228b2ecd92d9c7c7ae00a666ba2d81af70cf77349e0ccd58b82051a03e0d92d",
     "logo": {
         "sequenceNumber": 0,
