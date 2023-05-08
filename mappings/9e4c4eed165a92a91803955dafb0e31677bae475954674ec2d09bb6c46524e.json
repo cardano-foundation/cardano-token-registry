@@ -12,10 +12,10 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "FRN",
+        "value": "Foreon Network",
         "signatures": [
             {
-                "signature": "bf7beda617af347628711339a646b1790e232b9127790a4c301daf0069e8e0cd73c9866ab9f203c857fcee37f4dddb75dc201cfbb6c1058e6ec8851eb627f103",
+                "signature": "265002afaf8e5b792bcb4dd29a257b4bd9a6d31375dabef0f72c69d2f6c65d0bed415e346622e6f52e81553264dd4e15929313b59fc5790e5624e89e18cf5a0d",
                 "publicKey": "2832baf378ec972796684777515b01bc4f4b2c9c209ae84fc0ff5171e336f554"
             }
         ]
