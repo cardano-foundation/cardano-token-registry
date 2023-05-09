@@ -11,31 +11,31 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "$kekw",
+        "sequenceNumber": 1,
+        "value": "kekw",
         "signatures": [
             {
-                "signature": "464b95a406f3631481d2cdf172157dc8ec67d005a0ad241780e072604c705ae456b2b59d6eb9f73da33cfc44971f2b5ad744abaafdfd330f7246ac7ae5e5eb06",
+                "signature": "b6cff69ff494ebb934b726923ebc0ecfeeb007a92ce26c21f136d82300b9974a9030c953e0e83ec6d1401e2007719e88c9d44816b68a47e7349380fa18835b01",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "$kekw",
+        "sequenceNumber": 1,
+        "value": "kekw",
         "signatures": [
             {
-                "signature": "bb1a1cf45b20a4a55c38e156adcb2d39ab1739c0707a7bd17890c69f51e9dc8b5ebadf0f2751c4ba1acd9aa1a01d9da8c2715f354084d9608285fd82b855270e",
+                "signature": "ed6068cfee391f92fe490d911c668a10f5b63d4bcc581e05cb5117a0da2b3e15e169e56595a3a6a3f2e0062ee92192b4035c2fc0679a779cb525215715559e0c",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "85360808f5dee2f01e6bb9b49d1619fb084150c9b795674aedcd6b3816de7b4b6f932819eb69ad57c66f56517f0637e75399d1a8195e5a6c5586e88d6132b509",
+                "signature": "cfa76b5811297d3ce244aafdfb3848c3112cccfe0b6b48249361163f493b3d6ac3896a17ad89df82ff3c1195d3801ead1caa72c0c7bed57c21ee2162f0772000",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Official $kekw of Cardano",
+        "sequenceNumber": 1,
+        "value": "Official kekw coin of Cardano",
         "signatures": [
             {
-                "signature": "4e8f78bef4a6f16c4e8b9ea6cf4866ffe8a3c93989ae271d0565bb37ea5ffffaa5a1436ec907b2787d5af826fe87f8f0c4bedd1b3280eb3d0b707e0885d0f604",
+                "signature": "b303b23b214372f9f6edf93f405740da9efeef550f8aa2aee79cc6a56b84ca46d03872c27418ffb13d9f1f7c8e6288a2e3fc5a93e18ddb0993098f37abf88c00",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
