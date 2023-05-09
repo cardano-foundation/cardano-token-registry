@@ -1,0 +1,44 @@
+{
+    "subject": "50d19231351559c916c07a17d7ed0b403154f1eae8296ccd2477817643414745",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "CAGE meme token",
+        "signatures": [
+            {
+                "signature": "f82048595dc479ebf1ffc0c331d7a4ffefd3e90524e0129ecd3b263c14bf63a2347946f415bdca4dcb5091064fd486d6828a94aa26f78642140cbf2039c9ad01",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CAGE",
+        "signatures": [
+            {
+                "signature": "596bd235dfed59f7f20f287d872ac90367238cad79f7233e25db37213b45c798e2d6d24a3df90dd06edf80bf5336b17ee15fec359b5ea3d758c644c40afb3704",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "895b812050d7fda3a8df975d35500b46a8ce50a2687258d8a7128b8cefc912e0ea2fa7a39f6ab449d2d2c2c4090865cff12dcc0c2283e05e9ccb1c9ef9304602",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a057ad2ad8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Nicolas CAGE meme token with absolutely zero utility.",
+        "signatures": [
+            {
+                "signature": "57099b06ae5d8f80b7e4aa3810dc685d603e7fcb71f2862e5fc379858aecb652a9f321e07b264fe3a2f8870001cf53b415bdde3f8376245e7d66756eb3a64204",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
