@@ -14,11 +14,11 @@
         "signatures": [
             {
                 "publicKey": "b091acb869aebe47415ab00628e88e4c3b0cfc0704826d9f0dd34a4dc6326a76",
-                "signature": "03b24a3f02685807eefe9609344da77ebadbad6909293909fc954a07444d78fa9449f1047fe17ca12337d84e331f28343b60c22726f7a3f7554945b7fd732407"
+                "signature": "046150fb61fb830f41530b384c7eb2a9e0ba33d0b9bfce717c01fd3da6ff8a45f37443b68dc23024df9f4210bdd435d309462c497302a3b042cca760a351dc09"
             }
         ],
         "sequenceNumber": 0,
-        "value": "$PIPI - Cardano\\'s favorite pizza"
+        "value": "$PIPI - Cardano's favorite pizza"
     },
     "logo": {
         "signatures": [
