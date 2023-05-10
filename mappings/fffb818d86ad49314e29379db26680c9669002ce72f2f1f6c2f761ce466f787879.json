@@ -1,0 +1,23 @@
+{
+    "subject": "fffb818d86ad49314e29379db26680c9669002ce72f2f1f6c2f761ce466f787879",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Foxxy",
+        "signatures": [
+            {
+                "signature": "59fdd4ca6f8d11fadd361af8ce47b5c8643d39692cd08b91674a73b803be97a4b00dea43f80d319cc29a58d155ea8b87f6016de147ae849b4cc8018c88943b06",
+                "publicKey": "70f0d052c8c92d7584a2ebcf64cdfc2bbaa18e62be6f46bb350740eb1f317904"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Combines meme coins and innovative blockchain tech!",
+        "signatures": [
+            {
+                "signature": "d40e94138478594bf2e9f9830617672618d711e89a8fa5cb58a674721e0668f2137c83f0b1a2fa3730a2c37db99aa0147d51ffaf6ab652d074dad8bc72dbb208",
+                "publicKey": "70f0d052c8c92d7584a2ebcf64cdfc2bbaa18e62be6f46bb350740eb1f317904"
+            }
+        ]
+    }
+}
