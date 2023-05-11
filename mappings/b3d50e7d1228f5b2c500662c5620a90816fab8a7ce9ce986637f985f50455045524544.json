@@ -1,0 +1,23 @@
+{
+    "subject": "b3d50e7d1228f5b2c500662c5620a90816fab8a7ce9ce986637f985f50455045524544",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "PEPERED",
+        "signatures": [
+            {
+                "signature": "14d972d53532241f2c71b0c2d0b1fe8f573fe77367080770ee79ef5e85a171e948629d3e87398b28872facbbee13aa774f739bb8a74ca543aa3308459e7bac0f",
+                "publicKey": "06fee48393a42b1572369e835a4ff04949a594550001265bf7809042e195dbbd"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Pepe Red is a memecoin inspired by the iconic Pepe meme.",
+        "signatures": [
+            {
+                "signature": "7acf37ac3b37cba21679a7946795b785017a811518807d80d23197f7f7a724492ccb63872cdab9a4c5f0bce1864690c580bc2e97b82280c23b5144469872fa04",
+                "publicKey": "06fee48393a42b1572369e835a4ff04949a594550001265bf7809042e195dbbd"
+            }
+        ]
+    }
+}
