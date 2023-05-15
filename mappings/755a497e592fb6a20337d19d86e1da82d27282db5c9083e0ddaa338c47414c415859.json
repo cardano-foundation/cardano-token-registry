@@ -1,0 +1,54 @@
+{
+    "subject": "755a497e592fb6a20337d19d86e1da82d27282db5c9083e0ddaa338c47414c415859",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://registry.cardano-native-token.com/create/nupnn77hhc00000",
+        "signatures": [
+            {
+                "signature": "c00e683c20a804738b3cb3efef3f95eed15478ade3ed31d466b8dd9dfabb970af4c1b30ab9d9e4dea2b45e8d67ffc08f27a9148173ea19aac742e9f55ad51e01",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Galaxy",
+        "signatures": [
+            {
+                "signature": "23ef1153b7f7a67a8d1b47d5dae792f52df9387cc244bb22f35a46e508dd796989928a345dcd0e68d0ed09bc92589ea1efccd4ed057f085a219bf56140abee04",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "GALAXY",
+        "signatures": [
+            {
+                "signature": "25e6a6102bb766b0cc3aca909941a5a22a9d62944aae8db02eadbdcf19c26c2d41f63ab03a18525f0320ee2d437ad6c2171252a262d7edbc6c18313501a9200b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 10,
+        "signatures": [
+            {
+                "signature": "1898d7cbdb9bf28dc7580ac771c6486516ef82252aa90a34ad270cd0bb469c0cb9ce8bc9bc9311c20346d690df2a3cbc331c41160115be214e72377ad6663f08",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a05840be68200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Get ready to explore Moon, Mars even Galaxies",
+        "signatures": [
+            {
+                "signature": "6170b56018b846175f0ecb05f83b20ab34ed66a8953f974ad346bf46fdb0d493577388c298e467019ee27396315af68816622fe6762f2ac0e9e4275900764d0d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
