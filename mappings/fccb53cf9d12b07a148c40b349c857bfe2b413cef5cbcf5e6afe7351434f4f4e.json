@@ -2,7 +2,7 @@
     "subject": "fccb53cf9d12b07a148c40b349c857bfe2b413cef5cbcf5e6afe7351434f4f4e",
     "name": {
         "sequenceNumber": 0,
-        "value": "COON Coin",
+        "value": "RCCN Coin",
         "signatures": [
             {
                 "signature": "c9d0d43139e96e0fe566807e584b6fcbc9b1be2d23b8ccb7e6cef46d22b4643c5d668fa1b095450b49dee7206ff5fc7d30c5b29e40a86744b1720a0b9063c500",
@@ -12,7 +12,7 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "COON",
+        "value": "RCCN",
         "signatures": [
             {
                 "signature": "7275af58cd1dd9173f383b48d2d6968bc28699c5a9e60444d019ef28da3ca8bbddf9173e3567ebe3619985c76b2acdb151812eb5bced1f475db293d876d64907",
