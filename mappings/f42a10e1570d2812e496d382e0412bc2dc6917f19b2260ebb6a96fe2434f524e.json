@@ -1,7 +1,7 @@
 {
     "subject": "f42a10e1570d2812e496d382e0412bc2dc6917f19b2260ebb6a96fe2434f524e",
     "url": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "https://corncoin.wtf",
         "signatures": [
             {
@@ -12,7 +12,7 @@
     },
     "name": {
         "sequenceNumber": 1,
-        "value": "CORN",
+        "value": "$CORN",
         "signatures": [
             {
                 "signature": "adbfb7a967f91f4095166d041a31e66b5f15b0c2a2869acc2603f67091ddd4565e045ad283f040e39f5d2487099216cb2a3882bac9b1965a12841dad50c0c306",
@@ -21,7 +21,7 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": "CORN",
         "signatures": [
             {
@@ -31,7 +31,7 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 0,
         "value": 0,
         "signatures": [
             {
