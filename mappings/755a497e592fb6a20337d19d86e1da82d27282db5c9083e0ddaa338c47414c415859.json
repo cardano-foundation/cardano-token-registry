@@ -11,7 +11,7 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "Galaxy",
         "signatures": [
             {
@@ -21,7 +21,7 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "GALAXY",
         "signatures": [
             {
@@ -31,7 +31,7 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 10,
         "signatures": [
             {
@@ -42,7 +42,7 @@
     },
     "policy": "820182018282051a05840be68200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "Get ready to explore Moon, Mars even Galaxies",
         "signatures": [
             {
