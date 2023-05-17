@@ -11,8 +11,8 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "CORN",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
                 "signature": "4ab25e85a388f120b7b920956cefaf7ecb280c83021812fed5f4ce13b34aff3aff8c3643e3192e071f8025d9be95926c30186c497f25f3f0ccc456b26ffd130d",
@@ -52,8 +52,8 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Bringing the juice to Cardano.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
                 "signature": "1742c9577482216d336583505b17ee1eb44385de6cb9fb1c6152d2a9776b2cc60fdebb221d066136cb7cb3c2577352885cbd7a9ed6124bf67ac2e07e094a6602",
