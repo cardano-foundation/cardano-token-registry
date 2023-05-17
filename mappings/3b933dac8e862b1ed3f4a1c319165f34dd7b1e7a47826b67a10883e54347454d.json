@@ -2,30 +2,30 @@
     "subject": "3b933dac8e862b1ed3f4a1c319165f34dd7b1e7a47826b67a10883e54347454d",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://delete.com",
+        "value": "https://nothing.com",
         "signatures": [
             {
-                "signature": "c13913f76b271954db52c88ea4c8cf4ac17788fb0d0920d370b0b411cef8a0a792007a452718e0b348538344b6120d1f1393833c918e91b74982a95f0b740505",
+                "signature": "76d4c1c2c6d0433ab4ac9abe4bf55b292a217aafd7763b8e3e4252d2aa86fd903eaca10a7e31a4fca839295c3e8b2be2b5329060917ca822d7a0f84cd23b950c",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "name": {
         "sequenceNumber": 2,
-        "value": "xxxxx",
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "ca30318101547bbc33955572c3915d6ced8bb22e620c3859d69134d50c6d20c20c18c5a3442cab35469eb7b505fbd442921bc41212f046e52970693893989a06",
+                "signature": "d55ad949cab78df89d34d230fe9d89e163f5a36a1c2f19eba225a375c7cb660044b775b27b5d7ecfdc0a330fd4699d0c711e998956898bf907e5fd0ff0e0f001",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 2,
-        "value": "xxxxx",
+        "value": "OOLD",
         "signatures": [
             {
-                "signature": "011a66996186d2fb2d0da56d37286f38fc30d42b5a2a8939817d6ee7ec44e3ecc1581b54e484e92e2f0a9308ab6fa48bf33fcb9ec812eaf5f0c6c8d27d27e403",
+                "signature": "43a3efcf065693819d54ed1ecaec1acb76388c15d9bfc7f9954f0f4337c303e2892e9ce8cba9801a0cf5161be29f5fef875e7176ac1a34b85a33e492a4742106",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 2,
-        "value": "delete",
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "d809e2c820cd50aaa1cf22ebb8be72d488a20f1827fa1dc7f7fcd85c6ed069a323e67c93385e0a2d51ef995d4283b9ab8d161ce0185bedba88a965e291dc0506",
+                "signature": "d980761fc529011de09a5d77cbffcbe0f328930e673eeea2209ebfa904b3058893fffb8f24ef56444b106e3a681df94bd32e9da17c47fc768b6e1d9c3523870f",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
