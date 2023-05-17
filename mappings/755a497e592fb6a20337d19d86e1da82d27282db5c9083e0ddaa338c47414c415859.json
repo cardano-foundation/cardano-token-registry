@@ -1,11 +1,11 @@
 {
     "subject": "755a497e592fb6a20337d19d86e1da82d27282db5c9083e0ddaa338c47414c415859",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://registry.cardano-native-token.com/create/nupnn77hhc00000",
+        "sequenceNumber": 1,
+        "value": "https://twitter.com/GalaxyCardano",
         "signatures": [
             {
-                "signature": "c00e683c20a804738b3cb3efef3f95eed15478ade3ed31d466b8dd9dfabb970af4c1b30ab9d9e4dea2b45e8d67ffc08f27a9148173ea19aac742e9f55ad51e01",
+                "signature": "24317857b8f6f0951d5962c766acf367fed45c55ee0c9ed31daf250ed50459b054d88b445290edd2943695da770f9322f0c69b2d1cd20de4016790ff7033220b",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": 0,
         "signatures": [
             {
-                "signature": "7beddc142a1e064df13a89832219cab69720cef76db68eb4bb97e19e1a7bf85eac98e3ffda300797d314e09d9a6ba3734d10298e0cde43ef52ddb34e1d85440c",
+                "signature": "23d51afa8287952bcb7e619f711481029d215324782668c33cfd4b2a57e4ab57ea77f44c06c1dbad8495f04f6c556ba341f6cdc49e1cdca06e27f1b8ee6db10c",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
