@@ -1,7 +1,7 @@
 {
     "subject": "755a497e592fb6a20337d19d86e1da82d27282db5c9083e0ddaa338c47414c415859",
     "url": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "https://app.minswap.org/swap?currencySymbolA=&tokenNameA=&currencySymbolB=755a497e592fb6a20337d19d86e1da82d27282db5c9083e0ddaa338c&tokenNameB=47414c415859",
         "signatures": [
             {
