@@ -1,0 +1,54 @@
+{
+    "subject": "42672bab5075a5ec423a28134c17bab514c95af7721ce176f27c7ab36b696e6770657065",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://drive.google.com/file/d/14GZF7ja6pjx-EyPvqWsevDt-R-nPA7V2/view?usp=sharing",
+        "signatures": [
+            {
+                "signature": "44cc1cde6ef49a8ae2aa14fbe9df839f9bc863247dd9ff9e1cd0246d241479d9520e424fa7564451d0fecb5ca9166c67c4313e7f77b7315102b7abd197435106",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "kingpepe token",
+        "signatures": [
+            {
+                "signature": "5e6ff69c301b1ab711b32cb971867d07432f1347c2bfd388f49d6f0a4806be1308a8964bd97edbc88374254068bffed546cc7a274c5a90ed8fd78a69784b150a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "kingpepe",
+        "signatures": [
+            {
+                "signature": "aacce6c6297edc1fcd03bf317a5b6fa95ab11355418aced0ffa6c9adf21474c6f3904e7766e7857bf3742d731aa67cfea7b1c51b4d3634b2a61cc3facb92e209",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "d2d71dfcc7655bba3a4721f86e3f3889111e93ee0e8271d759ea31201ef59dc2b886538039b9b17f69d6b516326f236cdc116f00160e7b8ecde89db58d205407",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a057cc0a98200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "kingpepe coronation",
+        "signatures": [
+            {
+                "signature": "8769b1d7f1a947a4455a28328b4a15a015a0b6c934203c263dde70b4fb6916aa80406b841f11272ab1b28ef9fb12bb2577cfcd2efe7d365bf6cda9630408220a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
