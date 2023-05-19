@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 1,
-        "value": "Mynth enables cross-chain swaps that connect Cardano to the real world",
+        "value": "Mynth enables cross-chain swaps that connect Cardano to the real world, empowering users to make the most of Cardano and other blockchains.",
         "signatures": [
             {
-                "signature": "d72339bb845dc6c10df77dc95eb647b35850e608fb3fe7ec3241e33bcc9d3df85962fd3fe9691f8deaa56ddf51fa64bc58403f23f9cc10432fdc5c22e6b56a01",
+                "signature": "28677fdcf6916fe5fe30947254644b26c229b5e96cacc230f3df69fe6fdb5d3ec52c4e17ff4eb0b4b8305ada34fcb2dc26cb0bc3f8b123322dc7b7e71b82b109",
                 "publicKey": "8313d34038754be5863ae8a8254359b636e3a7a86fc4c64fcfb25976084ae6be"
             }
         ]
