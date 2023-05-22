@@ -1,0 +1,34 @@
+{
+    "policy": "82018201828200581c1e56378a042f6fe0c1be68c87430ac1ea6c7587c00a338b523b1837282051a09d99407",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "60f0f24f0560c0c2315ac72a60257d333c032db2a39e7725ab582fa20dab034a",
+                "signature": "b7bf240fa9f7043f4c68913f161d7c214ecfcd339c3ba93602cc0afad88c5c530eda86b04c688fa36224e9d43e21d7332b0601b7136c769a10f17a13ac0b6b0e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "IDOL"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "60f0f24f0560c0c2315ac72a60257d333c032db2a39e7725ab582fa20dab034a",
+                "signature": "70f859b27d78d7a825191e51543951fe0d5514bf3cd7399de1e7e1a29fcb72f47eaebea10f9d0cc1a089977389ca7ec31d72f9b495798ce5d588daee045cd406"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Influence token for False Idols."
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "60f0f24f0560c0c2315ac72a60257d333c032db2a39e7725ab582fa20dab034a",
+                "signature": "a899ad03365141fc09edbc22b721a4c1f7913e55afb016eac10ea72fe492fe70dbc86a1143396836b2ad42a48014936ef0aba38b1b6a55b3c755d9f19e8d1502"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "IDOL"
+    },
+    "subject": "fce30a7f7d16e48c69a7847ec908fe098a0efa0dbc99bad8e2aec15a69646f6c"
+}
