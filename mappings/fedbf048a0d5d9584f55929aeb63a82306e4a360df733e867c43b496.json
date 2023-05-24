@@ -1,0 +1,43 @@
+{
+    "subject": "fedbf048a0d5d9584f55929aeb63a82306e4a360df733e867c43b496",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid iUSD Liquidation",
+        "signatures": [
+            {
+                "signature": "c5502c4bfab3dd3563a0a2672d6f79989df4491175d04b27efb048bc2840fabb2e1dfe4a2a1ba974bc414f3d7e13de3e6c23d54928a258944ce65bca8d112701",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "iUSDLIQ",
+        "signatures": [
+            {
+                "signature": "89fd253996bfa1e5a6e8cf1960638dc38fc244f4fbfbd3ba5d053da3cd1465fb62395d452cd7090631dea00652cfa3dfe5a4ad658e178eebfacf8d38f0b93702",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "321911af8582179f75c8858a77720201702e6f8f7f756cea6eb23e405364189bb349e34f0e6bcb9f7cfdeb6df9665d3912cc64fae8305dd9c73bb9c37c56c603",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid iUSD market",
+        "signatures": [
+            {
+                "signature": "d7dbbdf235693f3fe0dccf1c28442f2c9f5c12286549101d768a4bdc289b5e9382e3036d8085b67a969d5dc598cda3b161e4a32e809b803ea4f016cb3db8320a",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    }
+}
