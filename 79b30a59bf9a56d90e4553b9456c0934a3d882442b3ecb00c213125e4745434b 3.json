@@ -1,0 +1,44 @@
+{
+    "subject": "79b30a59bf9a56d90e4553b9456c0934a3d882442b3ecb00c213125e4745434b",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "GECK",
+        "signatures": [
+            {
+                "signature": "d80f42aca1d2991e93f5b87f04c9f79d991b355e49f766512861880eec3c4c0ddda0792054df7e7a3699eb0d9050999f55200c18194ecbda4566d665f8befa08",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "GCK",
+        "signatures": [
+            {
+                "signature": "3146f164f093f730b99c4fb7e09b5e41ed9ea155177290a19fedf941bafc96e66d781a98a77a320c4af7330ed5c1bbe11c523119d5d873b2936b95e589bff30d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "4a49cab022406846834e69b490c448c11a60444dcc457a1795ce94398b335aa8b79d59983f05384e42138715ea5ebf5d7d47c43deb0c0b0ecf43fbe83e168402",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a0591c2a88200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "GECK - Climbing to the moon on Cardano",
+        "signatures": [
+            {
+                "signature": "ce45d53fa3b324599a45a4c71617c5344c269311e0485ba785bfb333bcb921d2df3a4092cd9ec13af94d50f67c7721f0f73f188f6cd6f87dce938885909fa10b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
