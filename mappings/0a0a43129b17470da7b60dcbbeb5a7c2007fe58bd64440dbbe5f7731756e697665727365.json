@@ -11,21 +11,21 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "One",
+        "sequenceNumber": 1,
+        "value": "ONE",
         "signatures": [
             {
-                "signature": "ba087cbdc4976de5bdd4a5377fcfd78d967c0a1e045116e6c276541d32843462f2e20f3ac7f166256fc5fe01b7c0685693a8c882a06da3016a031eb81b9dd50f",
+                "signature": "6293a37bb590625d81fb3e24d87ae32493f764c8b9f62a6889a95c7c0a3854112937bcbc62909babffc3cfa3903c6aad70711a7aaedb5e595258b68c4ce5d701",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "one",
+        "sequenceNumber": 1,
+        "value": "ONE",
         "signatures": [
             {
-                "signature": "08941891f4ba64d2294efa293ddfe59fe75b50b24ddc94ea99f11b45626edc5fc7017fe9608e7757a4e9a88fb992bb3844559627ec6fc8d447a72a3d15ca010c",
+                "signature": "7d2b9f99abd5c19f83c6fb203114895fa63c9347288e2806248fa9cad8949c55ccbafcaea520ecd5fadfd681301ce314fe6b2e57d8457d3e9d378da8c0090a0e",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Fundamental Cardano Token",
+        "sequenceNumber": 1,
+        "value": "Fundamental Cardano Token ㊗️",
         "signatures": [
             {
-                "signature": "34b8436ee9f1cf960c65bd75d1689f9fa72d3badb45e9a7897e5b93f6d5fa9916ef0def16524984fe1bf0bcc77edb18073f020d52edddcabe281a952d3e33a03",
+                "signature": "544efb470a4ce7e1852f4f42da10fd514381ec48c371775f59b9e6edf82244e89b485f4b6a22540693e86c006080293991dcbd31712e566d85d0b0a933217a03",
                 "publicKey": "d4fcefd0237d92a067d07d60335ebc7b2a3c2547ccae7b99a8bb42358b3f0fd4"
             }
         ]
