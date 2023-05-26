@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 6,
+        "sequenceNumber": 1,
+        "value": 0,
         "signatures": [
             {
-                "signature": "9916848b8d40b6a4f467c8e76159165c9cbc6c50cfc6cca87bb7c2fce8475f5d045e841278893c83d93896b8ceb2aba5828d7ac3222a12a2e564e8e73a0a1e05",
+                "signature": "fecfb9d1b2b3bdbe4274f8c9de77e0fed802eabbf6e97e504ee0beb502cffba94dd4dd55b2539e158c48b0b73c47bbc49efc73b9eaca7e24e553424487089c0d",
                 "publicKey": "042182d7c9aae6c51372fb54f84f6998146acbf746e42272e98278aefdf90e00"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The official token of Futurbnk",
+        "sequenceNumber": 1,
+        "value": "The official token of Futurbnk.io",
         "signatures": [
             {
-                "signature": "43093b6f2cfee90b0f763fff23f6635491523a780f01ed15e5288ba76a44fc3bf27acefd1d35e23490b817315d9473b0be01443f55765cc5f49e2c5104c88f03",
+                "signature": "b4006bd6cc601614cce53453b305a1db71e19cb34d7d06e7a21c92bc0497312bf045140b39d03b0f6830be4d94caee77063f92442b72cfb77339fc93b0a82b01",
                 "publicKey": "042182d7c9aae6c51372fb54f84f6998146acbf746e42272e98278aefdf90e00"
             }
         ]
