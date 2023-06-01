@@ -1,0 +1,54 @@
+{
+    "subject": "2caae8ae6ea9d44d502e17f708af52348a77c177d0d8ba262d02c0a65068456e6978",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://phenixcardano.com",
+        "signatures": [
+            {
+                "signature": "8afc1cd4fa2211db85feff1fdc6bc755225c2f62bcc02e0ec6e580c4f1e7223d542d6ce6ed223d28e5ae736efd1394fcc1ddbca74f34419249ff6c73f59ac70d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Phenix",
+        "signatures": [
+            {
+                "signature": "f31cd488cbbfcaf8ad5aa3a2ed527c341f51f0982951749f379faeb2f75c9754d68458b4cd9a22c6f5b209c379a9e14042bfeac669a656d900940a605f0e4209",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "PHE",
+        "signatures": [
+            {
+                "signature": "1b33cd058a4ad8869fb5b43ded8e718c359c2170aca3f885b72214afc2dc7e46ae30be339495ed92fbaaf002827ade94642570fefff768be8726022a2cda420c",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "f06145b53f41b7f801540ad6b1dd84153724c4684c24c9bc8ca1d5c47b2e48fa7e3c732b3492b18c175e9e0f7430f859c0d4b83a3a294c6d7f5195caa199dd05",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a059b53758200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "cardano phoenix",
+        "signatures": [
+            {
+                "signature": "c2776c03e65ae7fff9bda1d1b8295a25a14ce9e821c3a22c87624aadddc2ad67b4bd5093d174df945a867379c871da31a81ef84bb1f1c03a3305921c58f5ef0f",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
