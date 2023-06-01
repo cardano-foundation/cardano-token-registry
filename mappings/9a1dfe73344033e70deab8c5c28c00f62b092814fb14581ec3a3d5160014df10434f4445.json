@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "The official utility token of the ADA Empire. The  is in your hands!",
+        "value": "The official utility token of the ADA Empire. The $CODE is in your hands!",
         "signatures": [
             {
-                "signature": "4399450df7d3b6aead8d6c8332dd400f2bbbdbeb48b5c2b7fc7579d0f3d185a88e8cd6160b01702cd73d48e414eb3657471100dfb74faffc294ea9110ce4c501",
+                "signature": "af799566e626c8142450c0c360a767b15aba67b69bee46eb1315e6c82c68950510cc8f4ca93296691f2f2f0395f89feb3ca638be1610f79aed078dff196a2101",
                 "publicKey": "c498944a31b3a381d26a60bd4e6f92cfc45fd0b371256e84eefcb42a768ad4d0"
             }
         ]
