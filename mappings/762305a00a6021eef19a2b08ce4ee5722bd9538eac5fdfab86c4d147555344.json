@@ -1,0 +1,44 @@
+{
+    "subject": "762305a00a6021eef19a2b08ce4ee5722bd9538eac5fdfab86c4d147555344",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "US Dollar",
+        "signatures": [
+            {
+                "signature": "e5745e37ec7be529e72d1835f39d8321755a9a849b6d2df7b1b6b243fac7108ccaa29cc9773d58d2a882ab976de69b22797c8c1d53d52ae6a6888e73596ef80c",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "USD",
+        "signatures": [
+            {
+                "signature": "7acea258735bebae8750deec33a7a5fa7267cf7e3f91f7159d4fcd4c851107db3df2da854a89c5970f4dfb80e8adf00a91316f6cf357a0f629c761597f57ba08",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "122bcdba3231d74cddf271786a4c34b211572ac1e22e0fc493777f1b99d5056d6c3e46bc2a7e7a347642ae251862b7ff7e3d716465bc20ce252911a1ff95870b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a059b9f3d8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The shittiest shitcoin of them all",
+        "signatures": [
+            {
+                "signature": "b08e79ff16ed44d15381df6e9aebea54cb70a2047cb91dd52ad0dbbac78751138a01ecbbc8e18f5725331dab1185838271b5239ff77734cbc86670ad1b534904",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
