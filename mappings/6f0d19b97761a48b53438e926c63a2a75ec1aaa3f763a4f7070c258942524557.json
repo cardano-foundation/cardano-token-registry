@@ -21,21 +21,21 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "$BREW",
+        "sequenceNumber": 1,
+        "value": "BREW",
         "signatures": [
             {
-                "signature": "2f373d7ab7f81789e6ec1fb2526c1dc2e3d9121e279060e7b39abda683a1bdf25f1d0e47e5c554f9ca49cb25d6c1d95b96ba9fd259701d9699c6ec6d71c2ad01",
+                "signature": "4b875b4ce3cf18b00be88d77f4bda0bcf7040a6851246a639c877976d5b80c7ddb6e9557ad942639fdfd03a4f9353312e7774546db63d5408cfe5a9a744d4607",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "4573c6aed811fb81a54a5b1b64fd2718346b4ef90f455596dedc3eae561e4e35d2a7be7125d674f0369d78c879e2869329d2b0c9856f746246e0d531bb9b3f01",
+                "signature": "70f00ef87f68af42b2341780005b5ebe96be88d4cdcfca69796abe4101031b433ed41e42ea85e352f44de052f5daaa2fedeba8ab3cc3fbce0606d974979f5103",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Cardano Token for Coffee Fudbrew",
+        "sequenceNumber": 1,
+        "value": "Coffee token on the Cardano Blockchain",
         "signatures": [
             {
-                "signature": "afd23c8e2e37c4bea4b866f626357bdf696e1ad7e639e40456f6c531aa2121e7c79dda3faa67d902529763f259bc90e5f983993d2073de654e2ce880a2e0af0c",
+                "signature": "ef5e4c5626e2c52f55dad9e7da0f8b3b111e0bb8018c98eb74593a87b197e639cd54eceaf2593a577ed490ca66b7bf38a4a5f6e4bf1810b6fd76aef3b2173a01",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
