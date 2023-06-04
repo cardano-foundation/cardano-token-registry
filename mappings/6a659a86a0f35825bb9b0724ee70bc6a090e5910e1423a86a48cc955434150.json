@@ -1,15 +1,5 @@
 {
     "subject": "6a659a86a0f35825bb9b0724ee70bc6a090e5910e1423a86a48cc955434150",
-    "url": {"sequenceNumber": 0,
-         "value": "https://twitter.com/CapitalismADA?s=09",
-         "signatures": [
-            {
-                "signature":"67092623bea854b66284fdbe1f904c8a2c45d620f0bea7325beaab37dca52141862ba4ced2d8615e818a94193d82bfe2955f2d0ef5279de2014e4b6e793a130e",
-                "publicKey":"5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
-            }
-         ]
-
-    },
     "name": {
         "sequenceNumber": 0,
         "value": "CAPITALISM",
@@ -51,4 +41,4 @@
             }
         ]
     }
-}
+},
