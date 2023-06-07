@@ -1,0 +1,44 @@
+{
+    "subject": "3acbfba3d154f2a63ff76e1d10ff8aa256021093aa88082c0d911c3053636f7065",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "GemsScope",
+        "signatures": [
+            {
+                "signature": "de2fe173058dc6025ece1a3b4c0384228ac5bacc9d51a79fd4e3c743ffebda2cb13811e5a7a32225d196aeabe1384df6130f13d8505d49c718451042d6f0d008",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "Scope",
+        "signatures": [
+            {
+                "signature": "16cdf6b4cbd7566f547256b28575fff7a0790c20b3f8c345d33505e169264c1be9b89ff490a0d1b43e469863544395351a9f9eeb91bab3eef1d78b44ff944e08",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 3,
+        "signatures": [
+            {
+                "signature": "89bfc4e889d30f09b710a6fd6a3fc06571a8725533a6da4d197e00bcc1f6a92bc2b88be1b8f6e542b641088a907d3ac58f78b89c174541872bbb761804322b05",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a05a1a21e8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Official GemsScope token",
+        "signatures": [
+            {
+                "signature": "cfedf0cf259c96e00e4b78d13938d6e1e0eae25c5b263e32b3f7a79930b706b675fbdee06898c9f70baef205609c39d16c9c98dd390bd3fe228fb52eb2b90f00",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
