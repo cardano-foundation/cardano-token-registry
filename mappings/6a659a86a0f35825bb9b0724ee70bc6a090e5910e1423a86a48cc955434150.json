@@ -1,0 +1,44 @@
+{
+    "subject": "6a659a86a0f35825bb9b0724ee70bc6a090e5910e1423a86a48cc955434150",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "CAPITALISM",
+        "signatures": [
+            {
+                "signature": "71c011869d7d2834e1b6a79faddbf05ad1596bbe99afa3431bddf7abe02e3b70292aa70d8599c57e7c63909490fcfec09399951ef41b5c59df1d2a80afa2f804",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CAP",
+        "signatures": [
+            {
+                "signature": "7f38078b2f37e79cb4f8b97f745e5ae212605d76254e4cf7a5c1346f72d4bf3f0e25425fcd2ad3e0a5276e7e96bd69d2d1a74a667b7a51c0ddcd276b3e54d707",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "62092623baa854b66284fdba1f904c8a2c45d620f0bea7325beaab37dca52141862ba4ced2d8615e818a94193d82bfe2955f2d0ef5279de2014e4b6e793a130e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a059abc878200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "This is a memecoin with no financial value, created just for fun on the cardano blockchain under the slogan: \"Buy capitalism, who wouldn't want to? After all, even communist leaders live like capitalists. Buy capitalism for you too\"",
+        "signatures": [
+            {
+                "signature": "fcb72bb30b3bb87e14d4bc6d6305e1194e83c1a6af7d94782432605c2dc191cf50239a7a9ce123200ac3b4ad1279ca8452e4cc223219c961d386696555bc1505",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
