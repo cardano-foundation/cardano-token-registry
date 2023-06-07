@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "9e4b788a73dab197dbca6e09c0fdf4fe6a22205621dd3fe5977d0f81db7a7d54b5d19a6f95ad042b5f6f6d21ba2461a4854c0077ba1e7ddc9f448f11594a3701",
+                "signature": "1410d13d773333f0de02059ab5e106a77babed8e12353e0d5c91adb2603b6e41a37d9a55628bd9f5af3e68a226aa1952141939d0ae9deded23375cfe0517ca0f",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Meme token with mission \"sharing is caring\"",
+        "sequenceNumber": 1,
+        "value": "Life is short. Let's make something beautiful for others. \"sharing is caring\"",
         "signatures": [
             {
-                "signature": "2555b660d78aa3dd9ad32dc483464a96f096e7c7ae1373008dc9747d873f6db8c1bc3a2e066cb765c3bd451ea5a714c48097f4c893be6cd90d6f341a502d6f0b",
+                "signature": "9ff98cb9bc053dfbe6f7900248dd80a6dcff4a9931f102b6937240152c8771545553f56c075a59110789b2331c8b2fd72cf3161cd8889811c693b3cf40b93f05",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
