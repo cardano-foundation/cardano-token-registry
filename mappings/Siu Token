@@ -1,4 +1,0 @@
-$ cp /path-to-my-file/6041dce918cbdec4d303efc00d8940c3725328730cc0851aa6bedc46534955.json mappings/
-$ git add mappings/6041dce918cbdec4d303efc00d8940c3725328730cc0851aa6bedc46534955.json
-$ git commit -m "Siu Token"
-$ git push origin HEAD
