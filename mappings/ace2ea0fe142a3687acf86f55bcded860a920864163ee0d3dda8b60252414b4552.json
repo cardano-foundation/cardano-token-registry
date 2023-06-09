@@ -12,10 +12,10 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "Market Raker",
+        "value": "MarketRaker",
         "signatures": [
             {
-                "signature": "02691656d311629a2ff69f3af75f0135ee0ab1f20438d40738b2824e5bed5309fdb882d049750c6a8346f3b655f7985068c35f1d59ee1885b1661c4dcd65d20a",
+                "signature": "64f0cc4eddcd16550ce792a4830772be22a0eee2d1e76b3484144ff7edecfd6994ccec9b27c98f822bf374d55f156e50b8ab4229f4c0cb61ac7cff694510440a",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
