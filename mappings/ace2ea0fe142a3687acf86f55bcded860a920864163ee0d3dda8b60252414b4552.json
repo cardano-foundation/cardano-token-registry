@@ -15,7 +15,7 @@
         "value": "Market Raker",
         "signatures": [
             {
-                "signature": "3a80e3b3ad28bc144bbcbe8027ecdce647e6cdc8e13303cee6e156d33d2f878a6489d8ed369909197295b086b6266de8722b8f2bbce0002fbb2e56c6ec023105",
+                "signature": "02691656d311629a2ff69f3af75f0135ee0ab1f20438d40738b2824e5bed5309fdb882d049750c6a8346f3b655f7985068c35f1d59ee1885b1661c4dcd65d20a",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "MarketRaker is a cutting-edge AI trading tool designed to assist traders and investors in analyzing market trends and making informed investment decisions.",
+        "value": "MarketRaker is a cutting-edge trading tool designed to assist traders and investors in analyzing market trends and making informed investment decisions.",
         "signatures": [
             {
-                "signature": "f2cae7b44a92917de09c2df3b0798ff1c8142546171480079927b2581e4812262e7565e0724f26d39ff817134751a6a208a936564d766ac698faf244d8bebb0b",
+                "signature": "56198fbd9357425d20975155a6d02090aa6c39c382a13380b4121b07da2bbc681f37cd4cbc31059c7168b183548f833834d07c9174d37804c867a3e04fdeeb05",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
