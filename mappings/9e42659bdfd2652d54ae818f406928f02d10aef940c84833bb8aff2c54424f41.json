@@ -1,5 +1,15 @@
 {
     "subject": "9e42659bdfd2652d54ae818f406928f02d10aef940c84833bb8aff2c54424f41",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://tboacoinada.com",
+        "signatures": [
+            {
+                "signature": "3db0390c16913065d0232636346abadae676d707ab4576c8ae1f4f095acd9087896ff747f1e7a0fb2297e1d8bf3b18559161b2d838b0c9ae11487148bd91be05",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "Titanoboa",
@@ -21,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "ca7fe119f7b6943371e53e5157371c2a2b19ebaabfb30ed5e1139be2a2ba9ff1495275940ada432b57e7687206d78ef3a84d52be597092027abee34e762acd02",
+                "signature": "0b56b69bf092361d24eeb1bbfe283b445a5ab3ba6b2d2e65117a9f21f4f5f28887c0e926c2c822c625f190f29eeea092d442e564a1b24e56f918cff6b173d10e",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
