@@ -1,11 +1,11 @@
 {
     "subject": "401f734390bb03578000c28b7c69d818fce14de3caed59c8aaec08ff47494e4b4f",
     "url": {
-        "sequenceNumber": 1,
-        "value": "https://twitter.com/ginko_live",
+        "sequenceNumber": 2,
+        "value": "https://linktr.ee/ginko.live",
         "signatures": [
             {
-                "signature": "9a77649ea2ceda9e16e5c65b5c2f6fcc7c5a43ad242092a41c9990599726a1157e5e85967f52dc8d9c646215cb12213623153934c6096b415ba680a28df2e10a",
+                "signature": "9a9762a9d17a196d2ad31b52a5a0b6790ed14a3ade75b540f77d6071d6264f35151e91b20848de05f58e6131769951c73eb3aeeadf15bf0d0800edcb2b9ab40b",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": 0,
         "signatures": [
             {
-                "signature": "27e3f8cbc4f71bb61f4087263aae29021d1e71d57cf05e9865c731e67f72cfa3502927f2cb8a44c44d744fe0e35569dfcb014c55c72c18df737217fdfddfe809",
+                "signature": "edf58edf53b53d7784661e7afcb2174de1c2ecc10778b1f67fb45d7ec703152ce036ef3f2efca8c80b2987e2c3ecbea03f4a44bad2a3a4cee673b940b7b9e807",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "A crypto based lifestyle brand launched on Cardano. Our goal is to encourage people to “Live with conviction.”",
+        "sequenceNumber": 2,
+        "value": "Live with conviction.",
         "signatures": [
             {
-                "signature": "49d3c3964e5c2c9d159324013810e03cbe1d575784dbe549e4a9198680fda852656e8e7bc3d6f015281242f520835253503cae0abc3252dcedba476f9718420f",
+                "signature": "b548677145a4aad56ff4e27b4cc61e68162fb99a1f5177c5c6fbdf846409e4665dfdc0f0bd8cc9c34c5710594255021d0ca39fdf661be22c03f16bfc70e62309",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
