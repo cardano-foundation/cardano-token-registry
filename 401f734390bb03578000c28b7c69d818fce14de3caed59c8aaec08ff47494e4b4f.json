@@ -2,10 +2,10 @@
     "subject": "401f734390bb03578000c28b7c69d818fce14de3caed59c8aaec08ff47494e4b4f",
     "url": {
         "sequenceNumber": 2,
-        "value": "https://linktr.ee/ginko.live",
+        "value": "https://discord.gg/ShrED5wZbw",
         "signatures": [
             {
-                "signature": "9a9762a9d17a196d2ad31b52a5a0b6790ed14a3ade75b540f77d6071d6264f35151e91b20848de05f58e6131769951c73eb3aeeadf15bf0d0800edcb2b9ab40b",
+                "signature": "80f8341ec1a159e68beee05da9703f5c66c6b63ec862bf5ff40d4c24c049d38d9be03cc61f701b907739bc4178ad0d26662d777a62d32b4c94d89c2c78b4900d",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
