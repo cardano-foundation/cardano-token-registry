@@ -1,21 +1,21 @@
 {
     "subject": "feded30e690aafbb321ccc78c370550e2d4f809ba43c629ae6f35ebb445043",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://www.siebert.media/DataPlanetPlatinum",
+        "sequenceNumber": 1,
+        "value": "https://www.dataplanet.exchange",
         "signatures": [
             {
-                "signature": "502c57dc831868253bdac04d57a4d2525e11923777c1d011b53a9f9e68bc8ed5dc2e4d1b6ee91d6f4ad877ae771f7cd71f35f6e476ac5b50be96e12a5a3fe40a",
+                "signature": "99c68c8696a7bcfb230334856084fdce2c2ffca8cac4aa6b177e66b325a7acd0d10887df74a09835d1daaba381c4dd7bb6c93e8c2e15fb2b982f6f93fc7b130c",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "DPC",
+        "sequenceNumber": 1,
+        "value": "Data Planet Coin",
         "signatures": [
             {
-                "signature": "9c4669d450ed5d60163dcdba5f0ddd188f14f16b55acf450174bc93a53eb43ca5cfc204777298fe0b84ffa9eb4abad41bff76a0c6f87c4943fce8d383b1a4305",
+                "signature": "4e49a0609c51b8d539a921360e9ebc2c2c425fdd841373548679437b124d64d8a4e183e7b185d9b0844c34e5245c679ee287912c8c38fb7279ddef837770e90b",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 2,
         "signatures": [
             {
-                "signature": "d1e8f2b681b87f1b6fa3d171dc9d4d6fd61e73a5ede4aa22897312c819c281651b1378e32fff9a2d6246083a184cd5c791f7d30e2fd59197f879044251e6550e",
+                "signature": "5f7384a92cb30cf04543b46c995b850f4cfe7a3183df4a2f452c95a3176ad18b1b10d9936f9b81c3ece4dcb03b1f2bd51a44e8167b7c50696f86f905e6201c09",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Data Planet Coin is a multipurpose payment token",
+        "sequenceNumber": 1,
+        "value": "Data Planet Coin is a multipurpose payment token.",
         "signatures": [
             {
-                "signature": "caeb1254d3c7bf29c216a0c880513d06ae4b914ac950fa0fd1fde39e8af5ee64d3a1897343427305acff57062c2a04bae8fd1a6298f22b86fab0c3b5db438d08",
+                "signature": "ac720527bae439eb70873a6619343f8e09a03e17a3676ceff74f60db6e1f322f21ae694485b9c5348304c2d69d795537377ba7ee988d8f221004e40af2676a01",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
