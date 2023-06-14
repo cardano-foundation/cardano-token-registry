@@ -21,11 +21,11 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 1,
-        "value": "HYDRA",
+        "sequenceNumber": 0,
+        "value": "HYDRGMS",
         "signatures": [
             {
-                "signature": "e7ce8c7816c9d9c48071b86cfb083e7d3f0690a500b51e875297bbe889944a8226c9259b47e3cbc71c7a79e0819c0d27f8afd220b58dfb1f262922da74e4730c",
+                "signature": "b3b2019b5623092c41bb4b66413b05c419fff64ba192c377d9c7d1c66a2cdfb1aa5ecdb5b507c658b7aedf980d956b3b52896d3cb675d73c778a44f0edd5b504",
                 "publicKey": "cdd2165603991558997fbe6d0566a98aca93be22cbcbd94fd2e3be8759cf28fa"
             }
         ]
