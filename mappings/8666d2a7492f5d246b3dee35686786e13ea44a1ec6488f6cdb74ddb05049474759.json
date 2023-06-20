@@ -1,0 +1,54 @@
+{
+    "subject": "8666d2a7492f5d246b3dee35686786e13ea44a1ec6488f6cdb74ddb05049474759",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.piggytoken.net/",
+        "signatures": [
+            {
+                "signature": "62d387ec94c263261f9a0b2f43bce848c7a615744c7e3bceaedc1cd2a753dff56d00cfd280d84cc0d34c175923391709b88e96b45a5aeccfc39461995681e40c",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Piggy Bank Token",
+        "signatures": [
+            {
+                "signature": "4b63d16d9ccf77a7779ba37f911ea892aa6001de3136798401de9787e1284ef09efb006de5983e09d684ef2bdee62c566509e3b8b355f6d4540f31288c0aef0e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "PIGGY",
+        "signatures": [
+            {
+                "signature": "c1ac6924795c6c3494494028a72efbe6b98d5cc44af1563ba86703a9868342136c432434384418d02336845fa97dcda2885c79628b0bb1ef205692b95daeea0e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 2,
+        "signatures": [
+            {
+                "signature": "42233880c67c595086f48e659278b29f92c29356357a185fee810705bdf212016dca73714fee0875722f8e84872f35ac20e40b68675cfa3d79e116a07a2d6d03",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a05b489b78200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Native Cardano token belonging to the project dedicated to investing in volatility financial products",
+        "signatures": [
+            {
+                "signature": "66bac79faa42cc7282a6d3a50161b5d9c553da3d2504991f420198f3cd371853bcf0c8308d8431e6fafa1b82637a3db769e6be56749ce5b8fed48744a52b3c0d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
