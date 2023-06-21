@@ -32,10 +32,10 @@
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 0,
+        "value": 6,
         "signatures": [
             {
-                "signature": "6438406293f424fa9f91764c921acdbcb0ed921a7ed12af41adc7156c17d6fe9671848a0a55c8e91871b1c449fd2daf8fc99b9902ba3ddcf14fa776df3143303",
+                "signature": "7774a55f7d8a2153c42b0e9922b5e9aec67f531844b6b9c961285d1465793a82d1652b113b8fbb36516af3c6f60b8c20d6897d85368353fa79e4034618fc850c",
                 "publicKey": "bf5ea76d447aa2ddc72fab2ce8266f555098a430dc902dd6ab6ba3a739e618d4"
             }
         ]
@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "A utility token that fuels the Hydra Ecosystem.",
+        "value": "A utility token that fuels the Hydra Launchpad Ecosystem.",
         "signatures": [
             {
-                "signature": "1235a78cb5fe03e639769ea796efcbf67ea6e61d5938f583fe6983021b3a19c7723c63d460168103182a45f153efcc370e42ea1e59bfca466aa715a1940afc0d",
+                "signature": "bbf53b2d4cfb9fcf35e3beafd4a6fe0678ac086e370a5334780762016bdb8eb70e70fa45ce26243e63e9b690e5a08b601e9eff2e4d5869a0b85c166fc9c9010d",
                 "publicKey": "bf5ea76d447aa2ddc72fab2ce8266f555098a430dc902dd6ab6ba3a739e618d4"
             }
         ]
