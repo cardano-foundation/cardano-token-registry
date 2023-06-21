@@ -35,7 +35,7 @@
         "value": 6,
         "signatures": [
             {
-                "signature": "7774a55f7d8a2153c42b0e9922b5e9aec67f531844b6b9c961285d1465793a82d1652b113b8fbb36516af3c6f60b8c20d6897d85368353fa79e4034618fc850c",
+                "signature": "dac5eee8d69b274e5da50e2d2e741f7f16c9d8486ca104ec35474727b709a62ac212b7629b64bddfa2b93d6ee11dacb9510cbbb70c7112647b9b63f6afebbe09",
                 "publicKey": "bf5ea76d447aa2ddc72fab2ce8266f555098a430dc902dd6ab6ba3a739e618d4"
             }
         ]
@@ -56,7 +56,7 @@
         "value": "A utility token that fuels the Hydra Launchpad Ecosystem.",
         "signatures": [
             {
-                "signature": "bbf53b2d4cfb9fcf35e3beafd4a6fe0678ac086e370a5334780762016bdb8eb70e70fa45ce26243e63e9b690e5a08b601e9eff2e4d5869a0b85c166fc9c9010d",
+                "signature": "8b6eea8992b006f00bcbc8c48890442db1f9adf7a9c7ad15e85d2535c536234bfd397240d7207e23bd9915198cbe85a10822fbb89216b85ebe22b7b86965a00a",
                 "publicKey": "bf5ea76d447aa2ddc72fab2ce8266f555098a430dc902dd6ab6ba3a739e618d4"
             }
         ]
