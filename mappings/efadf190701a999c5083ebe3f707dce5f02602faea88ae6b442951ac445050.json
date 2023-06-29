@@ -1,21 +1,21 @@
 {
     "subject": "efadf190701a999c5083ebe3f707dce5f02602faea88ae6b442951ac445050",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://www.siebert.media/DataPlanetPlatinum",
+        "sequenceNumber": 1,
+        "value": "https://www.dataplanet.exchange",
         "signatures": [
             {
-                "signature": "77f3bf617b570136ba7cf2358cf4472f80b2c8e3a1717aa6cd45a86d2c6ea0f72433181757f6cc5760412b9ab6f7b8a0575cb731b141a142aef600c267a3af06",
+                "signature": "250446565b68bd86024c336db75553b144365a1444f8aeb1685a74e90550667e9e336d59ea173838cd1bc0aa9bbf49b42dbfc432e90a74e0b443d128cdfc740e",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "DPP",
+        "sequenceNumber": 1,
+        "value": "Data Planet Platinum",
         "signatures": [
             {
-                "signature": "aacb806f7385f52ff93d9bb6084f15a52b28dec6c24e0d2db83dd2f36bd693809d82f5e214a966f369f31af9357d6ddc4341a57b876b2e719050d74c13154500",
+                "signature": "656e820b14da69057961a3c93842e5211a21a16ae5cd252edacd97cd5c59baf4d1aec3c9f6cf2628cbd63f85306a97850bc46a392231776424bb5af6fa048a0f",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "345e03ee48e59d0bdc628d3c75f4ef9e4da24cb725f51a03802ce8f35e80391a9f0630c20fac125bd6e3e31bb755f2e68813f9023b6e0323e880f08b2cb4060f",
+                "signature": "078f40b0554caffab2dc2694fdea0b105ed3b5936426a6048de5e720dc26a25a0a82199c376900048d172ec9c653bbfca38228c72b36786f4f328ab9e4f3fb0c",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "A premium membership and utility coin",
+        "sequenceNumber": 1,
+        "value": "Data Planet Platinum is a membership and utility token.",
         "signatures": [
             {
-                "signature": "f50d143e5b310feab1564e83f867b7b3fdc7baa01bdcce60aba2fbc12257f0b39c8556e831fb58d47496d14c4d017eea9c40b654988202de42204847a1695d00",
+                "signature": "97bda04fb3962f45ea0c3868a114522144f455847de922b5a8d4ee0fe5dbc8235337d322ca88a619067607018bafba1c884837c94358bf7d797fff4edcaa9c0b",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
