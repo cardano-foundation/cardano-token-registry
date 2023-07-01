@@ -1,5 +1,15 @@
 {
     "subject": "9d9ffb66370242f89e75cbed564d2d7b9b08eab35d9cc2ab5e25a844424c4f434b",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/blockcoinada",
+        "signatures": [
+            {
+                "signature": "df8e66020d34312602efccc4ae1742b06e4fcb6e441aa3055fdb7af617585a0dd24b5bc80d4150738024d1acfaeafb80c93fd1ec570105e821d3e07c1f8deb03",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "BLOCK",
