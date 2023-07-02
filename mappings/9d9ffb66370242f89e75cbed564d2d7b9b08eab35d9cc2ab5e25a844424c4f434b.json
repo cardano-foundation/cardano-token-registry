@@ -2,10 +2,10 @@
     "subject": "9d9ffb66370242f89e75cbed564d2d7b9b08eab35d9cc2ab5e25a844424c4f434b",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://twitter.com/blockcoinada",
+        "value": "https://linktr.ee/blockcoinada",
         "signatures": [
             {
-                "signature": "df8e66020d34312602efccc4ae1742b06e4fcb6e441aa3055fdb7af617585a0dd24b5bc80d4150738024d1acfaeafb80c93fd1ec570105e821d3e07c1f8deb03",
+                "signature": "121655cc6cc2ac40c1f1ece40acb5afe0f23057ded89e020b2bf7ed28bfdbbe6e7c566c90c9765e324ce81cc622499c67803b21e5a69a102d7fcaf0224e2a50e",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
