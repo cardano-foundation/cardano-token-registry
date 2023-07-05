@@ -1,0 +1,54 @@
+{
+    "subject": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
+    "url": {
+        "sequenceNumber": 1,
+        "value": "https://lenfi.io",
+        "signatures": [
+            {
+                "signature": "1e6a0e08bd89f33e01fc2c7bd11776e75de443a916835bb48fb04b61eb7f64fcaeb099bb63fe3e25d4fb0d114ea1a0a0d0628cf5264468b5315aa66161ebde03",
+                "publicKey": "84cfbb143fbe1659a95db9daa89412a2e8eeee7cc11933eac3467a9c59803b58"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 1,
+        "value": "Lenfi",
+        "signatures": [
+            {
+                "signature": "aab811d6133ab8de3bf5c0a9cdaa5f172facd189e6bf1800af2890fc4b1c22f3a8258a7c300f9d70a2a899815919201ff8b982b9478307b6e2641e8a52ab4908",
+                "publicKey": "84cfbb143fbe1659a95db9daa89412a2e8eeee7cc11933eac3467a9c59803b58"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 1,
+        "value": "LENFI",
+        "signatures": [
+            {
+                "signature": "b22360482d81c7f0fc66c06d69db07fe90d3369e99510f6acf9c883dcf6dcf8b34ba7213fbb0b12e39456dca3e4a85a64d7910af9888a937187984c38c77a504",
+                "publicKey": "84cfbb143fbe1659a95db9daa89412a2e8eeee7cc11933eac3467a9c59803b58"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "0dd2ce06276d494b38ee755789e03cea8fc75195eb8d546b6bfdcf4a5b39a5b3b90fc4386cb394bca28b8476e564c4d4d4eb70f26a9d341d7ccc44fdfa7afa00",
+                "publicKey": "84cfbb143fbe1659a95db9daa89412a2e8eeee7cc11933eac3467a9c59803b58"
+            }
+        ]
+    },
+    "policy": "820182018282051a02fefad88200581cb16b69be4f51a52f267e8db5c93eb34a2d7f2c676b8c45fefc5bf34f",
+    "description": {
+        "sequenceNumber": 1,
+        "value": "LENFI is a utility token integral to a decentralized lending and borrowing protocol on the Cardano blockchain. Utilizing a non-custodial system, Lenfi facilitates NFT-backed loans, empowering users to leverage their digital assets.",
+        "signatures": [
+            {
+                "signature": "bf4a3e73415eb8ab07ee550b808a7bb180174d1e164a5adbdf80f4d84ea66ed95a516acbe0ccc3f0aef5959c8360a13df5c263f2e88da9999a74af5656a00507",
+                "publicKey": "84cfbb143fbe1659a95db9daa89412a2e8eeee7cc11933eac3467a9c59803b58"
+            }
+        ]
+    }
+}
