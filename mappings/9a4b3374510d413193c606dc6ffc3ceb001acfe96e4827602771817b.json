@@ -1,21 +1,21 @@
 {
-    "subject": "3c9ee71d8f14b386df802f4121d82746df5508e29198744bea7552ef",
+    "subject": "9a4b3374510d413193c606dc6ffc3ceb001acfe96e4827602771817b",
     "name": {
         "sequenceNumber": 0,
-        "value": "Liqwid Ada Liquidation",
+        "value": "Liqwid iUSD Liquidation",
         "signatures": [
             {
-                "signature": "04ee83dd6859aabb0c96ad3113bdb1052760372b6417888b1636401f04318f8a5d90b2c94cd6fd30128982cc8a6a2a968fe77f2599293913e3e46b8fc8429b0e",
+                "signature": "94c71f317b27e8533e188793a8b1c16c54623ea5752b5fc79e7350e7d2bd461c0c117256159cf00b1a730ca7577163dcd254f29e3668728e7bf28422908f5d01",
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "AdaLIQ",
+        "value": "iUSDLIQ",
         "signatures": [
             {
-                "signature": "d2757358a7cd339ebd123ea937f056521ae3e70862e26a9274a064577c5706450a511e6517d2fa8c29429300adf9cf436d5f877f14c7d2f900bc0d8467010d05",
+                "signature": "c6dbdcc43eb1394eba7b3c849714dfa73a431b7fd59b31814bad97d8621fb5f66beed272436548e0d1edc8ba9fe665bbccec423a2257f0d73d96f5fb515cd506",
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
             }
         ]
@@ -25,17 +25,17 @@
         "value": 0,
         "signatures": [
             {
-                "signature": "d0a873c9c8521b16ce126c7cd54c10895c93747009b4611f23b8bcc60eff2f6e8a8de457f742e38953f7a0f3277a97b4a11bcda6f43a5fcc521078bf35ece40c",
+                "signature": "dd9b6994767745e602a9dee9b92ce4e06911cd6132fb242d87b5d821f668b37ee1bc33b3ca5b0d92f3c93b0f3710586a7309bce5eaac8be7e8a80837ecac900a",
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
             }
         ]
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Utility token for Liqwid Ada market",
+        "value": "Utility token for Liqwid iUSD market",
         "signatures": [
             {
-                "signature": "41627a7f5b87237b330a1c6d53d4963f6ad1fa9ea19d985243858e02a150e1f29a4274f6f538b0942c0c7d65e45c8e90b19210ff2618910da53f3a103bb7140e",
+                "signature": "e20455891602bc942baadbc95c860008eb30bdd41deaae2a1e679635ade49db635d05b2f3864362d89742bc2299d95855e56bde663c3474f264884ea80990a00",
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
             }
         ]

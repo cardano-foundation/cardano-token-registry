@@ -1,21 +1,21 @@
 {
-    "subject": "3c9ee71d8f14b386df802f4121d82746df5508e29198744bea7552ef",
+    "subject": "8de8be82b11e143d6f9d654325d099ca2f2f4c85c709c3bedee8fbf3",
     "name": {
         "sequenceNumber": 0,
-        "value": "Liqwid Ada Liquidation",
+        "value": "Liqwid SHEN Liquidation",
         "signatures": [
             {
-                "signature": "04ee83dd6859aabb0c96ad3113bdb1052760372b6417888b1636401f04318f8a5d90b2c94cd6fd30128982cc8a6a2a968fe77f2599293913e3e46b8fc8429b0e",
+                "signature": "2e258cc24ab103907762de08324f13d99a2dc647505a52cd3e596386fc589e798a50e0b7af0e2c63cd52453d33d0c3613e10965c89d66f36b1404d607b6dd200",
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "AdaLIQ",
+        "value": "SHENLIQ",
         "signatures": [
             {
-                "signature": "d2757358a7cd339ebd123ea937f056521ae3e70862e26a9274a064577c5706450a511e6517d2fa8c29429300adf9cf436d5f877f14c7d2f900bc0d8467010d05",
+                "signature": "dbdeecc3307b58668870e02323975cd8b87d80ec2978e3086f3fa7bc9f8410d7c6584e8acb3f7560f8fb5b45d1e83445f93d4d67094053887c5fea7a36560708",
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
             }
         ]
@@ -25,17 +25,17 @@
         "value": 0,
         "signatures": [
             {
-                "signature": "d0a873c9c8521b16ce126c7cd54c10895c93747009b4611f23b8bcc60eff2f6e8a8de457f742e38953f7a0f3277a97b4a11bcda6f43a5fcc521078bf35ece40c",
+                "signature": "c384d1aad6fa5a72328d7ccfdd0f0f5fb90ce087043b7111119db19caffbcf9c131f267caac0e5301fefed01b12e4b104340ce2693d6ac0f1a297c950b604c0c",
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
             }
         ]
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Utility token for Liqwid Ada market",
+        "value": "Utility token for Liqwid SHEN market",
         "signatures": [
             {
-                "signature": "41627a7f5b87237b330a1c6d53d4963f6ad1fa9ea19d985243858e02a150e1f29a4274f6f538b0942c0c7d65e45c8e90b19210ff2618910da53f3a103bb7140e",
+                "signature": "2ded930ab7c21991ec4dbd4f7d10342da68b38a0e8a098ee00ef1a83ee1664dda8d92594b9db8cce43a0f78caa38fa7807d3acdc807c1a3c05782df967b96a0c",
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
             }
         ]
