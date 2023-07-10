@@ -5,10 +5,6 @@
         "value": "qDJED",
         "signatures": [
             {
-                "signature": "49cc005393c0d3418c3fcecaa1266f37d45378711e5f4ae14a0e18fa06d631300f819effbe7daafe7c30ef4f879a66af32b1ad40c0188f0b85ceaa8a5b50450d",
-                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
-            },
-            {
                 "signature": "647e0575b85561761c780ab73d96d56ff0e373b66e56680da52c00cfe378700ca1cc5c5525b66c391c25e2a4c6d014ebf5ba585bfc20159a7c4db8b299fa520c",
                 "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
             },
