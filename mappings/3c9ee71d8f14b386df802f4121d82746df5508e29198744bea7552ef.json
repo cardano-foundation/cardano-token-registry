@@ -5,8 +5,8 @@
         "value": "Liqwid Ada Liquidation",
         "signatures": [
             {
-                "signature": "04ee83dd6859aabb0c96ad3113bdb1052760372b6417888b1636401f04318f8a5d90b2c94cd6fd30128982cc8a6a2a968fe77f2599293913e3e46b8fc8429b0e",
-                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+                "signature": "95d5584b010caf9eaa181e44112ecb686ad36154a61db34fa22e662f1c23ae3d95c28bbd01e5535c9610ad6f4abd75b58f3fddfefdf0e1aa01c1e7d47a3dfa0d",
+                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
             }
         ]
     },
@@ -15,8 +15,8 @@
         "value": "AdaLIQ",
         "signatures": [
             {
-                "signature": "d2757358a7cd339ebd123ea937f056521ae3e70862e26a9274a064577c5706450a511e6517d2fa8c29429300adf9cf436d5f877f14c7d2f900bc0d8467010d05",
-                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+                "signature": "e8af41ce6f7cd82563e9d05c7ef59d6da545138f97e81b131c2685343aa430ba2d0b0076334a62b7a3994f31a9ddf839cc79e63736d17dd3e395dde2832f6e08",
+                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
             }
         ]
     },
@@ -25,8 +25,8 @@
         "value": 0,
         "signatures": [
             {
-                "signature": "d0a873c9c8521b16ce126c7cd54c10895c93747009b4611f23b8bcc60eff2f6e8a8de457f742e38953f7a0f3277a97b4a11bcda6f43a5fcc521078bf35ece40c",
-                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+                "signature": "9234cdf6d2f8d11fce7645de573e48d4023395fc0b0fba38ce326812afcdfcb3ac5d96ac03b3fd981b4632efe0027e44141d83bd3edd92900d31b130314a9309",
+                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
             }
         ]
     },
@@ -35,8 +35,8 @@
         "value": "Utility token for Liqwid Ada market",
         "signatures": [
             {
-                "signature": "41627a7f5b87237b330a1c6d53d4963f6ad1fa9ea19d985243858e02a150e1f29a4274f6f538b0942c0c7d65e45c8e90b19210ff2618910da53f3a103bb7140e",
-                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+                "signature": "fbe889f2695b5d2ee8926b24f3325bd7e2ce08de606ef89fbf2d6d0e9736a43d69d5a28086e2a3ecad3324924f95c7155a203808b234b9cef293cb00c700c00c",
+                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
             }
         ]
     }
