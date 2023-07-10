@@ -23,10 +23,6 @@
         "value": "qDJED",
         "signatures": [
             {
-                "signature": "b56d097a70a2279c7c89d72c62fb66904c88d391fb44255f7168087885cb8a0c53fd2ed325441fa1aa8621e693403173b34895a079a832fa8a4bf92e7ce83a05",
-                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
-            },
-            {
                 "signature": "d0e5054f0b80b61ae0d16cc3f66188515197ad60b2307b27abbc5f1c221d3ab837b6cf6382e68a2adfa7ffb1d46229519450a75b93d44bf4dd9402dd90795703",
                 "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
             },
@@ -40,10 +36,6 @@
         "sequenceNumber": 1,
         "value": 6,
         "signatures": [
-            {
-                "signature": "f6585b159416bed3d1c65c56f4609eee1cecfc5b6275b30f0c97487907e77c45cd1966f3d05dc090b7ee661edffb83fd4d56892fbc5157616183071e631b5800",
-                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
-            },
             {
                 "signature": "375047da64cb2329e0ac3586442337d817bdd46ee9815b656439b215ad274c13cd63cd0b710b41ded891697418ee8057dce05fc0c7a1790bc880497931a56a08",
                 "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
@@ -68,10 +60,6 @@
         "sequenceNumber": 1,
         "value": "qDJED is an interest bearing token minted upon deposit into the Liqwid DJED market and burned when redeemed. The underlying DJED is loaned out to borrowers through the Liqwid protocol.",
         "signatures": [
-            {
-                "signature": "55b0f5b49c76d68428ad4e3eb76f72b54f6215b1b41ba22f3308bdebf939227e501d915bc1c6209d476e6ac73bf92447a74eb2adbc0279b0db1d5ed8ed762200",
-                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
-            },
             {
                 "signature": "8e03abcfc48ddfe1d8ac7ea829d5bf0b7b8aafeee6a97305d05ab419c1bcedc84e84b6d06704d8b7257d77fb9adea9fdfa157f8b20fffd3c130f25f27614bf07",
                 "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
