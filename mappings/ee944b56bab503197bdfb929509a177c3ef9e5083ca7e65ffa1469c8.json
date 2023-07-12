@@ -1,12 +1,12 @@
 {
     "subject": "ee944b56bab503197bdfb929509a177c3ef9e5083ca7e65ffa1469c8",
     "name": {
-        "sequenceNumber": 0,
-        "value": "Liqwid Ada Borrow",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "86a95128b6de6feeabc7ed8306a654fb14d4c410c8e9703dabff55959fc34ade1ccfd3921937f9584a53946d2f86087a53510a0200bc71b07c0aee12a7fe530e",
-                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
+                "signature": "c507a9412281a2c8c2aa03cd9360dee4e0faceaa67f396e3e194d963b6019fcc3c3d0fe412b182d308065409cbc7d135812bdee638de94e75785a74069726a08",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
             }
         ]
     },
@@ -31,12 +31,12 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Utility token for Liqwid Ada market",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "edfc80b18be37aa4ac35f1b6527d39f172233709f32cbb1a75e8a04c2dfc46b2e0f047a0920c6d59b9af7065142030395a349c6b9bd398ec3f0a8b102a75e40d",
-                "publicKey": "491ba229a155c382f1847bc438dc89f36971cc94b920abe22bc1a87e02fbabcc"
+                "signature": "8a583f958765931220d8704cae2c339e47d16de2f98592b9ea3d657dc32d70c8461e3a3e49616579cb15e4751e368b7e2913c5b3b5e523e1ea9de57163a9da05",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
             }
         ]
     }
