@@ -33,10 +33,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "LET'S CRACK IT./token-metadata-creator entry --init ee7ffc3c9402a4b75de30574d631546492bb4a448cc8966fd994ba30435241434b!",
+        "value": "LET'S CRACK IT!",
         "signatures": [
             {
-                "signature": "ac89f2fb87b94877cadf921af4b5603fa3aa395a57bcdc85d3bf4e08fe10f907d178566d65d327585e73adab59d71e9bd52ba40b42bc33e36962cba2a055590b",
+                "signature": "e69f21149c878792a24c4d0777e0d46736ed4fdf30b7b06cb845a5730057b9db227e264806a6161ec763d3c4349919c658141151bb2d8cbbd524425653cccf0e",
                 "publicKey": "53976bc8e9fdcef754928cbbe543555c52a27e539886c1b8665de78e627d0d55"
             }
         ]
