@@ -1,0 +1,54 @@
+{
+    "subject": "8be741cb809416f0785837d00a0fba01de42e3580d96e378f82b24ab427574746572",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/BreadcoinADA",
+        "signatures": [
+            {
+                "signature": "781ba26ad26afd48de3a6087961f8598379e6d0e0dd11d934ac4f76154a20693e0c197abbc2acdd458609f4f9a71cc1fc2eaf59d10f81910a5a0e07f7ea7120a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Butter",
+        "signatures": [
+            {
+                "signature": "2fb144af80cb451f11fbb19b013e2134a77787f2326aa42818d4f379c299bd62e140897c7a7ad8a78f2a08154e4bb2d1ee61ebdfadbb85177527551127f6c405",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "Butter",
+        "signatures": [
+            {
+                "signature": "e103d9f84b22993da6dfdabaf86b0775d172d7a2f6c80802d22e365ea96e61a857071a42382ed644e29ee489f0f0982a15ce02028900db981bc5d17effc19e0b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "80e20a74b62c558c0d43a87d9aec90c533a6ee6e3e1c4caa2d1c7beae1bbf96f08448a526db6ee2f4e0ade3f43d2b16d1b2ad312deec3b83cde7352d0cf91c06",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a05dffca88200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Every $Bread needs some $Butter",
+        "signatures": [
+            {
+                "signature": "321784f406e02d8ecd0fabc0655d61cc005d7823cdf5e22405ddfecc14f123012f1b9049fd517770897de94387dad58d7dbcaf82f595e9724769a9579d75f605",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
