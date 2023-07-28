@@ -1,0 +1,54 @@
+{
+    "subject": "b143698b393d6828fad2fce2d8b965b0f51ad923da14384ac08633de534852494d50",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/shrimpcoin_ada_",
+        "signatures": [
+            {
+                "signature": "d27b4db28ad1964afeb4558d9c67411b544e6c97d96d0c301bec54222b5af4dad84c7b53fbcf65683c793aa793bfcc0d1b5dcd7a4fbda0bef69debc64eee480a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "SHRIMP COIN",
+        "signatures": [
+            {
+                "signature": "50e82bdb740b62ebafb164197d10398fe6ff242169fc2f9296d23954693325c540b54098dacde89ff5215307c95b9f066b12c8f76400a44cbae20e9f9c739d0e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "SHRIMP",
+        "signatures": [
+            {
+                "signature": "455de7f287e10f39bd03d443f95f88176d2fa0ba261a726092821299d63e7b3115dfde887f3f7dee8ef6c8c95113599c690ec938ad624cf64aba47977f343507",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "f73281af221702b81480d1c89409a2d05663a61c8478d35d148244beeae0d48858623d7e879b6e33964b02db939c0f6afb6de6c548cf7e202b8090f3c7240905",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a05e63acb8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "We're shrimps, we're many.",
+        "signatures": [
+            {
+                "signature": "09478751fe2ccd3dee3d99e725c357082f4b68ec83c0818f355a082b9497f43c2d538cb860b06e23de29c98b12d9c1cf0796ee5bcadafb61399fc1847c934f01",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
