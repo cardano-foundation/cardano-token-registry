@@ -1,0 +1,54 @@
+{
+    "subject": "4f2a93e7e89d2db75ade14859a0002a8debb25b877145099c32b6ed455454641",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://i.ibb.co/rQCK7h2/CC-20220731-143515.png",
+        "signatures": [
+            {
+                "signature": "2a0b7274d5f09e5aef1391c196417ace3b89d3ec3f4e6a286796dfddb1a05df1926e7c5ff3ed6b017c5c1ddde4b5cfc365a3fdf0f1c0fc5deaec3f094d5de603",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "UEFA",
+        "signatures": [
+            {
+                "signature": "4051652d05ae9cbc851a217e0c189ad45b305338da8b4b666a909dee70b9f4a509009911f8a38cbcb1006eacdd0b8e9ff1a09db7181b8233223982075e8f6d00",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "UEFA",
+        "signatures": [
+            {
+                "signature": "2e263255e869574dfce8578d9717b8ea5cafc2980a68785df4671bc33e0d88b732ad0883af0814d1ba68a15e0087220974421d1ff791ccfeec8e8deeaa95ca0b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 2,
+        "signatures": [
+            {
+                "signature": "5b2083bb6b2e1532d97e906f0f0980e20266ef0798fe52f10e201bf97eb9a3d059dfaeaf6c8e76d49bfcfedd4d3b326475ce2cea5d4bee33436fad90ca73f10a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a05ebc1f38200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "UEFA fan token created by european leagues fans",
+        "signatures": [
+            {
+                "signature": "cf8e62c064a91f0e9a7a9b05b1f0fdca32cd74fe69c7402b43706edc9d0248ffdb3c84397a23e2e0a200ca3665f5948a1fd3a8e9f63e144f01f611d53421440e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
