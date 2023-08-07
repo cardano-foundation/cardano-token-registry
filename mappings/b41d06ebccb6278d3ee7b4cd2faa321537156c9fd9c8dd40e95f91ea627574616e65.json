@@ -22,13 +22,10 @@
   },
   "policy": {
     "sequenceNumber": 0,
-    "value": {
-      "type": "Native",
-      "script": "8201828200581cc0b7579c2455df700eed710d52f50b33b85fb3081c33083cce56acfd82051a05f238f0"
-    },
+    "value": "8201828200581cc0b7579c2455df700eed710d52f50b33b85fb3081c33083cce56acfd82051a05f238f0",
     "signatures": [
       {
-        "signature": "4304b398cbbb6efb5c9da0f9c30f5792893ff9e7b7bee3d3cb429db94f4ff75c20047511677f737dc7700227e0d0aecb5d99e9587dd96a6d8e461b62a47ce00a",
+        "signature": "d1f6bd3af093274b9998c0c5f4bd4c1ee2f203ffffc43d74c523b2efa2e8e733ee925261b022be792014aea2fe290fc9d23595161a79d8bdc936230b0d32bc05",
         "publicKey": "6c9c8e115cd9c007e61842446774bbc95f3c72f63d7d5bfac68aacc5eb09e36a"
       }
     ]
