@@ -2,10 +2,10 @@
     "subject": "fa305c0e7cac1d861f9e31ac5a2526b9669e588f7b342981b661109352494348",
     "name": {
         "sequenceNumber": 0,
-        "value": "RICH",
+        "value": "RICH Token",
         "signatures": [
             {
-                "signature": "8292173e5e9412e73fbb125d1ff7233c671ce979e70046fcf92561a2c5ba29279194070dc6ac9a27e38cf2a314ee07ee2f0f92a6bebe46688ad467e01c4be701",
+                "signature": "b2bf577c70e686ed5a6c3d88859721c621fb5f849e73110e1d5cfa4e34dfa06de6fefc328125ec0f8f4e889e1d46ac34e6ef24b7c7a54839ebf61ba10e0bd60c",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
