@@ -1,0 +1,54 @@
+{
+    "subject": "46a10ea00d09fbbbeaeaadd1ccca26d887c34cfe6335fe1c61fb85f45249434b",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/Rickcoinada",
+        "signatures": [
+            {
+                "signature": "4883f5e80b499270f1c67873a37296907315829a38768b287d17c7bba122c19f78ad3cb6e9a1328f9b666cdc92e8c0fdc363dcc9a38f9bca52c54640afecfa05",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "RICK COIN ADA",
+        "signatures": [
+            {
+                "signature": "273bdf3b4bac1dda37a985802d69429f504d01626b018127462edbf281d7f5dbe4a61a6f11621db39c7b5b353a7e5a8a7f69abef4ec4bd2dbd3d165efa149705",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "RICK",
+        "signatures": [
+            {
+                "signature": "f07929554fe559ca526589bfe75b545c0232bd0561733bf28258f9a034618869aaa122c8f1cdf7003bf0ad633f28a9977606bb1893f25ac967ada4e6471b8102",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "30e399dcab21dbfe9346935adb688853eab953b2adf181df5cc51f64318a282a5df614bb2cce2c6ff334db0b5e571bcdfc5ee1ed53c8c78b0d5aa02f0b445d04",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a05f67ff98200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The premier chaos coin on the Cardano network",
+        "signatures": [
+            {
+                "signature": "3e639f4b5c1263833f29518b0a7fbeba10f9b85ab58f32a2af3d28221285d10fe6eab470098cb94c9f2780d619d1f61b4e051c7ac6109f97f77809e90c12fa0f",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
