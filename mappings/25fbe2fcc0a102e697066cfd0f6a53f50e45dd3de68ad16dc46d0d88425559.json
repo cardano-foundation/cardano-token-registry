@@ -1,0 +1,44 @@
+{
+    "subject": "25fbe2fcc0a102e697066cfd0f6a53f50e45dd3de68ad16dc46d0d88425559",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "BUY",
+        "signatures": [
+            {
+                "signature": "71ab972def55f79f64a5e7af246b72aab34c3e8b883f483c901cdce657c3d48d7ed1692127b26377cca655f3cad5c774fcdd132d18676ca07c91591a10538a02",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "BUY",
+        "signatures": [
+            {
+                "signature": "64749ed27bf700acdda9fb2391c24ed36dca5cd5a4f53d23e5f674c9d5180e5aecf30b5ed0068d72c227d9bcba017c04558aac5c941b61fba366e970392d3708",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "5005526bd5133cda6a9e4c034c220131961c71e4963cf5f73c0bf071320fc22388b68182dd14e91e2ba96ec14b3a843e39b5577927905e56e68ddf1d7fad150f",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a0600a6848200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "$BUY on Cardano",
+        "signatures": [
+            {
+                "signature": "65fd38c15d6d053bee2ad1dc7973157a549024c9d3974d6992058065faf5b4f4207d3a1a466553763ee513fc4155469bacec5dde14407e70b56f0643892c040c",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
