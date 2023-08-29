@@ -1,20 +1,20 @@
 {
-    "policy": "82018201828200581c0f15edf2b929d99193ce01b5561eb6aeed2edeced17bb330a03a644d82051a060002cc",
+    "policy": "82018201828200581c0f15edf2b929d99193ce01b5561eb6aeed2edeced17bb330a03a644d82051a06106610",
     "name": {
         "signatures": [
             {
                 "publicKey": "b602763df03b7ae13eed2b00420ea73d0d7dc0f2553601adcd34359df582d434",
-                "signature": "7a060d118e283aead4a778674196fcebaa5e67c25de5d61fc0424b5a15df57f8f87a6304b5362ca3cbfd895e61f7bf08acd2439df41c073fe2e67c58c5f34f01"
+                "signature": "bcc589ad440b1461b2354df1a88fd6affd2d1a70ecb46d0c302c5b9618f4e963e05cc1972f090cf2c0cc7790e6535ac937aa89cbfa88a2fcf33fc339d5eb2b01"
             }
         ],
-        "sequenceNumber": 1,
-        "value": "[DEPRECATED] PizzaPizza"
+        "sequenceNumber": 0,
+        "value": "PizzaPizza"
     },
     "url": {
         "signatures": [
             {
                 "publicKey": "b602763df03b7ae13eed2b00420ea73d0d7dc0f2553601adcd34359df582d434",
-                "signature": "8cc287c9451ef0f442d28f0e22f1f41f5adab43b2ca3d1a93f306a91ed2a07c3679f6c276faa5bdfd8a52bbd67706c8e6dd09edda189ab4f73815206d12c1d0f"
+                "signature": "2749f9b58d4d607ab17d935bb9210c9c3a8a3a6f8da31ca850e6dfb7aa53807c1825b4869a1ebd89c9b5f08334ae95f66c527f7636440b383524fc5a3e91da0d"
             }
         ],
         "sequenceNumber": 0,
@@ -24,17 +24,17 @@
         "signatures": [
             {
                 "publicKey": "b602763df03b7ae13eed2b00420ea73d0d7dc0f2553601adcd34359df582d434",
-                "signature": "0a6591fbe67a25502d3d398a7e108bda290cda0646a302547eba28eb14f687df6e0e76531816ef2f981461bcce7ceac24413b61f2e8875073c484ad1db80bb01"
+                "signature": "ec931cedb9a11baf416b4fdca0fa41c3badde1e9b11366d515a04d47fe04cd91d465e14a8b2d1654528d6105d9e9a0361362d6c93b95f2950d6959a23eec2b03"
             }
         ],
-        "sequenceNumber": 1,
-        "value": "Deprecated token. Please find the reminted token at asset1kc9dndlynwcq4jqm8halysf908rl7and9mdesc."
+        "sequenceNumber": 0,
+        "value": "Main utility token for the House of Za enterprise."
     },
     "logo": {
         "signatures": [
             {
                 "publicKey": "b602763df03b7ae13eed2b00420ea73d0d7dc0f2553601adcd34359df582d434",
-                "signature": "abcbf083929acfe256a7d0409c73761389f803dee183c67c3cfc705775c7da084a139d867e3d25c4ba8ddb6828e26c4f3d7a4438885e32b3486978fa609c0009"
+                "signature": "9fd67f2a92551fff3b65df84ceca7c10fec3d5296a7baabb3f96072462f877d80cc0f6e6a63ce85f34d691da6c35b2b3e1310896eb55dea16372301f1fb7a006"
             }
         ],
         "sequenceNumber": 0,
@@ -44,21 +44,21 @@
         "signatures": [
             {
                 "publicKey": "b602763df03b7ae13eed2b00420ea73d0d7dc0f2553601adcd34359df582d434",
-                "signature": "76ad1b172df45ffdf86198229ce4be1d98726fedefefa9aa52ce2e5657b22b0e73ebf41d4396cf5f14d2ef44f05670e0b66186ff3e5e605eeab6296221f1eb0d"
+                "signature": "90088e105ee42e5eff24787d521a1218982a83c7ed8e23c9492df85c95b30ee641ac81c68213fd8e5020573c5ba84631e5e348f8a3e0a9d4a49fde70fdc8a301"
             }
         ],
         "sequenceNumber": 0,
         "value": "PZA"
     },
-    "subject": "accf8f44cdbd7e51528a9514b65965b3263857c9293f4dc1eb8624ca50697a7a6150697a7a61",
+    "subject": "ec6dcad2fefcf0989fa66bcef6fd6effd2b5c71f4a9ce498606b3aa2505a41",
     "decimals": {
         "signatures": [
             {
                 "publicKey": "b602763df03b7ae13eed2b00420ea73d0d7dc0f2553601adcd34359df582d434",
-                "signature": "09f4ccecc96b0ddbb665ad488f988dd535f5bc0553f7ac641b047d3a4fea3c5256eec3d10734747a42abc12f368088234d0bc8922b394575b3ffa0d7d448be02"
+                "signature": "55ef4aa4de47bb73b71724fd36a87602d74ca7f8e82af66bd4cfa17c499c56eb8504dbd86f76e74928105a7938bffaea64ba7efa7b70cb1752e65e7f9dc4a909"
             }
         ],
-        "sequenceNumber": 1,
-        "value": 0
+        "sequenceNumber": 0,
+        "value": 6
     }
 }
