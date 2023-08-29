@@ -34,7 +34,7 @@ Register token LadaO please.
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 6,
+        "value": 8,
         "signatures": [
             {
                 "signature": "6505320f5d345451a4b0fcde80ea8d8e4eb3892de6bb317c33429afb56ef6739c9b717ae8d72948e0cd2490cc02db1a57a9fda486820019531087372f018d100",
