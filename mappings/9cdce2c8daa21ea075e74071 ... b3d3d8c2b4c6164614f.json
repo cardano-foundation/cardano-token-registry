@@ -55,7 +55,7 @@ Register token LadaO please.
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "http://LadaO.pro\r\nLotto / Raffle",
+        "value": "http://LadaO.pro",
         "signatures": [
             {
                 "signature": "41528e0b01c7feec4cd0eb1ead4f1dca22b6448824283a1258f7ff06d44ee7a9f9c4f6ab00942060f0a3830b67bd8c3bd177e096808759d13989583b7643970d",
