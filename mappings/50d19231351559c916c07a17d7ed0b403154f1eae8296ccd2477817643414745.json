@@ -1,5 +1,15 @@
 {
     "subject": "50d19231351559c916c07a17d7ed0b403154f1eae8296ccd2477817643414745",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/cagecoinada",
+        "signatures": [
+            {
+                "signature": "e7867c2cef09bca7593fe213726993a75826507bc107d10047d59e01fce57b85772b0a92d4a6b3bf01e12cb0ded4560358bb335bd112377e9ef4a0b1b84c0e05",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 1,
         "value": "CAGE Meme Token",
@@ -21,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": 0,
         "signatures": [
             {
-                "signature": "a653de950225b026febff90d0d80edd82ff95ec0292536f3c9d11a25bc0a3e4d7e0086be1f78ef0bfdfeb72cc410e900e29bf58ebb5e33ecd0b749e5f8bd5e06",
+                "signature": "c9170eaec7ab9d3e6fd923d53e8032e93c3695abed5b075b9c910902b55c3c5b6f390772f1e7d2ecd74c6b96f9f2bbeee3a862dc2719b591db9b99862a726001",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
