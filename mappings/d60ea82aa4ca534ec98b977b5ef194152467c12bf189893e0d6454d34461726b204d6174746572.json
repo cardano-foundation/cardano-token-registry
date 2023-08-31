@@ -24,11 +24,11 @@
         "signatures": [
             {
                 "publicKey": "1deb9b7d99a7d6bfbd7a4f93aa1fa8f1674b629f22329e00a829c1571d0aa371",
-                "signature": "3939c4a399006cee07f5a17480edf732f5ca054a4904192c9abbf2f8eb6a02c3ee115654888804196e1a6e2bfb0b1b14fd4384faa507a3c2b0d8c29c266ea104"
+                "signature": "650af465c2a80d10f024cd8c81682113920f6b31dbeec4a2205fce34c0f07427791ebd68f6d9ea70e9ff2ac9d8ddb06e10e04aeaa55b445dbb8f6e6df63cb809"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Extracted Dark Matter - elusive resource token."
+        "sequenceNumber": 1,
+        "value": "Extracted Dark Matter - elusive resource as currency token"
     },
     "logo": {
         "signatures": [
