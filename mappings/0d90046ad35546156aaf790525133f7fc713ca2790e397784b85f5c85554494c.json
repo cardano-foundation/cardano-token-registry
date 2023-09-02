@@ -31,7 +31,7 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
@@ -56,7 +56,7 @@
         "value": "Unleash the Power of Utility",
         "signatures": [
             {
-                "signature": "1623409495a5ad79444cbaa224a67d6ee3e962a1e6544bc6b276bd71a07c71cb8a3c75ae2509cf49bda6e299fb5cbabcd185930d771a6438a88a3291a5dbff09",
+                "signature": "0183a50c3180435c429c4740a2831b3e4bde03fff3b4ec78c4c2905208d77973ccb451725685ba7d91909ba4cdcbee91913dbf40768ce43d2eb2ac11b3503000",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
