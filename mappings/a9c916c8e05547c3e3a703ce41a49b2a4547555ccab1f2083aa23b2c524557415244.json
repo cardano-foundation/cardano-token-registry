@@ -1,0 +1,43 @@
+{
+    "subject": "a9c916c8e05547c3e3a703ce41a49b2a4547555ccab1f2083aa23b2c524557415244",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.plutus.art",
+        "signatures": [
+            {
+                "signature": "12bdfca95034c233784939feec59d7ee8213295104abf0a93c69382504a12b313e2fb0e1be94dcc8073c8d473474cedfdb1101c3f8d0590069632fe0a9870804",
+                "publicKey": "579041c923ac586cb0c80c1bbe2e84e7266de7af63d611f7e9144f521429d866"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Plutus.art Reward Token",
+        "signatures": [
+            {
+                "signature": "7d8094f21f468fea767aa639e4053d4af695b372a9e6a4fef7895beafaa46d0f43d6b593e5475909e560501e0258dda28a9094445999db1e455e47c62024d405",
+                "publicKey": "579041c923ac586cb0c80c1bbe2e84e7266de7af63d611f7e9144f521429d866"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "REWARD",
+        "signatures": [
+            {
+                "signature": "b27ab7acb24fb184f4a1899430ffeacfca1e99aaca73cee1c4cefc658674e4f15310228441cd1a107d4e138c158364b0ddb0bc50e85c20885cbff75811717807",
+                "publicKey": "579041c923ac586cb0c80c1bbe2e84e7266de7af63d611f7e9144f521429d866"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "A token rewarded for trading and staking on the Plutus.art NFT Marketplace",
+        "signatures": [
+            {
+                "signature": "569c186bf855b2a24dd198a64a25f1d817944902b33b4730cc95ef229c565129f5d215e892196873f7f3a95751f5bfd3c9b51fb7128b9ebe506f219ec28d5a0a",
+                "publicKey": "579041c923ac586cb0c80c1bbe2e84e7266de7af63d611f7e9144f521429d866"
+            }
+        ]
+    }
+}
