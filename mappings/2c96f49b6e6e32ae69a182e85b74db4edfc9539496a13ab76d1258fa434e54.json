@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "CardanoNativeToken",
+        "sequenceNumber": 1,
+        "value": "Cardano Native Token",
         "signatures": [
             {
-                "signature": "38406d621e6b087d3d7a6c9896170f4b6900ca70bd95c6db674d6328b8ba1f40f0b1493cfc969957dc5852621d96d9c4ce56faf59d35aad135e5916455bdf80e",
+                "signature": "879292961fa209941d73ec0c48acd7009f59d6013418e17eeff23533c90be181aa749c47e5c265b990302676e013303cf61173a59392f8fad9df941dacfbc509",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
