@@ -1,11 +1,11 @@
 {
     "subject": "b437630137ef5cbc469faf303cf9df3a45666105d7b4105b556dd12d5045414348",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://handle.me/peachseed",
+        "sequenceNumber": 1,
+        "value": "https://linktr.ee/PeachSeed",
         "signatures": [
             {
-                "signature": "83ff35c0052c3fd23352bad083630bd2cba8430c468df692d9db555cd47b9f91a1e1a11f677abb514ca4a5384aceff6fd9cb07fa5d673be86f20125693889002",
+                "signature": "f448d0c20ea0f5e1de8de6ad48c401525e509c9a727a4098c06e76cd0fd475e78571f69832966184d068cb1488137dbc2a3ac8e4173d3032d8e383726a383b04",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "7bc452c9b5c6c9ada03aed6b395cf202dd7cc5330933ec4ffb5cdadc37c62d9b7fc11db2dc11915052707cfd4aa0e138d30aed42478e614bb950388358f07c00",
+                "signature": "3353f423948d4cf2f203c254f3d74d59df746b4c5afe2a05be17b3f5f6afd2d8d61c6914f02bdbd63c3a1baea4652f2b0dc61a0204cadfa06207bb2706d97704",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
