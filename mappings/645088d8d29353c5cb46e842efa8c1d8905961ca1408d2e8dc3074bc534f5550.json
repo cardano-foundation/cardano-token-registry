@@ -2,7 +2,7 @@
     "subject": "645088d8d29353c5cb46e842efa8c1d8905961ca1408d2e8dc3074bc534f5550",
     "name": {
         "sequenceNumber": 0,
-        "value": "sadasd",
+        "value": "SOUP_FOUNDATION",
         "signatures": [
             {
                 "signature": "ab0b5b09c0ca83a3d7c3a4c4960e7dff74e637ba819002472a513deb83a71de0a3351fe2d90a886cec99cac86059c936953b3c749d8f8ebeb13ccc916862ea0a",
@@ -12,7 +12,7 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "sadsad",
+        "value": "SOUP",
         "signatures": [
             {
                 "signature": "06d50136ac01f036b5c0e131f72b6fd7f6e083503fcbfe24f40ccade620fb12a4ee05530c3079cd8844955bde881a8fefd2f7c3d787691c16b4e7bee5dad4903",
@@ -43,7 +43,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "sadsdsa",
+        "value": "https://twitter.com/SoupDog420",
         "signatures": [
             {
                 "signature": "59378e33b4c91dd0373fb6f0ad3146212eea05d7a3419188ab97b20a6c0d40b7f0cdad8882827d65d511bacb1616d2994db530e3be6e7f0230aabceafc8b2006",
