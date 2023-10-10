@@ -1,11 +1,21 @@
 {
     "subject": "645088d8d29353c5cb46e842efa8c1d8905961ca1408d2e8dc3074bc534f5550",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/SoupDog420",
+        "signatures": [
+            {
+                "signature": "f4b13bab5b889f219d35c569f47c63d455f32a4a1c61ce0d6b761c04e3de2c9fb7c7e84c6ae67dc2891e0221a850bf856c6b2394bbdb97fdb6f7fdaff668de04",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "SOUP_FOUNDATION",
         "signatures": [
             {
-                "signature": "ab0b5b09c0ca83a3d7c3a4c4960e7dff74e637ba819002472a513deb83a71de0a3351fe2d90a886cec99cac86059c936953b3c749d8f8ebeb13ccc916862ea0a",
+                "signature": "fecd6c640ab54c80cf078bdf38f2cfa20cb18d182d20a8e974fd1dcdf281dc996119718353891637207ecee5d44ac01309d51b4e79857903f18f63b19a104400",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -15,14 +25,14 @@
         "value": "SOUP",
         "signatures": [
             {
-                "signature": "06d50136ac01f036b5c0e131f72b6fd7f6e083503fcbfe24f40ccade620fb12a4ee05530c3079cd8844955bde881a8fefd2f7c3d787691c16b4e7bee5dad4903",
+                "signature": "b8522461cb6763b0dc49787aa865fdc14e5d34bc347191793eb406b277e40f91abdcb6c7400eff1789c6a87e464bcaed13102fd6fba4f7f45afb08d230edfc03",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 18,
+        "value": 9,
         "signatures": [
             {
                 "signature": "5454e402496082fcb809f1014efb5f76dbc2b7e16cf19413b31d7caf671a0caf1d1fd3bf48450b3627c813f76674be0969b228d0345a1fb9185acb003d96a801",
@@ -43,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "https://twitter.com/SoupDog420",
+        "value": "In-game/governance token.",
         "signatures": [
             {
-                "signature": "59378e33b4c91dd0373fb6f0ad3146212eea05d7a3419188ab97b20a6c0d40b7f0cdad8882827d65d511bacb1616d2994db530e3be6e7f0230aabceafc8b2006",
+                "signature": "bc6d12e2f0e35f72e372daa919f54974b7aac96929dfc33050fcd3cb30a9cd8aa00787dde3489d3758c72392e7d7faa0023bcc048deba673352cf76a13803b05",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
