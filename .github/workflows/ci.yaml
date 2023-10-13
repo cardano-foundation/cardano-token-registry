@@ -71,6 +71,8 @@ jobs:
             | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[0-9a-f]*\.json$ ]] && echo "pass is hex: {}" || { echo "FAIL is hex: {}"; touch fail-subject-is-hex; }'
           awk '{print $2}' "HEAD.diff" | sort \
             | xargs -I{} bash -c 'FNAME={}; FLENGTH=${#FNAME}; if (( $FLENGTH % 2 )); then echo "FAIL length: $FNAME"; touch fail-subject-length; else echo "pass length: $FNAME"; fi'
+          awk '{print $2}' "HEAD.diff" | sort \
+            | xargs -I{} bash -c 'FNAME={}; FLENGTH=${#FNAME}; if (( $FLENGTH < 58 )); then echo "FAIL length < 58: $FNAME"; touch fail-subject-length-less-than-58; else echo "asset name not included: $FNAME"; fi'
           echo
 
           [ -f "fail-location" ] && echo "ABORTING: File change location validation failed"
@@ -78,7 +80,7 @@ jobs:
           [ -f "fail-subject-is-hex" ] && echo "ABORTING: Subject-is-hex validation failed"
           [ -f "fail-subject-length" ] && echo "ABORTING: Subject-length validation failed"
           # [ -f "fail-location" ] || [ -f "fail-filename" ] || [ -f "fail-subject-is-hex" ] && exit 1
-          [ -f "fail-location" ] || [ -f "fail-filename" ] || [ -f "fail-subject-is-hex" ] || [ -f "fail-subject-length" ] && exit 1
+          [ -f "fail-location" ] || [ -f "fail-filename" ] || [ -f "fail-subject-is-hex" ] || [ -f "fail-subject-length" ] || [ -f "fail-subject-length-less-than-58" ] && exit 1
 
           popd
           echo "Obtaining the latest metadata GitHub PR validation tool:"
@@ -186,9 +188,37 @@ jobs:
           echo "status=success" >> $GITHUB_OUTPUT
           echo
           awk '{print $2}' "HEAD.diff" | sort | awk 'match($0, /mappings\/[0-9a-f]+\.json/) { print substr( $0, RSTART+9, RLENGTH-14 )}' \
-            | while read policy; do echo "Checking subject ${policy} with policy id ${policy:0:56}"; if [ $(curl -w '%{http_code}' -s -H "project_id: ${BLOCKFROST_PROJECT_ID}" -q -o /dev/null https://cardano-mainnet.blockfrost.io/api/v0/assets/policy/${policy:0:56}) = "200" ]; \
-            then echo "Assets with policy id ${policy:0:56} have been minted on mainnet."; else echo "::warning file=mappings/${policy}.json::No assets with policy id ${policy:0:56} have ever been minted on mainnet."; echo "status=failure" >> $GITHUB_OUTPUT; fi; curl -w '%{http_code}' -s -H "project_id: ${BLOCKFROST_PROJECT_ID}" -q -o /dev/null https://cardano-mainnet.blockfrost.io/api/v0/assets/policy/${policy:0:56}; done
-          echo
+            
+            | while read policy; do
+    echo "Checking subject ${policy} with policy id ${policy:0:56}"
+    response=$(curl -s "https://api.koios.rest/api/v0/policy_asset_info?_asset_policy=${policy:0:56}")
+    response_code=$?
+    
+    if [ $response_code -eq 0 ]; then
+        asset_matched=false
+        pattern="${policy:56}"
+        
+        # Loop through all objects in the response
+        for asset in $(echo "$response" | jq -c '.[]'); do
+            asset_name=$(echo "$asset" | jq -r '.asset_name')
+            if [ "$asset_name" = "$pattern" ]; then
+                asset_matched=true
+                break
+            fi
+        done
+        
+        if [ "$asset_matched" = true ]; then
+            echo "Assets with policy id ${policy:0:56} have been minted on mainnet, and at least one asset name matches the pattern."
+        else
+            echo "::warning file=mappings/${policy}.json::Asset name for policy id ${policy:0:56} does not match the pattern in any response object."
+            echo "status=failure" >> $GITHUB_OUTPUT
+        fi
+    else
+        echo "::warning file=mappings/${policy}.json::No assets with policy id ${policy:0:56} have ever been minted on mainnet."
+        echo "status=failure" >> $GITHUB_OUTPUT
+    fi
+done
+echo
             
       - name: Check optional validation outcome
         if: steps.ledgerxcheck.outputs.status == 'failure' || steps.ismainnetassetcheck.outputs.status == 'failure'
