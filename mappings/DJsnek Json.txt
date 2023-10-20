@@ -1,0 +1,54 @@
+{
+    "subject": "5aed57c8bf0880882937dbfefca049683febf7bb29f862da772617d3646a736e656b",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://djsnek.com",
+        "signatures": [
+            {
+                "signature": "7462139860fbb1b5d3fb4b9f87f13e2630fd5eebdd8c63899d7160a62c12067f8899313ac94b293194b2097139d6772937195e6b2327b33b3aef69a274081f0e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "djsnek",
+        "signatures": [
+            {
+                "signature": "77b87e3f94aebccc2c8555189ff48fb2ef7fb455fa9d2507b6c9ae57c4771f19d29daae3814a25d519a3fbb87ad084ee1880480cad5c9e5966497795608c800a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "djsnek",
+        "signatures": [
+            {
+                "signature": "02fbf5ed6759a72edda496826be167567d86f3fc0bab3b0686a1deceb1065d08f3e749898dd0cbf127fe0f09a8477897275cb38925b1ec2e5ecf806a6fd9db07",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "210421cfd06f30d5480e1f67faa87d21082da52011224d3a3deca72b0915e36236d23036ba0d9f8c53ba34c175bc813ab0e19bc1675ba3bb714b86e0cf920801",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a064f609e8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Snek but with dj's smile",
+        "signatures": [
+            {
+                "signature": "65727ae18d08f98c9ec6fd6412e92941a305fbd5983762c9a650eca6cc2ca8605063bc52f2e66234a03f5079bf0d6eb1a6ee93c18dc3c7f956fcf6cba969620d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
