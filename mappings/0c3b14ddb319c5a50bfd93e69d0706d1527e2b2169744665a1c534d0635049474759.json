@@ -2,7 +2,7 @@
     "subject": "0c3b14ddb319c5a50bfd93e69d0706d1527e2b2169744665a1c534d0635049474759",
     "url": {
         "sequenceNumber": 1,
-        "value": "https://vixfitoken.com/",
+        "value": "https://vixfinancetoken.com/",
         "signatures": [
             {
                 "signature": "ea3e78f4e018846332f20f1e374b1940bc151197b58d23dd572f83a76b51f97339d7b862acc30a0b342549adb88862aa0b89e9be55f4c4ea09205344a40bcd0d",
@@ -53,7 +53,7 @@
     },
     "description": {
         "sequenceNumber": 1,
-        "value": "Token of Vix Finance, a RealFi project that uses the financial resources of the blockchain to generate value in the traditional financial markets and shares the profits with VixFi token holders",
+        "value": "Vix Finance is a RealFi project that combines the new financial capabilities of the blockchain with the traditional financial markets and shares the profits with VixFi token holders",
         "signatures": [
             {
                 "signature": "8128e4597196767bb9f9f3cc93c6cdbbbc4130ae801463b9220563bfc297fa54d76c8b50522dafd3a82cc399064c4e3d8e82d6d46b4c04579a793bea6181160e",
