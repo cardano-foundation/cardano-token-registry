@@ -1,11 +1,11 @@
 {
     "subject": "0c3b14ddb319c5a50bfd93e69d0706d1527e2b2169744665a1c534d0635049474759",
     "url": {
-        "sequenceNumber": 1,
-        "value": "https://vixfitoken.com/",
+        "sequenceNumber": 2,
+        "value": "https://vixfinancetoken.com/",
         "signatures": [
             {
-                "signature": "ea3e78f4e018846332f20f1e374b1940bc151197b58d23dd572f83a76b51f97339d7b862acc30a0b342549adb88862aa0b89e9be55f4c4ea09205344a40bcd0d",
+                "signature": "3e87219d2be9b947b4d042ac4d6167b03885ea79dbf950e7996678b4cc4e0fbfbad3fd9b538804fccc94d7f534dab0c0ace4b395556d298ea61fcc3ce80cf804",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": 2,
         "signatures": [
             {
-                "signature": "4b4b40f722cae05de0cf5602a29be2b7a2aa0a3707c457dd5c8e73407c5337e84e74e482a963955e78ac9245e1d9466bb0d7edbe7d2657122c6e2ebf9dfee10a",
+                "signature": "72554b8668c32be1b768d6fa2741447d6f5258312ba13af5059a75c9c7b3c62b7f953fee66b7684278504e1dc61a6202310f167b3393469dfc8ac4e4054afa0e",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "Token of Vix Finance, a RealFi project that uses the financial resources of the blockchain to generate value in the traditional financial markets and shares the profits with VixFi token holders",
+        "sequenceNumber": 2,
+        "value": "Vix Finance is a RealFi project that combines the new financial capabilities of the blockchain with the traditional financial markets and shares the profits with VixFi token holders",
         "signatures": [
             {
-                "signature": "8128e4597196767bb9f9f3cc93c6cdbbbc4130ae801463b9220563bfc297fa54d76c8b50522dafd3a82cc399064c4e3d8e82d6d46b4c04579a793bea6181160e",
+                "signature": "105a15a89e81303504a2f68af56f8cfac34dd58d02bf57cb8751c03e5af292737ff3dc6621a87c2c00022cf16e5b9708ce1b97ebbe0d18d38c5b2f5dd4c5630a",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
