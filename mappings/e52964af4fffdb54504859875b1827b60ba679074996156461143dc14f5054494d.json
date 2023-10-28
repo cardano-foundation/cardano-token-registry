@@ -1,0 +1,54 @@
+{
+    "subject": "e52964af4fffdb54504859875b1827b60ba679074996156461143dc14f5054494d",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://ipfs.poolpm.nftcdn.io/ipfs/QmP22dA8Nt7LiGeRoXjMuNjq69MNY7xmp7m1X9nxbAP9nv?tk=YFzvVdfNOgA9TguiTL2j7RN6htmequg1_nJvpNIurvU",
+        "signatures": [
+            {
+                "signature": "408014fdbc8794ca387e714b754df91c783f8ca2916d172ba5b82731c52c12b85c755bd05ba0bc934a6bd7fac1269fc28b02804c5a2a27c98e504e8e1bdcfd00",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "OPTIM",
+        "signatures": [
+            {
+                "signature": "8965640831dc63eae66355646325c5c172046c483d801074930450c243bd043e16f6e4ca066aa434fd45f85aa9f057f0a5ff4948f9dc475122785112b3bd9905",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "OPTIM",
+        "signatures": [
+            {
+                "signature": "fe486ae21b94b9be14af91be27e943cbbfc7eee6d29d53c1f6a640986acaf91a8d6f7cf158392b6c9f4216c9ecdd9b91b0de8a6f77d6c4f4eb0633f1da25cc07",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "b315a5302032f12aadade29a4165510c6eb9f5dbadfd34ee9e83d293162c6e5a804cc7919e65c5384469934790d24d12f38b86c25970dfdff79aaeab59cafe09",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a065e239d8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "OPTIM",
+        "signatures": [
+            {
+                "signature": "8323142f00b7c27c3c2ef4d64feaf23255702d628550742e91d4a4dfd732d59c6a493bf4b80c52ac1104d017f678dbccc1f8b17f119725e3e20ac872eb318802",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
