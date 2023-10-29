@@ -1,4 +1,8 @@
 name: CI
+on:
+  # Trigger on open, synchronize or reopen PR activity against the default base branch
+  pull_request_target:
+    branches: [ "master" ]
 jobs:
   approve: # Pre-approval step
     runs-on: ubuntu-latest
