@@ -1,0 +1,44 @@
+{
+    "subject": "491d4d0c20db3b64a159d399da0b817157bd36f6c742f8a81175204554657374746f6b656e",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Ada2",
+        "signatures": [
+            {
+                "signature": "635deacf0875a2b09dc5cb03b1a129e4c1890fa25c556b2dff1349b482b2637c2a7df0ad6bd880723074c80e5e38b143993a3c3c8d4d206e0db9c40a0e4a3c0b",
+                "publicKey": "907bab70a9a4ae8114841ee1cb376944c13facb427de2dcd253a392a2865cc6a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "ADA",
+        "signatures": [
+            {
+                "signature": "6a7bbf3184a2f29bf0170d01c0aac00590852314750c14b87e1662dc73f6e45577f79f154a42da23ca2d37927e45798f8ce7893f81a5baa560b320263a43750b",
+                "publicKey": "907bab70a9a4ae8114841ee1cb376944c13facb427de2dcd253a392a2865cc6a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 9,
+        "signatures": [
+            {
+                "signature": "9d5599c8a1bb0b2eca3e924abeb8f6f6c70cfc40436c5f9f76da87152b0f542ce10fadcfac2393db188e9fdef172f087875f4b259e72cbfe27a299129d2b8d00",
+                "publicKey": "907bab70a9a4ae8114841ee1cb376944c13facb427de2dcd253a392a2865cc6a"
+            }
+        ]
+    },
+    "policy": "820182018282051a066090498200581cf1d07f4c0fa96d87b471b2f9d6b842c25f0388d16be99054d794a9eb",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "New Ada",
+        "signatures": [
+            {
+                "signature": "85745f027a6d1c852373c2519d8799cdcffa6aa49d989c74998fc85c98467435876b7a4be9fc0a91c12d3c750b7ec4bb967364f3362d95ed165fe6c274d1ab0d",
+                "publicKey": "907bab70a9a4ae8114841ee1cb376944c13facb427de2dcd253a392a2865cc6a"
+            }
+        ]
+    }
+}
