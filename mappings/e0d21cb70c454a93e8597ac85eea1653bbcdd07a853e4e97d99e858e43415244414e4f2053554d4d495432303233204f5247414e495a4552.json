@@ -1,0 +1,23 @@
+{
+    "subject": "e0d21cb70c454a93e8597ac85eea1653bbcdd07a853e4e97d99e858e43415244414e4f2053554d4d495432303233204f5247414e495a4552",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "CARDANO SUMMIT2023 ORGANIZER",
+        "signatures": [
+            {
+                "signature": "185100eddb74e5d170132b62a2b8fb848e1941e35711652f1c24e0ddc965ad346f03d59007c5e55f2a1f0fec35f21cfc2b45ce3f9631aebdbdc33c397fd9850f",
+                "publicKey": "a92cfc5e6c0509e25c87b25c86b10ab98a020f6873f31dbdbfbc0aa79daf5090"
+            }
+        ]
+    },
+    "policy": "820182018282051a01f419d68200581c77964b4c6cc0de08e8e0b413df290d8464614c8a9250721bae49aae8",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "This is CARDANO SUMMIT2023 ORGANIZER cardOffChain Version.",
+        "signatures": [
+            {
+                "signature": "8a244c6552f3728221833ed8421f5acc409b2c24722867bf75090d1c843c5c6498418568bed5830fc3d58b4f344e7227fb59120d53265d5a2924b0cf8da4da0a",
+                "publicKey": "a92cfc5e6c0509e25c87b25c86b10ab98a020f6873f31dbdbfbc0aa79daf5090"
+            }
+        ]
+    }
