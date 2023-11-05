@@ -1,7 +1,7 @@
 {
     "subject": "9ba6488cb62372e06f02db2ed0902e09de50082eb521a63c8977002a56656e6f6d",
     "url": {
-        "sequenceNumber": 2,
+        "sequenceNumber": 1,
         "value": "https://platypuscyberpunks.com",
         "signatures": [
             {
@@ -25,7 +25,7 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 2,
+        "sequenceNumber": 1,
         "value": "VNM",
         "signatures": [
             {
