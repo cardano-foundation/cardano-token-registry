@@ -1,0 +1,44 @@
+{
+    "subject": "71b90119c0aba3bd01cea2acba8daa67a2581f5a836624496996516f66616b65414441",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "fakeADA",
+        "signatures": [
+            {
+                "signature": "1cad4086bd0cd4d6efcc0f6fdde5b345f1251703c95d718b6e3fba6d78f99784b6c9ff474ee01e82bef70978817e0130228ae10a879cbca539593b484eea5908",
+                "publicKey": "f1877358144ceffa5088d9184f575da1180e9b9408134902e26648b232ce7b3f"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "FADA",
+        "signatures": [
+            {
+                "signature": "c1fef84d55fbe2800d10caf7df8716df723ccea2d12a18fbf8025946e49806be773273335f457be94d7535247adb23b0be55adcbf7b5a2465e3dc3ea6b94b803",
+                "publicKey": "f1877358144ceffa5088d9184f575da1180e9b9408134902e26648b232ce7b3f"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "921e88abed9dba3b517aa4bb4e2f16c38fe5cbd55e7fb09c15ef670a59a6e2526c863f70bb18c2e64461e1125522f1f113ea6b1ec85e86deb3f68c412d35220b",
+                "publicKey": "f1877358144ceffa5088d9184f575da1180e9b9408134902e26648b232ce7b3f"
+            }
+        ]
+    },
+    "policy": "82008200581c64c584e0fccc34f9d7971f1a9ddf19f20986037bbbcc7b502ef89146",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Native token for testing",
+        "signatures": [
+            {
+                "signature": "26a1365cbf210cf6df90ffeb0401ba8df68eb97d2ad570597483b63f6bf5a427a39aee5acdf2dab3bfb9b4cd05a55feca713d7b4645571be21c025fa9fd83c0b",
+                "publicKey": "f1877358144ceffa5088d9184f575da1180e9b9408134902e26648b232ce7b3f"
+            }
+        ]
+    }
+}
