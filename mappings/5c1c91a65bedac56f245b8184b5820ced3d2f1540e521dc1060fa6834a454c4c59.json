@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": " is the first Fractionalized Utility Tokens (FUT) which is a new hybrid token where the Fungible Token is directly pegged to an NFT.",
+        "sequenceNumber": 1,
+        "value": "The first Fractionalized Utility Token - a new hybrid token directly pegged to Jellycube NFTs.",
         "signatures": [
             {
-                "signature": "92a0e70af92e2a575e7e318d6dfca17f91e406d86f52961d7288f89fefac016a8eb48353475adfaaa88bf034e97e5c7b8623cbdb72161ecfbb8725352718d503",
+                "signature": "e984048560bac57ac088bfe758255e51d39d82cbec3eadfae613c95791c57a6543a214f738357dc24c25a38378a07fa5256a2cf38de72875f48ff94c2e44330e",
                 "publicKey": "d7178eb5109ff9e5c45f621fd704bd45b5d823ae6f22c03f8849cefa59763628"
             }
         ]
