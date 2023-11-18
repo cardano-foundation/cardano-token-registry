@@ -1,0 +1,11 @@
+{
+    "policyId": "5445cf38c26abd1a03d4e8405386fab825ea75e5a7b05f9102116ea6",
+    "name": "MOUNTAIN", 
+    "symbol": "MNT", 
+    "website": "https://mnttoken.com", 
+    "description": "MOUNTAIN Token was created to help grow the Cardano ecosystem and take users to new HEIGHTS!! Join this exciting project and let's grow together.",
+    "totalSupply": 884900000,
+    "amounts": [1, 10, 100, 1000, 10000],
+    "decimalPlaces": 0
+}
+
