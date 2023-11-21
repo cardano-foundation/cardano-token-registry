@@ -1,0 +1,48 @@
+{
+    "subject": "d55bf9d2ad12cc55e4ed29d97c64dba0e4905d3c80f800449f3d51f04368616e6765",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.steve3p0.info/change",
+        "signatures": [
+            {
+                "signature": "0a926b38691ed83fdd99aa1fe223bef03956b704cb43d93464f98a359b486d4b8ca7ebbd9db8d766243315297977b7ef5c448f931de14e17106bf9b7a7111d07",
+                "publicKey": "58205b52bd58926c91bb9e17d6e6da3e845c8eab7fc97b830f64745f2a336d366e5f"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Change",
+        "signatures": [
+            {
+                "signature": "492d7f39772cd43146f0373e7a0b40720763ec263cfbed7e6d995751a87c2a3085c778506d3020ed26b08ee7afc05c2d47c5b16d5f81f30254cfdc811a9d7008",
+                "publicKey": "58205b52bd58926c91bb9e17d6e6da3e845c8eab7fc97b830f64745f2a336d366e5f"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CHANGE",
+        "signatures": [
+            {
+                "signature": "a18da9f24f633a9acab367a5e45fa266d77c5b108efd05ba72cab6d9e7b35cae5dc5715ea8590e390529a89e4dc64959a5adeb8b18820789fee448fd69faba0c",
+                "publicKey": "58205b52bd58926c91bb9e17d6e6da3e845c8eab7fc97b830f64745f2a336d366e5f"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "cb8614f25534a7592f359eb5d38e465b93c2a292bdfe73d83125b01997929c1da011ff04969c2596aa2b8a5513aefc7feae940ea4d447f5af424b3d9d5f85009",
+                "publicKey": "58205b52bd58926c91bb9e17d6e6da3e845c8eab7fc97b830f64745f2a336d366e5f"
+            }
+        ]
+    },
+    "policy": "d55bf9d2ad12cc55e4ed29d97c64dba0e4905d3c80f800449f3d51f0",
+    "logo": {
+        "sequenceNumber": 0,
+        
+        "value":
+ "iVBORw0KGgoAAAANSUhEUgAAAXYAAAF2EAYAAAAqzm8mAAAKqGlDQ1BEaXNwbGF5AABIx62XZ1RT2RbH9703nYSSBASkhN6kS5cSeujSwUZIQgiEEEMCiA2VwREcCyoioI7oqIiCYwFkLIgF26BYsDsgg4D6HCyIiuV94BGcWet9eGu9s9ZZ57f+a5//3vuu+2EfABqVK5WKUXWAHIlcFhviz0pOSWURBwEPdGCCKthzeXlSdkxMBADA5PndQgDe9wACAHDLliuViuF/Wxp8QR4PAIkBgHR+Hi8HADkGgDzjSWV
