@@ -1,10 +1,10 @@
 {
-    "policy": "82018201828200581c98191115622e743dc5362996bb738c138ee5baa0ead00277eb64613382051a06fe74a6",
+    "policy": "82018201828200581cbf9f5ba80b508585a257c37605c288a3ef4e200bc4592baa46be8e7f82051a06fe74a6",
     "name": {
         "signatures": [
             {
-                "publicKey": "4dc51779ad7e4c1f845151791e4294624eb0651ea66449e6450ef1798413365e",
-                "signature": "a1b777d019dadd5e8c7c66acd59ef939dc638a029c937aab1246b6a5122a18979ccb1b5c681d35ea3ff4e6bcf199e74de6e73561b27e9a63b2f597dc189ed302"
+                "publicKey": "56c6b633dce31f7bad927c42bb43e3f10c5bf8bba11241ff55fbfb47fab06f71",
+                "signature": "c492ab86d3d44fee5c49685b2b16017fa5d88e7b350bdda96e0ad3d13091e6ddad2967b9ca679d5c055cc9031d20b0914cbd874c89c16027250910116b7b080a"
             }
         ],
         "sequenceNumber": 0,
@@ -13,8 +13,8 @@
     "description": {
         "signatures": [
             {
-                "publicKey": "4dc51779ad7e4c1f845151791e4294624eb0651ea66449e6450ef1798413365e",
-                "signature": "c17fccaeba89cae2ca56efc84a7c4379406df0da6a4c55ab32aa0b1d434fc7c17ada434543b60f646ebacddf2c7a76fd185a07d0d737fa9538d449b0adbc1803"
+                "publicKey": "56c6b633dce31f7bad927c42bb43e3f10c5bf8bba11241ff55fbfb47fab06f71",
+                "signature": "116fef31cc203f5c7fd711e62e906bed8d9f658080159a14162eecf17758ae1af35e351d8a48a73efd8026b798eb5c7e662b83eb10b3a756b1cdcf31ee13da09"
             }
         ],
         "sequenceNumber": 0,
@@ -23,8 +23,8 @@
     "logo": {
         "signatures": [
             {
-                "publicKey": "4dc51779ad7e4c1f845151791e4294624eb0651ea66449e6450ef1798413365e",
-                "signature": "2ccb8341de1143376c73e7b3627856c483bee01782f72ab41fd276a36fcbeaa2cfd7c6837a65282c7776c16ded45fae102d6fd0e4a6e77e3ece61ebad3559a0c"
+                "publicKey": "56c6b633dce31f7bad927c42bb43e3f10c5bf8bba11241ff55fbfb47fab06f71",
+                "signature": "6006c5e8618b12a45538163950ea717042f930144278eb58f313896e418b07a57439f14de6a4ef4e8e0a84734e3bb88b9a4b3d9ee0bfaeab8d5b463f7ab82608"
             }
         ],
         "sequenceNumber": 0,
@@ -33,12 +33,12 @@
     "ticker": {
         "signatures": [
             {
-                "publicKey": "4dc51779ad7e4c1f845151791e4294624eb0651ea66449e6450ef1798413365e",
-                "signature": "720070d96aa74a97bd38ea8b9702defd79c3fd684427172daf0eefb60890914b22c663ce8e43927ee6b62a08a9acc7f3d519924ce2e145f8fef74a5e33026d0b"
+                "publicKey": "56c6b633dce31f7bad927c42bb43e3f10c5bf8bba11241ff55fbfb47fab06f71",
+                "signature": "466d3d88a9099ba18c1d6a992f21fbc1be13146897ddfa3edf9c7911cdd8e80a7f928aa2325c8606c352fa094df78bbf3263f74b47dfef74ceb0e1e5ccb81c0b"
             }
         ],
         "sequenceNumber": 0,
         "value": "$BEER"
     },
-    "subject": "656a7fb9433bf8c219f7896008fb49852edba0e9b46c06816402a95842454552"
+    "subject": "7b9a3af857a5f956490a8714a798a1f6ef61c56167a01e9c4232f9250014df1042454552"
 }
