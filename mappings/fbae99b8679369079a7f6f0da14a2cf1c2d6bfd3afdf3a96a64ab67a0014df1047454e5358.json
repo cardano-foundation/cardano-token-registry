@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "GENSX",
+        "sequenceNumber": 1,
+        "value": "Genius X",
         "signatures": [
             {
-                "signature": "a016ef9b568a43e1ee240d41940255e2345664168dd44a17cfd5cf9767b91ae7b336f18b5e28a5b1a751c38052eaa1f83abcdee0ef7dfe58a8be0c866921ac08",
+                "signature": "705f98ce401212c032427ddab9aeff51169aad8095530472fb4698894929031841d6d7e7cbf7b4aceec33fdbf6587a7f0697450e9fac1fc421da7a1d87945100",
                 "publicKey": "85b0a01f80c8b4a657c9f1fdce829d0dfdd9fdb33e00d1e5953bbe443e8f76ab"
             }
         ]
