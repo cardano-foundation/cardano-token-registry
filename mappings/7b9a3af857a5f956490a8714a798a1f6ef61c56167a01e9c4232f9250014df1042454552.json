@@ -45,10 +45,10 @@
         "signatures": [
             {
                 "publicKey": "56c6b633dce31f7bad927c42bb43e3f10c5bf8bba11241ff55fbfb47fab06f71",
-                "signature": "41da240d1a29d222b926f6204578032f92787174c6f9063aa4dcb53c956b145856ec4902b9c3c26947eb3d3005614d57648854432e6fb69d947458a098fbb409"
+                "signature": "1c01ef2fe4f366956f36d19f905665195cd863748677f7e2cda628f1bdf5e9b8658876a81753086e8a756701051891681d190728f4071c95734873e397b1df03"
             }
         ],
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 3
     }
 }
