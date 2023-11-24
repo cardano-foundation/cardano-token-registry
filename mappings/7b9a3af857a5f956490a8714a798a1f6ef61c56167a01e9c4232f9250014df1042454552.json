@@ -40,5 +40,15 @@
         "sequenceNumber": 0,
         "value": "$BEER"
     },
-    "subject": "7b9a3af857a5f956490a8714a798a1f6ef61c56167a01e9c4232f9250014df1042454552"
+    "subject": "7b9a3af857a5f956490a8714a798a1f6ef61c56167a01e9c4232f9250014df1042454552",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "56c6b633dce31f7bad927c42bb43e3f10c5bf8bba11241ff55fbfb47fab06f71",
+                "signature": "1c01ef2fe4f366956f36d19f905665195cd863748677f7e2cda628f1bdf5e9b8658876a81753086e8a756701051891681d190728f4071c95734873e397b1df03"
+            }
+        ],
+        "sequenceNumber": 1,
+        "value": 3
+    }
 }
