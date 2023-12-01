@@ -1,0 +1,54 @@
+{
+    "subject": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273455247",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://rosen.tech",
+        "signatures": [
+            {
+                "signature": "1d908c4b154b05fdf509fab152762b0a9d2454252a98eae4f884fadd6d4251707d2f51a7bf609b15145147913fc0d3b409940d12079bef9cc6120522375a1d01",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "rsERG",
+        "signatures": [
+            {
+                "signature": "dbc66673464789cda8ccd155bbe75fd98c650fe57b9187d17dcfae71167c4f074d051405cda4ad910380184d242dd823e713830fd970117cf5bb680285955a02",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "rsERG",
+        "signatures": [
+            {
+                "signature": "b97465cd5640a782012760f8cf39f35d8e28053ba92a0bc1748adf53bd18580dbc7ce1908b2fb28212c52114e0dad6af64f9e61fd249f70862f5e4396b6e9d0d",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 9,
+        "signatures": [
+            {
+                "signature": "28d724156ff28552b6d84d462afcedb4bdeda2a13feab20c579df7900f133a2492e4091c4e5a40bbed8ff9562f4fce7aa7fe70ab9e14e6b812d83afe0f7e090d",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cb20c0f9865d4978290dae2ab36885c7ed57a3d6a0ddf6d694e0fa6d082051a068c953f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "{\"title\": \"rosen bridge wrapped ERG\",\"originNetwork\": \"Ergo\",\"originToken\": \"ERG\",\"isNativeToken\": true}",
+        "signatures": [
+            {
+                "signature": "3994557ffd61705c63b0e1b9a93adc71407331667b2f62929468837b4fa3aaa6ee91e88a085bd37260bede404e7c164c8bc397dcd04d53af357a807f4a46b202",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    }
+}
