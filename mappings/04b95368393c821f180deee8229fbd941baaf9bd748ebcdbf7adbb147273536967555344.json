@@ -1,0 +1,53 @@
+{
+    "subject": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273536967555344",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://rosen.tech",
+        "signatures": [
+            {
+                "signature": "117719d068875d2dd935dcdc708d9a713b2630ec803245c7eb90aabae71f23f188707180c10c1bd562ca4bf6db357de2c5ca5fbb5f74c54df9e7677983cbb509",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "rsSigUSD",
+        "signatures": [
+            {
+                "signature": "e105f0c6bb55275c7b2c8d130dfa091259973d949c42985b7049f4896acbacd000c199e7cbf6e08645075dadcc51fe039b3db1aae683f8bda787198ce6db5f02",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "rsSigUSD",
+        "signatures": [
+            {
+                "signature": "7da5a3f0b29016460419baca1217fdcf084c5514d8d7f83c30875e7e2e04dd0ff5a7c5c81b86dbc4121a49e4574af1df2d32f925cab4d40fed65b961e9fab302",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 2,
+        "signatures": [
+            {
+                "signature": "7940f62a92cb92206777016236539e46bdebc32e0d7f88a8c7e3266c8a87424665bd5ed0b1579dac716d7e22992e56871d1eec8975498c48564021bdfe6dde0e",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "{\"title\":\"rosen bridge wrapped sigUSD\",\"originNetwork\":\"Ergo\",\"originToken\":\"03faf2cb329f2e90d6d23b58d91bbb6c046aa143261cc21f52fbe2824bfcbf04\",\"isNativeToken\": false}",
+        "signatures": [
+            {
+                "signature": "02a3c6fd0abc6ef09e7a0b65503d5a01f801abe95bae7dd22cf5fef6700d576ec6e4f0ab0a2ac9f96418e35b0579bdbfaca67f53a2b029cf2478dcdeb4827607",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    }
+}
