@@ -21,11 +21,11 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "reSigUSD",
+        "sequenceNumber": 1,
+        "value": "rsSigUSD",
         "signatures": [
             {
-                "signature": "7b918e60174d09aec3907d1d7c0b4891a3fc95c2be6e37eec6cbfbf1edfb32c0b12a8e25d7661961fc00c89e876051fc7db452c63291d49a8f4dc644b11ce70f",
+                "signature": "9cafcd60726e875788a82677765aa17d08dd35c85146a0e2b063b2406efcd30f77ade727a212dcd61cf48da8b1657493563afa70fdf1dc3a6ff4589c99a79d07",
                 "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
             }
         ]

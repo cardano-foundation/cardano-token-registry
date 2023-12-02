@@ -21,11 +21,11 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "reRSN",
+        "sequenceNumber": 1,
+        "value": "rsRSN",
         "signatures": [
             {
-                "signature": "2d499f815519c434d9db08b5d5055c72d4626b5e1776ef97bae68b698ec75284cd9608179ee23e89d4c647dcc3b94dd021d08702933105345e1ab88b1d97b80c",
+                "signature": "47d31a0b7b83e5e1195ba9b95d52aeee58f52b1c32e355cdcf1455cacce97d2c67c3d9d7a6bf6d4e0ddccf1f861c85663e9c70cc7f065edd416258b91880560c",
                 "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
             }
         ]
