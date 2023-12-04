@@ -21,11 +21,11 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "reERG",
+        "sequenceNumber": 1,
+        "value": "rsERG",
         "signatures": [
             {
-                "signature": "2d013de8dea0612fe98dfec33c01457e039a6f44f8c81fc07c5fffabcfbc05496c882c946009f4d4c3a9e74864bc3fd084e9464dea0b58d1c0c21b783571bb02",
+                "signature": "afe4422e0ba0e3c9673733f8f685b4f5b9c0b2c6023af6225a41389a3caa7c55b196c6152bb8e9fb4a192c99f2abe9c4256c2f7a0acaa6a98e20f65f9fda8102",
                 "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
             }
         ]
