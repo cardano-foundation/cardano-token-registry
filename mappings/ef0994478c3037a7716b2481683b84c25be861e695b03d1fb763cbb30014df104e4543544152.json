@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": " will be used in the Beezhive ecosystem as a form of redeeming Rewards",
+        "value": "$Nectar will be used in the Beezhive ecosystem as a form of redeeming Rewards",
         "signatures": [
             {
-                "signature": "7900c3d5c1f6a68bb0c2d16b4f32607d4b09cd39d5825fbbd285f8b8d2621c8477d1207e03d201c55189be65b82bef2860d7f5c71ff80da3fe1301cab8860000",
+                "signature": "c831b026465aa8e4b07d909e131946d8234587da650c58991efc8b9b31b30e7e7e748b0ed25c9051bef61ad4e20f92453be9c4bd61ecad1f7b42861a9ad7950f",
                 "publicKey": "d432e8f965c390947818ca619fb2871f073fadd02f67398aeb49dcd2a0fb3264"
             }
         ]
