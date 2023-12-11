@@ -1,7 +1,7 @@
 {
     "subject": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921434154534b59",
     "url": {
-        "sequenceNumber": 2,
+        "sequenceNumber": 1,
         "value": "https://catsky.io/",
         "signatures": [
             {
@@ -11,8 +11,8 @@
         ]
     },
     "name": {
-        "sequenceNumber": 2,
-        "value": "Catsky AI Token",
+        "sequenceNumber": 1,
+        "value": "Catsky Token",
         "signatures": [
             {
                 "signature": "0e9e4d0da031e9622939e21961f08e7767b8370f6a11d4c9bebc764cfb6764d5456ba794d889cfcdd16074cbd780edabe55a71874fe80af4ac97914a027ab105",
