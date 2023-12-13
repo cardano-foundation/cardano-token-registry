@@ -11,21 +11,21 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "MyUSD",
+        "sequenceNumber": 1,
+        "value": "Mynth USD",
         "signatures": [
             {
-                "signature": "66498369fd4c86a863e320941b6ec3be1f59df0c6a09a1f3823562f62a2fe330b902593cac6fb949443390450f22c0f512b38aee5c9f3cc1aeaffc6caabc6708",
+                "signature": "84669ba4bfb94bf88ea38eeac0a8c67dd3537c686b16750cd0252ac5aa0f9f7a7b75d9a45022572932306dbed64c11868fd5281683b5b6cd8270d4434aeebe07",
                 "publicKey": "e23522bda7a798a981f3b20b4abd651109cf1a0ff03cdc8409ab6ffc18d39158"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "undefined",
+        "sequenceNumber": 1,
+        "value": "MyUSD",
         "signatures": [
             {
-                "signature": "e0c54e6f609690ac3b4d9b16e67cd634f916d2cb50cf08193bc34bdd7e0eb1e549b6f1bb3a74036059fa81c5c6cbd43ef7c0396da03b36e7fcd6ba4939b85603",
+                "signature": "07e2e9dfc8b650781fce42b900d983110a2da304f25d2f1f8c4e9e9e6f0b9dedf83bf5e311732adabbc710cfad4b6f930a0161e0ddd0844bb280c7fa24b1fd03",
                 "publicKey": "e23522bda7a798a981f3b20b4abd651109cf1a0ff03cdc8409ab6ffc18d39158"
             }
         ]
@@ -51,11 +51,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Collaterlized Cardano native stablecoinn redeemable for USDT using Mynth.",
+        "sequenceNumber": 1,
+        "value": "Fully collateralized, redeemable, and stable mastercoin for Cardano.",
         "signatures": [
             {
-                "signature": "ff38fae2a2ee66ec0672fdf8eb05a8681d3d27d6ee0ff8e7d5226de98a7559411fc49c38abfcb93ee14912654a900adb2196c4c4de9750fa579d095e3673b203",
+                "signature": "0a5fc37dd78f5d315d54385f98042d9b383b19d93be25a8c8578d70f8565e196b77dc71649300b92fd0a00d789d3a0ba4b236e6c6d883ab97bb02b5b44938005",
                 "publicKey": "e23522bda7a798a981f3b20b4abd651109cf1a0ff03cdc8409ab6ffc18d39158"
             }
         ]
