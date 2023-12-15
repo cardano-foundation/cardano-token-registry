@@ -1,0 +1,44 @@
+{
+    "subject": "0d1f0133f1cf9db94cb54dd8e2e6f5cd42f8fb4a45e62b87eea1ab10474f4f42",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Gooby Token",
+        "signatures": [
+            {
+                "signature": "b0b92f388b67b78c9fee59b94845714bb552386bcb48f1524f44871910be97fe3b7c306e873f5832f80b62436aed4fae0c670402251a4049c654d9324da97f0b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "GOOB",
+        "signatures": [
+            {
+                "signature": "2d28b9f82d6f0266591aa8b861a7cc1045132d577a32db03a30e143c3feed8e15eff04bff67f3c1f9caafdc285d563e9131a81650ab4d1b8744999f6c83ce501",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 3,
+        "signatures": [
+            {
+                "signature": "299d709390c2c8079ed9892b30be9386bbce4be7c7d18f0872e316546e272372acd2df41c2b837870d4767b2762468a19fef8fcaa8f2127727d9ac8bb3b4f308",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a0686a7aa8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The Official Gooby Token of the Cardano Blockchain.",
+        "signatures": [
+            {
+                "signature": "1440bc9ff52f8cb227abb18c32c591b33463d4c0887d2e86138b01a61413fbe092300cc01a0e34dbeff109c3dc3b5177d74ec1b46343d2ead9e25bcd06dd680e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
