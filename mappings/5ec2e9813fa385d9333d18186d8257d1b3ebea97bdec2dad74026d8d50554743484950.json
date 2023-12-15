@@ -1,11 +1,11 @@
 {
     "subject": "5ec2e9813fa385d9333d18186d8257d1b3ebea97bdec2dad74026d8d50554743484950",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://realspacepugs.com",
+        "sequenceNumber": 1,
+        "value": "https://spacepugs.gitbook.io/",
         "signatures": [
             {
-                "signature": "e7aa1223c85b3ee27899015dae5294e127246b928a7b1d66f1f882d6ca458cd5ef82ae98c33ad29b1263f7b56f367fc3d2cf2439da51f844729004a83f19f00e",
+                "signature": "41f744d6193b5ad36ce29ceacf99e2a2ad783a973372fbfdec1b5aff342d45e6af5e2b27a59bc89d552be9ba3ef0b1843575180c403587164b0ab0f39835e605",
                 "publicKey": "05890a751271a7367937f609dcd73528d16b088ea42da0ac8ea137e7a4c288e7"
             }
         ]
