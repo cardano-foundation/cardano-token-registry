@@ -1,11 +1,11 @@
 {
     "subject": "5ec2e9813fa385d9333d18186d8257d1b3ebea97bdec2dad74026d8d50554743484950",
     "url": {
-        "sequenceNumber": 1,
-        "value": "https://spacepugs.gitbook.io/",
+        "sequenceNumber": 2,
+        "value": "https://linktr.ee/spacepugs_",
         "signatures": [
             {
-                "signature": "41f744d6193b5ad36ce29ceacf99e2a2ad783a973372fbfdec1b5aff342d45e6af5e2b27a59bc89d552be9ba3ef0b1843575180c403587164b0ab0f39835e605",
+                "signature": "1c9857f1e44921e4bf3ab2ebf2389c2d40834708fdef7078efa2f7482bd21e4f9e6bb9cfa4ea07d1a695198756959c0d931fd399782bb9f31f48b348289b6c04",
                 "publicKey": "05890a751271a7367937f609dcd73528d16b088ea42da0ac8ea137e7a4c288e7"
             }
         ]
