@@ -2,10 +2,10 @@
     "subject": "1df0c0a2c98d52c9aa806ece76571b67353f3459e553ff1f69911a6853484942",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://discord.com/invite/xZUpmgkp2V",
+        "value": "https://discord.com/invite/eHxaAmtBQV",
         "signatures": [
             {
-                "signature": "6ea7c75d2e277a954d617d6429271f7b24ca192cb0c18f245fcc968e18ce5d6a1749c551ecc4d15cf354d9d6910cd6bf29dd82ed4732831f25b15b66c5203c06",
+                "signature": "dfa0cf8acb15c18b9e0830addcee8e48e60a90d9d25f49a9a75f2e34e59ccd98eb257058dfc546320da73c8ea6c7bb5787d0174546f6f375fc8453db57c23903",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Powerful token based on NFT,animations,art",
+        "value": "Powerful token based on NFT,Animations,Art",
         "signatures": [
             {
-                "signature": "791a41df8dd45e7d20926724b9bfb5a0a6af312d43a90cca974c2cf41f126a94fe4d2e56938d19719f4192565ca0868c2df0fe22285f8c0b54faa8e67718010a",
+                "signature": "6c55672f0d5fa4154e53ab0f3916da82ee22a8147a708c840b2b56f0b37be45a46f802f449b7dc69cedec79b66e58cfd2af73b3c27894c6a7b5dd6c464bb8b0a",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
