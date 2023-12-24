@@ -21,11 +21,11 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "CLT",
+        "sequenceNumber": 1,
+        "value": "CLOUT",
         "signatures": [
             {
-                "signature": "f4f4cc72fd021178d21cf2da427da63ae8bc23d15d5c7c839620f7bba64a1aa542fa2c1572f3e1f32012c6cc4c7e0e4cc8f81472deccc9d5869ea56bc7f4bd03",
+                "signature": "0fb7f1a488bbc360976f5ee3b762ed9506884d75fe6f4a4a067f338654f5f803d447ca30537005b062165ca30b4e99569bdb4b77b6ad41c753510f36c811780b",
                 "publicKey": "3fcce40612a705d62318b820b91c81ffd451e421f824c21b4ad7e4cdd33d7cd7"
             }
         ]
