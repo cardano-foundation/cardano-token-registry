@@ -1,0 +1,64 @@
+{
+    "policy": "820182018282051a19787baf8200581c8fb2a16b60879c0a7101d0d62bb5aa2cf1b155de13dd3c5060f0fdff",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "585a61fb65d121535f30ce96fb1c8de975db5517773074a368011a358ee7a84f",
+                "signature": "b1c3021077f065da1acc10f9686093a25815be9b194b86f5bdc3957dbdbd9e4a372284c62206f26eacb96e8b047c76648bcff33489a98d2c8c97dbc3b8698f07"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "bmw"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "585a61fb65d121535f30ce96fb1c8de975db5517773074a368011a358ee7a84f",
+                "signature": "1e245a7a37d7f9752cb928232e8978824b4302c8539b532484e32036688038a37f2ea46e4f4fc106305f0e83ab856309896f4cfe0f34d868c8615de8f1cd230b"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://helpmebuyabmw.org"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "585a61fb65d121535f30ce96fb1c8de975db5517773074a368011a358ee7a84f",
+                "signature": "3a724d9ba3490c14bcf3efa5873a1095b065adba0c95c27fe65fe45aca518fa2e634aeea5aecc41d8fd0912a5eee7c5a509298f5736a3ee655ca97290a7d560a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Help me buy a BMW"
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "585a61fb65d121535f30ce96fb1c8de975db5517773074a368011a358ee7a84f",
+                "signature": "3c4eda312d9bc15c98a47f66e658c733a67536b583210e7fecf4fea8a8d59309f92abbec8894393d121004fd437e7b312c689dc57d56add8453be3b85ce94005"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "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"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "585a61fb65d121535f30ce96fb1c8de975db5517773074a368011a358ee7a84f",
+                "signature": "51fe658837b324e708120250ce98af84bd9048a6698df74dbb45ee0c54f1d0f965224dd4b7fbc4a694a24cb8cf938264b942997519610a50baf1fd182c7a1509"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "BMW"
+    },
+    "subject": "000c8f20369902ff7efcf3438d1f93ecdfa5bc77ee69dbc269b0b5a8626d77",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "585a61fb65d121535f30ce96fb1c8de975db5517773074a368011a358ee7a84f",
+                "signature": "91a6b08719dc6a2ee26faf35743fb5c3afd20722e05fce9d1740065ab52647ca1a8fd2caadfeb8adc6a4eb3d128d4cbdb524eeb2bd9af638ff06e071f5297500"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}
