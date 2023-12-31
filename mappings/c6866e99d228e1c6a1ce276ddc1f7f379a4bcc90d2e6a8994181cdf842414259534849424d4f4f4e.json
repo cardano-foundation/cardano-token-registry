@@ -1,0 +1,54 @@
+{
+    "subject": "c6866e99d228e1c6a1ce276ddc1f7f379a4bcc90d2e6a8994181cdf842414259534849424d4f4f4e",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://babyshibmoon.com",
+        "signatures": [
+            {
+                "signature": "917e6a21f96a6bc798d7d4218a55359c5e0045a14f7b76d429638bbed5ad8d6196b55b7b3149c6d84f6ef78f345c0982c71ad604c2e8f95ff20c735d395aaf08",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "BABY SHIB MOON PROGRAM",
+        "signatures": [
+            {
+                "signature": "724dff94adfc0e698edc87e76a16f5cf84057f829dfc25daf1fa4f3b5e718b2560927918191283b4aac20082cb0f479a4660137dbd65ef77a1be7e47e814e40b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "BABYSHIB",
+        "signatures": [
+            {
+                "signature": "fefb173b86d5d69a5f1339325d416a3f1eef68d80001b74fb396ca17da4ca5275b51555a7e6bcee8e801ee1b8df8d0807a7d9f2d8f44b2808d3eccfa189b2707",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 2,
+        "signatures": [
+            {
+                "signature": "1b4325e5aef65a096350dd4602ebe35936590073d75f5d847280a18a3e5be041da7dc5ca62d7f961ba395768fb77f055fd05c795e56fd16cbc4d35ebe370f706",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a06b351918200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "MOON PROGRAM FOR BABY SHIB TO ENTER SPACE",
+        "signatures": [
+            {
+                "signature": "cf10bbb4e583ac2cd1a7fba23bc06f39a28eee66416d2e2afb33357a0a222db20156dcff9cddb83e58e0fb26ff1dc39acf8a5a669f23e180bb8055e6bf0ffa0c",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
