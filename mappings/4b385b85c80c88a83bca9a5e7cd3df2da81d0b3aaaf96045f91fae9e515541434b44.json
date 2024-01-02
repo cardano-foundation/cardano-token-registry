@@ -7,6 +7,10 @@
             {
                 "signature": "599021f82fd0c32116b84cb06ca6c7eb66bfb39d0a972bdc296c3912938e175913109d6d3896ab61bcca48702057539053906f50759254795afa7cced637eb0c",
                 "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
+            },
+            {
+                "signature": "599021f82fd0c32116b84cb06ca6c7eb66bfb39d0a972bdc296c3912938e175913109d6d3896ab61bcca48702057539053906f50759254795afa7cced637eb0c",
+                "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
             }
         ]
     },
@@ -14,6 +18,10 @@
         "sequenceNumber": 0,
         "value": "QUACKD",
         "signatures": [
+            {
+                "signature": "323d731fdc9cd2f532dc3ccb06e8c0eae3159b47e82da2a34c04a935ece1c6c547c3e65c9d2475bb5cf13b95b5fd15fa1769b88f0eee54493da5197368048404",
+                "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
+            },
             {
                 "signature": "323d731fdc9cd2f532dc3ccb06e8c0eae3159b47e82da2a34c04a935ece1c6c547c3e65c9d2475bb5cf13b95b5fd15fa1769b88f0eee54493da5197368048404",
                 "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
@@ -27,15 +35,19 @@
             {
                 "signature": "f07d4c43fb18183b315b9a87504993b352893ed8cac6312d5ef2b9a01af4018a9ee1d77050a04f3a6aad48d2e6b910236752795f38dc1133a6a08ea169051f0f",
                 "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
+            },
+            {
+                "signature": "f07d4c43fb18183b315b9a87504993b352893ed8cac6312d5ef2b9a01af4018a9ee1d77050a04f3a6aad48d2e6b910236752795f38dc1133a6a08ea169051f0f",
+                "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
             }
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 6,
+        "sequenceNumber": 1,
+        "value": 0,
         "signatures": [
             {
-                "signature": "09a0dfea417a859a63b93e0f13bba2aa49df265f65a43597893b6d8c0a332f851a5275940580d4e23dc1e4be4dedb1508e75122282fefe383e84725a911b8f0b",
+                "signature": "877a1e3ef606631d76263c33c48f63c2ffa6a9dda9295fad2d92e0a1848c5ae108b151a160b46946c7ec1ab294d220026e9c5144240618796cbd2107f3e79b08",
                 "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
             }
         ]
@@ -48,6 +60,10 @@
             {
                 "signature": "23491dc9e4985c939d7765a94af407f7984636b53db3da19fefdbea59f7fdff5d965ab8b23b5e205d03fcce774015ea094c11e8ae7523407e4f3c2affd02ce08",
                 "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
+            },
+            {
+                "signature": "23491dc9e4985c939d7765a94af407f7984636b53db3da19fefdbea59f7fdff5d965ab8b23b5e205d03fcce774015ea094c11e8ae7523407e4f3c2affd02ce08",
+                "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
             }
         ]
     },
@@ -55,6 +71,10 @@
         "sequenceNumber": 0,
         "value": "A Quacky memecoin in Cardano. If you love Ducks then you need $QUACKD.",
         "signatures": [
+            {
+                "signature": "f93cbae753b74d480ab941578b7569900bb17f63dcb97fc5b85d7b145f05efe62ede4ab3b98fe8d1e4678da3cc7e1c8862435b4f0b28ec57ca531caacc037f08",
+                "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
+            },
             {
                 "signature": "f93cbae753b74d480ab941578b7569900bb17f63dcb97fc5b85d7b145f05efe62ede4ab3b98fe8d1e4678da3cc7e1c8862435b4f0b28ec57ca531caacc037f08",
                 "publicKey": "a597afff8af18a38e919dad98b10d5d51b5ff470a24c10e15359a1a15e9e3a9f"
