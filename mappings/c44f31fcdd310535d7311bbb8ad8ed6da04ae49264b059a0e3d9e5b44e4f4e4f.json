@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 6,
+        "sequenceNumber": 1,
+        "value": 0,
         "signatures": [
             {
-                "signature": "e2a996a673508ff16b5f3d3decde58776089cb780984928d042ecbf38528592edde35027d1482c8d8f4df34cc3b6715676f366e37d04f6974c12fb810de4bc02",
+                "signature": "2d2bcbf2281d55528a02ba9408df53145258e5944bbc4905f696ba928bad81d91105ed668b779d760bbc4df1a0632a9116bc436b63315d01027c276e71e8320c",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "The Official Currency of Coconono",
         "signatures": [
             {
-                "signature": "76faa4a7ccac1f41c8fe01a4410dcbbe1338f827e3afaf8df0f778ed52ebd777791b4eba8794e29859b8f6678cf6e39ecdc45638384da9d081a060c8bc2e8a0c",
+                "signature": "34ade01b6bc87329f3a7f96886da310e849998a3da1701eed012a66737d263405127625f3ab70debc1993cd3c498857029a3509b4b3cb7d90362baae4acd6f03",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
