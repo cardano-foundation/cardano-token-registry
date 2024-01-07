@@ -1,0 +1,87 @@
+{
+
+    "subject": "2cd3fb3070c099e046cc9d0694390867c8a2a517312e16d3772fe0ca50524f544f",
+
+    "name": {
+
+        "sequenceNumber": 0,
+
+        "value": "Protocol Society",
+
+        "signatures": [
+
+            {
+
+                "signature": "64a23bfed4c27dc2643bed9bd3f688e8ce537186a8d0a9e74f98e16d8fc434643a0c9c212b3b034c82e41ca0ab8286ad26242d66aea1b76ef0953c2ffc6a8a00",
+
+                "publicKey": "a914a46fcd5200a9c89b7bd911e1696e977a5b5e8db6463774999019d3183ffd"
+
+            }
+
+        ]
+
+    },
+
+    "ticker": {
+
+        "sequenceNumber": 0,
+
+        "value": "PROTO",
+
+        "signatures": [
+
+            {
+
+                "signature": "505c45455c142a28366d02848b838f9cb9e4f69b87bb4edb82c81f1531100277ac4356a47ef09f49cfbd4b64dc34981b37d1f7173d83e81418223780ea232d05",
+
+                "publicKey": "a914a46fcd5200a9c89b7bd911e1696e977a5b5e8db6463774999019d3183ffd"
+
+            }
+
+        ]
+
+    },
+
+    "decimals": {
+
+        "sequenceNumber": 0,
+
+        "value": 0,
+
+        "signatures": [
+
+            {
+
+                "signature": "a2a9aee4777230b30b54a010f45f7507761d15d9e242bf3042a7556b80cf7253b8b1597cbec13197ab568b28441bfbae9117c7b28cf77fc02a7fa4c7b174af0f",
+
+                "publicKey": "a914a46fcd5200a9c89b7bd911e1696e977a5b5e8db6463774999019d3183ffd"
+
+            }
+
+        ]
+
+    },
+
+    "policy": "82008200581cd5604930fc6000398435d386ace7368d084889349e2bd7cd9891ffbe",
+
+    "description": {
+
+        "sequenceNumber": 0,
+
+        "value": "The official currency of Protocol Society",
+
+        "signatures": [
+
+            {
+
+                "signature": "7e04376c84e2411bb9e8476e5b1b69187923f50946c58390b4a442e25708be54f0250b8cba0da0ba071205f7fb5645463aed015852d58da19299c532d7a57709",
+
+                "publicKey": "a914a46fcd5200a9c89b7bd911e1696e977a5b5e8db6463774999019d3183ffd"
+
+            }
+
+        ]
+
+    }
+
+}
