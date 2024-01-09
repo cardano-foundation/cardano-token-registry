@@ -1,0 +1,43 @@
+"subject": "b003bb6279a5ac934473d08baf92489c1375e90aa9264fe29a2f6a284e696e6a61",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Ninja token",
+        "signatures": [
+            {
+                "signature": "c3d7df2206839401ab3d36ada0881ed62855b60c961097b90d0b1604f9a1eee70de6c8aec599c168af0bf738c9ae0478e1cea19629bd50d77a38b2c90387df0e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "Ninja",
+        "signatures": [
+            {
+                "signature": "ab15114d3cef940ee77042d164d9da16920f184e081f9e1c2f7189386458ffa2862de65c5a4be4f6bf38a8f044cc3d63c0a8682b8b752a41363d35b445be360c",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "b3104c327f4475ed2f9aafca8a742b03e904cc0a3902d3f33fda95e3e040c8ba7bf2677b9b94644751577f635dd3cbe9b3eaabe8b0909ec0cfe0bc9048025b07",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a06bfff9c8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "ninja token live on cardano",
+        "signatures": [
+            {
+                "signature": "b12a1dc1c445e1bb1c939d2c8d935695087851faebb126922d17ec097b8aec3c44efb7e7c35269861906d930f446b4814efe04fe39aef4285ad32a450c997c03",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
