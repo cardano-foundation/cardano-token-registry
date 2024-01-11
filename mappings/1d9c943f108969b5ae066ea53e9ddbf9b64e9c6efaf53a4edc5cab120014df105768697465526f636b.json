@@ -44,11 +44,11 @@
         "signatures": [
             {
                 "publicKey": "a9919e20229522705ae863b5ca7aafb0e5c1754f1252cec225a2dd62f5f87010",
-                "signature": "d9d9d7f9b523744af873f6025363b751f295eebb8bfb7c382ca125b3f73bb22b7d53527f486a8e3c10dd0773ed23c9dffb0b2b5dc68b97961aa7d14a5b5d7f06"
+                "signature": "38e46e467463821a7ebe6d7e0febee66caeefaddf9bbc83cfc538bca78df6e28dd72e7b5a75ea5d37c7a1ddb2476b1319083fae82b4468d66c4483d6d010a809"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "WLQA"
+        "sequenceNumber": 1,
+        "value": "WROCK"
     },
     "subject": "1d9c943f108969b5ae066ea53e9ddbf9b64e9c6efaf53a4edc5cab120014df105768697465526f636b",
     "decimals": {
