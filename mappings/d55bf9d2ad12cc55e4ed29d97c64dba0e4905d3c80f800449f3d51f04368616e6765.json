@@ -1,0 +1,64 @@
+{
+    "subject": "d55bf9d2ad12cc55e4ed29d97c64dba0e4905d3c80f800449f3d51f04368616e6765",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.steve3p0.info/change",
+        "signatures": [
+            {
+                "signature": "df614e9ae68aae94d4cff3735974408febc472bbc82aea8718a40fb44555362f21009444699cce1c6ebb74aacff4d37e107a8fc2df1bd5ca41cc28e7f9867d09",
+                "publicKey": "5b52bd58926c91bb9e17d6e6da3e845c8eab7fc97b830f64745f2a336d366e5f"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Change",
+        "signatures": [
+            {
+                "signature": "e5af2c7aa4736b3850c6b73a4beff6e64d5f2ecbcbd0804cd2bfd90d206d154954b2514844cceabc2d70d73341babec1362c867291c2c2b1a7eabc831e862209",
+                "publicKey": "5b52bd58926c91bb9e17d6e6da3e845c8eab7fc97b830f64745f2a336d366e5f"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CHANGE",
+        "signatures": [
+            {
+                "signature": "be381ea36451480257626d3451fd5a4485c1fd53c967251b95dec044d4d6018d2e693c53d5bf18be05bd349f6e5369e34051c279fb66d219eb7108ba73d21405",
+                "publicKey": "5b52bd58926c91bb9e17d6e6da3e845c8eab7fc97b830f64745f2a336d366e5f"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "1a20fc2032f507ea80d0e5c3b5d3e430a01789af274db27c3953b5e6844407e06a35464f72b4ebc46ff309d375073db1ece28ae3dd25d1a0cc551084156d3b0d",
+                "publicKey": "5b52bd58926c91bb9e17d6e6da3e845c8eab7fc97b830f64745f2a336d366e5f"
+            }
+        ]
+    },
+    "policy": "82018201828200581c9ee870cac81daaf39d99cc2f44b9dd3a121d9da791781cae76f1eab282051a05d08d21",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAADAFBMVEVHcEwlGBM4IS4oGRMkIC89M1uGgZw5LTIvISA0Hxo/M0E/M2UrGhEhFBItHho4JRotHBUzIRY6KSAiEw5JKRFfNxhQTFs1LzkiFyAyM1AgGx0NBxA1MjIxJyQyKjs1M01STVw7Sm0gFjY7MWIiIU8lFhcmHE1VNGQxMVw4IRVKOFg0HBE/IhFMLBdEQE83HhIkICM8LEEzLCcwJSoNCBANCA4mPWhERms2PHJLLmghG0gdIkpGJxc+JRMrITkyHBErGxU7IRU+LDlAJy9ZQFY7O14VJDcbDg4SDR0jFRIcGClKMCIrLEdsbZodFBcyHhofFCA0J1lONSs6JRw8NkV0VJYyL01CJxWklc2NgLpcWocxKDIlGxk4J04uHE8sOGJHLih6S5WCY5w9Kl1vYZsgJk1dS3RvVoY0MlUjL1VnSn6NeZ9VTIiYnM8kKEUdM0xPLhQbSmcfTmovOlggPlgwf5oqLjUpHx4sHixbVGhAKiNBJxxCMVJkQ3ArGUgfMV5dRUwqHlUuM1lBRXN1QIhwUnt0ZIRGOm6QjLRCN2RJKhWEdJKhmb+io9GRcmGnkYyWhaV/ZIx3dZ2ZdFBzTigdKj9+XDdXV38jZoYhXoENChREcHw+QWIfHziPZzo2kK5tQxhcSGFGOUM1QWheOoMvTnxmXoM5MlN5TIx7Vo5UMG6tntNnSDV5WlI/P3Scf7dsT0g8N1epg2llYYlpPniIbVN6aqV/a5iXeLtrU2iAeLFKUH1ZQmuclsfLqpNsdq9bNxmFWRugjZ65kmunnKgXMUaIha2JlcWer8l5g7GBjLqqg2BGfY4fVXArbosqQV86S058TRdWjJ2hv8VXb2wpOE7Z8/JftMRurriU0ddJRlU4XIxaVZROL1aSaqyVgrl7Z39VPVpMPHdkSVpjSotCMTJMMUWIZTJFKF2ajJK8loSGbK9mWoHBm31vaIyumbKvrLyKdHWtoKIdRmZfQR9KTXM/oLpah41Eo8BHp7tlf4l1i49KorZvAAUABgVHcExXsepCAAABAHRSTlMAMhJ7HTUDBAojSCfnKXNj2PVOne7ccPiGW4/W0fFpe+3loN2mWsPm6vvxtzzGjpTH8eL44chy1Pve2tbZ5P////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AVOHuaAAAAw9JREFUKM9jYEAADk4dISEdTg4GLICdl0/bRkRQRERUm5mRHV2WV5+ny75gQcGBi132jjzCjKha+QXswx0dww9Om3fQPtze3tNIDskKDmZBB39vx+quaX2nnxc4OlZ7xghKMcFk2eSN3d39E6q812zdtGnylANBVQ7untF6MP2qhgudPP2DXDb09b/a1z95bYO3g9+iheJ8UFdJ+1VEOzk7t3Yf+dD/6cSh7p3Ozk5OFX4mEPdJeAQEVDjVtnZPyD3l63uyY0Jb2kNnLy8vDyWQ/7iVXWNj77qsjOg9Nsk3anqU76ncyHSXmuVhroqsQGm5wMDA5NoVOyJOTp9ztfh8cfHXXRGR6bWdTfHx8kAvK9XF1SVn3VvtO6fkbOn166WF+XNSItanu6ZmpqpxMDCpxcUFPgpdP8n1/Iw/N69du/nz3FXXdz3bdsdnplpxMnBbvli1JDQ027W4aP6NX5cv/74xv9B1Y3ZKSk57hgYrA6v6lpaWFUnbfTJn/rjkU1Z29fu3GXlhbUkrW7P2aHGBpRMTgdL5M+fPnjtr1tTZpUVTgdKhiVlpQGlu5eRVS56ERmYUfy69dKGs7MKZmUfDlndsu5OzrgloOJNaY1xge+KOzWH5hefOXLkye0bh1IzNESnNQKdZszCwqzQ2xiVnvc7d7eN2tKjobEm+m8/01fejFtfX16sAY0XSYl175570yONRPm4g4OUTtbdjWVrz0ttLzYChxmK+MTa2xmXi3lzf5ry5c/Pat/X2PHCpyWharMgNihLmWR4eAc/S3mQfO74/J2d/5ITuZZVOXh5eHlJsIGkW04DokBAn550Te04cet+bPfGx86KQkOgAaV5IhHMpVIbE+Ce4uHw88nbfy7UNDQkO5bcqFSRhqUlM1t09OOhpwoa+w4e3rvEOCvJ39xMXY0MkVJ6Y8qrgYO9ppydP8Q6uDo4pl+VDzg1cBg7hng72U+bN++Lg6ODoJyOEmhNYmAU0PcMvFixYYG+vKSDBiZGLWFSFdUV5bEV1hfk5seUyBjYmTkZGTiZkYwHYtST04iLOtQAAAABJRU5ErkJggg==",
+        "signatures": [
+            {
+                "signature": "539032e73d8fe8436d5a99dc2ca7d2156eea139e612964e9e2616b4df08a1db155469cc5b23e23bd507c540711b48f185a84960265a5d3cd44e8420a24538108",
+                "publicKey": "5b52bd58926c91bb9e17d6e6da3e845c8eab7fc97b830f64745f2a336d366e5f"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Be The Change You Want To See",
+        "signatures": [
+            {
+                "signature": "7d9b315a4b46f90a89042de3224756ab5eae1782a7fbd95d7a03f1e65850d0b05cbb533ec46befa19629df1e0574e3443632be982afc2009289b3b514afc9907",
+                "publicKey": "5b52bd58926c91bb9e17d6e6da3e845c8eab7fc97b830f64745f2a336d366e5f"
+            }
+        ]
+    }
+}
