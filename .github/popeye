@@ -1,0 +1,44 @@
+{
+    "subject": "4b8b3a41cb35f91323948b87a237702c099fa50acea5c1012e663af2506f70657965",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Popeye",
+        "signatures": [
+            {
+                "signature": "baa97615451fadaf1f59a6d3708a558392d945de8474ca55fd0f8ea7b35ff0d3818bfd293e806b304eed94582f02e1551c09195495981e085e59035ae17b7c07",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "Popeye",
+        "signatures": [
+            {
+                "signature": "27c19b262651cde758c75222208f8f9c59a45e2a08ad4899c34d08ffec73dcfb518229066948898e6ef5d539d9df64be63a4bbe7418c63077a112077bca41a0a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "489ce1f5ed77ac9e7079f97d21bb48b8fe8909749a89c2a386e523606efd38ad417296bd4cdf69b5ad42f75eb37f06fa06d2637c7567cecd446bd6fbc91ed60b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a06c7e5a48200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "create popeye",
+        "signatures": [
+            {
+                "signature": "5c886bf1afec77b9d04d4b7a0d27dd70125ff218d9975bdaf4013cb570fce789b0965b813d8a9dbba93baaffc6415cee716bbb4765e2872a69a421781ec67b09",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
