@@ -1,0 +1,64 @@
+{
+    "subject": "bb99f13b062933c326f552db5325355ee2ff3cc795fc2e4ee3b173267273535046",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://rosen.tech",
+        "signatures": [
+            {
+                "signature": "720b6a1b4505a2fdfa10245456f639cc814979066e5f8964f1a621e69f74094d11ea8444b759ef5abac43b7087980d1b11ba3160802d53bb7744bce5307cec02",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "rsSPF",
+        "signatures": [
+            {
+                "signature": "61200b68a28632af9f47296a47df9f3c3457dd6e53615ce3780df872f465c20fc2b4a29a641343ce38c31223a5d15f4df362701f6e9e3df7931c4c2053224904",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "rsSPF",
+        "signatures": [
+            {
+                "signature": "90e9c380acc3e5f58610b87e88ac33445dbb38947314e5cd17d90e7908c96fe0c4ffd902724981bf01afd0070304b5336c232002d9cb8e7d7e67cd8163efa704",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "127c7fc599199cdfd0d4b9d6763e8fb5a5bb312b535298f6a67a7bc33e8a1685593c6b250ce02be0d67c3d6436461fdbc7a59bec19c2b2d8b24cc6d0f0a8a70f",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cb20c0f9865d4978290dae2ab36885c7ed57a3d6a0ddf6d694e0fa6d082051a06d321a0",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "77d730a4ead5a31918c030eb516aea428d435607d14511e67dbf29584b1ba2a8ef0bb17c0427a566cc41966387eea6ae059e0ac26ac6fad641c755fd2d30170d",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "{\"title\":\"rosen bridge wrapped SPF\",\"originNetwork\":\"Ergo\",\"originToken\":\"9a06d9e545a41fd51eeffc5e20d818073bf820c635e2a9d922269913e0de369d\",\"isNativeToken\": false}",
+        "signatures": [
+            {
+                "signature": "93ec8416e8e1ba3249d7d4fe0bc5b13d050b5a8df015551c2e4cb4b8d34ddc63a30ed634ea73daddc7ace78163cf90ec9a53cdf6f3f0dfb5b52b291648d85b0e",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    }
+}
