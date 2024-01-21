@@ -1,0 +1,54 @@
+{
+    "subject": "80c67d2a57c4ae0f436894f6d8bc30ee1984df15691cbe091ce1406b53494d50",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://cdn.discordapp.com/attachments/1198471555731181618/1198675377225224252/1CF3D963-D2D2-47E2-85AB-B77027E64BCD.png?ex=65bfc470&is=65ad4f70&hm=1bb62e15cd5ce197a8ba79ec793e4f09a2da63b2cac42f47799416ac67c9e830&",
+        "signatures": [
+            {
+                "signature": "da244832d9e79c27c8835e78ef4164679fa407c92b4ea05dab569bc045ba78948b3f5b2d063b4d61c6beeb47046568fbf83286976b5b4fef3dcb761e2eb02f07",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "SIMP",
+        "signatures": [
+            {
+                "signature": "79cd00453dfd396adf4da3f258b1823e8b8d7343e68ecbeb25abfa4bd8b8cbf59d22c7d572442d8442098ff722da033832ec79367d2faa3206316ac0204e0205",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "SIMP",
+        "signatures": [
+            {
+                "signature": "dd11583853106f0cc92422ece02e9183d46901be316b09a262fd7786ccf1a807dce8ef66bbafbc5bd3bfb06c62ce4dfbeb9c939af973ceb72ae968633902a108",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "8702f95a515ab4ed422e2b54d968d4f3823a1df3052e3aaedef33f3f86926618e11b863d24f10a801651c5209e9ff65fa453ea310d56488e6481920ec6516000",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a06cf51858200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Simp coin Ada is a Cardano meme coin made to onboard users into cardano through memes and token gated entertainment.",
+        "signatures": [
+            {
+                "signature": "038b8200bac808c8d55df56067f58f73f275eb208925473d73e3e5152c55286102c39c18298cd094935af301f5a7869799c3e398f24a0850c0129bd6a75a0003",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
