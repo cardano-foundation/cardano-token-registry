@@ -1,0 +1,44 @@
+{
+    "subject": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "BabySNEK",
+        "signatures": [
+            {
+                "signature": "2e3a9a671b26e3851e8f9ee10c790db2cdfe1e8a1312062263b44931003f9c16dfcb84030e78894fc912f800dec3d48cdabba001c7bd83cfd10514589c0a9f00",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "BabySNEK",
+        "signatures": [
+            {
+                "signature": "e8a94c685c67f42e2b386b2dbc2eb0eb3fa49df66204c7258175f35ac9a2d5426e78e957a31551f8af0d4f82e2c01c3f8cd44e86e393a2035ac78cee8584e706",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "a66d057a44402355d2172058b1827ac4cda6bb5236dd99f3406921bff0f2e69799d94e4e710b2dd4e4ab2b161dd4a300d9401d7c79d23b8486839d42d5959d04",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a06d0e1fb8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The little SNEK Brother living on Cardano. Sssss 🐍",
+        "signatures": [
+            {
+                "signature": "4480ff8f8dc76572fc96a013a6f7b4c6da7757babc5efeb334cb8b8b7603629ba67ed52b24abddb2bfd291a26b20f7f7de284ccd85d2c7073f1cd5e0b6d22b09",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
