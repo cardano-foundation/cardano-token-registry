@@ -2,7 +2,7 @@
     "subject": "c7dcfa416c127f630b263c7e0fe0564430cfa9c56bba43e1a37c6915474f4b4559",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://gokey.network",
+        "value": "https://gokey.finance",
         "signatures": [
             {
                 "signature": "fa3f0815a66008b604c90fcebdf6597aa1c480a4836b5897f26cd979c5609f4e2e33298190029c274c94c8a931ed1de4c78804fe33fecab2f604ad1ce504580f",
@@ -53,7 +53,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "GOKEY is the native payment and utility token of the GoKey Network on Cardano. ",
+        "value": "GOKEY is the native governance, payment and utility token of the GoKey community.",
         "signatures": [
             {
                 "signature": "97bc987735b0295b6b3b55f11c1fe57895a1c412150edac40b8dd7062d68a3456049ac4af8a381f4482fcab6214c48c8a19457bc63f333a0bf08adf9684e770a",
