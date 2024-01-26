@@ -31,11 +31,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "A currency for the Metaverse.",
+        "sequenceNumber": 1,
+        "value": "Union Allies Treasury Token",
         "signatures": [
             {
-                "signature": "4a34a01a10d1bdb9f6597d66893072fbec2cab6c39065fdf931438989b17a02d4b014bfdd5aa7608607891b934df5b450359d7296375011af89c5dbe707ea102",
+                "signature": "97d5c3a90d55f7dcbcb41918b533e7c5a9ca02b1ace8eec892a7d90a1c2f6aba5b0cc0dc527853f965cfe0435dfd879889273d020c463aaaf818222e79953702",
                 "publicKey": "183b5b1d35122e00b168f89657f3bd83888f5329949ae40939b76612e97490e9"
             }
         ]
