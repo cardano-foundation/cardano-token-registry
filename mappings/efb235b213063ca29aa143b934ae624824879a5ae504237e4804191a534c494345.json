@@ -12,20 +12,20 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "PIZZA",
+        "value": "SLICE",
         "signatures": [
             {
-                "signature": "dd882786a377f01f30d196daf54d4eb04f7ba5bf5de074b4de4c0fa51982ee8477711fa3e7d698d386208f2be76790f61320c58d8c7fe0c9e37d404e7113f807",
+                "signature": "550556aadbf6e7de8fa477dccaf0190a5186073e075bcbd86d921cae182cd383c3aa363f70110abd4b24829aa14c5a62729f07dfb7fda686aff91535e0ba7305",
                 "publicKey": "659dd8fe8fa60d84d08351d04ff945409c2290915df6b05ba767c9c7e01dd421"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "PIZZA",
+        "value": "SLICE",
         "signatures": [
             {
-                "signature": "1214aa963c571e027f4031a0b33a2d39c3417fed87d81ba1766096835871c807e8a219fe90c85e1f7f1f83a6eca2bfbc733e4c90b7644d1c1e3827369b9b0d09",
+                "signature": "225901c41596a53c70f16ea4b2251b18141bffff5b7031c7b513db42c914d7a34359ffc87e4c7deaaa0c0c2843510dcef33004ebd29b140bfc86d1825daeae0d",
                 "publicKey": "659dd8fe8fa60d84d08351d04ff945409c2290915df6b05ba767c9c7e01dd421"
             }
         ]
