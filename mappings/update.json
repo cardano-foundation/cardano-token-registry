@@ -1,0 +1,33 @@
+{
+    "subject": "4f2a93e7e89d2db75ade14859a0002a8debb25b877145099c32b6ed455454641",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://t.me/uefacoin",
+        "signatures": [
+            {
+                "signature": "305477cd8b59626fcf99fd170bfcd9c55ad4e0b8ad74b971991eaa04d547c1119b79da8465afb5ba0323e8c20c6d7778ea53e167aff534c4e92f48bcc65d850d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "UEFA Classic",
+        "signatures": [
+            {
+                "signature": "4051652d05ae9cbc851a217e0c189ad45b305338da8b4b666a909dee70b9f4a509009911f8a38cbcb1006eacdd0b8e9ff1a09db7181b8233223982075e8f6d00",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "UEFAc",
+        "signatures": [
+            {
+                "signature": "2e263255e869574dfce8578d9717b8ea5cafc2980a68785df4671bc33e0d88b732ad0883af0814d1ba68a15e0087220974421d1ff791ccfeec8e8deeaa95ca0b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    
