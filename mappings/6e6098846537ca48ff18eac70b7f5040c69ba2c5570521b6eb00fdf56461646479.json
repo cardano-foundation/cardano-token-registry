@@ -1,0 +1,54 @@
+{
+    "subject": "6e6098846537ca48ff18eac70b7f5040c69ba2c5570521b6eb00fdf56461646479",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://coindadddy.com",
+        "signatures": [
+            {
+                "signature": "baa68d167dbba467e51b54a424b6d80fa3e145bf2b1582b04d42a1a09d50f40cd3f927f4199f226b77aaaf08508d67ff60aec31ca26dd51588dbc19d8a170509",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "CoinDaddy",
+        "signatures": [
+            {
+                "signature": "076db9ea319df99a4b9083fa840267011d81fc6b9c43445d594569c66327a569c93860c1f9536ff9ebcdf527bc38904d2d68a19694c5bc4f034f7db56f8e6601",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "DADDY",
+        "signatures": [
+            {
+                "signature": "7c04e29473de04dcc580b129a18cd79042fa9fc42c7caac69f71761dd12e4abc7c142156e384680ab0ce3af0d9e7fcbd357e8fc4dd4ff0f5cd7e0d5b5087ea02",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "d60ff5fefa0bc1c93c6e5f1595c1b0c9801c170c601b49471e1f7d29f9bc549098a3bc2a9724e867c7cb9364f5c77ab62647cd1525fa3913705c2c0c8e3baf02",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a06d7e4208200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "CoinDaddy ($DADDY) is a memecoin on the cardano blockchain.",
+        "signatures": [
+            {
+                "signature": "b37710124a8a560f050e8df6ae2f0591dbdf0f057bac40a1830cc11ef0838662ad9df91486344ae067b5e764dd14352ceeb7d087fbbf8fd2b8211d89c2b2a20d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
