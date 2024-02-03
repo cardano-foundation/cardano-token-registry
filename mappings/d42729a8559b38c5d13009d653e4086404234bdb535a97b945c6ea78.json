@@ -1,5 +1,5 @@
 {
-  "subject": "d42729a8559b38c5d13009d653e4086404234bdb535a97b945c6ea78",
+  "subject": "0716f052a24cd345e37bf6d92ec7d06a74cda3cf94e0c8c6bf53ac2f446561646c79",
   "url": {
     "sequenceNumber": 0,
     "value": "https://twitter.com/DegenPantsAda",
@@ -24,15 +24,13 @@
   "description": {
     "sequenceNumber": 0,
     "value": "BPT is the way to be.",
-    "signatures": []
-  }
-  
-}
-7e16e587942fb19d72a2eff6578411323143919651a631901e1f3557a22b9cae74a5f761c2f4173604bc0fa93ef68399f04",
-                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
-            }
-        ]
-    },
+    "signatures": [
+      {
+        "signature": "7e16e587942fb19d72a2eff6578411323143919651a631901e1f3557a22b9cae74a5f761c2f4173604bc0fa93ef68399f04",
+        "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+      }
+    ]
+  },
     "ticker": {
         "sequenceNumber": 0,
         "value": "BPT",
