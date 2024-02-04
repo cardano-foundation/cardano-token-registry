@@ -1,5 +1,15 @@
 {
     "subject": "3b933dac8e862b1ed3f4a1c319165f34dd7b1e7a47826b67a10883e54347454d",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://zero.com",
+        "signatures": [
+            {
+                "signature": "5cd76547f38aa5aa026b32d955c715fb8c496d6b0c0b9fde6285fc5f17730ff3c0376caa0429e22bb14e9cb7aa5093c576e5c095f959c55570f6f9037d4b170e",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "Zero",
