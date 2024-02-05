@@ -7,15 +7,19 @@
             {
                 "signature": "63edcad9c4a815eb04f93d9d69b22a930bfcef78a726c85fb8578441c09952a3d6578c4122da35a63ea2a54d1ade9faa6e88456d204698caffa1c87eb669d70d",
                 "publicKey": "39e44d01ecd88cefa53f60c8cc28640549623a14ed052f9fbd8c4cf7ea88d293"
+            },
+            {
+                "signature": "63edcad9c4a815eb04f93d9d69b22a930bfcef78a726c85fb8578441c09952a3d6578c4122da35a63ea2a54d1ade9faa6e88456d204698caffa1c87eb669d70d",
+                "publicKey": "39e44d01ecd88cefa53f60c8cc28640549623a14ed052f9fbd8c4cf7ea88d293"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "ToY AI",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "16d8d1e8cadc75bae6d5d7cc9e70120880bb44d7ba99ee87f9f5090c6bc6a982364df66e0cf3e49771dd16145f0e4187a18976a8ec7677d3078ae9415a01d009",
+                "signature": "0406ab1390292daddabb7e8b24088aaa5606a2a01d5ce586ce1117314d4fa14fbd1d9772370f1e0e4c5b5828fea1a2c2c411aaa67940ca15f07b10fd9fd97e00",
                 "publicKey": "39e44d01ecd88cefa53f60c8cc28640549623a14ed052f9fbd8c4cf7ea88d293"
             }
         ]
@@ -24,6 +28,10 @@
         "sequenceNumber": 0,
         "value": "ToYAI",
         "signatures": [
+            {
+                "signature": "521f0423118ed180124093f6ac0c1e256501f84961e836820b50bbb342e2021b40245df39ffae78c4c47af3a30279908dfbef0912fd13ee03f63620622cf9f0c",
+                "publicKey": "39e44d01ecd88cefa53f60c8cc28640549623a14ed052f9fbd8c4cf7ea88d293"
+            },
             {
                 "signature": "521f0423118ed180124093f6ac0c1e256501f84961e836820b50bbb342e2021b40245df39ffae78c4c47af3a30279908dfbef0912fd13ee03f63620622cf9f0c",
                 "publicKey": "39e44d01ecd88cefa53f60c8cc28640549623a14ed052f9fbd8c4cf7ea88d293"
@@ -38,15 +46,19 @@
             {
                 "signature": "06f1b8ce863336dac65f4c79890076c7d11588c7845368fe91bdb2c43ce20026c11996a4c61ae28497c5e95fd3da377e155671ec4f1167f8db54658c5f3c5c0f",
                 "publicKey": "39e44d01ecd88cefa53f60c8cc28640549623a14ed052f9fbd8c4cf7ea88d293"
+            },
+            {
+                "signature": "06f1b8ce863336dac65f4c79890076c7d11588c7845368fe91bdb2c43ce20026c11996a4c61ae28497c5e95fd3da377e155671ec4f1167f8db54658c5f3c5c0f",
+                "publicKey": "39e44d01ecd88cefa53f60c8cc28640549623a14ed052f9fbd8c4cf7ea88d293"
             }
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "A currency aimed for aiding children with AI.",
+        "sequenceNumber": 1,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "6e65e422626773e3380e7ae8523ca2d1608bdbdfbf0c7aada04c397121c166933953200e09f39087304d1aec59a8588322dcd01e10d05d6a0ec144a11ae64502",
+                "signature": "a95001958d989e9b58aef045206ec4ec3a35e552df298c81f08c607430798777684240594a209d0aeed004a9a20d6672e71bd71734bb8d4a7006a3dfd70d550c",
                 "publicKey": "39e44d01ecd88cefa53f60c8cc28640549623a14ed052f9fbd8c4cf7ea88d293"
             }
         ]
