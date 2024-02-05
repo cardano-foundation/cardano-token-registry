@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "$NAZAR takes center stage in the enchanting world of ANATHEMAS, serving as the vibrant force that propels our entire ecosystem. As the dedicated utility token, $NAZAR not only fuels ANATHEMAS but also ensures smooth and effortless transactions within our lively community.",
+        "sequenceNumber": 1,
+        "value": "$NAZAR is the official ANATHEMAS token and the root of all evil.",
         "signatures": [
             {
-                "signature": "a2297ef7efbfcded71ae834e5b3cd812c0b2b54a38d03fbfd5ffdbb83a288dd85d55c0052062499dde949e42cfa6fa0b2f1accea0fa486895b1cc4161604ca00",
+                "signature": "1a1077317b50a4a85dca5398ab41e8d9263107f4ba8174e43f9be18e93e49e1cfa82ed7127a8d370206e0d6ff2d19a1cfc00bb0602f419c748af8443f5bd2802",
                 "publicKey": "8af41fbcec2a4b8e606a5297f5f8d7ab3a3fd32bc4809b435337a0f088c42b34"
             }
         ]
