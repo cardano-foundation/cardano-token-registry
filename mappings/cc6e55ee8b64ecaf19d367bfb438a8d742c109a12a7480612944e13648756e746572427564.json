@@ -1,0 +1,54 @@
+{
+    "subject": "cc6e55ee8b64ecaf19d367bfb438a8d742c109a12a7480612944e13648756e746572427564",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/spacebudznft",
+        "signatures": [
+            {
+                "signature": "219bc99b4f766b7053d32d92343b12bce2a66b5c9eb73f06d7f67778b8fd2f18c5dc2d2e7984873ead3e3599db685ec88d4016804d49380f2caddffdb5d84f00",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "HunterBud",
+        "signatures": [
+            {
+                "signature": "db8621f32e5180e83ce2c1498aba412ec1f770c0684189fad2a562f533794cc971e11b90a12d89cf216c180fec613c8deba58c37334356135bed6d97ccbdf603",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "HunterBud",
+        "signatures": [
+            {
+                "signature": "eab016089ad76d1384ee43534fd7ef72cf541b61ff9465e749001736959511170e4a9e7144edb8c6b61b5cccb51528afead00c293b248a7e7b6844494d5f9b0b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "fc82351193d272dbc08ef19cdec495ffb54ec0993542a19c23d932e0d66b70b38c0f45de4855d74388f129d81eb791ab2bd752fd4ce63ef1c60529e2a6ad880c",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a06eb4a828200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "HunterBud",
+        "signatures": [
+            {
+                "signature": "96ccffd57dbdfb6211429030b53171c00e8f8d10221e6af3a931d533940ae5a475a101481a4ff597513179f4b82a87d8f50ccfb9fdebc56930985ac0e0b62e0f",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
