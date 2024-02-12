@@ -1,11 +1,11 @@
 {
     "subject": "6e6098846537ca48ff18eac70b7f5040c69ba2c5570521b6eb00fdf56461646479",
     "url": {
-        "sequenceNumber": 2,
-        "value": "https://daddy.meme",
+        "sequenceNumber": 3,
+        "value": "https://daddycoinada.com",
         "signatures": [
             {
-                "signature": "842a51aa0ad1c0032ccaef8ecdc2aa433707b8ef1a32a6467f3d0559f67862c4b5439b318583e8b1cb18bb6311885ccb64aaf79124ea5dfb5f004c9c10f43b0f",
+                "signature": "356e5b63c0b535b6a386a61607bb004b3e1bc2e2fdd9d2f017604d71160562ed9a5cff216d4703a3e39643b343a50b0a64e3f369ff74fad961349e1804b7e90f",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 2,
+        "sequenceNumber": 3,
         "value": 0,
         "signatures": [
             {
-                "signature": "780529fea843bdf6ac22bd52c4c24bb49487a4b2be2412ee182f57016a1cda521a6207c17fd625aa92ab2c8c755e8c7492a1fc5e9b5ab8618dbd3bd04e569b08",
+                "signature": "bbdd333135f8da92d9eb99ae1931c49da5a7de398a68625c918287315e37c9984916e3c8ea7a5a8fbad386e05375e9c5a98fc1184a8990d9a08a626fe1833700",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 2,
-        "value": "Who's yo $DADDY!  Because meme coins need daddy's too.",
+        "sequenceNumber": 3,
+        "value": "Who's yo DADDY.  Meme coins need daddys too.",
         "signatures": [
             {
-                "signature": "1316c22b045341a9520d35db9324b66167c5d7e0741f8a56e3ea51fd5b58b035028983752e683138fea8f64377eba8ae7dc7d9ffec52398cbd40b48796f9ad0b",
+                "signature": "3ba50824773eaa2397ff6fd5fd9451e179ea6b8e709fa00a33f9c4de4fe2f5067d8ec9b8c1d8005aa694bd6d244d14dc22a9469e90a13986775594b8d901bb00",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
