@@ -12,7 +12,7 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "AIADA",
+        "value": "GPTAI",
         "signatures": [
             {
                 "signature": "259b88e68e638be439f22284426341caee8783e4b8e01e8d5977ccb7e81d20b991fa9c24506e7352aecd576cf0ab19a799dc51acb5d50c1186832a05824b6f0e",
@@ -22,7 +22,7 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "AIADA",
+        "value": "GPTAI",
         "signatures": [
             {
                 "signature": "f79ee58b0d9f1cfe75c78be0c42ee6c83c1d88939279b01593cba63652090ce6330545552e6526676cf52032d4f393e550cbc3414b4c8a59da0305a964b5d600",
@@ -53,7 +53,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "AIGPT",
+        "value": "GPTAI",
         "signatures": [
             {
                 "signature": "5deb20471491e345d0c03f3a8f71873046432450c3f652193b89e28957ae0b4ed8b5ec3bd2700f0b145d93b527573f2cef50cc2c4a09d80b0d724bd32ecc5100",
