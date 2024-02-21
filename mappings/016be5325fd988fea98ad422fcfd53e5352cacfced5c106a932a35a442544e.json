@@ -51,7 +51,7 @@
     "sequenceNumber": 0
   },
   "decimals": {
-    "value": "6",
+    "value": 6,
     "signatures": [
       {
         "signature": "2d00c5b8451845608fcd6c7bdc8b4862333ca904938e7630f5309a71f6592afe967652988804a45f8568b3e27a05d7d71dfabb2da10f9764554ba8aea7124701",
