@@ -21,12 +21,12 @@
     ]
   },
   "ticker": {
-    "sequenceNumber": 0,
-    "value": "NOV4",
+    "sequenceNumber": 1,
+    "value": "NOVA",
     "signatures": [
       {
-        "signature": "258a18f58dc98fb34638c7a388e486f06774552c28fa2ec9a68c469ca0f9e75a87db5adac86d9c4b159430c01866efb5c922ce0028ffa16962a6b795f7be1d00",
-        "publicKey": "6a20d61ff3fef8ec6574aff7676d69702170f81e597901a4054a6cabaff5720d"
+        "signature": "787b56f125ee7830ddd7a79124a5ebeff5ce9e790d8d06507bc17f986778526264db7baa7d95fe75b019f9cce78f8bd6ed79d00c5ed641da237007cbdaef980b",
+        "publicKey": "07b52a0cdcfc094f30f3cb2bb715c08f8e26773689306ed02c78f561bba749b1"
       }
     ]
   },
