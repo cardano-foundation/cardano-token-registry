@@ -11,31 +11,31 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "Golden Snakes - $GLDSNEK",
+        "sequenceNumber": 1,
+        "value": "Golden Snakes",
         "signatures": [
             {
-                "signature": "ef800b7c1121ac2be52ab26109670c1a45ec836b42750cc9f452e55c0e69b8aa117dc5cffd2a33b5a0f247b1f73d02c673fb5d05f85b39d8c732428751e25e04",
+                "signature": "658a36cfb88792f20af4271d27921a2b72bcb0cd9e9ba73dfaad3c074387dc1d05430bfc95f679315818deb1ea02ed0b1694e06dff60c6ae3f228aeaa0c8db01",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "gldsnek",
+        "sequenceNumber": 1,
+        "value": "GLDSNEK",
         "signatures": [
             {
-                "signature": "59d774c5f97d758a9f6d7d9f726ed260d8ecda99643ee3844a670bf0e9d823b971fa5d0b433a765010d73c107f9e67cae6022e6bbb58fd61585ea09c462c040c",
+                "signature": "b5c0f1b84d24f5f3a6ad81a964955a86321615fecb3908ff5154621703e2e3dfb70f02415b9f0f5377b764539fa1041c3a2213eb7687dabba6b98d9adc027808",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "a38290c5c6ad78c01a608d8e52fa160de526046ca2b7734077470ae3fd1b2d2f3c9abc3051fdbc0a8012a714ef1ad355ed35de077a3ddc8f54a2814583ac9e03",
+                "signature": "043f1ed333a8e73cf326e06fcf5a2473c8b8a4db5b0d4bb0c2506104b0f6f3ce733bb0f68c6932cf4b14bf98087f428c176c03d6551081d25e45c766ce856d06",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The friendly snake community.",
+        "sequenceNumber": 1,
+        "value": "🐍|| The Friendly Snake Co. ||🐍",
         "signatures": [
             {
-                "signature": "393c130bca9ce635e08ed9f9f75cf78ae528d9d04a2e840a5003b68cf7e62ad234edd43db760c30367ea2deb4614a1e0352944885e0705d15a0416737227a40a",
+                "signature": "a0b5807a0d0c8fca9b3f83338c3dc097ef4abd4816db2480f5db83062e76ca99d469ad8ef91234970fce1555ab1d6f6fcc19f1a67cf680d5fae260a790b8c60d",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
