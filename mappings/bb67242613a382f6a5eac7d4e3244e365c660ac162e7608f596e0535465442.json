@@ -1,0 +1,54 @@
+{
+    "subject": "bb67242613a382f6a5eac7d4e3244e365c660ac162e7608f596e0535465442",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://Fluidtransact.io",
+        "signatures": [
+            {
+                "signature": "5ecb823e96e86b291b1100010e5549d52657cd57a4b927642bc01dcc8ebc0bd31022842f256198f492a5d129f57ecb4de10b2dd5c7811f6c6ea21ad171a8490b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Caitlin Smith",
+        "signatures": [
+            {
+                "signature": "202514ac6e0edac9f248c04f32f79e61952e4bd6592f510d21dcf75fbcdddc8cf9677e8b96e19e7d460f7a8f822423386c97eb0a1f608e9b0415874283916d06",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "FTB",
+        "signatures": [
+            {
+                "signature": "81a5258ee77649f5bd17eb3cc7dd7308084e90393058c5165e6c8ea408cb7e04ab88c973cc50885ffa4810cb4ce4435667f333fc7197d6952246e3663195af0d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "96be5f445039d8c90208c1c7c7cac9468d809f451105bfb3e559146a346518f67de4b8011d914133eb8f5a908cb1737fa44d2f9883aa2b2ab3a3d00f2c1df405",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a07024a838200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Fluid transact is a payment processing platform, a reliable way to unbored in web3.",
+        "signatures": [
+            {
+                "signature": "44a15cc37a402b4e2d321dd2f9cdda5ebf408add3715887d2726b675cc8765fb44fc42c4f60337db2589ed75a65341f22c858ed68f09df97890a184e46e1450a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
