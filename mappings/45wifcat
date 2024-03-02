@@ -1,0 +1,53 @@
+{
+    "subject": "192b4c5b02fc9863a4133eae1b2688dffd9da4eeac421125326c89ee5452554d50574946434154",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "TRUMPWIFCAT",
+        "signatures": [
+            {
+                "signature": "2b3480ea9d469391051c37a0b83038e8716f336d67e63e29d28ea1ba1a21482edc96840c2d27c9a781ed4a00af0ddc8eb462a49f254c50da0f3a0d700e108002",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "45WIFCAT",
+        "signatures": [
+            {
+                "signature": "06edca8cb7b8dad1de0fe09737c0d666116f145bc3e63190dc71f4f1086c7f6fc73ad16ca55cc044ad96bbcbcb4c2b2362aeaa8ec9503f3e71a887680a481904",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "5c22c4e8c2def476a79cb0e86ee973bd50f2ae3fcdfd649b6099a89e258642e2c9856c7803dc37598631b454fa2cfd03f39ed5a8effaa4b1ded1d3a0b2c34e0b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a070611ed8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "logo": {
+        "sequenceNumber": 0,
+ "signatures": [
+            {
+                "signature": "2f9cc67f123ca1ba8d7eda2bd44468ac139c01e2e587bdb2679a54da8bc91f63b8b8c0da79dba2205b84d1b86a9069f2dd6b1c1f19e5034ac0a317b4d07b0d03",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "WWG1WGA",
+        "signatures": [
+            {
+                "signature": "52955bd6186786f839e9ea846afcfca1a8da4b1934f5c4a2f44efe3413a6c282ac915a8471d7e1d2a1a6b2cecebe1b169c4a28bfbbefe0c350c9784b81f32900",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
