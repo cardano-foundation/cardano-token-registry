@@ -2,10 +2,10 @@
     "subject": "5dc56fd1ce4335f8be2020f3f836cd11022dfbbf462e198a93e9912662757368776966706c616e6573",
     "name": {
         "sequenceNumber": 0,
-        "value": "Bush Wif Planes",
+        "value": "bushwifplanes",
         "signatures": [
             {
-                "signature": "c5368f70f81c0c6b31804f8bb16bd9f165525511616c4640fc9564f0d8397d6be02607689aa83b588c19c01183baa28e504426965e4aa18568acfb62eeb09f0e",
+                "signature": "7d74ede094c97aa216e8f556f5e9f53fe37261488f87ed75541befb615a0de8b44e5e797c72e1ad4858fd60960f5212c03ebdec58d791c1694d146789affc606",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
