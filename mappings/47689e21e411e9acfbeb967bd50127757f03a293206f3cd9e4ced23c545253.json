@@ -3,12 +3,8 @@
     "url": {
         "sequenceNumber": 0,
         "value": "",
-        "signatures": [
-            {
-                "signature": "",
-                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
-            }
-        ]
+        "signatures": []
+        
     },
     "name": {
         "sequenceNumber": 0,
