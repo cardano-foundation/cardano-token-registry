@@ -2,20 +2,20 @@
   "subject": "8ce1093f62ee3ea2569b8752037321de079bdf723bd8b78db5998fe14652454e574946484154",
   "name": {
     "sequenceNumber": 0,
-    "value": "FRENWIFHAT",
+    "value": "FWH",
     "signatures": [
       {
-        "signature": "00e067f087a37082cbb7a2f7e8058ca4584debe34057cf0e60592b0e50628158cb0bb519b40296d2dc778c2521b306bf7bbe715580b72e044e1c4f05bab95f01",
+        "signature": "834d8833922c38dbf7d75259671b395e2808871266a9b7935b737539b34439ec45f1138cef795941b6916b5f182940dd7eb1984f32fd2645731a2458fff7e30a",
         "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
       }
     ]
   },
   "ticker": {
     "sequenceNumber": 0,
-    "value": "FRENWIFHAT",
+    "value": "FWH",
     "signatures": [
       {
-        "signature": "7444a6ae8982efe3890ca5ff0a53a73a55c61b2fe0f9f7bc498845943a5d4d8690b2952b47c18cc49f1d58aee19af6aaa49b35d8a4cf71d40ac467ce740e1d0c",
+        "signature": "98f08194de8a341e5ad387f12ab550b0a46656ac70aeb8ec7f2dd4e48476980676c1de2a0d553847d922b7c88f46a6253c403b035e85c3ef817c91f8c4c26908",
         "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
       }
     ]
