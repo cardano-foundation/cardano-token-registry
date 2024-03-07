@@ -12,10 +12,10 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "FRENWIFHAT",
+        "value": "frenwifhat",
         "signatures": [
             {
-                "signature": "5e0f045e17ef8effd94d3e07298f7d2371cc266b9658102c3a4abfca5f56bd53e57f1fe432a6c7b94b372a1ffa28e4cc79ecf47afaa7b62331a4408adad4b301",
+                "signature": "57ed52a6d6271a7d4d6b485420a0eb63fedd61de0b6309c55be20b4d7c7f201764c5d7cfc0160b11b6010be4e964d0fff33d0f81c7a6010a17a7ba200028e50f",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -25,7 +25,7 @@
         "value": "FWH",
         "signatures": [
             {
-                "signature": "5bb8df39fa60d211288b6ca57b9e65a973a58eab3cba83ee5a193770912777211c614f025b7e56b4fd99ffc115a34bb5d68464c3113a9a574e59f2552ac3940a",
+                "signature": "5ede17de719be071f0a2539e4cee118091587a5d81527111e5b30061139bc614b9a87c365a0880e2b585002f87afb804fdce34aa7fdde420c402b1fa02d82f0b",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "A $FRENWIF in need, is a $FRENWIFHAT indeed",
+        "value": "A $FRENWIF in need, is a $FRENWIFHAT indeed!",
         "signatures": [
             {
-                "signature": "f5bf97230f6c118136b504595add985f385fdf34c2bc73141bd4992253b0753866b0d4bd44d90b5ecbc14826c8f77244c75149f7e447374e8239038d2df3c208",
+                "signature": "3fbfbcc53d8d5df64bf0cc25020c2b9b6fb850fb9e371efaeda9f5845bdc91cf078cf6c57d9f5f3651787c61a1a5a1f340767c26156eaa34a801dc8a73aad702",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
