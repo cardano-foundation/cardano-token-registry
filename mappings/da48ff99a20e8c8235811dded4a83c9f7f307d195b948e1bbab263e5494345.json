@@ -1,15 +1,5 @@
 {
     "subject": "da48ff99a20e8c8235811dded4a83c9f7f307d195b948e1bbab263e5494345",
-    "url": {
-        "sequenceNumber": 0,
-        "value": "https://intraconnection.io/",
-        "signatures": [
-            {
-                "signature": "8e42681892651fd60e0744bfaafc68b8785fdd20304f51e06abba9f67e0bad1281fd44b91b274d6ed204f6959729ab2306819c00bda831d5b99e144b0b831c08",
-                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
-            }
-        ]
-    },
     "name": {
         "sequenceNumber": 0,
         "value": "ICE",
