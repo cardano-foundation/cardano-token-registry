@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "First cannabis related meme token on the cardano blockchain.",
+        "sequenceNumber": 1,
+        "value": "Raising the bar on Cardano with some top shelf weed.",
         "signatures": [
             {
-                "signature": "f25aa0a3b309e126c655d715de8166c878d80f64f60b95412a89768c9aecc56205313ae57ccca082cfa977421fe78afab798fc991db04cce8685f47a22a87307",
+                "signature": "0ef3c1bbf5d86925c9473846343e84396117b6c4a38d13a7e72992a607cc2f171646a735f92e930e4e3656fc880678c84384085ac591031d4954e8cb2789ab05",
                 "publicKey": "21a33cab2b9b9b123998c1f791188672d63b872ea569f6dcd06a74f5f1c7c1af"
             }
         ]
