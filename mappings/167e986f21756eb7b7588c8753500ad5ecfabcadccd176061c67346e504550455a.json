@@ -1,0 +1,44 @@
+{
+    "subject": "167e986f21756eb7b7588c8753500ad5ecfabcadccd176061c67346e504550455a",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Arnold Pepzennegger",
+        "signatures": [
+            {
+                "signature": "2c90fd29e966e8933038028af1defc1da4938a7235931cee55ca5c02246c420f0a3a65b3fb4d4b0311e7e8f451724c4799d0f17fc1334ae7c96f828cd621450a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "PEPEZ",
+        "signatures": [
+            {
+                "signature": "60c7ab96d49cbd6f70229b181a905b23ba58c933cdf3cfffb8e0fcff63e4cd878e41a8dce71bf0f4f5f46a2a12f497e2bd19d5989621c93aa4ce4a778e01d80f",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "3c51436f06da1c2cb7f2b66b93c3d9089f3db5c07cce662387125119f02e05a8b270f78e5b1d0fabe8f065e94a735973fc823ec8ed2f1cfd3c76a44aac9c7004",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a07160ea58200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Featuring Arnold Pepzennegger in Pepe the Barbarian & The Pepinator",
+        "signatures": [
+            {
+                "signature": "f675bcefd3ff3c2a17cd0790b6a85c547234a926d4e3a80f46b4e0803814fd99a0d6a2359652c4171140ba185dc5975011557b9e4f07ce1f0562c29edf0da00c",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
