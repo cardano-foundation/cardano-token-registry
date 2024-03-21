@@ -1,0 +1,64 @@
+{
+    "subject": "c051258fa18739d7a4de37b2c3d232bd1bfb0d9c102bdafcf29ee202426c7565205472656573",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://bluetrees.info",
+        "signatures": [
+            {
+                "signature": "c8a60a80734add403e7e787ea3870c9d272e93604954aa6ff2996b3e2c574365f4ea027b2c3389a9744e6b043b202b32ee4b8a363b4ad8b6c491077b31b2a907",
+                "publicKey": "21a33cab2b9b9b123998c1f791188672d63b872ea569f6dcd06a74f5f1c7c1af"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Blue Trees",
+        "signatures": [
+            {
+                "signature": "84c0e6b3d8bb5b76bf86fac23000176d3766e6b07d253d2c7600ab121b82d3313bbe95c76d99d2b69a8dae14b114e19ec6aca9698caea477e37806070e423e0f",
+                "publicKey": "21a33cab2b9b9b123998c1f791188672d63b872ea569f6dcd06a74f5f1c7c1af"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "BTREES",
+        "signatures": [
+            {
+                "signature": "3666befb34c4fabebe3aec5f228b0567ffc52005fb2998550a8d8f17c004f7efeb76060ff3a21a9fa4fa4b77ed403f3eed3bc36743c2c4e2060f67a4426d370b",
+                "publicKey": "21a33cab2b9b9b123998c1f791188672d63b872ea569f6dcd06a74f5f1c7c1af"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 4,
+        "signatures": [
+            {
+                "signature": "4565596462e615e7f9b0942402948a51ce2414823106bc3f10d2e17dba8ce9a972a16248b42277419f1d872c2f0b24c8cd864c626603d93677ab1e4ef183b006",
+                "publicKey": "21a33cab2b9b9b123998c1f791188672d63b872ea569f6dcd06a74f5f1c7c1af"
+            }
+        ]
+    },
+    "policy": "820182018282051a071ba0668200581cf6b0c61d7a403b8f0e10216fa4e03ff2e5338cd5b4ee9c73ae8a008c",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "03015ea53bae05e3018867658e62699d2548da29c4df4a909dd713bb9b0b97299f6903ff07c969e8b7ba25ffa28cab41c57d4378bb440ea9a1a62c00248ec702",
+                "publicKey": "21a33cab2b9b9b123998c1f791188672d63b872ea569f6dcd06a74f5f1c7c1af"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 1,
+        "value": "Raising the bar on Cardano with some top shelf weed.",
+        "signatures": [
+            {
+                "signature": "0ef3c1bbf5d86925c9473846343e84396117b6c4a38d13a7e72992a607cc2f171646a735f92e930e4e3656fc880678c84384085ac591031d4954e8cb2789ab05",
+                "publicKey": "21a33cab2b9b9b123998c1f791188672d63b872ea569f6dcd06a74f5f1c7c1af"
+            }
+        ]
+    }
+}
