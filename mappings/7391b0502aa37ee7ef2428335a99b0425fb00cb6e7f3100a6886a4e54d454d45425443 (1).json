@@ -1,15 +1,5 @@
 {
     "subject": "7391b0502aa37ee7ef2428335a99b0425fb00cb6e7f3100a6886a4e54d454d45425443",
-    "url": {
-        "sequenceNumber": 0,
-        "value": "https://www.memebtc.io",
-        "signatures": [
-            {
-                "signature": "21504c6f184f908a8f9a49ca92f919e50067c2df9698666a33ee8cbc898b8778ae4749ab5b50d6e92b97b52989092d63de26cfcbd6dd1c1fea63be8c881b3c0d",
-                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
-            }
-        ]
-    },
     "name": {
         "sequenceNumber": 0,
         "value": "MemeBTC",
@@ -53,10 +43,10 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "MemeBTC: Bitcoin's meme-ified cousin on Cardano! 🚀 Limited 21 million supply, fueled by laughter, and built by the meme community. 😂  Earn MemeBTC, shape the future of meme-tastic finance, and show off your meme game! #MemeBTC #Cardano",
+        "value": "MemeBTC: Bitcoin's meme-ified cousin on Cardano! 🚀 Limited supply, fueled by laughter, and built by the meme community. 😂  Earn MemeBTC, shape the future of meme-tastic finance, and unleash your inner meme lord! #MemeBTC #Cardano\r\nTotal Supply: 21 Million. We are not financial advisor, invest wisely.\r\nhttps://twitter.com/MemeBtc21",
         "signatures": [
             {
-                "signature": "85792727344b47981a9d2a1a4fac97a5bd27a0ed1ea558628aed6527348f29e258e0ac9dea23807b56657cc612589af1b748e6dbc883d55f5c43140cc5cbd106",
+                "signature": "1cf7c9ccfe6c297556c900d63e11fd0888656b14080c2bf688182e38030f73a830b6c469b7cbf0d20396c8b02f224eedd3f0d098db25ca6690dd682f06911e0e",
                 "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
             }
         ]
