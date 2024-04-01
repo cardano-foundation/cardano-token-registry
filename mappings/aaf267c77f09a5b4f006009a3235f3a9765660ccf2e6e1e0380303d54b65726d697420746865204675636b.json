@@ -1,5 +1,15 @@
 {
     "subject": "aaf267c77f09a5b4f006009a3235f3a9765660ccf2e6e1e0380303d54b65726d697420746865204675636b",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://kermitthefuck.com/",
+        "signatures": [
+            {
+                "signature": "62d33b1c9fbca41294044a5b56b06f4c891ce014864606a88379ec44e24128f30f44ee652111340cee2d34b80710ea2e26972bb05a8dfac9963cd04ff4bdd60e",
+                "publicKey": "851f28f014dcf0b79664ab8c1408fc2abfca61215e78fce34dfa07160fc2548f"
+            }
+        ]
+    },
     "name": {
         "sequenceNumber": 0,
         "value": "Kermit the Fuck",
