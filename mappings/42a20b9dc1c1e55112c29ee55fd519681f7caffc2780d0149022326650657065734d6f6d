@@ -1,0 +1,64 @@
+{
+  "subject": "42a20b9dc1c1e55112c29ee55fd519681f7caffc2780d0149022326650657065734d6f6d",
+  "policy": "42a20b9dc1c1e55112c29ee55fd519681f7caffc2780d01490223266",
+  "name": {
+    "signatures": [
+      {
+        "signature": "fa1060aa78ffe6ec3e846f933dfbf8b3fadd948c194c3175202cd09460aba6c16116f493bb3f3e137c9bbbfcef52c61c9abc55a1334ddaa2510059bc18368f09",
+        "publicKey": "55b82c0fa98ad7867b2612829d3a65285174b8e084a6a2aa308cf833"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "PepesMom"
+  },
+  "description": {
+    "signatures": [
+      {
+        "signature": "977aca4b8e09ab2615ad6a3e2e29c91b4e31239668a8d811c44a65c050402ef56b6e741fc2126cb25c99902005f1c287cfa2ef60c8bd412f778b19348fcacb01",
+        "publicKey": "55b82c0fa98ad7867b2612829d3a65285174b8e084a6a2aa308cf833"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "Pepes Mom has got it going on"
+  },
+  "url": {
+    "signatures": [
+      {
+        "signature": "fa1060aa78ffe6ec3e846f933dfbf8b3fadd948c194c3175202cd09460aba6c16116f493bb3f3e137c9bbbfcef52c61c9abc55a1334ddaa2510059bc18368f09",
+        "publicKey": "55b82c0fa98ad7867b2612829d3a65285174b8e084a6a2aa308cf833"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "https://www.twitter.com/Pepes_Mom_Ada"
+  },
+  "ticker": {
+    "signatures": [
+      {
+        "signature": "977aca4b8e09ab2615ad6a3e2e29c91b4e31239668a8d811c44a65c050402ef56b6e741fc2126cb25c99902005f1c287cfa2ef60c8bd412f778b19348fcacb01",
+        "publicKey": "55b82c0fa98ad7867b2612829d3a65285174b8e084a6a2aa308cf833"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "Mome"
+  },
+  "decimals": {
+    "signatures": [
+      {
+        "signature": "fa1060aa78ffe6ec3e846f933dfbf8b3fadd948c194c3175202cd09460aba6c16116f493bb3f3e137c9bbbfcef52c61c9abc55a1334ddaa2510059bc18368f09",
+        "publicKey": "55b82c0fa98ad7867b2612829d3a65285174b8e084a6a2aa308cf833"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": 0
+  },
+  "logo": {
+    "signatures": [
+      {
+        "signature": "977aca4b8e09ab2615ad6a3e2e29c91b4e31239668a8d811c44a65c050402ef56b6e741fc2126cb25c99902005f1c287cfa2ef60c8bd412f778b19348fcacb01",
+        "publicKey": "55b82c0fa98ad7867b2612829d3a65285174b8e084a6a2aa308cf833"
+      }
+    ],
+    "sequenceNumber": 0,
+    "value": "ipfs://QmT62CbSu8tR5iCJGuhqdBtuzNvvzjNCcMseXJxiaCDczK"
+  }
+}
