@@ -1,0 +1,54 @@
+{
+    "subject": "36f9e394b63bac4fd8aae236adb6fb5a45aac2d774ab220b96226eee424c41434b",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.x.com/theblacksnek",
+        "signatures": [
+            {
+                "signature": "24c837cc21e680664806d565d95dba2ed47875ee89067a02b5038295615146aebb0dac4ccfbfbe9b2c34763650fe43e9cad242dc5cb24afd14fd2f3c84e7b30d",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "BlackSnek",
+        "signatures": [
+            {
+                "signature": "4f9ea6069a1dff90a3a1f32cbfddd7d0498b6a28c8c21d177e7debe12c0fa8e93cd66ed47383c9d96ef5cc390408766e0b7ab2c85a22c6dec1396a5219923a08",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "BLACK",
+        "signatures": [
+            {
+                "signature": "31d85fffcaee10fd249f6c5944e352d8c6a30baa665d4a02e6b2eb469f67d3d7f0c2a0509a04b1ee5a4d9613be33ec48f47ed5f75687a48d15f83c41f97fda0a",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "b6b433daacd34e092b32916cb960c770d52b9cb38513974c3f461ce1f6b9dfcceaefb9c50e55eee6eb09a81c14743ee6284e80e934b7382f337e420b11da4f02",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a07301eac",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The blackest shitcoin on Cardano - In BlackSnek We Trust",
+        "signatures": [
+            {
+                "signature": "7250b04b4eac64222bc55483123ecfd3cd248ae583aeba540f2877fb9f7b306670d8e48676fafd99fdfb85bfa871565d9f71db108004c9022e31e1f73b8d5d02",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
