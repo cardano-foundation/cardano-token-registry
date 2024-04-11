@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "Raising the bar on Cardano with some top shelf weed.",
+        "sequenceNumber": 2,
+        "value": "Mountains are just stoned trees.",
         "signatures": [
             {
-                "signature": "0ef3c1bbf5d86925c9473846343e84396117b6c4a38d13a7e72992a607cc2f171646a735f92e930e4e3656fc880678c84384085ac591031d4954e8cb2789ab05",
+                "signature": "34c3b46010748e836a319222589ea77cad75c795f576b57bab90a27a3ecfafa323d8774aa4931d9d4fe93d79172eb3caceab4a744c96081f5dbd9287c9dc8c0b",
                 "publicKey": "21a33cab2b9b9b123998c1f791188672d63b872ea569f6dcd06a74f5f1c7c1af"
             }
         ]
