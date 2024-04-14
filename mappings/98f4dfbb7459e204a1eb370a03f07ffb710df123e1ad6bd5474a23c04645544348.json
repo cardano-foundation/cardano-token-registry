@@ -1,8 +1,18 @@
 {
     "subject": "98f4dfbb7459e204a1eb370a03f07ffb710df123e1ad6bd5474a23c04645544348",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/FetchCoinADA",
+        "signatures": [
+            {
+                "signature": "362bb38f42e635015a31bc6f9c4dbdb5275f70932057223f9bd233a07618af6b1d2fbdfb22058135a20b6a6c8b504d69cfd1f65b02c8bb6968269cbb5b037c0c",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
     "name": {
-        "sequenceNumber": 1,
-        "value": "FETCH",
+        "sequenceNumber": 0,
+        "value": "Fetch Coin",
         "signatures": [
             {
                 "signature": "930d502d0d9abaeb66cea263b759e7eea3c27cd7390a816f31a3ea8062e27498263e71ec0f73d49b0d0735e00261b2f706b2476a1560aa763ed2735805688f07",
@@ -25,7 +35,7 @@
         "value": 0,
         "signatures": [
             {
-                "signature": "5309ebef4ec2b013fa141a1f60ea145ab4d753f675af31ed991df84a029422f7ccc636cecfff1452f558038fd825f700877fbe896689d83d310262ffdce26601",
+                "signature": "52db9d460980f5f7ed0edbb4de9ff2bd03094fe2b4f51096ebab31d0bc85c65ad03252cb606d0a018c696b7275029918041fd7cbed4042756e30d07f7614400b",
                 "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
             }
         ]
