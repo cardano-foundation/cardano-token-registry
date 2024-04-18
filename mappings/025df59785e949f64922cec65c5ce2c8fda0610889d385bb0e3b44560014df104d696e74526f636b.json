@@ -44,11 +44,11 @@
         "signatures": [
             {
                 "publicKey": "fab3f76345a1f0f49a76ac57aeca6d59d2704e54a442938666ee2918fd3dde16",
-                "signature": "b6ab78864dd5cae81f447fd7bc1980371f9f7b578f554cbd513db4c6018d0f8f7a2f03d8ea2d181651ed8274e33ffbcf81cfc6820b93ea788bc57d3138e8bf09"
+                "signature": "5625cea6220ca031556365213c9078433531e0aaf7bb050420086095034830aaf32d39bb8902930d1198c3ec4bc3a9429a8dccc877191ba5fa023d0b47e9990c"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "TKN"
+        "sequenceNumber": 1,
+        "value": "MROCK"
     },
     "subject": "025df59785e949f64922cec65c5ce2c8fda0610889d385bb0e3b44560014df104d696e74526f636b"
 }
