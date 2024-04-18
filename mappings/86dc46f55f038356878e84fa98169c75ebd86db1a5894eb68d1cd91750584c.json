@@ -5,7 +5,7 @@
         "value": "https://www.itsapixel.com/token-policy",
         "signatures": [
             {
-                "signature": "8de61cb0189f0f8fb62622da52cb91f2a9540c082882eced3d044c21afc9b77f30ef8dbb0d4692b5a345d867bfa0f76d13103e30d61c10f54cd7be7704a1bb02",
+                "signature": "fd912cb59ac56855a129d1127c8a3f9d643e446e62efeb1c59325bd9476e3e6bc5ffc7a621c70351ac17d29be46d2079cc32a4c7e672b3cb006b4f55e7ea9d0e",
                 "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
             }
         ]
