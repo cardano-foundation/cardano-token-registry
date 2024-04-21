@@ -12,10 +12,10 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "Blue Trees",
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "84c0e6b3d8bb5b76bf86fac23000176d3766e6b07d253d2c7600ab121b82d3313bbe95c76d99d2b69a8dae14b114e19ec6aca9698caea477e37806070e423e0f",
+                "signature": "22af160e9332376ad0eb11b7bfbe3e3c7ce15c0b9c12e54bd90758c9c26c21936db7048452a33f1c8447e8cbc20e7faa81a0de3ce237392af4cae5deb423a80b",
                 "publicKey": "21a33cab2b9b9b123998c1f791188672d63b872ea569f6dcd06a74f5f1c7c1af"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "Raising the bar on Cardano with some top shelf weed.",
+        "sequenceNumber": 0,
+        "value": "VOID",
         "signatures": [
             {
-                "signature": "0ef3c1bbf5d86925c9473846343e84396117b6c4a38d13a7e72992a607cc2f171646a735f92e930e4e3656fc880678c84384085ac591031d4954e8cb2789ab05",
+                "signature": "51708bc708074f9a8508c434262d029de717122d4a1e1315da915f5bfcffcbf7ff8d7ae5528107d84230bb63e71d1e21a122e839a61cda2731b5804b4dd5e604",
                 "publicKey": "21a33cab2b9b9b123998c1f791188672d63b872ea569f6dcd06a74f5f1c7c1af"
             }
         ]
