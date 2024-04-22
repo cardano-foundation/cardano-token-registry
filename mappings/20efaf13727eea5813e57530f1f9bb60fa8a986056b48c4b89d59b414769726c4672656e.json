@@ -1,11 +1,11 @@
 {
     "subject": "20efaf13727eea5813e57530f1f9bb60fa8a986056b48c4b89d59b414769726c4672656e",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://discord.com/channels/@me/1229537723568750622/1230733620340199434",
+        "sequenceNumber": 1,
+        "value": "https://discord.gg/KpmsznRf77",
         "signatures": [
             {
-                "signature": "1d22daf863f4e8865508cd88a30dc4f30723d6a86d712445d359db79abb9b68481016353fcb689451a8c701580c327589288c25f2733acc43710828c623cfc0c",
+                "signature": "4d506253c3146fce35c5708253379c3b67402b31af4a96c4e216d400b0b9a9b9ac6bd1382a56fc4d994ad92b3e4cbdc27b9b730be43c5176aae4318a8c61d300",
                 "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
             }
         ]
