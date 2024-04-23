@@ -1,7 +1,7 @@
 {
     "subject": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448",
     "url": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "https://indigoprotocol.io",
         "signatures": [
             {
@@ -15,7 +15,7 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "iETH",
         "signatures": [
             {
@@ -29,7 +29,7 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "iETH",
         "signatures": [
             {
@@ -43,7 +43,7 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 6,
         "signatures": [
             {
@@ -67,7 +67,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "Cardano native token that tracks the price of Ethereum",
         "signatures": [
             {
