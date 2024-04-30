@@ -1,0 +1,43 @@
+{
+    "subject": "562528941027f8d6af7d9c8a7cf1f7b0077a09b81ec019283ffba7da",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid SNEK Liquidation",
+        "signatures": [
+            {
+                "signature": "493c2ee1d0772f25135235b6863bc142d412f6dfb8a2a961f376bf59a65f519baa77c273c6556b21ca06318b8beb09372b75cba2f4d55a168fccd4275fcc8a07",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "SNEKLIQ",
+        "signatures": [
+            {
+                "signature": "95e38349aefe44b1dd95257e3d821464c32a02eb895eed4621018de709565db9ac08ddc6be44b8ed1b0a92c35614f57ae03d22838214c72397d0ed18de4bce01",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "a5a5057188ad690524ce224a80b80a861eb9f32ceac91044a2fea804e82f1705258cbe01d78353534ff0a44db126b1ccd6885eb06b0d23078318beb20719060a",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid SNEK market",
+        "signatures": [
+            {
+                "signature": "5faaba37418d46e59294748d3bc4b0b9edb618c90c2de93a73b2373b74904cdc16e305c814b1bb182ad9a481061e188aa1947110368529085a8eed6b5df96f05",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    }
+}

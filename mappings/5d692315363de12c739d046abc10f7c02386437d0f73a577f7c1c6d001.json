@@ -1,0 +1,43 @@
+{
+    "subject": "5d692315363de12c739d046abc10f7c02386437d0f73a577f7c1c6d001",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid SNEK Borrow",
+        "signatures": [
+            {
+                "signature": "9f592a7c2c24774f9a30f0e1992221a30a14b329fc483e16f4dc3147a18353c3c938ecafbb00f453f84b17614599ccf2be2cffc7f666e4197a92a4afa6976d06",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "SNEKBOR",
+        "signatures": [
+            {
+                "signature": "34647740e706c334dafda567a05dc490dab2ad7e14b878a4d72c4db9051e8127fc0cae2b897f59da167ce9d9ddf6a9d9ebef1715b1919c2d96382661cf989301",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "30b8e5592b77c55189c6fb402fd5e7b64e4a92284e5a027b9c97a51a4fc7aac834a67236c4f5e30b33685b655fb055d996ead132a5e1c5eb77e57fbdc1f46c04",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid SNEK market",
+        "signatures": [
+            {
+                "signature": "9ca1112e282bd3072d84c017e3265962ebf5b326776d7ad3f9205d0629a3ee0526f2961f04232b2f691426a34d9643846eec20c94795c6fa0bb63e20773fb809",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    }
+}
