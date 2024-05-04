@@ -1,0 +1,21 @@
+{
+  "mintingPolicyJSON": {
+    "type": "all",
+    "scripts": [
+      {
+        "keyHash": "91d203ad862c92c17d20b0f963b4b2188efcae5b7a68d7446591afea",
+        "type": "sig"
+      },
+      {
+        "slot": 123265753,
+        "type": "before"
+      }
+    ]
+  },
+  "policyPaymentEnvelope": {
+    "type": "PaymentExtendedSigningKeyShelley_ed25519_bip32",
+    "description": "Payment Signing Key",
+    "cborHex": "588018b5d9e364556114822f781e7920d8485e12e07de8af445e5966d0bba783965b2a4912c9b1def51535d67a90541fe1f4815fae6ed4d9f10cecb66ce8251c036ea2857e900ddf2d00f8229a7367056607cd52565e9b557ac0b4885262f56fff6307db7f244aee26d195b8c8191f4ed9f47d1a3bd586b4266103ef18187f3d1891"
+  },
+  "txHash": "899a45b99da505bebf51dfef9141772d4b35bef3bef41f8e992bb3d71db87339"
+}
