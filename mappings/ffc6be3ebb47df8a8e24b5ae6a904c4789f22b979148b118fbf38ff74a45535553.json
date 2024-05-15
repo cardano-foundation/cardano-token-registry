@@ -1,21 +1,21 @@
 {
     "subject": "ffc6be3ebb47df8a8e24b5ae6a904c4789f22b979148b118fbf38ff74a45535553",
     "name": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "JESUS",
         "signatures": [
             {
-                "signature": "acfaf5a372a1c25ce61f00343551af2d3486d81b9902bb635072e7ba75c1db7f53aa3a355d54cb74efa78d1df09ec70e62b0c614a03885bc73ab1aa4fd147406",
+                "signature": "bb6b55d05d48510adebf37d53d1b29dc81b3bc2b0b98467eb7d49eb17b17c824b28c4f3c92ce9575e6db754ae2794e141c9f7a84cd824e41730daedea3d4740a",
                 "publicKey": "23f63cf65771d94f8b6b0cf0f924940590235c709f71c86223c87e36e3656088"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "TIK",
+        "sequenceNumber": 1,
+        "value": "JESUS",
         "signatures": [
             {
-                "signature": "6d025adae6a5f2b56493ad2db3aca37aeb2d5ce5565b90531c5aecf5f0ffa9772d3544c197fbb09f826faea00978f824935f6a50e5875b0a7fa125ce01ba4709",
+                "signature": "f7d9c76c4d3d265017068233c161df81380f130e4f3687bc07d7059e60743f52475fefd9aa54944fc3ae898441165f40b6e86b9054f362254420eba3356aaa0f",
                 "publicKey": "23f63cf65771d94f8b6b0cf0f924940590235c709f71c86223c87e36e3656088"
             }
         ]
