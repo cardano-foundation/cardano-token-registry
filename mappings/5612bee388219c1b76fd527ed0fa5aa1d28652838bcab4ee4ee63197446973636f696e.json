@@ -7,6 +7,10 @@
             {
                 "signature": "fac692c88da55d86cbe172c80e23036d1f80922feb2e3c8ac38f4a95184061a1e0df619203d75807c7e8065bd5f10686e81f3c1f8eb1bf6b1f5d25259b5a9c07",
                 "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
+            },
+            {
+                "signature": "fac692c88da55d86cbe172c80e23036d1f80922feb2e3c8ac38f4a95184061a1e0df619203d75807c7e8065bd5f10686e81f3c1f8eb1bf6b1f5d25259b5a9c07",
+                "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
             }
         ]
     },
@@ -14,6 +18,10 @@
         "sequenceNumber": 2,
         "value": "discoin",
         "signatures": [
+            {
+                "signature": "e09a609c8c6ef1a634fd0f102d6b8ebd8a71f545d2e97637c94c41637018b0f89e086d9f553480e7d3abd345842ee729a7147f75555b2dd76cf12484f2f15c05",
+                "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
+            },
             {
                 "signature": "e09a609c8c6ef1a634fd0f102d6b8ebd8a71f545d2e97637c94c41637018b0f89e086d9f553480e7d3abd345842ee729a7147f75555b2dd76cf12484f2f15c05",
                 "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
@@ -27,6 +35,10 @@
             {
                 "signature": "e68eb188aaa3e1654f75bed76ae5569300431af9fb4c7328d350355a62c0c35855e1f63e612c5c7bd664b320367e127ed26aa93080c69909f081397224e00606",
                 "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
+            },
+            {
+                "signature": "e68eb188aaa3e1654f75bed76ae5569300431af9fb4c7328d350355a62c0c35855e1f63e612c5c7bd664b320367e127ed26aa93080c69909f081397224e00606",
+                "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
             }
         ]
     },
@@ -34,6 +46,10 @@
         "sequenceNumber": 2,
         "value": 8,
         "signatures": [
+            {
+                "signature": "5c3fdb637a0c567519a0c108940e3541e958e4cfd969324c807666a944343c3c8e215918cb558969952d9fe8a66a585a66b542fa1d86d80f1c78f20c5c0e1f01",
+                "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
+            },
             {
                 "signature": "5c3fdb637a0c567519a0c108940e3541e958e4cfd969324c807666a944343c3c8e215918cb558969952d9fe8a66a585a66b542fa1d86d80f1c78f20c5c0e1f01",
                 "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
@@ -47,6 +63,10 @@
             {
                 "signature": "344c9acbd2b2fcd60f49e6efe899411a87a1eea3e728f2f247a435e710a6fd04f36efe7d1731e38c568e50761ecf66e7a8cbc9ed4f8aeedaa764e2dd691f5702",
                 "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
+            },
+            {
+                "signature": "344c9acbd2b2fcd60f49e6efe899411a87a1eea3e728f2f247a435e710a6fd04f36efe7d1731e38c568e50761ecf66e7a8cbc9ed4f8aeedaa764e2dd691f5702",
+                "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
             }
         ]
     },
@@ -54,6 +74,10 @@
         "sequenceNumber": 2,
         "value": "discoin",
         "signatures": [
+            {
+                "signature": "76d64b5cace5a696228fd5318fbcca5ab0fc1a88ddb55b1823361dc39f1ee447159e7daace3f407882a6ad6a2d3470183a9e4b6d58c65fc8fe11734e0dbdee03",
+                "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
+            },
             {
                 "signature": "76d64b5cace5a696228fd5318fbcca5ab0fc1a88ddb55b1823361dc39f1ee447159e7daace3f407882a6ad6a2d3470183a9e4b6d58c65fc8fe11734e0dbdee03",
                 "publicKey": "3de04d6dc537dc6b90be40cfdb998e608ed6e791aa89bc077c3e5e235715658d"
