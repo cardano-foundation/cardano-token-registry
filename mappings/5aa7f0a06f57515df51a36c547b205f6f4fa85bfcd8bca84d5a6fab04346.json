@@ -1,0 +1,44 @@
+{
+    "subject": "5aa7f0a06f57515df51a36c547b205f6f4fa85bfcd8bca84d5a6fab04346",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "[CF] CALIFORNIUM",
+        "signatures": [
+            {
+                "signature": "5bc9063b9ee575feda5f14d84176a43d42ac7486732a0a8f5100968cfc61b77525240c508f2c422ca2e7dfde101259df7da3844c2514acb788ea75f8cb276707",
+                "publicKey": "c63b788f7fd2cf7389c9604ea3993424984d9deb3541219eab6c8df63144f94a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CF",
+        "signatures": [
+            {
+                "signature": "e6869d6aa13d73dc04556273e337d65a925ec31957c181d1cd2e979c608a02bf32a8937bc7dd2db29eb6d6e24b3e733ae6a076991edb7c738224865ec227f107",
+                "publicKey": "c63b788f7fd2cf7389c9604ea3993424984d9deb3541219eab6c8df63144f94a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "5203868327d2eb66982c1da54ee1f25bc6672c2e763e7a955cd3c51b07c92db478ef5a0afc89abf9b0e897054c7f64f4a7e34b8912b3279a6bb91edfd69a4f03",
+                "publicKey": "c63b788f7fd2cf7389c9604ea3993424984d9deb3541219eab6c8df63144f94a"
+            }
+        ]
+    },
+    "policy": "82008200581c86d065c886e830639fd79295ce3805bd011f5d89729f4ce8c0eda1cc",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Inspired by the rare and powerful element CF",
+        "signatures": [
+            {
+                "signature": "1d43529e5088972199e5f44e861a15cb79cc7486d151155358510c5ea807901a8511c1afc2b373898abe28eca41c713a8c0305dead2f826e3d486dd496d86200",
+                "publicKey": "c63b788f7fd2cf7389c9604ea3993424984d9deb3541219eab6c8df63144f94a"
+            }
+        ]
+    }
+}
