@@ -1,53 +1,54 @@
 {
     "subject": "88bb7ed22a08eb6a7966b860b3dbc4d1b92920fa7774039b23941dc5424954434f524e",
     "url": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": "https://bitcornada.com",
         "signatures": [
             {
-                "signature": "875eda75f74b1eb071b3c51c933a0b5f4ec540e3223c6647f7c464289bca385fc190500c9d8a0bf32678bcd823fcb0eb198b2787e5ba0c53a30b99365e888f08",
+                "signature": "cdde7924491788422d87757d9a0ac1ffb701949a8f4d0b66331af32618a05e0c06ada55639c69605807e388ee3bcc944c605414b4fff50028519cabe8c502f0d",
                 "publicKey": "b83e246a929e8ebc131d779e9e7fcd9e34ade11900b8f32a2b863a06d1f5e6f0"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": "BITCORN",
         "signatures": [
             {
-                "signature": "4e70d461bbd03758de14b558712758dd93b33362644dfc3f3ab7879de87c94f12dbc9230e13fa1df07cf3a3f50c4f32c3aa4eade2559797d4875157edc170a0c",
+                "signature": "d6103da336898e43400f8d2034abab8ba97bd1a049854b7539c820f6e0fbab98be11c4dfa5001739074ea92220510a0314c3de5556713849f675bf64c72c2908",
                 "publicKey": "b83e246a929e8ebc131d779e9e7fcd9e34ade11900b8f32a2b863a06d1f5e6f0"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": "BTCORN",
         "signatures": [
             {
-                "signature": "9ad65efd49f1fade7cea1012d621f5f623bcf9b3e62a86dae4a47540c305b3a699931d83b99123ff753369bb0c76e32a7a134fbe42af7f83c54f81dd253a390f",
+                "signature": "51e995d34599f8ad573a93b8f7ebea387c1ea762798d73ecfb3b504b0140145d5db5aecd1355b260476fe704e025238b39d506ec20a4b2790aec106deae81b09",
                 "publicKey": "b83e246a929e8ebc131d779e9e7fcd9e34ade11900b8f32a2b863a06d1f5e6f0"
             }
         ]
     },
     "decimals": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": 0,
         "signatures": [
             {
-                "signature": "2f6673105986dcf729e956b467184464b4f2af580140aa6b34b22549261e225238a2571ac55db6685ceb4e92953eb76ec231415068a4733c239fcd19b45e900c",
+                "signature": "aaf7092072684dedda828364371790afe9eb5fc103a87711dbf90377e0576396e165535229da1f29b19ca6e72ec4f80d65d135c0938e2c778945cf9802977207",
                 "publicKey": "b83e246a929e8ebc131d779e9e7fcd9e34ade11900b8f32a2b863a06d1f5e6f0"
             }
         ]
     },
     "policy": "820182018282051a0767e9788200581ce0184629e5b537355877e6afa1315b486435e2ea9ba026570188be69",
     "description": {
-        "sequenceNumber": 1,
-        "value": "Make the Corn great a",
+        "sequenceNumber": 2,
+        "value": "Make the Corn great again",
         "signatures": [
             {
-                "signature": "31928b494baaf188b4c7cb6d32981e5973cb9a581e80c9edfecaa4127b5f487ac6881236df8aa204ffc71a743013d04067633aec9a7951e0dd937c9710d16d07",
+                "signature": "a3d6fe3cd0ef979797d9dda3b40ccbdd9078628a217a408b657da4f4a38eb67b2864b621bb702f344ab8041aed508bbe850e6e4c0e0d6f62381ba72b2d3d1b0d",
                 "publicKey": "b83e246a929e8ebc131d779e9e7fcd9e34ade11900b8f32a2b863a06d1f5e6f0"
             }
         ]
     }
+}
