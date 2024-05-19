@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 2,
+        "sequenceNumber": 1,
+        "value": 0,
         "signatures": [
             {
-                "signature": "103ff636e0069c006172e3fa0336d43c1c5c3073467c03c8cf9d5bd409bc7e47a15661966ae402bbeffacf51119f49b190205fd778b3936b91370c23a230250d",
+                "signature": "818aecdf538f7cfbfed0c3ce25196cf4ca621d821b05b8618d01bf87ec8c8328e4b4e93ea72be66f5195a3149860c7d51567bc9b112864dd0d29b0913ae76406",
                 "publicKey": "95917521e685a6e68a2c48903114ecf21dde4c209c4eab0ccefdfbabb6ec58b9"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The Sh!t Token\r\nThe PooCoin\r\nThe most rewarding community in crypto",
+        "sequenceNumber": 1,
+        "value": "The Sh!t Token! \r\nThe PooCoin! \r\nThe most rewarding community in crypto",
         "signatures": [
             {
-                "signature": "e2fa2c59ec6511acc5c7cbacca84f0b2ecade0f4df88e825714b990002f8c6469cd70257647e183b9c85b716f4856e96517481e4753beadffedfeb29b60e2b07",
+                "signature": "fc6765b000bfb4dc2e2e85c8322ec5db4c719d814e20b1896ac4f99b304aa6587fd2cb1491ff73121b1b319c00c9c43bc6cd0b5ff9277dcca0a00e82351a3a04",
                 "publicKey": "95917521e685a6e68a2c48903114ecf21dde4c209c4eab0ccefdfbabb6ec58b9"
             }
         ]
