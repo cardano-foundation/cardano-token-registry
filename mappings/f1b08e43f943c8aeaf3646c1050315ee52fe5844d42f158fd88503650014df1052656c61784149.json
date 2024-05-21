@@ -4,11 +4,11 @@
         "signatures": [
             {
                 "publicKey": "11896f258e4bed16b04fe52203aa7b8ed48020c32ebc9e399a90698e665e5e10",
-                "signature": "5903c987a1e99f4e7080271880b7f390285ff50df1ababc5112037e81aa55ec61e367f529876261261eb666ba437c90a6bac0807c05cae62d814456a07cfa30c"
+                "signature": "60706fd53396fbd48ffa90765db8bcc3bda55b695a9ca1d991ba88f26994a5246166c5dc8843ec79ec2aa03e25ee1d03788b5082d5b73c624285912658bfe800"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "RelaxAI"
+        "sequenceNumber": 1,
+        "value": "VOID"
     },
     "url": {
         "signatures": [
@@ -24,11 +24,11 @@
         "signatures": [
             {
                 "publicKey": "11896f258e4bed16b04fe52203aa7b8ed48020c32ebc9e399a90698e665e5e10",
-                "signature": "9e6d55d2dea154911da558fbccaed7ce6404fdce7a8e4e2b9091685c1b8ffd35d7448f3a1f1be9b950fd917b4accdf910c747ce57be3f934d7a7bb25ccb58008"
+                "signature": "9ff74cd21c7398a91b87d8d064376e1188203b47ca3ca86d4144883e27233c9cc4f34a33e9a5e11da0d8f6b44bb07f842a186f287471c83ee0483b957ad5a402"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "RelaxAI is a token that powers an innovative platform dedicated to AI-generated ASMR videos. Utilizing advanced algorithms, RelaxAI offers a personalized relaxation and wellness experience, allowing users to enjoy ASMR content tailored to their individual preferences. Additionally, RelaxAI holders can participate in platform governance and reward the most popular content creators."
+        "sequenceNumber": 1,
+        "value": "VOID"
     },
     "logo": {
         "signatures": [
