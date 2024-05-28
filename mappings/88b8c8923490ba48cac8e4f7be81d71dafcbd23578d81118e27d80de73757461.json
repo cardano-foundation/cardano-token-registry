@@ -1,11 +1,11 @@
 {
     "subject": "88b8c8923490ba48cac8e4f7be81d71dafcbd23578d81118e27d80de73757461",
     "name": {
-        "sequenceNumber": 0,
-        "value": "SUTA",
+        "sequenceNumber": 1,
+        "value": "SutaChippu",
         "signatures": [
             {
-                "signature": "dac838827a8c8313de58216e3f275b48155e1dda4dfc65ff2354e721cbd5c23be7a0688a314e9e00f3fa9f5dc73b397880d1f1a3eca1dc20bb1bbe3a6896f10c",
+                "signature": "9f94de29422bee30f7290c1a9e79449515b6a0415d7770607936f25383897793bcec719a1625460430400a41b416a18d995a08514fe8b499b0e28cbc206c8f05",
                 "publicKey": "6a1afc1c40821dc1713b28b6bdff55bfe4cb64aab30d3d16b768d4502867fdd8"
             }
         ]
