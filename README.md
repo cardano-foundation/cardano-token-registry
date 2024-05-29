@@ -1,17 +1,5 @@
 # CIP26 Off-Chain Metadata Registry (mainnet)
-This is the CIP26 off-chain metadata registry for **mainnet**. If you intend to register any metadata for on-chain assets that exist on the publicly available testnets only (e.g. preview and preprod environments) please use the [metadata-registry from IOHK](https://github.com/input-output-hk/metadata-registry-testnet).
-
-##  Background
-This repository provides a means to register off-chain token metadata that can map to on-chain identifiers (typically hashes representing asset IDs, output locking scripts, or token forging policies).
-
-A [server](#server) exposes the functionality of a key-value store, allowing users and applications to query registry entries through a RESTful API.
-
-While this registry is limited in scope to handle native tokens only, it will also serve to facilitate a discussion and introduce a standard for a metadata distribution system that is currently put forward as a [draft CIP](https://github.com/michaelpj/CIPs/blob/cip-metadata-server/cip-metadata-server.md).
-
-Use of this registry is subject to the [Registry Terms of Use](Registry_Terms_of_Use.md).           
-Use of the public API is subject to the [API Terms of Use](API_Terms_of_Use.md).
-
-## Process
+T\
 
 #### New registration
 
