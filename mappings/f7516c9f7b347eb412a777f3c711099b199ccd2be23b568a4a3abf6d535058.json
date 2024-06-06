@@ -21,11 +21,11 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "SPX",
+        "sequenceNumber": 1,
+        "value": "SPXT",
         "signatures": [
             {
-                "signature": "47c47cbac6871158623b8bc1cbc7934ff64be1a818976129672a82b7fd0651cdfc60fc6d5e09c440bb38ecd6e9e91fa183e456fea196191bf86a0c96c129a908",
+                "signature": "5e97e38973dbd0362509970c86b045e7076e566639f7ed47ca1376178846b181d4f6aa61f4b170bbe1259e40a3a59d4a3ef5999072d3d31f99a0740eaadebe0c",
                 "publicKey": "645ebd51a25298c030fa3f151f57de68ea29da362a70c5577264858b72c9c454"
             }
         ]
