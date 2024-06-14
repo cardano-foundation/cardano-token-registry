@@ -12,20 +12,20 @@
     },
     "name": {
         "sequenceNumber": 0,
-        "value": "JOIZINV",
+        "value": "JOIZIV",
         "signatures": [
             {
-                "signature": "2b5268ffe06263bd6ec3a73af5da51b6a261f6fe7182c708e305567ccc5697b10811248a77ea586f33e8e85f91dec76358563e9fbacaaf0601d7af7fd2d4dd07",
+                "signature": "58fe8db3591fa69d4dd279bd3edea3f22390e334b40f8021c8ca2b2acef62610e9d075020f792ccad257a8a02a4de8b1a15a6b3f241b0d52f9dc7ce4203c0603",
                 "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
             }
         ]
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "JOIZINV",
+        "value": "JOIZIV",
         "signatures": [
             {
-                "signature": "1f4646d90dd32afebe031847be0d09010882a52eca608bd12639db24319c7e48b4dfe93345daea3843e8073f7664adf35ebfedfb385fdd67d54617c5eff52507",
+                "signature": "fc2e882305aa3bd6a152ee817d97e9aeed533bcf049fbf57c50dfe54af0eec983c3eca8b1ab6c2b7f7d7d6b4e9e3553ed2d1ce5285ebae4687eea9cbb3b45803",
                 "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
             }
         ]
