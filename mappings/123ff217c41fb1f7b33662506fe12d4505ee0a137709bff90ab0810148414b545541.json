@@ -1,0 +1,54 @@
+{
+    "subject": "123ff217c41fb1f7b33662506fe12d4505ee0a137709bff90ab0810148414b545541",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/HAKTUAcoinada",
+        "signatures": [
+            {
+                "signature": "fef22d467995df9ffdc3dd5e48ebff0bb5244f4d575b547034c42c83de457dc6d35d44976515c161ddc089d8b81467cef52a53d3eeb00bebdcd26ce052085a0e",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "HAKTUA",
+        "signatures": [
+            {
+                "signature": "8bb83a1e635b2983e8e87b457c12bf013ac5d16763a4bd6a6fcb7017f7588b68ed565fc7b1ef0dfa2512b78d85174d734bf9e68b1ced960819369c6b51c98102",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "HAKTUA",
+        "signatures": [
+            {
+                "signature": "b9d59c85ebc9b8ba6308ec5def07b746a3bd95773cd6643cab58f6a896dc021e58f98886d3c44728390e0833db536e754e95be7b17213653548a44fca58f2f0b",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "88c817ed737455a95697d95fba5612038459d6059ff6411078952824e7718dfbb7ba5e3a2c49453607ef9f65c9453efab7f43da88a5011d60a7648b878475f08",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a0798c1c9",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "SPIT ON THAT THING",
+        "signatures": [
+            {
+                "signature": "7a07f49c66446e325fe9ad449843fb6bd747fc59425742d09919b9674cf6e22e746ff95e251e4f022b16616b42f1369760b5d62c6a692c68d491a30c4609c208",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
