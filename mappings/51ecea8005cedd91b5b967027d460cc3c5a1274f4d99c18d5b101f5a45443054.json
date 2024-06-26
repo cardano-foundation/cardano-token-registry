@@ -1,5 +1,5 @@
 {
-  "subject": "51ecea8005cedd91b5b967027d460cc3c5a1274f4d99c18d5b101f5a45444f54",
+  "subject": "51ecea8005cedd91b5b967027d460cc3c5a1274f4d99c18d5b101f5a45443054",
   "name": {
     "sequenceNumber": 0,
     "value": "EDOT",
@@ -12,20 +12,20 @@
   },
   "description": {
     "sequenceNumber": 0,
-    "value": "The most infamous top caller $EDOT on ADA",
+    "value": "The most infamous top caller $ED0T on ADA",
     "signatures": [
       {
-        "signature": "6190b4f3afca926415b34f4b0954dc7561994e78c157ba0a3cc3e431b3de84aa66f1ae5f52af3c7aaf60ea41290ae770953700f5ebb944087c938de2296d2e0b",
+        "signature": "972b47e026e743a8c68f6f3a52b09088478ca2120e67ed3a99d6f4e957c77f5dd3b85269d4d90b4b49fd7bb810fa7f4f55207e37c40d979d54ef1f8c68b8090b",
         "publicKey": "07b52a0cdcfc094f30f3cb2bb715c08f8e26773689306ed02c78f561bba749b1"
       }
     ]
   },
   "ticker": {
     "sequenceNumber": 0,
-    "value": "EDOT",
+    "value": "ED0T",
     "signatures": [
       {
-        "signature": "dcee24408a7234a2bfcdecfdde8f860391ccc83f7a52732376dc15bb4bc0435b003042a7f69d18d881bf2c557f3a8d255d780b6c3e5674cccdaf18adaf7ffe07",
+        "signature": "a5f2589473e37e8b2f85c3aa27a7c2528449ecc0db84f0d00b4d7e14cf5c08a95591f872927748f74b934e4e0f76617215fec32008195259830a8559e8c2c10c",
         "publicKey": "07b52a0cdcfc094f30f3cb2bb715c08f8e26773689306ed02c78f561bba749b1"
       }
     ]
