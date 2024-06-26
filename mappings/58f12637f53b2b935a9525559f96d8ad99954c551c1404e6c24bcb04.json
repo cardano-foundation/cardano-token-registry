@@ -1,0 +1,16 @@
+{
+  "name": "snac",
+  "files": [
+    {
+      "src": "ipfs://QmWDCCUyY4tieotwuX9vPgf6mF8mS85fGtfK2TjFXnrGk2",
+      "name": "snac",
+      "mediaType": "image/png"
+    }
+  ],
+  "image": "ipfs://QmWDCCUyY4tieotwuX9vPgf6mF8mS85fGtfK2TjFXnrGk2",
+  "symbol": "snac",
+  "mediaType": "image/png",
+  "tokenType": "token",
+  "description": "Delicious community token",
+  "totalSupply": "100000000"
+}
