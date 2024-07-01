@@ -1,0 +1,63 @@
+{
+    "subject": "77cab21b1a0eb05886cb9fe8e3d297456e53c1d948dba42219a1b3804d796e746820546f6b656e2058",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.mynth.ai/",
+        "signatures": [
+            {
+                "signature": "a26d7d0797e5ed57c92540acfdd06ec007d27e03279cd1ac05eb0fd4ec06c33f97974759f16db5e92a0b51e113060cef3582857933ea28fa612a240d0a0fee06",
+                "publicKey": "009bb23a9ba632d3c1c3eab264e3e64df3ad4cbc60f550aa8ac34729f31cdb5d"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Mynth Token X",
+        "signatures": [
+            {
+                "signature": "ab603cec46b8d1e75183d4bc7c66568fd4933d52fce1c341b8f1ab3b95097ffd736146f0e899413d3294cae9eae9c1a810582f9c63ed2ca62c3931ee007a3202",
+                "publicKey": "009bb23a9ba632d3c1c3eab264e3e64df3ad4cbc60f550aa8ac34729f31cdb5d"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "MNTX",
+        "signatures": [
+            {
+                "signature": "eedc4eb9d5fe36e0d8392036556d2a97e3d373f77ade7ccdb31b058b75ba343d8b11e1f87e37770b55490117833c4f1d9421253c86c4765ce8685315407d7103",
+                "publicKey": "009bb23a9ba632d3c1c3eab264e3e64df3ad4cbc60f550aa8ac34729f31cdb5d"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "0967bd6e82402af5226f1032644807ee2667414d0327ec95c5c364e7f5d5ed1918ee3144e0a9de2f3a43c0c2ac27b1d08bb39201adf11f688aad6fdc83674f0d",
+                "publicKey": "009bb23a9ba632d3c1c3eab264e3e64df3ad4cbc60f550aa8ac34729f31cdb5d"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "b71a070a45684b4996bc4484e7369de43e7137d0d613260e5e167720ac14d0c5a926e86d362e2d2fd870ab5cc4cfa4a94d08bc3404f3ffe0d3f40f08ce6efa05",
+                "publicKey": "009bb23a9ba632d3c1c3eab264e3e64df3ad4cbc60f550aa8ac34729f31cdb5d"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Mynth enables cross-chain swaps that connect Cardano to the real world, empowering users to make the most of Cardano and other blockchains.",
+        "signatures": [
+            {
+                "signature": "075c7274de7291f06268bdb6535aad6fd7e1a5d1961616f9d915273c429f26f66f298db5f0930612463f7dd3fd1e0d5c93aeabc968fd8ab8cda7b9d07213970f",
+                "publicKey": "009bb23a9ba632d3c1c3eab264e3e64df3ad4cbc60f550aa8ac34729f31cdb5d"
+            }
+        ]
+    }
+}
