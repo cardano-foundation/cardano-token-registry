@@ -1,0 +1,53 @@
+{
+    "subject": "686a433bc69f169a83a42ae4b73b50e82be2cfef6adae29bd8298bf10014df105554584f",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://x.com/ada_utxo",
+        "signatures": [
+            {
+                "signature": "fb1c67957c3ccb69ca89684dca9d972f30cea7646d3fcfccd905926b61a625a7818987d924b423bf2e219559203d37b4bf696a9929480b76cb43fb52e6e1e00a",
+                "publicKey": "4a813e0169ab873d18f0a0040a99db67ae6de84c29db3dc4a525e1e1d568b6b6"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "UTXO",
+        "signatures": [
+            {
+                "signature": "ad7d60178f5d4886683e8d24e956b904144bd3f87a42b720db8edcb09180abd4d447070b463024d5257616baa9a6d57f1d780db2e06810492753df0027e13f0e",
+                "publicKey": "4a813e0169ab873d18f0a0040a99db67ae6de84c29db3dc4a525e1e1d568b6b6"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "UTXO",
+        "signatures": [
+            {
+                "signature": "28526c896968c1acf54db8ae6b92741c148fc42f62f4d14b8ca88030558da0fd025b4e78695ab8a4a2cd2652b6a61d7ff8d13b9e3da6aa629a43add1a88b2a06",
+                "publicKey": "4a813e0169ab873d18f0a0040a99db67ae6de84c29db3dc4a525e1e1d568b6b6"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "7f8320826caf820574439cc1da824f4d59950c88f84e2df98fea7f11e5e20c0d05f7f655de8954b0a16de27c604beb7a77df9e097b4a25ee377cb89b3de1c90e",
+                "publicKey": "4a813e0169ab873d18f0a0040a99db67ae6de84c29db3dc4a525e1e1d568b6b6"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Bitcoin uses the UTXO model and Cardano uses the eUTXO model",
+        "signatures": [
+            {
+                "signature": "561ba73c02c27fcfb7a5c261212d90b533543101e31b4774a09771b2e2e6aabac63c03c1204225911f9e898dbad4faf553cf2e590c3bf59ee4cf7c99efea1606",
+                "publicKey": "4a813e0169ab873d18f0a0040a99db67ae6de84c29db3dc4a525e1e1d568b6b6"
+            }
+        ]
+    }
+}
