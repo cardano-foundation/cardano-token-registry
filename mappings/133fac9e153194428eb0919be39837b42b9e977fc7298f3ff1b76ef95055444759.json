@@ -11,11 +11,11 @@
         ]
     },
     "name": {
-        "sequenceNumber": 3,
-        "value": "$PUDGY Token",
+        "sequenceNumber": 4,
+        "value": "Pudgy Token",
         "signatures": [
             {
-                "signature": "80023781c7dbd51adca557fba85a1a4433f84055b6922bea2d823236ae0e8ed832f53a9d6690208fdfc9eaff87db6d7ce357bc1425accc43ff5961cbeccdb304",
+                "signature": "ede1dc10bb526a59cda831f8c9c129ff5352d34441d06b9e3dfaf2edd1aec76c65a8d4c8bdc7a0219d4872d6a3b9ec6dd21c5fb471c314d96b73f3a003f3d30e",
                 "publicKey": "4c3d9ea546cc75a66909f894cf63d4639f4a41e0568baf027a2c321e026df5cf"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 3,
-        "value": 0,
+        "sequenceNumber": 4,
+        "value": 6,
         "signatures": [
             {
-                "signature": "65bac82f7edfcbef469c9792bee56134ee3eb3f24eef30ee8b4dadd58cfffdb20567ca56c82789694b354fb6e6e4e65f9f457a5ec2f79e922176646bdf21c80e",
+                "signature": "12821696929c0fd3a5a1db3e64bb4fc94b06cc400d00da132a982c0719603e53ca40de37c2f1e9317094a189070eb1b51c75df51b8d01d983a01b60fa9ed920e",
                 "publicKey": "4c3d9ea546cc75a66909f894cf63d4639f4a41e0568baf027a2c321e026df5cf"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 3,
-        "value": "In a world riddled with dogs, lobsters, apes, penguins and llamas, running amok among bulls and bears, Pudgy gives back the Cryptoverse to its lawful rulers: Cats.",
+        "sequenceNumber": 4,
+        "value": "The #1 ARTcoin on Cardano, giving back the cryptoverse to its lawful rulers: Cats",
         "signatures": [
             {
-                "signature": "20852bf4603fba0bd6ced6f66bf7d52986d52a38755b68459dafa7a93ab9aef96054e9ae1e5ea53f20de71bc059fd9e2553aff7c052584d1ac59f985c2788906",
+                "signature": "eb6e30911b2a667bc5ed6a36e032a9355188a159b949e48cfe5a2adef0bcaea9e3c76fe941d079b768eeb63a3cc03deb8fb06c90cbc511da7f5d8571acffee04",
                 "publicKey": "4c3d9ea546cc75a66909f894cf63d4639f4a41e0568baf027a2c321e026df5cf"
             }
         ]

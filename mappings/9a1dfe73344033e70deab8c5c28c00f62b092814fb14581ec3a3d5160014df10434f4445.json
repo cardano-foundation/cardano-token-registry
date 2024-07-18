@@ -1,11 +1,11 @@
 {
     "subject": "9a1dfe73344033e70deab8c5c28c00f62b092814fb14581ec3a3d5160014df10434f4445",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://adaempire.com/",
+        "sequenceNumber": 1,
+        "value": "https://mudsempire.io",
         "signatures": [
             {
-                "signature": "8391076c801bd1a63b9a4837b42ddc0b7a29e23762d6e402817d30dfca8e4a19bcac36490a7005425028046533ba467cf1fbd3efb0456482b8902f80c053bb09",
+                "signature": "257be4ae3bf1aeb9727583fe133a36a77a01576781b7b49614be158e298a18fd26404b211b15baa2d7fb7914926485af7cd629befa9ebc8e8cf3b4ad05bda203",
                 "publicKey": "c498944a31b3a381d26a60bd4e6f92cfc45fd0b371256e84eefcb42a768ad4d0"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The official utility token of the ADA Empire. The $CODE is in your hands!",
+        "sequenceNumber": 1,
+        "value": "The official utility token of the Muds Empire. The $CODE is in your hands!",
         "signatures": [
             {
-                "signature": "af799566e626c8142450c0c360a767b15aba67b69bee46eb1315e6c82c68950510cc8f4ca93296691f2f2f0395f89feb3ca638be1610f79aed078dff196a2101",
+                "signature": "3d080b1667aa8cf3045fd3599952006a7990ae5bad8be6c01feec3f6584fd7bced05cd245d13bdaa9f742bd092f09d951c6de86d61f60441da084674e5d79206",
                 "publicKey": "c498944a31b3a381d26a60bd4e6f92cfc45fd0b371256e84eefcb42a768ad4d0"
             }
         ]
