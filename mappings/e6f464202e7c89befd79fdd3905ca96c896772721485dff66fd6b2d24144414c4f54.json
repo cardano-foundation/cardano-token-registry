@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "52ee616bc38661bb5dd595da20b91d17a7eea5341b2655e5c6bb951756baf7366db8e6d778644becd9fa21187518a4a7d93f1fb23ac5caeb673c8bc01fe47d00",
+                "signature": "2f8ff89af9069e739164425bcf9f7ca1ef173dfbfe3bb3b4aa57e117488ec79e14b4839cf3a6de269b5c677dd987ddffb8723212367d2e90fbb093761f09f306",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Here's how it works: If you hold $ADALOT in your Cardano wallet, you're automatically eligible to participate in the Daily Lottery.",
+        "sequenceNumber": 1,
+        "value": "Here's how it works: If you hold ADALOT in your Cardano wallet, you're automatically eligible to participate in the Daily Giveaway. Every day, we randomly select one holder who wins the Daily Giveaway. Regularly, tokens from our partners are also added.",
         "signatures": [
             {
-                "signature": "9f6f6f890999bd8404feb19d38c80925c0177f5f878407e8c2f23eec4c7c7678eb84b4c87c0f0ed9d43592a4fcb86c08db0ccbb822c5749623a6b441c206380d",
+                "signature": "68c30e4ef7c586b4c1dff178ecf4b5e70ad1b096299c19ad8badcc093841ea2d5435ee2733967d11abb8475434b67fc82932b3612b7270f8b87ee39be4f3890c",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]

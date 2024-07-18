@@ -1,0 +1,54 @@
+{
+    "subject": "738580bbd95d79bf6439817de73bc1ef5c601c012c659da1bd11bf91436c6f776e",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://twitter.com/cardano_clown",
+        "signatures": [
+            {
+                "signature": "f67d629f42d7a726eeae8e5e2419f637d2b144632cc221887811a7a606901cbdd2775636778f0fe492ef5740fc96152265d3ff72d32d2100d076fb6dc9143909",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Clown",
+        "signatures": [
+            {
+                "signature": "bd0e7238cdc77500697285f19008aca5f8a42cc035e61c657d1121f19692ac2958e8cfa22112f64b49106c54d847309f4b3626f3263d5c702c05dcd036577904",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "Clown",
+        "signatures": [
+            {
+                "signature": "07c856329cb358a296d038da611073f796fed6e6b05a0ebc97e982a9b0d082190fb7c80d45551e0221d545bd8b6d65a0ba0e0ac9d685a5b408c82990491b0e01",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "c26b99d689b0c8302ec07ab46ab8d9c7f856e0e50f59728d249d3afd0f9c981b4bc0564d5f6f6b0d2f86a1c94edeefec7cb46e055a5226dc9c38c3ac3b958d04",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a05e53f108200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The ONLY currency accepted at the Circus.",
+        "signatures": [
+            {
+                "signature": "8ac312b7310ec79ed01eb856f05d68e0936fb3e1789258ad68312b49a1df570e8049221f98e9aaa2f87bafaf8c7c9fd7e76a10d16f4f4df2ad153ad64ed8a405",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
