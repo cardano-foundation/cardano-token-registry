@@ -21,7 +21,7 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 1,
         "signatures": [
             {
@@ -42,7 +42,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "BWARE Token - Aiming for a better experience for everyone!",
         "signatures": [
             {
