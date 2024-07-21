@@ -22,7 +22,7 @@
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 2,
+        "value": 1,
         "signatures": [
             {
                 "signature": "2b1de15ec050666604a6d0493122ee2c296578220228b7b4014cb958226cf9a23a939dbaa9c85f4e4a908c9800389c00eadc3697fc1646c365753f26c7d57b07",
@@ -43,7 +43,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Cardano Native Token of The bWare Group. BWARE is aiming to revolutionise the economic systems currently in use and create a better experience for every one.",
+        "value": "BWARE Token - Aiming for a better experience for everyone!",
         "signatures": [
             {
                 "signature": "94b045313e36c08c793a9c4bd7ee9fb4fb02db5d513cd5219b4995ee433e6b5e38bbfbaba893f5d033e25d7e014d8844c47623e798a652779747afc554a67d0b",
