@@ -4,31 +4,21 @@
         "signatures": [
             {
                 "publicKey": "013a72da87faf8bf1bd9a4fa65933f9d91e8d11f28ce93fa5dc4a7cacf4e68c8",
-                "signature": "41a69ca40f7147fe32dd8dcad2028c36e20e2adca27c72514a68e97b629c8a8902abddb15ca121b0381fd6e0940e7bfe00ec2dde716d435fff9079673dc5b809"
+                "signature": "6471c94c83f402cc590930b37dd0f1164227841c823c435223ff5f243dfc1258ed0db8117263afbb16f7daa1d90afad438a1e63779cb5d371981bdf50ee6270a"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "Vote Chain"
-    },
-    "url": {
-        "signatures": [
-            {
-                "publicKey": "013a72da87faf8bf1bd9a4fa65933f9d91e8d11f28ce93fa5dc4a7cacf4e68c8",
-                "signature": "a36a523fd895faa4bf3285296f6693f88454a2c804954cc1a7e7ff362cc66e4d544d37e71d68a2b5c0a1fb809944838673666ac61fbbe848daf99377658cb00c"
-            }
-        ],
-        "sequenceNumber": 0,
-        "value": "https://votechain.pro/"
+        "sequenceNumber": 1,
+        "value": "TinyDickLionsDen"
     },
     "description": {
         "signatures": [
             {
                 "publicKey": "013a72da87faf8bf1bd9a4fa65933f9d91e8d11f28ce93fa5dc4a7cacf4e68c8",
-                "signature": "7664ef1824e2e69def9d73c76a2c610b28c6a5276d435fa7cd6346ee8491b8167764f661925889893d2af3357fdb23207813ae40c4436203f962af9702a18503"
+                "signature": "35ee794e1f13367546f51d1fbd7ddabc18f0a09aa9f7e48831aae5816de442860584f6f764072a468c0acf316105a7cebf5e5755d3b5f8f5784a8877ce432708"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "The official Vote Chain Token."
+        "sequenceNumber": 1,
+        "value": "Welcome to the Tiny Dick Lions' Den (TDLD)! - a meme coin with a mission! In a world where size often overshadows substance, TDLD stands tall to celebrate all the average-sized heroes with the heart of a lion. Our coin is not just a symbol but a movement against bullying and body shaming, especially targeting those unfairly judged by their physical attributes.\n\nTDLD aims to build a community where bravery, courage, and kindness reign supreme."
     },
     "logo": {
         "signatures": [
@@ -44,21 +34,21 @@
         "signatures": [
             {
                 "publicKey": "013a72da87faf8bf1bd9a4fa65933f9d91e8d11f28ce93fa5dc4a7cacf4e68c8",
-                "signature": "8f00a2e059aa125c1b35ccd6073e0423719918c9c21f60dadc0bc5fcee57c9b5f67d4bee3713753368df09f22c78424b27edb58bb14f92ddf5f1fbe11c6fd209"
+                "signature": "72e1fc933daa5a15306a6d674b14bcabbb80bf2dd0db7f9ebed16d3c71b726f0e1a7b953b21f4b458cc1f2f5d624fc5ce3c9770911b9c418f099c8c85d697009"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "VOTE"
+        "sequenceNumber": 1,
+        "value": "TLTD"
     },
     "subject": "36ab386d879217721c355d2fee90cb50d9db0119b7a95e4da64a4a670014df1054696e794469636b4c696f6e7344656e",
     "decimals": {
         "signatures": [
             {
                 "publicKey": "013a72da87faf8bf1bd9a4fa65933f9d91e8d11f28ce93fa5dc4a7cacf4e68c8",
-                "signature": "e4f52c9db0fd735e9c9e259e0964d39f5df602b324416aa14c4972d67715106a6183de42bb4ad97b3b7fb6f994e837f4f258a063a5ad6911caab6325124d3e08"
+                "signature": "72368762e7028e50001e05d6ebaa93e81da8b0d35bbcc07b93421e1fe83fbd2623206fa078a919dfca8ca0d79512635bbb8dab895c16e251b3777157dd40f101"
             }
         ],
-        "sequenceNumber": 0,
-        "value": 6
+        "sequenceNumber": 1,
+        "value": 15
     }
 }
