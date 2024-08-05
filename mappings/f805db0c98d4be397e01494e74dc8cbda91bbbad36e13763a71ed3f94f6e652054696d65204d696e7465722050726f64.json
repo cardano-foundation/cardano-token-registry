@@ -1,4 +1,5 @@
 {
+    "subject": "f805db0c98d4be397e01494e74dc8cbda91bbbad36e13763a71ed3f94f6e652054696d65204d696e7465722050726f64",
     "name": {
         "signatures": [
             {
@@ -39,8 +40,6 @@
         "sequenceNumber": 0,
         "value": "OTM"
     },
-    "subject": "f805db0c98d4be397e01494e74dc8cbda91bbbad36e13763a71ed3f94f6e652054696d65204d696e7465722050726f64",
-    "policy": "f805db0c98d4be397e01494e74dc8cbda91bbbad36e13763a71ed3f9",
     "decimals": {
         "signatures": [
             {
