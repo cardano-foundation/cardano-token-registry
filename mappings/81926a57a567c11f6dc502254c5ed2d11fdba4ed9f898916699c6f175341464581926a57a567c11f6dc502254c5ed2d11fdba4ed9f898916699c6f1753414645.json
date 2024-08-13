@@ -1,0 +1,54 @@
+{
+    "subject": "81926a57a567c11f6dc502254c5ed2d11fdba4ed9f898916699c6f1753414645",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://x.com/pangolincardano",
+        "signatures": [
+            {
+                "signature": "6b40db4b925df2e29b79a1e2a0242c2a9a82d70dd3d58fbc7426c1706803f8d9964649613b8d834be652a8648e02382fb92766ebd2650419e2e2898c2500b302",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "SAFE",
+        "signatures": [
+            {
+                "signature": "5ce6db5fc68ba19a40bc4c7d17713d9ae090f6aae4c937418c2d63347868232e4c59c9d3e120d03a2468ad09f3c1f819bb765d060f1280d4157a03bd81c9e405",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "SAFE",
+        "signatures": [
+            {
+                "signature": "15c476ea2088d8a9624601ae33826bf342a9716dbe3898ac99e0e4efd09c57413a43d3b685bdaeb461ba05417102fbd3a54ae375f903d23786f5d509906f0402",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "5483c8458004200326f157bf275370750006640cf781c5aa207d4ce833c59ab6c59bfb7fb3993d37cfac6a874c17bef02be9d6bab9622d9807c0f7e9d639750b",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a07dda645",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Safe's the Goodest Boi. Minted using Pangolin Protocols Escrow Minting Platform.",
+        "signatures": [
+            {
+                "signature": "00832e2c6417a7f85d7d4f291300c3f2fe928f90036a3e1d6053e4820379185023e8cad0f1c89ae35a1d3d41b39ccfaece6ae5b331ceb131bc3d8381668bf606",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
