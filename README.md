@@ -6,16 +6,19 @@ This repository provides a means to register off-chain token metadata that can m
 
 A [server](#server) exposes the functionality of a key-value store, allowing users and applications to query registry entries through a RESTful API.
 
-While this registry is limited in scope to handle native tokens only, it will also serve to facilitate a discussion and introduce a standard for a metadata distribution system that is currently put forward as a [draft CIP](https://github.com/michaelpj/CIPs/blob/cip-metadata-server/cip-metadata-server.md).
+While this registry is limited in scope to handle native tokens only, it will also serve to facilitate a discussion and introduce a standard for a metadata distribution system that is currently put forward as a [draft CIP](https://github.com/michaelpj/CIPs/blob/cip-metadata-server/cip-metadata-server.md).[README (7).md](https://github.com/user-attachments/files/16632984/README.7.md)
+
 
 Use of this registry is subject to the [Registry Terms of Use](Registry_Terms_of_Use.md).           
-Use of the public API is subject to the [API Terms of Use](API_Terms_of_Use.md).
+Use of the public API is subject to the [API Terms of Use](API_Terms_of_Use.md).[cardanoscan-openapi-source.json](https://github.com/user-attachments/files/16632995/cardanoscan-openapi-source.json)
+
 
 ## Process
 
 #### New registration
 
 New submissions to this registry will take the form of a GitHub Pull Request with the addition of one JSON file to the [mappings/](mappings) folder. Submissions will be subject to automated checking for well-formedness and human vetting before being merged to the registry.
+[cardanoscan-openapi-source.json](https://github.com/user-attachments/files/16632987/cardanoscan-openapi-source.json)
 
 
 #### Updating existing entries
