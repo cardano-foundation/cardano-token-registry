@@ -32,7 +32,13 @@
   },
   "decimals": {
     "sequenceNumber": 0,
-    "value": 0
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "bbc0b7584b943e37646e366fe2b05c91aaba27c5457f9b828f15098426627bd3136909cf87f2a3a9f9d36bed6c0747ae615b7bcdaaad02ac93dfdbc1dab8dd01",
+        "publicKey": "ba1f0d0c57ac48a89d19b6686e7473be5c87cee97d7cb26be76d6250d6be0de3"
+      }
+    ]
   },
   "policy": "a77f1b97a5ddd88eea389b83facf7c01fa8b05f6be2a4e9fb5d1f220",
   "logo": {
