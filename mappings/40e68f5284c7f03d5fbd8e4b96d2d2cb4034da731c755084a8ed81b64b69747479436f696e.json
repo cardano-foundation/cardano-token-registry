@@ -6,7 +6,7 @@
         "signatures": [
             {
                 "signature": "895aa10db07b914dc2647e124e02bb5966bd23ba8bc59cf5d2f33a22b934bb6369ad636bae5ac66a6846272583026fb9b7d639b89a252e4e95db749eaa89c60e",
-                "publicKey": "995e113ae0ecd054e64b9f00e60547243c1345ebb3138e253313b241f8eca36d5caf08565b83cab2cf5dff9725d47770d89e86c74a78b31cf05111b930e253d2"
+                "publicKey": "5840995e113ae0ecd054e64b9f00e60547243c1345ebb3138e253313b241f8eca36d5caf08565b83cab2cf5dff9725d47770d89e86c74a78b31cf05111b930e253d2"
             }
         ]
     },
@@ -16,7 +16,7 @@
         "signatures": [
             {
                 "signature": "895aa10db07b914dc2647e124e02bb5966bd23ba8bc59cf5d2f33a22b934bb6369ad636bae5ac66a6846272583026fb9b7d639b89a252e4e95db749eaa89c60e",
-                "publicKey": "995e113ae0ecd054e64b9f00e60547243c1345ebb3138e253313b241f8eca36d5caf08565b83cab2cf5dff9725d47770d89e86c74a78b31cf05111b930e253d2"
+                "publicKey": "5840995e113ae0ecd054e64b9f00e60547243c1345ebb3138e253313b241f8eca36d5caf08565b83cab2cf5dff9725d47770d89e86c74a78b31cf05111b930e253d2"
             }
         ]
     },
@@ -26,7 +26,7 @@
         "signatures": [
             {
                 "signature": "ce5f59efe0861c3f95452a23a06bb9ddd5138cf609787779bfdc21bbd54312f1b787be1c27a6285af8ef43db5330769c43ffd00480cb56dd87ee06ebeae2bd04",
-                "publicKey": "995e113ae0ecd054e64b9f00e60547243c1345ebb3138e253313b241f8eca36d5caf08565b83cab2cf5dff9725d47770d89e86c74a78b31cf05111b930e253d2"
+                "publicKey": "5840995e113ae0ecd054e64b9f00e60547243c1345ebb3138e253313b241f8eca36d5caf08565b83cab2cf5dff9725d47770d89e86c74a78b31cf05111b930e253d2"
             }
         ]
     },
@@ -36,7 +36,7 @@
         "signatures": [
             {
                 "signature": "f3bbb6d257fd7fb452b5d1645e5af693480b3248f6760768346f8c12509577fe98faa9f0ee4d313fdf11982573830e66a9b47d46882560375aacdbf785fb590d",
-                "publicKey": "995e113ae0ecd054e64b9f00e60547243c1345ebb3138e253313b241f8eca36d5caf08565b83cab2cf5dff9725d47770d89e86c74a78b31cf05111b930e253d2"
+                "publicKey": "5840995e113ae0ecd054e64b9f00e60547243c1345ebb3138e253313b241f8eca36d5caf08565b83cab2cf5dff9725d47770d89e86c74a78b31cf05111b930e253d2"
             }
         ]
     }
