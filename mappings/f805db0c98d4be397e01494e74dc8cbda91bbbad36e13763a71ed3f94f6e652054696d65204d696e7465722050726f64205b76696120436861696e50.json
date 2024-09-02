@@ -15,11 +15,21 @@
         "signatures": [
             {
                 "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b",
-                "signature": "7e804e794e2314bec676e96117086ed7ff8a42a5e6cdbe64f84b7f3fd41fa9f6dc822d7511b879b9e5be0ff0e99a25967effd44e88d67e7518eac11fa299ba0e"
+                "signature": "9ef5db7ec285579fa30c6df38c1d2285c65f1372b53e72c8cc81de10ccde4084e5f47db457f0e9e221a9fc73fbbb10bd8416d0ce028ea65eb6b4cbddaa03b60c"
+            }
+        ],
+        "sequenceNumber": 1,
+        "value": "Token that is minted only once for a project, stored in the multisig address and released to the users instead of minting!"
+    },
+        "logo": {
+        "signatures": [
+            {
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b",
+                "signature": "b755cb49587d62af3a804f07bf270d7c4dde7b4ab6eb8cbc46f255b86e5a6a90c781366ef4435fd4db05285e3fd05caeb6a223ff4ea7b80dcfc13266a9beaf09"
             }
         ],
         "sequenceNumber": 0,
-        "value": "Token that is minted only once for a project, stored in the multisig address and released to the users instead of minting"
+        "value": "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"
     },
     "ticker": {
         "signatures": [
