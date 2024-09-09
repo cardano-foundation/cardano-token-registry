@@ -31,6 +31,7 @@ permissions:
 jobs:
   register_token:
     runs-on: ubuntu-latest
+    environment: Prod
 
     steps:
       - name: Checkout the repository
@@ -116,7 +117,7 @@ jobs:
 
       - name: Create Pull Request to Parent Repo
         env:
-          GH_TOKEN: "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"
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           gh pr create \
             --title "Register ${{ inputs.token_name }}" \
