@@ -127,3 +127,6 @@ jobs:
 
             ## Metadata PRs
             Please note it may take up to 4 hours for merged changes to take effect on the metadata server.
+          base: master
+          head: "tabdon:master"
+          repository: cardano-foundation/cardano-token-registry  # The target repository
