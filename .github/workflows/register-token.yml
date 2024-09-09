@@ -112,6 +112,8 @@ jobs:
           git push origin HEAD
 
       - name: Create Pull Request to Parent Repo
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh pr create \
             --title "Register ${{ inputs.token_name }}" \
