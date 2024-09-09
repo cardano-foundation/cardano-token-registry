@@ -1,0 +1,100 @@
+name: Register Token on Cardano Token Registry
+
+on:
+  workflow_dispatch:
+    inputs:
+      token_name:
+        description: "The name of the token"
+        required: true
+      token_symbol:
+        description: "The symbol of the token"
+        required: true
+      token_description:
+        description: "A description of the token"
+        required: true
+      token_website_url:
+        description: "The website URL of the token"
+        required: false
+      token_logo_ipfs_link:
+        description: "The IPFS link to the token logo"
+        required: false
+      asset_id:
+        description: "The asset ID of the token"
+        required: true
+      policy_id:
+        description: "The policy ID of the token"
+        required: true
+
+jobs:
+  register_token:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Install offchain-metadata-tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xxd
+          wget https://github.com/input-output-hk/offchain-metadata-tools/releases/download/v0.4.0.0/token-metadata-creator.tar.gz
+          tar -xzf token-metadata-creator.tar.gz
+          chmod +x ./token-metadata-creator
+          mv ./token-metadata-creator ~/.local/bin
+
+      - name: Download and validate logo
+        if: ${{ inputs.token_logo_ipfs_link }}
+        run: |
+          wget -O token_logo.png "${{ inputs.token_logo_ipfs_link }}"
+          
+          # Check if the file is a valid PNG
+          file_type=$(file --mime-type -b token_logo.png)
+          if [ "$file_type" != "image/png" ]; then
+            echo "Token logo must be a PNG file."
+            exit 1
+          fi
+
+          # Convert the image to a base64-encoded bytestring
+          logo_bytestring=$(base64 -w 0 token_logo.png)
+          echo $logo_bytestring > logo_bytestring.txt
+
+      - name: Prepare and register token
+        run: |
+          subject="${{ inputs.asset_id }}"
+          
+          # Create draft entry
+          token-metadata-creator entry --init $subject
+
+          # Add required fields
+          token-metadata-creator entry $subject \
+            --name "${{ inputs.token_name }}" \
+            --description "${{ inputs.token_description }}" \
+
+          # Add optional fields (ticker, url, logo)
+          token-metadata-creator entry $subject \
+            --ticker "${{ inputs.token_symbol }}" \
+            --url "${{ inputs.token_website_url }}"
+
+          if [ -f logo_bytestring.txt ]; then
+            logo=$(cat logo_bytestring.txt)
+            token-metadata-creator entry $subject \
+              --logo "$logo"
+          fi
+
+          # Finalize entry
+          token-metadata-creator entry $subject --finalize
+
+      - name: Push to the registry
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          cp $subject.json mappings/
+          git add mappings/$subject.json
+          git commit -m "Register ${{ inputs.token_name }}"
+          git push origin main
+
+      - name: Create a Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: "Register ${{ inputs.token_name }}"
+          branch: "register-${{ inputs.token_name }}"
