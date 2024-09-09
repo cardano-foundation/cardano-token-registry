@@ -72,7 +72,6 @@ jobs:
           token-metadata-creator entry $subject \
             --name "${{ inputs.token_name }}" \
             --description "${{ inputs.token_description }}" \
-            --policy policy.json
 
           # Add optional fields (ticker, url, logo)
           token-metadata-creator entry $subject \
