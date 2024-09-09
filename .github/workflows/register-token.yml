@@ -39,8 +39,8 @@ jobs:
           sudo apt-get install -y xxd
           wget https://github.com/input-output-hk/offchain-metadata-tools/releases/download/v0.4.0.0/token-metadata-creator.tar.gz
           tar -xzf token-metadata-creator.tar.gz
-          chmod +x ./token-metadata-creator
-          mv ./token-metadata-creator ~/.local/bin
+          mkdir -p ~/.local/bin
+          mv ./token-metadata-creator ~/.local/bin/token-metadata-creator
           export PATH=$PATH:~/.local/bin
           echo "Checking if token-metadata-creator is available:"
           which token-metadata-creator
