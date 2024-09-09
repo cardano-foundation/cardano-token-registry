@@ -97,13 +97,6 @@ jobs:
           sudo apt-get update
           sudo apt-get install gh
       
-      - name: Authenticate GitHub CLI
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh auth setup-git
-          gh auth login --with-token <<< "${{ secrets.GITHUB_TOKEN }}"
-      
       - name: Push to the registry
         run: |
           git config user.name "github-actions"
