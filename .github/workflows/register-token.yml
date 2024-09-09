@@ -103,8 +103,8 @@ jobs:
           # Commit the changes with a dynamic commit message
           git commit -m "Register ${{ inputs.token_name }}"
           
-          # Push the changes to the branch
-          git push origin "register-${{ inputs.token_name }}"
+          # Push the changes to the current branch (HEAD)
+          git push origin HEAD
 
       - name: Create a Pull Request
         uses: peter-evans/create-pull-request@v3
