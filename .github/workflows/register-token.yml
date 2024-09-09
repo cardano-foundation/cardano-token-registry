@@ -92,6 +92,15 @@ jobs:
           # Move the JSON file to the mappings directory
           mv "${subject}.json" mappings/
 
+      - name: Install GitHub CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install gh
+      
+      - name: Authenticate GitHub CLI
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
       - name: Push to the registry
         run: |
           git config user.name "github-actions"
@@ -106,27 +115,21 @@ jobs:
           # Push the changes to the current branch (HEAD)
           git push origin HEAD
 
-      - name: Create a Pull Request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          commit-message: "Register ${{ inputs.token_name }}"
-          branch: "register-${{ inputs.token_name }}"
-          title: "Register ${{ inputs.token_name }}"
-          body: |
-            # Pull Request Template
-
-            ## Description
-            Please include a short summary of the changes in this PR.
-
-            ## Type of change
-            - [x] Metadata related change
-            - [ ] Other
-
-            ## Checklist:
-            - [x] For metadata related changes, this PR code passes the GitHub Actions metadata validation
-
-            ## Metadata PRs
-            Please note it may take up to 4 hours for merged changes to take effect on the metadata server.
-          base: master
-          head: "tabdon:master"
-          repository: cardano-foundation/cardano-token-registry  # The target repository
+      - name: Create Pull Request to Parent Repo
+        run: |
+          gh pr create \
+            --title "Register ${{ inputs.token_name }}" \
+            --body $'\
+                  # Pull Request Template\n\n\
+                  ## Description\n\
+                  Please include a short summary of the changes in this PR.\n\n\
+                  ## Type of change\n\
+                  - [x] Metadata related change\n\
+                  - [ ] Other\n\n\
+                  ## Checklist:\n\
+                  - [x] For metadata related changes, this PR code passes the GitHub Actions metadata validation\n\n\
+                  ## Metadata PRs\n\
+                  Please note it may take up to 4 hours for merged changes to take effect on the metadata server.' \
+            --base master \
+            --head tabdon:master \
+            --repo cardano-foundation/cardano-token-registry
