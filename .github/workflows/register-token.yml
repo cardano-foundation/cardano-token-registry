@@ -98,7 +98,7 @@ jobs:
           git config user.email "actions@github.com"
           
           # Add the file to Git
-          git add mappings/"{{ inputs.asset_id }}.json"
+          git add mappings/"${{ inputs.asset_id }}.json"
           
           # Commit the changes with a dynamic commit message
           git commit -m "Register ${{ inputs.token_name }}"
