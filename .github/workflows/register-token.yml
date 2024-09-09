@@ -78,10 +78,9 @@ jobs:
             --ticker "${{ inputs.token_symbol }}" \
             --url "${{ inputs.token_website_url }}"
 
-          if [ -f logo_bytestring.txt ]; then
-            logo=$(cat logo_bytestring.txt)
-            token-metadata-creator entry $subject \
-              --logo "$logo"
+          if [ -f token_logo.png ]; then
+            echo "Adding logo"
+            token-metadata-creator entry $subject --logo "token_logo.png"
           fi
 
           # Finalize entry
