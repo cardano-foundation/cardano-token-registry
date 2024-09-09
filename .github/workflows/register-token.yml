@@ -41,6 +41,9 @@ jobs:
           tar -xzf token-metadata-creator.tar.gz
           chmod +x ./token-metadata-creator
           mv ./token-metadata-creator ~/.local/bin
+          export PATH=$PATH:~/.local/bin
+          echo "Checking if token-metadata-creator is available:"
+          which token-metadata-creator
 
       - name: Download and validate logo
         if: ${{ inputs.token_logo_ipfs_link }}
