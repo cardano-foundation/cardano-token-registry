@@ -89,13 +89,21 @@ jobs:
           echo "Listing files after finalizing token metadata:"
           ls -l
 
+          # Move the JSON file to the mappings directory
+          mv "${subject}.json" mappings/
+
       - name: Push to the registry
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          cp $subject.json mappings/
-          git add mappings/$subject.json
+          
+          # Add the file to Git
+          git add mappings/"${subject}.json"
+          
+          # Commit the changes with a dynamic commit message
           git commit -m "Register ${{ inputs.token_name }}"
+          
+          # Push the changes to the branch
           git push origin "register-${{ inputs.token_name }}"
 
       - name: Create a Pull Request
