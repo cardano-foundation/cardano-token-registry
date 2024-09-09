@@ -100,6 +100,9 @@ jobs:
       - name: Authenticate GitHub CLI
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          run: |
+            gh auth setup-git
+            gh auth login --with-token <<< "${{ secrets.GITHUB_TOKEN }}"
       
       - name: Push to the registry
         run: |
