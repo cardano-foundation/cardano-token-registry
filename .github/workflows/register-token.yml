@@ -86,6 +86,9 @@ jobs:
           # Finalize entry
           token-metadata-creator entry $subject --finalize
 
+          echo "Listing files after finalizing token metadata:"
+          ls -l
+
       - name: Push to the registry
         run: |
           git config user.name "github-actions"
