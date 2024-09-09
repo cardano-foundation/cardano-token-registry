@@ -25,6 +25,9 @@ on:
         description: "The policy ID of the token"
         required: true
 
+permissions:
+  contents: write
+
 jobs:
   register_token:
     runs-on: ubuntu-latest
@@ -113,7 +116,7 @@ jobs:
 
       - name: Create Pull Request to Parent Repo
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: "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"
         run: |
           gh pr create \
             --title "Register ${{ inputs.token_name }}" \
