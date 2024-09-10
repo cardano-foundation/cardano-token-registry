@@ -1,11 +1,11 @@
 {
-  "subject": "e0f2699e4773e64bfd8f28c9efe9b0a305806251c58efacbe3d270fa+566f6964"
-  "policy": "e0f2699e4773e64bfd8f28c9efe9b0a305806251c58efacbe3d270fa",
+  "subject": "e0f2699e4773e64bfd8f28c9efe9b0a305806251c58efacbe3d270fa566f6964"
+  "policyId": "e0f2699e4773e64bfd8f28c9efe9b0a305806251c58efacbe3d270fa",
+  "assetNameHex": "566f6964"
   "name": "Voidium",
   "symbol": "Void",
   "decimals": 0,
   "description": "Voidium (Void) token powers the Terra Mecha ecosystem.",
-  "website": "https://terramecha.ca",
-  "logo": b'\x12 \x9c\xb6k\xeb\x9d\xe5\x1aX\x9d\xe8\xb95&\x1bU\x050\xc2\xdb\xed\x00\xa3vd\xae\x8f\xb0o\xd6Ga\xf8'
+  "website": "https://terramecha.ca"
 
 }
