@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The $TITAN token is a DePin passive income token, a next-generation DePIN aggregator and revenue-generating asset",
+        "sequenceNumber": 1,
+        "value": "The $TITAN token is a next-generation DePIN aggregator.",
         "signatures": [
             {
-                "signature": "37d2bbd9ef88566ddce118c4eb9f175dffb31d604c6ea7c0b04bd2e5787cad2fbb580ccb822e249e1f8ede1d06123335425293a6e28a30859fa1b06250b9fa0b",
+                "signature": "853c9986f1da06329f0db35c1a4ed8c932c08f996af33441c7624cfff8ed145e0938813cf151c2a858f75f12e41e8f0828169fb09b3bb3a5be788a43e391320a",
                 "publicKey": "b987dc61779ff3c6133a5cb9ae7de65be03c04e56b9853fa9038c614ac2395c4"
             }
         ]
