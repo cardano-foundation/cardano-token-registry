@@ -1,0 +1,63 @@
+{
+    "subject": "56034dd4515b21f5874d50614b65cd25056f073835b2d081704228ee4c65646769747920546f6b656e",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Ledgity Token",
+        "signatures": [
+            {
+                "signature": "0bacdb596c1fa2f5674d394b4de38f3c341e13f2e7f0c07b3eea98a6b7f84b639a385195ab1056949af7fac090a397c0640655837336f945a5624bc506138f0c",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "LDY",
+        "signatures": [
+            {
+                "signature": "f7498d4c2c96b710644de476b582ce22a80513f18ab316f68a2418e30b4ba9d416a1671c6d6bd9b7a645fc05508c2ef560277f2fd78d7d9e46884cb81da3850e",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "0483d958a051f902a8cccb860fef438f415bd1ce01f9e713cb2ee82b2928c3d3f2adb407acdbab3977027bdc947cad9fd1302caf3fd0f253ce94883115d7e808",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCA1MCA1MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiBmaWxsPSJ1cmwoI3BhaW50MF9saW5lYXJfNDgxODRfMjAzODYpIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTYuNjMzNiAxMi4wNjU2TDIxLjcyMzEgOUwyNy4wNDk3IDEyLjE2MzJMMjEuOTQ5NSAxNS4yMjRMMTYuNjMzNiAxMi4wNjU2Wk0xNiAxMy42MDgyVjMxLjgyNzNDMTYgMzMuMjM5MyAxNi43MjIgMzQuNTQ2NiAxNy44OTkyIDM1LjI2NkwyNy4yMDcyIDQwLjk1NDFWMzQuODA4MkwyMS41NDc2IDMxLjMwMjhMMjEuMTU2NCAzMS4wNjA2VjMwLjU4OThWMTYuNjcxOUwxNiAxMy42MDgyWk0yOC44MTg2IDQxTDM0IDM3LjkzNkwzMy45OTk1IDMxLjYwNjlMMjguODE4NiAzNC44MDg4VjQxWk0zMy4wMTE4IDMwLjI3ODlMMjguNTM5OCAyNy42MjMxTDIzLjU0OTIgMzAuNjAyOEwyOC4wMTM0IDMzLjM2NzlMMzMuMDExOCAzMC4yNzg5Wk0yNy45NzQ3IDI2LjAzOTFWMTMuNTU1N0wyMi43Njc4IDE2LjY3MDNWMjkuMTQ4TDI3Ljk3NDcgMjYuMDM5MVoiIGZpbGw9IiNFMUU3RkYiLz4KPGRlZnM+CjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhcl80ODE4NF8yMDM4NiIgeDE9IjI1IiB5MT0iMCIgeDI9IjI1IiB5Mj0iNTAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agc3RvcC1jb2xvcj0iIzQ2NTQ3MCIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxRjJBM0QiLz4KPC9saW5lYXJHcmFkaWVudD4KPC9kZWZzPgo8L3N2Zz4K",
+        "signatures": [
+            {
+                "signature": "2d59ef554316a72567e836591cbd841c5297ea50849d005fe01e8cb6c7e76a262245801b8807928b6ff09ea84a4d0a50a87f512cbfee6c8b30efcd3283215309",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    },
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://ledgity.finance/",
+        "signatures": [
+            {
+                "signature": "a2d0adcf7e451e45262eaee34da568618c2d8643c4f34d7862e67346917257b1f92a54f3ec63eb7880202ef5ae0715882578c156c8008a3ac5636f89c50b970f",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Ledgity Yield is a stablecoin yield protocol backed by real world assets (RWA). It provides a stable and institutional grade treasury management solution for stablecoins holders, and bridges the gap between DeFi and TradFi by offering real yield based on real assets. More - https://docs.ledgity.finance/",
+        "signatures": [
+            {
+                "signature": "70e32d6e6720869f8796866e3fa07142be903a18af6e5061f7578ac18eb8d0438be78f7f9ac2248d3c2efd31f4b821656e8880a6338920fb20861def39d74004",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    }
+}
