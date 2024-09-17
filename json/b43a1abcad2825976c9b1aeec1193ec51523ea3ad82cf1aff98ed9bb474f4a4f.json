@@ -1,0 +1,63 @@
+{
+  "subject": "b43a1abcad2825976c9b1aeec1193ec51523ea3ad82cf1aff98ed9bb474f4a4f",
+  "name": {
+    "value": "GOJO",
+    "signatures": [
+      {
+        "signature": "2ad9be0f068ea712036022f6558ec0b889e5830da1cb87652e24ce9915596c22919b93d40cbd4b313479d0ba220599882f2faa19d1058d2e49e15b37400b9802",
+        "publicKey": "9efc49d08487ff841da7a6ec53e76f42a4437592a5efbeb3664c3e1037ced2d9"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "description": {
+    "value": "If you don't know, now you know...$GOJO Let's GOOOOOOOO",
+    "signatures": [
+      {
+        "signature": "703e8715cef96010b21bb179fd8d50194e4e30ee2710d6d40ca5a13842b61687eea55936bbbdc0dbff47f71871df453e126de238a988381631d5d052a870c402",
+        "publicKey": "9efc49d08487ff841da7a6ec53e76f42a4437592a5efbeb3664c3e1037ced2d9"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "ticker": {
+    "value": "GOJO",
+    "signatures": [
+      {
+        "signature": "9e91a67f36cf04e8391b1bf10d768f7571c9bd642b6b44e51387afbb29a2393b38e31f79bbea559953e9d7782c861fe40adc3897abb3c8723004ebc5c9173408",
+        "publicKey": "9efc49d08487ff841da7a6ec53e76f42a4437592a5efbeb3664c3e1037ced2d9"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "url": {
+    "value": "",
+    "signatures": [
+      {
+        "signature": "e38410664753ff80338196d5864654f0bda016051c730950c27d5ba864b898fdec7fcfbdc034721a62eaadd37642878ed7929de671d7e79532e8d93eeb3d5807",
+        "publicKey": "9efc49d08487ff841da7a6ec53e76f42a4437592a5efbeb3664c3e1037ced2d9"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "logo": {
+    "value": "",
+    "signatures": [
+      {
+        "signature": "7d4441a283cf5c665fc1efa7403e379f85693c5dda552cfdca9a4d9f1b69f15b9ec14affd4b105ffe127f3ce6ef815a21f104dfcd88f8818080e233701e84c0a",
+        "publicKey": "9efc49d08487ff841da7a6ec53e76f42a4437592a5efbeb3664c3e1037ced2d9"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "decimals": {
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "495204b2623bdde5bb0943f62c780dda4f0db9eb6a7a0bd7ddfad974a9fbec826c41a83ebfbafe3c5563978093127b1a340f4318baf5f757694900224224fe07",
+        "publicKey": "9efc49d08487ff841da7a6ec53e76f42a4437592a5efbeb3664c3e1037ced2d9"
+      }
+    ],
+    "sequenceNumber": 0
+  }
+}
