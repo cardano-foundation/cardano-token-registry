@@ -1,0 +1,43 @@
+{
+  "subject": "b43a1abcad2825976c9b1aeec1193ec51523ea3ad82cf1aff98ed9bb474f4a4f",
+  "name": {
+    "value": "GOJO",
+    "signatures": [
+      {
+        "signature": "7e6c79acdc4b46b2b785bc491881fad6eed0a1415016d996bb88ff8291c990a30ce8ee9277437c4278e7c36a1e11280f841b7a39a72bea271fa03ae12d6b2208",
+        "publicKey": "c6ff6e8868dee69a48932c528afe9840a83f5387f444974c3e9c5bd05e75b50b"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "description": {
+    "value": "If you don't know, now you know...$GOJO Let's GOOOOOOOO",
+    "signatures": [
+      {
+        "signature": "97fa988999c6e39d4300b8cc0c6fca87e40926677658ef706ebfb78830ecab7df41348cb45e302c6098a458747b46cc57e60f663d5e24e7934b2f137f608e700",
+        "publicKey": "c6ff6e8868dee69a48932c528afe9840a83f5387f444974c3e9c5bd05e75b50b"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "ticker": {
+    "value": "GOJO",
+    "signatures": [
+      {
+        "signature": "a1935c42be534e5e52dc653fce3ae325325324528d4a758140d805573726f680c1c6ea44195c443396430db003627f965b81922d8b0ef6592fcf14a6d39b6c01",
+        "publicKey": "c6ff6e8868dee69a48932c528afe9840a83f5387f444974c3e9c5bd05e75b50b"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "decimals": {
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "2302a024042acd75c0390d076b969ef5dc512eda19161dd874980891086ff332d3c4c7c5ff5aa4a09c1840bebc8b93ad50ac30f14fabb91540c43874b7e09a01",
+        "publicKey": "c6ff6e8868dee69a48932c528afe9840a83f5387f444974c3e9c5bd05e75b50b"
+      }
+    ],
+    "sequenceNumber": 0
+  }
+}
