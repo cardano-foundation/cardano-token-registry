@@ -27,16 +27,16 @@ Modification of entries in this registry require a GitHub Pull Request with the 
 
 Each entry contains the following information:
 
-**Name**             | **Required/Optional**|**Description**
----              | ---       | ---
-`subject`        | Required  | The base16-encoded policyId + base16-encoded assetName
-`name`           | Required  | A human-readable name for the subject, suitable for use in an interface
-`description`    | Required  | A human-readable description for the subject, suitable for use in an interface
-`policy`         | Optional  | The base16-encoded CBOR representation of the monetary policy script, used to verify ownership. Optional in the case of Plutus scripts as verification is handled elsewhere.
-`ticker`         | Optional  | A human-readable ticker name for the subject, suitable for use in an interface
-`url`            | Optional  | A HTTPS URL (web page relating to the token)
-`logo`           | Optional  | A PNG image file as a byte string
-`decimals`       | Optional  | how many decimals to the token
+| **Name**      | **Required/Optional** | **Description**                                                                                                                                                              |
+|---------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `subject`     | Required              | The base16-encoded policyId + base16-encoded assetName                                                                                                                       |
+| `name`        | Required              | A human-readable name for the subject, suitable for use in an interface                                                                                                      |
+| `description` | Required              | A human-readable description for the subject, suitable for use in an interface                                                                                               |
+| `policy`      | Optional              | The base16-encoded CBOR representation of the monetary policy script, used to verify ownership. Optional in the case of Plutus scripts as verification is handled elsewhere. |
+| `ticker`      | Optional              | A human-readable ticker name for the subject, suitable for use in an interface                                                                                               |
+| `url`         | Optional              | A HTTPS URL (web page relating to the token)                                                                                                                                 |
+| `logo`        | Optional              | A PNG image file as a byte string                                                                                                                                            |
+| `decimals`    | Optional              | how many decimals to the token                                                                                                                                               |
 
 The policy field is optional in order to support Plutus Smart-Contracts which are not linked to a set of signing keys by default. It is used in priority if present. Otherwise, signature verification is performed using user-provided trusted keys.
 
