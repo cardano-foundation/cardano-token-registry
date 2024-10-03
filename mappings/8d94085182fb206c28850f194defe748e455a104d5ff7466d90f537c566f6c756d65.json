@@ -42,6 +42,7 @@
   },
   "logo": {
     "value": "https://asset1xpqhyev3ha8w885pjrcasj3733uynz9jnh9jkz.poolpm.nftcdn.io/preview?tk=GUxsNHieQoVMYxxIUK8-KUJY5iRxll6Jjn61x4Q6Me0",
+    "signatures": [
       {
         "signature": "9d23c73a9d6e4b1fc7c4912efdef93a8a6312d43c8654f8735e7ecbca2f7d343",
         "publicKey": "26ae1cad02b4ea7ef6aa76f2e9df8995f11eaf69d581e42733eeb9413c0eef5f"
