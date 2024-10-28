@@ -1,0 +1,44 @@
+{
+    "subject": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f48594452",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "HydroDrip",
+        "signatures": [
+            {
+                "signature": "a13c26202330131a2f99d34acc739dc526f7ef77747ee639f0bf78dbb16db9a1a4be9950fa91dfc59572697f9c5de613920eac107f2f2eb51c13f5ee47a01405",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "HYDR",
+        "signatures": [
+            {
+                "signature": "ae00a97f4fa3b8707461b46b0334f800af506f2283d2eb2d0cb78263e2d92f48913197e55e66d6d8bb696e2fb4db87035b3eb0d36164c7428794ad76d09ee405",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "474b91e373c7faecc7d6b3cd8972a1994bd110e084560a0a6cfb35dd2a66b2aca37cc60da5626054e42f56cc3ec3657cde5cd5753bbb35bf2b58125a0d62950b",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a08408661",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "HydroDrip ensures that the flow never stops, offering a consistent stream of rewards while encouraging participation and value creation.",
+        "signatures": [
+            {
+                "signature": "76d3e4c2e6e1c87f8cf05d1f8beecedc19385aabd133aea9ba496dde9b34eee4ac09648276b326ddad7fcdcf05af43777dafdbe9c53f036236d2477763f2ca07",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
