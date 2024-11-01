@@ -52,10 +52,10 @@
     },
     "description": {
         "sequenceNumber": 2,
-        "value": "Any token to any token, on any network. MNT is the utility token that powers Mynth, a layer zero protocol faciliating trustless atomic swaps to bring financial sovereignty to billions.",
+        "value": "Any token to any token, on any network. MNT is the utility token that powers Mynth, a layer zero protocol facilitating trustless atomic swaps to bring financial sovereignty to billions.",
         "signatures": [
             {
-                "signature": "0dc00e348e2fbf2125e7fe587878f688531483ef38c1481da37beff263e46a01e538d76ece2e81cf9a727adb148c58f660ec0700faeb21101e019852941b0809",
+                "signature": "44dac11443d0f086e2b0ea5c82426331d663e6c83656e2b690b2e60463447cdfedb137e961d0cca30bcb07bd781f4205ff9a0c4ae1da02dfd8e6547e256f6b02",
                 "publicKey": "8313d34038754be5863ae8a8254359b636e3a7a86fc4c64fcfb25976084ae6be"
             }
         ]
