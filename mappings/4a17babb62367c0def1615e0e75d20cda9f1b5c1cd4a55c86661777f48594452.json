@@ -10,6 +10,7 @@
             }
         ]
     },
+
     "name": {
         "sequenceNumber": 0,
         "value": "HydroDrip",
@@ -51,14 +52,18 @@
             }
         ]
     },
+
     "description": {
         "sequenceNumber": 0,
-        "value": "we are a role-based level drip system, designed to encourage community engagement, staking, and participation through Discord-based Farmbot activities.",
+        "value": "HydroDrip ensures that the flow never stops, offering a consistent stream of rewards while encouraging participation and value creation.",
         "signatures": [
             {
-                "signature": "ec42d7043b7a05354da04b5184f415e96ff9ffbf20635fcc12ea6d62bd957cc3a6e918dd5384f02e1bd6f0ebbd3d78f663abde53bddfa822073939780b36540d",
+                "signature": "76d3e4c2e6e1c87f8cf05d1f8beecedc19385aabd133aea9ba496dde9b34eee4ac09648276b326ddad7fcdcf05af43777dafdbe9c53f036236d2477763f2ca07",
+
                 "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
             }
-        ]
+        
     }
+
 }
+

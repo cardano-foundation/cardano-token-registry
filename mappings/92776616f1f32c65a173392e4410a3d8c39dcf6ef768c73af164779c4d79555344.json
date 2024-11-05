@@ -1,21 +1,21 @@
 {
     "subject": "92776616f1f32c65a173392e4410a3d8c39dcf6ef768c73af164779c4d79555344",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://mynth.ai",
+        "sequenceNumber": 1,
+        "value": "https://myusdprotocol.com/",
         "signatures": [
             {
-                "signature": "fdbe5482b39a074117807224f062e1e2b555ec9c9a74bfd9157b5ecfe082813fa0a96c5f819a80bf9979aa541cf80d0e67e8f4d4c258ad513ebdbf18f0be3802",
+                "signature": "50eca25e9ea8d879656d6a039d5eb35424ebca56787c8fa99495f0f727fd9b858beb8c726a2ccdd1ae3df97fcba61c26ae05a2364ba740d197961ac089b5540e",
                 "publicKey": "e23522bda7a798a981f3b20b4abd651109cf1a0ff03cdc8409ab6ffc18d39158"
             }
         ]
     },
     "name": {
-        "sequenceNumber": 1,
-        "value": "Mynth USD",
+        "sequenceNumber": 2,
+        "value": "MyUSD",
         "signatures": [
             {
-                "signature": "84669ba4bfb94bf88ea38eeac0a8c67dd3537c686b16750cd0252ac5aa0f9f7a7b75d9a45022572932306dbed64c11868fd5281683b5b6cd8270d4434aeebe07",
+                "signature": "08feb7bbe594be4f49d8fd1e3fea71bf37879aa0ee206b34aad54a22cbd13fa98d7dda465877ed5727d7b33724d1a959d556fe834c6420652266fdf76f400c0a",
                 "publicKey": "e23522bda7a798a981f3b20b4abd651109cf1a0ff03cdc8409ab6ffc18d39158"
             }
         ]
@@ -51,11 +51,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 1,
-        "value": "Fully collateralized, redeemable, and stable mastercoin for Cardano.",
+        "sequenceNumber": 2,
+        "value": "Fully collateralized, redeemable, and stable yield-bearing stablecoin for Cardano.",
         "signatures": [
             {
-                "signature": "0a5fc37dd78f5d315d54385f98042d9b383b19d93be25a8c8578d70f8565e196b77dc71649300b92fd0a00d789d3a0ba4b236e6c6d883ab97bb02b5b44938005",
+                "signature": "14f22f65147ffa37acc935d0c72f6aed4ffd928114ab71916381638348f6df2347798825d64c66168c69e12b73bed0a95f8835bfceeb5836325429f79aeba409",
                 "publicKey": "e23522bda7a798a981f3b20b4abd651109cf1a0ff03cdc8409ab6ffc18d39158"
             }
         ]
