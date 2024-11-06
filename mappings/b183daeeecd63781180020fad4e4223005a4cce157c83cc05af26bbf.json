@@ -3,5 +3,6 @@
   "symbol": "CORT",
   "decimals": 18,
   "description": "Cortana is a digital token on the Cardano blockchain.",
-  "image": "https://ipfs5.jpgstoreapis.com/ipfs/QmUiymXGuQwvQyqG1ZfrwPRmReZXSgqaDpuoUMxoqENeiL"
+  "image": "https://ipfs5.jpgstoreapis.com/ipfs/QmUiymXGuQwvQyqG1ZfrwPRmReZXSgqaDpuoUMxoqENeiL",
+  "subject": "token"
 }
