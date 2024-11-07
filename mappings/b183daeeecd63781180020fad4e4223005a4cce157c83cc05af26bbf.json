@@ -4,9 +4,5 @@
     "decimals": 18,
     "description": "Cortana is a digital token on the Cardano blockchain.",
     "image": "https://ipfs5.jpgstoreapis.com/ipfs/QmUiymXGuQwvQyqG1ZfrwPRmReZXSgqaDpuoUMxoqENeiL",
-    "subject": "b183daeeecd63781180020fad4e4223005a4cce157c83cc05af26bbf",
-    "attestation": {
-        "verified_by": "Rocket.store",
-        "timestamp": "2024-11-01T12:00:00Z"
-    }
+    "subject": "b183daeeecd63781180020fad4e4223005a4cce157c83cc05af26bbf"
 }
