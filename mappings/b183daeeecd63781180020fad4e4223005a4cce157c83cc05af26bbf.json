@@ -9,15 +9,14 @@
   "version": "1.0",
   "status": "active",
   "created": "2024-11-01T00:00:00Z",
-  "total_supply": "1000000000000000000000000", 
+  "total_supply": "1000000000000000000000000",
   "minter": "iMomento",
   "attestation": {
-    "verified_by": "Cardano Foundation",
-    "timestamp": "2024-11-01T12:00:00Z",
-    "certificate_id": "xyz-123-abc-456"
+    "verified_by": "Rocket.store",
+    "timestamp": "2024-11-01T12:00:00Z"
   },
   "properties": {
-    "type": "security", 
+    "type": "security",
     "platform": "Cardano",
     "category": "DeFi Token"
   }
