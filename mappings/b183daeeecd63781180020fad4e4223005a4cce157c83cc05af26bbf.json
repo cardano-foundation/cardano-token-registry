@@ -1,13 +1,12 @@
 {
-    "version": "1.0",
     "name": "Cortana",
     "symbol": "CORT",
     "decimals": 18,
     "description": "Cortana is a digital token on the Cardano blockchain.",
     "image": "https://ipfs5.jpgstoreapis.com/ipfs/QmUiymXGuQwvQyqG1ZfrwPRmReZXSgqaDpuoUMxoqENeiL",
-    "policy": "b183daeeecd63781180020fad4e4223005a4cce157c83cc05af26bbf",
-    "asset_name": "CORTANA",
-    "fingerprint": "asset16cx48gqe7fhn5d747dvr7t2xmjtykna09k98z2",
     "subject": "b183daeeecd63781180020fad4e4223005a4cce157c83cc05af26bbf",
-    "twitter": "https://x.com/CORTANA_TOKEN"
+    "attestation": {
+        "verified_by": "Some authority",
+        "timestamp": "2024-11-01T12:00:00Z"
+    }
 }
