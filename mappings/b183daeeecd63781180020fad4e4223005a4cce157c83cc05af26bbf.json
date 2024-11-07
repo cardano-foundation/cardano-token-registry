@@ -2,11 +2,23 @@
   "name": "Cortana",
   "symbol": "CORT",
   "decimals": 18,
-  "description": "Cortana is a digital token on the Cardano blockchain.",
+  "description": "Cortana is a native digital asset built on the Cardano blockchain, designed for use within decentralized applications (dApps) and Cardano-based ecosystems. It aims to enhance utility in decentralized finance (DeFi) protocols and facilitate user engagement across various Cardano-powered platforms.",
   "image": "https://ipfs5.jpgstoreapis.com/ipfs/QmUiymXGuQwvQyqG1ZfrwPRmReZXSgqaDpuoUMxoqENeiL",
   "subject": "b183daeeecd63781180020fad4e4223005a4cce157c83cc05af26bbf",
+  "issuer": "iMomento",
+  "version": "1.0",
+  "status": "active",
+  "created": "2024-11-01T00:00:00Z",
+  "total_supply": "1000000000000000000000000", 
+  "minter": "iMomento",
   "attestation": {
-    "verified_by": "Some authority",
-    "timestamp": "2024-11-01T12:00:00Z"
+    "verified_by": "Cardano Foundation",
+    "timestamp": "2024-11-01T12:00:00Z",
+    "certificate_id": "xyz-123-abc-456"
+  },
+  "properties": {
+    "type": "security", 
+    "platform": "Cardano",
+    "category": "DeFi Token"
   }
 }
