@@ -1,0 +1,44 @@
+{
+    "subject": "c1ba05b46f1f1c5f147038d33e43e947966a676d16a0bdc1b4c351a2475245454e",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "GREEN",
+        "signatures": [
+            {
+                "signature": "2f8a7760365501a95cb0ab4d599570691677829c41e30375dff13708c63c877e179d40b046a3a0d290a39ed800ad1965deb4e63bdad2c62aac12e9c6bd08100b",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "GREEN",
+        "signatures": [
+            {
+                "signature": "429ba3be327571e7875bacaf72175a0dbd9ad1ba79aad84545ead6e6881b413abd8759c6cf736c0658998685ae9077b02a9da297e0f22faff7048706e4aaac05",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "27f12a63a010f19b31eb7ff66e0006fddc33b31c1bfdfb8c2453ef7fc9efd30374bcb468e3cb9e5842e8a50a856de8489f1b41b2191e50dd3fe58108f8019d0b",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a085e01cd",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "GREEN is the ultimate meme coin for traders who live for the thrill of profit. Built to maximize speculative hype, GREEN symbolizes growth, positivity, and the dream of turning every trade into a green bar on your portfolio. With an upward trajectory embedded in its DNA, GREEN is the token for everyone chasing the rush of gains.",
+        "signatures": [
+            {
+                "signature": "b10dd29472fc264dd21a00b815d0a3c28fe7b773ec8ea58be56d0e79ed1074fa0b58d86ad73a7776f66a8bf529c10896db47d6a3b7a23d8b6e812cf50bb4e308",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
