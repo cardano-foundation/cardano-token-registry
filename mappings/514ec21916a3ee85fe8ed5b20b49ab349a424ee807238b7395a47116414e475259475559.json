@@ -1,0 +1,44 @@
+{
+    "subject": "514ec21916a3ee85fe8ed5b20b49ab349a424ee807238b7395a47116414e475259475559",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Cardano-whale",
+        "signatures": [
+            {
+                "signature": "7e43c58e3ca95d6cc26a30c0834c6dfffa832b4b868e23c8f8672016760ee142cb24d1c5aca9e251b59682032fa3309a9f8f25c5dfb134784804e0a51f073006",
+                "publicKey": "68341904319809d258f6468db43bf21fb65bc95ec1cb58398a9d5af28fcfffb2"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "ANGRYGUY",
+        "signatures": [
+            {
+                "signature": "9faa383579ce9679413c4b8003a4bc9c4596e9df86818ec2112a0144ef71f242641061ff45b999bd98f7bd9f26f327f7fafeb42e5c455e4ef073d1a0073aa305",
+                "publicKey": "68341904319809d258f6468db43bf21fb65bc95ec1cb58398a9d5af28fcfffb2"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "6f918fe76afae5c965aceffd92ae6092276e60c37a8ac1c3ad58367e206a2320d475611c7e7b979a01bfbf76d2610ef8fa7cb390867912f25d4c3ee77480510a",
+                "publicKey": "68341904319809d258f6468db43bf21fb65bc95ec1cb58398a9d5af28fcfffb2"
+            }
+        ]
+    },
+    "policy": "82008200581c1e711ec779fdb9030bf293caad7bf022d0a58ce9ea7b88702576ddbc",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Just a piece of shit",
+        "signatures": [
+            {
+                "signature": "4d1ac3bac0738712519cd6c03ac23a302f13498d9edc110d9fcfb61fa54f901e88822f5ec49895ec58d170675786ccc3f8e180830679a16bd2786fa92798900c",
+                "publicKey": "68341904319809d258f6468db43bf21fb65bc95ec1cb58398a9d5af28fcfffb2"
+            }
+        ]
+    }
+}
