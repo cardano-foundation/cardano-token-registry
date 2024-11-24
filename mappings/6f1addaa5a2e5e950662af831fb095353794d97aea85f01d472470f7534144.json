@@ -45,7 +45,16 @@
             }
         ]
     },
-    "policy": "6f1addaa5a2e5e950662af831fb095353794d97aea85f01d472470f7",
+    "policy": {
+        "type": "atLeast",
+        "required": 1,
+        "scripts": [
+            {
+                "type": "sig",
+                "keyHash": "fcd53995bbd14df6b9dfe11afe1d163bd2d134f15efb6d9085d180dc"
+            }
+        ]
+    },
     "decimals": {
         "value": 8,
         "signatures": [
