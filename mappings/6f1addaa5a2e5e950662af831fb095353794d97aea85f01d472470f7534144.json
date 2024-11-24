@@ -1,72 +1,57 @@
 {
     "subject": "6f1addaa5a2e5e950662af831fb095353794d97aea85f01d472470f7534144",
     "name": {
+        "sequenceNumber": 0,
         "value": "SAD",
         "signatures": [
             {
                 "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
-                "publicKey": "5ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f",
-                "sequenceNumber": 0
+                "publicKey": "58205ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f"
             }
         ]
     },
     "ticker": {
+        "sequenceNumber": 0,
         "value": "SAD",
         "signatures": [
             {
                 "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
-                "publicKey": "5ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f",
-                "sequenceNumber": 0
+                "publicKey": "58205ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f"
             }
         ]
     },
     "url": {
+        "sequenceNumber": 0,
         "value": "https://x.com/theSADtoken",
         "signatures": [
             {
                 "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
-                "publicKey": "5ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f",
-                "sequenceNumber": 0
+                "publicKey": "58205ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f"
             }
         ]
     },
     "logo": {
-        "value": "https://pink-peculiar-tuna-321.mypinata.cloud/ipfs/QmUQrvEYoKnm6YtZj15bsnC9BsSj2JMjKkuN4k5Gq7cLDH",
-        "signatures": [
-            {
-                "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
-                "publicKey": "5ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f",
-                "sequenceNumber": 0
-            }
-        ]
+        "sequenceNumber": 0,
+        "value": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAANB0lEQVR4nLTOoQ3AIAAAwUNX1ZI0Vbgm7D8GAtUEg8DW1GNYgV/gPtjfjYwHCRciThyL//FhoONFRUHbtogJAAD//6JVAJgwMDD4MDAw+DIwMBghS/Dz8zOIi4szCAoKMnBzQ/z/7ds3hg8fPjC8evWK4d27d+hmXWJgYNgCxcep6koGBgYAAAAA//+s0KENwEAMQ9FPA2+58ExQ1H0Cs0tJcdBt4uqqDlBwlh61LO9kwAFcgBYzk7srM9Xd+ps5p6pKEaExxtv1uYFz/bhlOPAAAAD//6ySuwlDIQBFTyOIGzxwAVsRnMbWLpklTSobF9LOBewfQbCWoCOEtPcDF879xwM2xifwAC4hBCEEYox4709grUWtlVIKrTV674f0nPP4SqnzCK01xhistTjnkFIef3dSSuScGWNs6QbewAv4/Lwc+AIAAP//ohTHQ/PtfyEhof99fX3wSH78+PH/urq6/2pqasgxSBKWlZX9X1BQ8P/atWtwcxcuXPhfXl4eZs4bBgaGdLI9wcDAAAAAAP//IheDCrKdMA9NnDgR7sDp06dT5GlcWFpa+n9bWxvcnmXLlv3n4+ODqT/EwMCgTrJnGBgYAAAAAP//IgeHMzAwfAZZHBoa+v/Pnz9gB4FiH8lBNMNMTEz/q6ur4QGRmZkJs+s3AwNDEkkeYmBgAAAAAP//IhU3wTwHKqRAYN++ff/FxMRo7nF0zMHB8X/58uVgNxw5cuQ/FxcXTE0/0Z5iYGAAAAAA//8iBc8BWSAjI/P/9evXYIsjIyPp7nF07OzsDE8NRkZGMPlVRHmMgYEBAAAA//8iFi8HGWxubg626M2bN8gF0YBjXl7e/+fPnwe7LSgoCOYeULsBP2BgYAAAAAD//yIGzwUZaGVlBbbg1KlTg8bj6Hj16tVgN4LaHlC5tXg9yMDAAAAAAP//IoTBed7ExARs8K5duwat52EYVAuBQHBwMExsMk5PMjAwAAAAAP//wof9QAZISEiADTxz5syg9zwMwwpoU1NTmBiovYIJGBgYAAAAAP//woVFodXK/3fv3v3/+PHjkPE8DJ87dw4cCKDaAiqmiOFZBgYGAAAAAP//woWPgTTB8tRAVHPUwCBw6dIlmFmg3iUqYGBgAAAAAP//woZBDZ3/fn5+6AXKkMOgahEEysrKYG7PQvEwAwMDAAAA//9CxyzQvjlY47Fjx4as52F41qxZYL/w8/PDxHjgnmZgYAAAAAD//0LH5SBFU6dOBWtiZ2cf8gEAi8yDBw/C+F1wTzMwMAAAAAD//0LGoNj/BGprgwAoEIaD50E4PT0d7CdQhwpauPOCfczAwAAAAAD//0LG2SDFU6ZMASsGBcRwCQAQ/vHjB7jPAOXXgX3MwMAAAAAA//9CxjdhyWX+/PnDyvMgnJubC/YbdITpGdjHDAwMAAAAAP//gmFNkKKoqKghXe0RwiDQ2dkJU2fBwMDAAAAAAP//guFmkCBo5AXU8MFnEKhh0dTU9F9XV5doi1lYWP43NDT8t7CwIKhWT08PrJabm5to85WVlcF6QKNS+NSdPHny/7dv32D8qQwMDAwAAAAA"
     },
     "description": {
+        "sequenceNumber": 0,
         "value": "Seek and discover even in the face of challenges.",
         "signatures": [
             {
                 "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
-                "publicKey": "5ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f",
-                "sequenceNumber": 0
+                "publicKey": "58205ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f"
             }
         ]
     },
-    "policy": {
-        "type": "atLeast",
-        "required": 1,
-        "scripts": [
-            {
-                "type": "sig",
-                "keyHash": "fcd53995bbd14df6b9dfe11afe1d163bd2d134f15efb6d9085d180dc"
-            }
-        ]
-    },
+    "policy": "6f1addaa5a2e5e950662af831fb095353794d97aea85f01d472470f7",
     "decimals": {
+        "sequenceNumber": 0,
         "value": 8,
         "signatures": [
             {
                 "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
-                "publicKey": "5ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f",
-                "sequenceNumber": 0
+                "publicKey": "58205ff99cbb26319af373e407adb000f37566f15d0ea3c67dd96719493d2fd7105f"
             }
         ]
     }
