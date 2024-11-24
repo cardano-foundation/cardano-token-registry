@@ -1,16 +1,8 @@
 {
-    "721": {
-        "6f1addaa5a2e5e950662af831fb095353794d97aea85f01d472470f7": {
-            "534144": {
-                "name": "SAD",
-                "symbol": "SAD",
-                "decimals": 8,
-                "image": "https://shorturl.at/K3Ph5",
-                "mediaType": "image/png",
-                "description": "Seek And Discover even in the face of challenges.",
-                "telegram": "https://t.me/+niICtS5wEGFhYTVk",
-                "instagram": "https://www.instagram.com/thesadtoken/"
-            }
-        }
-    }
+    "subject": "6f1addaa5a2e5e950662af831fb095353794d97aea85f01d472470f7534144",
+    "name": "SAD",
+    "ticker": "SAD",
+    "url": "https://t.me/+niICtS5wEGFhYTVk",
+    "logo": "https://shorturl.at/K3Ph5",
+    "description": "Seek And Discover even in the face of challenges."
 }
