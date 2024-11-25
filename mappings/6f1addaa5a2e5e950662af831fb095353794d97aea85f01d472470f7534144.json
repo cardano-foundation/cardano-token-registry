@@ -1,0 +1,53 @@
+{
+    "subject": "6f1addaa5a2e5e950662af831fb095353794d97aea85f01d472470f7534144",
+    "name": {
+        "value": "SAD",
+        "signatures": [
+            {
+                "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
+                "publicKey": "56262b3921cdb992c5774d40fea5bc535756e36c8866eca68fe7c259"
+            }
+        ],
+        "sequenceNumber": 0
+    },
+    "description": {
+        "value": "Seek and discover even in the face of challenges.",
+        "signatures": [
+            {
+                "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
+                "publicKey": "56262b3921cdb992c5774d40fea5bc535756e36c8866eca68fe7c259"
+            }
+        ],
+        "sequenceNumber": 0
+    },
+    "ticker": {
+        "value": "SAD",
+        "signatures": [
+            {
+                "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
+                "publicKey": "56262b3921cdb992c5774d40fea5bc535756e36c8866eca68fe7c259"
+            }
+        ],
+        "sequenceNumber": 0
+    },
+    "decimals": {
+        "value": 8,
+        "signatures": [
+            {
+                "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
+                "publicKey": "56262b3921cdb992c5774d40fea5bc535756e36c8866eca68fe7c259"
+            }
+        ],
+        "sequenceNumber": 0
+    },
+    "logo": {
+        "value": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAANB0lEQVR4nLTOoQ3AIAAAwUNX1ZI0Vbgm7D8GAtUEg8DW1GNYgV/gPtjfjYwHCRciThyL//FhoONFRUHbtogJAAD//6JVAJgwMDD4MDAw+DIwMBghS/Dz8zOIi4szCAoKMnBzQ/z/7ds3hg8fPjC8evWK4d27d+hmXWJgYNgCxcep6koGBgYAAAAA//+s0KENwEAMQ9FPA2+58ExQ1H0Cs0tJcdBt4uqqDlBwlh61LO9kwAFcgBYzk7srM9Xd+ps5p6pKEaExxtv1uYFz/bhlOPAAAAD//6ySuwlDIQBFTyOIGzxwAVsRnMbWLpklTSobF9LOBewfQbCWoCOEtPcDF879xwM2xifwAC4hBCEEYox4709grUWtlVIKrTV674f0nPP4SqnzCK01xhistTjnkFIef3dSSuScGWNs6QbewAv4/Lwc+AIAAP//ohTHQ/PtfyEhof99fX3wSH78+PH/urq6/2pqasgxSBKWlZX9X1BQ8P/atWtwcxcuXPhfXl4eZs4bBgaGdLI9wcDAAAAAAP//IheDCrKdMA9NnDgR7sDp06dT5GlcWFpa+n9bWxvcnmXLlv3n4+ODqT/EwMCgTrJnGBgYAAAAAP//IgeHMzAwfAZZHBoa+v/Pnz9gB4FiH8lBNMNMTEz/q6ur4QGRmZkJs+s3AwNDEkkeYmBgAAAAAP//IhU3wTwHKqRAYN++ff/FxMRo7nF0zMHB8X/58uVgNxw5cuQ/FxcXTE0/0Z5iYGAAAAAA",
+        "signatures": [
+            {
+                "signature": "fa5ad89de698bcd34068248b827d9658058371d4d80afbb460812b7b75cadfa387482c3a962e138d9cb2199e4861a05c566b39d83b5a93ae2c494f906a639509",
+                "publicKey": "56262b3921cdb992c5774d40fea5bc535756e36c8866eca68fe7c259"
+            }
+        ],
+        "sequenceNumber": 0
+    }
+}
