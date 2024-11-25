@@ -50,5 +50,7 @@
         ],
         "sequenceNumber": 0
     },
-    "policy": "6f1addaa5a2e5e950662af831fb095353794d97aea85f01d472470f7"
+    "policy": {
+        "hash": "6f1addaa5a2e5e950662af831fb095353794d97aea85f01d472470f7"
+    }
 }
