@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 2,
+        "sequenceNumber": 3,
         "value": "TAILS - est March 2021.",
         "signatures": [
             {
-                "signature": "7b5c29f192cef39594b5b7eab473ab1672ca0b11eeda0de161175ebc0bab69a40bf72abaf7ef737853fb8eb6f3a2eb584324dca23d8795d779a66c764bbae700",
+                "signature": "557c1ffc4dbfb45037791d9f0215cf01243dfc47e5c2e4aacc75e076ae5b8a710b0e2c3ac2016f58db5d62b3911010ad21fc7bc3fcebc5d062ef907e830b6f00",
                 "publicKey": "66e6b442f650ba9f1e7f4e536602410650d7e419fe4a35fe555ec4279e1bb5f4"
             }
         ]
