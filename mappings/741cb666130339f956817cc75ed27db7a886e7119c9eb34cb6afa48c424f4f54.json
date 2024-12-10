@@ -1,0 +1,44 @@
+{
+    "subject": "741cb666130339f956817cc75ed27db7a886e7119c9eb34cb6afa48c424f4f54",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "BOOTLEG",
+        "signatures": [
+            {
+                "signature": "62d6474ce1e359548dcc5d3c1a08676845b8e0b967d01d8b4a3a3a448eb00029498c615d6fe375f1944127b6b3ce69bba308bcac327441531114f8010e42e800",
+                "publicKey": "5d60bab6361e1abd17d089fdb3e5ccfc79f002a4e8c163351b7c489325c4d73f"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "BOOT",
+        "signatures": [
+            {
+                "signature": "14367f5de1ce6e08843b636b85c89f1ee44c4b6eeaff1ad6ba305ea7a7b3ecea6c84ed214a2dcb5569198e07881e11d80c41a54196da0c61e2b841508fbee303",
+                "publicKey": "5d60bab6361e1abd17d089fdb3e5ccfc79f002a4e8c163351b7c489325c4d73f"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "579b7016b932f98c9ec671a3362cff36995f1ba395348e884dfc1197695cbc5f0081f36f4528ce172893ae6fed046680a432c340e596d6cf3d9190850277e20c",
+                "publicKey": "5d60bab6361e1abd17d089fdb3e5ccfc79f002a4e8c163351b7c489325c4d73f"
+            }
+        ]
+    },
+    "policy": "82018201828200581cd4b6e1783774742672a41ee130f9cf4bbac10043893dee431b4db02382051a087ae8da",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "For all those times you've got scammed by Bootleg merchandise or Memecoins",
+        "signatures": [
+            {
+                "signature": "b5ae4bc9327f8e392426055454bd492a1667a370029ca3bbc56b3529bf2f8d7c38ebecc4e33bf178d5339ff8847f8011c5a4faddd313c2e39ee3b3ee7a18540b",
+                "publicKey": "5d60bab6361e1abd17d089fdb3e5ccfc79f002a4e8c163351b7c489325c4d73f"
+            }
+        ]
+    }
+}
