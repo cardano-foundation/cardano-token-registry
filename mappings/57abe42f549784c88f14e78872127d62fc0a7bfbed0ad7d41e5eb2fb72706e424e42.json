@@ -1,0 +1,53 @@
+{
+    "subject": "57abe42f549784c88f14e78872127d62fc0a7bfbed0ad7d41e5eb2fb72706e424e42",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://rosen.tech",
+        "signatures": [
+            {
+                "signature": "d7fa5fd0753675c3d34d25dd1530447b649a891ab0f7b9538c9d351802dcdb4120f302c8f0c8d7024a3a176812b469a790aaf5a3825d8235a594b5f7ce11c20c",
+                "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "rpnBNB",
+        "signatures": [
+            {
+                "signature": "4ff324bb231b1853589f36a9a656ccab0f3cd368a4f79683d5c2e3c4239be9ef8c7b7c7ab266eece69f35e087c2068b21d0c82bd01b0b2feede14cadc2554205",
+                "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "rpnBNB",
+        "signatures": [
+            {
+                "signature": "de9f43c1f4a1bca86669853f01526c8c185bfd4d1db8c55eb98cc739cd61246926592d4dff3cc6526427bedebb62d4b7e68c91bc7f69f36164844788f45e7508",
+                "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 9,
+        "signatures": [
+            {
+                "signature": "1a9ef36aae361abc7d56f84a2f324ec5b2919165e1904a07fe0dd7fda7760539ce20ee7bb8f980678f53ecda6bbcbd33b3ea2ed462cf17269342b164119f7902",
+                "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "{\"title\":\"rosen bridge Pandora wrapped BNB\",\"originNetwork\":\"Binance\",\"originToken\":\"bnb\",\"isNativeToken\":true}",
+        "signatures": [
+            {
+                "signature": "cf45ecdf85a0f897f028b8b49c676f92803af242f75256d5df7f0dee538a54c354305dbafddfb3b4e8db7c64628655425bca062f67ffc7151acf9fd5fc04f30b",
+                "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
+            }
+        ]
+    }
+}

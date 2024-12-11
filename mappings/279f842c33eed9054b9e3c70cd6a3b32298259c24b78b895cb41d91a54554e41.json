@@ -1,13 +1,13 @@
 {
     "subject": "279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a54554e41",
     "name": {
-        "sequenceNumber": 0,
-        "value": "TUNA",
+        "sequenceNumber": 1,
+        "value": "V1TUNA",
         "signatures": []
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "TUNA",
+        "sequenceNumber": 1,
+        "value": "V1TUNA",
         "signatures": []
     },
     "decimals": {
