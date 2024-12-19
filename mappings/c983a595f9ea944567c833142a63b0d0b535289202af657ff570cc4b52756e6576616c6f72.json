@@ -1,0 +1,14 @@
+{
+    "subject": "c983a595f9ea944567c833142a63b0d0b535289202af657ff570cc4b52756e6576616c6f72",
+    "name": "Runevalor",
+    "description": "Runevalor (RVT): In-Game currency powering Runevalor RPG",
+    "ticker": "RVT",
+    "decimals": 0,
+    "url": "https://x.com/runevalor",
+    "logo": "https://example.com/logo.png",
+    "meta_version": 1,
+    "attestation": {
+        "verified": true,
+        "issuer": "RunevalorTeam"
+    }
+}
