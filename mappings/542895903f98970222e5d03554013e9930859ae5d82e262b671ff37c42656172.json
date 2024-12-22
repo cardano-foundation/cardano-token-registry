@@ -1,0 +1,44 @@
+{
+    "subject": "542895903f98970222e5d03554013e9930859ae5d82e262b671ff37c42656172",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Bear",
+        "signatures": [
+            {
+                "signature": "d21f93b674ce6b19dff1c0d5840b4174c952ef35b123e2aed0f90321d7bee4b0179b961626972e89f483c4fea4eb8ed1d42579428d743014bbf0a2b10fa8d20a",
+                "publicKey": "502e52c64cf559a2baf0337a7e94de88374c527a2762ffc2bd6664865fa59a9d"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "Bear",
+        "signatures": [
+            {
+                "signature": "771497b5e1d18320765b31c1e72d99ceca8961d13f21f90e2b699e48db3705a4c571026051c43c674f54d5c9ce9e611e7584f6cd46d2c4cc66312367514f090d",
+                "publicKey": "502e52c64cf559a2baf0337a7e94de88374c527a2762ffc2bd6664865fa59a9d"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "ecaf0a64b85232079dc9081b836b570e4e17667e5340f09c0b6c036fa780b692205d557f4e7f24a5e1e54ee407ba3467cc96a964c2dd605f59d8bf849f904a04",
+                "publicKey": "502e52c64cf559a2baf0337a7e94de88374c527a2762ffc2bd6664865fa59a9d"
+            }
+        ]
+    },
+    "policy": "82008200581cf2fbe72bb91602c4706c27da0ab79366caecb62dffa049f77463727c",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "🐻 🪙 🚀 🌙",
+        "signatures": [
+            {
+                "signature": "72eb927b60a756cf6299ebe25d6819cff6632acee91f8ae431e56dee8a3de6e692db37574575f8a857a19ed71d97e46dd4f2e76ee315027d5d611ad7a5fbb20a",
+                "publicKey": "502e52c64cf559a2baf0337a7e94de88374c527a2762ffc2bd6664865fa59a9d"
+            }
+        ]
+    }
+}
