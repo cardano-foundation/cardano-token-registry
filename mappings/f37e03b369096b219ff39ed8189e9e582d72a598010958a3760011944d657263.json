@@ -1,0 +1,44 @@
+{
+    "subject": "f37e03b369096b219ff39ed8189e9e582d72a598010958a3760011944d657263",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Mercury Coin",
+        "signatures": [
+            {
+                "signature": "12a692cdc74c437c2c1c018b5b9aba4eadfc9ddc6fe5322afd061337d913df711513f1efe7fedf13ef136e3784857e5d91468eae81242f7948bc04e5ee069b04",
+                "publicKey": "b73184e9da29fd99c13bba62bfbc3e77525ac3322b5d38d879013171c6a19aa5"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "Merc",
+        "signatures": [
+            {
+                "signature": "0e8aa2accd01a9fd0c484430da6bf2c609cd2332672d9efc922eb065d17f483c07712c7c866eab7c576b20dc83c1dd878a30e1f83df3c7798a9297519c939000",
+                "publicKey": "b73184e9da29fd99c13bba62bfbc3e77525ac3322b5d38d879013171c6a19aa5"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "72f64fa98b7d368e32f0c890a4c717901bbbd3f8a9c791a71396e4fac2c2d17f03e922644f6f11a6f2af2d8d115f873acd4705521fcdb9ab9b86eecac5185c07",
+                "publicKey": "b73184e9da29fd99c13bba62bfbc3e77525ac3322b5d38d879013171c6a19aa5"
+            }
+        ]
+    },
+    "policy": "82018201828200581c702615fd16e96a19d235a97ec155a0a9445f722abaa1d043f572832882051a088cc942",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The office token of Mercury Trades",
+        "signatures": [
+            {
+                "signature": "42d43d0668158aead07a7738a9300260fcfc5aa3270c524542478091fa51e3414cb96405946976a3d820dd443a53646a3bbc58920a4794e3ebb60e8902d0110e",
+                "publicKey": "b73184e9da29fd99c13bba62bfbc3e77525ac3322b5d38d879013171c6a19aa5"
+            }
+        ]
+    }
+}
