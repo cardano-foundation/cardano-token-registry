@@ -1,0 +1,23 @@
+{
+    "subject": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.anzens.com"
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "USDA"
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "USDA"
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Anzens USDA Stablecoin"
+    }
+}
