@@ -27,7 +27,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "Account point and interchange token for de Iberic market",
+        "value": "Account point for interchange at Iberian market.",
         "signatures": [
         ]
     }
