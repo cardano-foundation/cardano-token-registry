@@ -1,0 +1,34 @@
+{
+    "subject": "21354385d168c135533591e450bd90f4d881a1dc84b1ca6823bf20c6416461777a",
+    "name": {
+        "sequential": [
+            {
+                "value": "Adawiz"
+            }
+        ]
+    },
+    "description": {
+        "sequential": [
+            {
+                "value": "Adawiz.io - Next level autonomous AI trading token"
+            }
+        ]
+    },
+    "ticker": {
+        "sequential": [
+            {
+                "value": "WIZ"
+            }
+        ]
+    },
+    "url": {
+        "sequential": [
+            {
+                "value": "Adawiz.io"
+            }
+        ]
+    },
+    "decimals": {
+        "value": 6
+    }
+}
