@@ -1,1 +1,10 @@
-
+{
+  "subject": "b347e69285a701f4b57932275fc39b8b365a1129bd9ecac64c27f63c",
+  "name": "Cool Kid Coin",
+  "description": "You're not cool if you don't have a Cool Kid Coin!",
+  "policy": "b347e69285a701f4b57932275fc39b8b365a1129bd9ecac64c27f63c",
+  "ticker": "CKC",
+  "url": "https://your-website.com",
+  "logo": "https://scarlet-nearby-xerinae-903.mypinata.cloud/ipfs/bafybeigevf3jnar63n5lkrk2xg4ijk3c5c4lwu2uf7c5e2h74jovjwrumi",
+  "decimals": 0
+}
