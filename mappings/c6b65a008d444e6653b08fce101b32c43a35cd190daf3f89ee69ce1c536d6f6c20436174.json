@@ -1,0 +1,63 @@
+{
+  "subject": "c6b65a008d444e6653b08fce101b32c43a35cd190daf3f89ee69ce1c536d6f6c20436174",
+  "name": {
+    "value": "Smol Cat",
+    "signatures": [
+      {
+        "signature": "293c5e319c7cfe097703b9a30be0ca3b62539df59320e1335b60fff5ae1d3b655c63fde57e81b24917f798085cd1f3b3eb4d2339bda21eda09aaac046ee08e09",
+        "publicKey": "cfd6d5b5c048a12b1c0bc745a45a0fa67376317315fbecfd8b50633093d502ef"
+      }
+    ],
+    "sequenceNumber": 1
+  },
+  "description": {
+    "value": "cat so smol it should be against the law",
+    "signatures": [
+      {
+        "signature": "b03a8e00fabf6a7640652f5e99b8d0e37fc756fcd00f16371447848bd6f72dda415d986fb59605dbaf0e437a09e6772fda942fb2473179f15a127ada7e580a07",
+        "publicKey": "cfd6d5b5c048a12b1c0bc745a45a0fa67376317315fbecfd8b50633093d502ef"
+      }
+    ],
+    "sequenceNumber": 1
+  },
+  "ticker": {
+    "value": "Smol",
+    "signatures": [
+      {
+        "signature": "b6297633c996e83d0f1a5ad0e4e01c339d41a2b59177f9bfcad832759a0bf9989a88f567d52906cffd63305c1e1852177559b3683305ddea528469f1a187c60e",
+        "publicKey": "cfd6d5b5c048a12b1c0bc745a45a0fa67376317315fbecfd8b50633093d502ef"
+      }
+    ],
+    "sequenceNumber": 1
+  },
+  "decimals": {
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "5d3c87ca66b86a718ec882d0a27d77c35ae513bca810fdf150334ba0cf44371836c9ab8ced79a70f10267c098260f01b23ab402b035947b2449f7cdbd3e3310b",
+        "publicKey": "cfd6d5b5c048a12b1c0bc745a45a0fa67376317315fbecfd8b50633093d502ef"
+      }
+    ],
+    "sequenceNumber": 1
+  },
+  "logo": {
+    "value": "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",
+    "signatures": [
+      {
+        "signature": "2aedd7ed7ebd3023fd405c6c78296cfc432e60f38d4dae29318711c6d4a453c26c5662bcaa2f061287cfd88e8b5db799184d9c29522fd1bcb8b61b9cf35d4e0b",
+        "publicKey": "cfd6d5b5c048a12b1c0bc745a45a0fa67376317315fbecfd8b50633093d502ef"
+      }
+    ],
+    "sequenceNumber": 1
+  },
+  "url": {
+    "value": "http://www.smolcatcoin.com/",
+    "signatures": [
+      {
+        "signature": "c10261a4ac3ca311b4c0acaedcdaf92ee8849b8162b367df04780dd59e5c738b744fbcc901b13382cfdaff7163405788a34cf4fcbbc66959419f8a97bc8bc606",
+        "publicKey": "cfd6d5b5c048a12b1c0bc745a45a0fa67376317315fbecfd8b50633093d502ef"
+      }
+    ],
+    "sequenceNumber": 1
+  }
+}
