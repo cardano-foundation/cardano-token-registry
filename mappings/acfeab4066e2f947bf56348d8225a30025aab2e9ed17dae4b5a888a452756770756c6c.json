@@ -1,11 +1,11 @@
 {
     "subject": "acfeab4066e2f947bf56348d8225a30025aab2e9ed17dae4b5a888a452756770756c6c",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://discord.gg/DqFnQ378",
+        "sequenceNumber": 1,
+        "value": "https://discord.gg/W9fPrGjyeD",
         "signatures": [
             {
-                "signature": "3eb6c366df8e6c116084d4fc310ac751b3645ac95d0776aa229da9e5360aca26de582659a4c9d81d949c6da91d069ace0db416f37b593a1d6355c470c877f307",
+                "signature": "c62abdfa476fbe307828a5a5ee235c4b35b1b687fc281114d55494d9c4fc8371b928f0d106d6e2bf6969463b8082d530bac9552e910909f0397fb1aadca04806",
                 "publicKey": "3a829ae54f0c1a9747bccc10fdf23327a0556692a3761b3d2ec437dabe3335d8"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 2,
         "signatures": [
             {
-                "signature": "89d9e21a8bdd75f9a8d3a236fb0eddc7404dfd18df6be806e08769fca15625710f5bdfee15f350ff60f5adf3a42d3a3a1bf775b2a140d717ea99b288e2e65c09",
+                "signature": "65b51bf6dcb7ecb3966395b672a2ecb1db1ad19540266d0b690e178fa4e77e1c3876dfdcb157c06438f63f695f269a92aa795123cb7b6a1547b6ec1f7e3e2908",
                 "publicKey": "3a829ae54f0c1a9747bccc10fdf23327a0556692a3761b3d2ec437dabe3335d8"
             }
         ]
