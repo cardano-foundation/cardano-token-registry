@@ -1,11 +1,11 @@
 {
     "subject": "acfeab4066e2f947bf56348d8225a30025aab2e9ed17dae4b5a888a452756770756c6c",
     "url": {
-        "sequenceNumber": 1,
-        "value": "https://discord.gg/W9fPrGjyeD",
+        "sequenceNumber": 2,
+        "value": "https://discord.gg/pCQ59YBsVF",
         "signatures": [
             {
-                "signature": "c62abdfa476fbe307828a5a5ee235c4b35b1b687fc281114d55494d9c4fc8371b928f0d106d6e2bf6969463b8082d530bac9552e910909f0397fb1aadca04806",
+                "signature": "80c664477b4e1590eeff9f6b37c00bc00c83e4e95351a85c2caebd8f7c7ea7d474e29e57f3ae28fadf841bd4a912dc23fb491e265c2fd34f62e57f4accdb9f07",
                 "publicKey": "3a829ae54f0c1a9747bccc10fdf23327a0556692a3761b3d2ec437dabe3335d8"
             }
         ]
@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 1,
+        "sequenceNumber": 2,
         "value": 2,
         "signatures": [
             {
-                "signature": "65b51bf6dcb7ecb3966395b672a2ecb1db1ad19540266d0b690e178fa4e77e1c3876dfdcb157c06438f63f695f269a92aa795123cb7b6a1547b6ec1f7e3e2908",
+                "signature": "d298d5637945a2283c9e18eb2de98ea3d736807818020347c4dc34056d6bb3c965a8bd84dc63e8a80ff10144dd1961e13529eb8d4750ad87947e76701e1af00d",
                 "publicKey": "3a829ae54f0c1a9747bccc10fdf23327a0556692a3761b3d2ec437dabe3335d8"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "serious rugpull but perhaps you are early enough",
+        "sequenceNumber": 1,
+        "value": "🚀 A Meme Coin Just for Fun! 🔥\r\n\r\n💰 Fair Tokenomics, No Greedy Devs!\r\nThis is a one-person project, built purely for fun – no big team, no shady investors, and no plans to get rich. To keep things fair, only 5% of the total supply stays with the developer.",
         "signatures": [
             {
-                "signature": "2ae64cf719677f42fc3de9a21a4d42c14f5ef6af2b94bae00746733655710386e79eb8b2ac787df061299d26f2deeacfad7ce0410971eb54afbfb4fc35a90800",
+                "signature": "e3102c3bd228154ab1192dac466867b074826309caee2d958f3a45c1459a2610c8b9e40443bbb9e65dd3f32172912d61a7909c2ef8faa6c9f0e1af550329930a",
                 "publicKey": "3a829ae54f0c1a9747bccc10fdf23327a0556692a3761b3d2ec437dabe3335d8"
             }
         ]
