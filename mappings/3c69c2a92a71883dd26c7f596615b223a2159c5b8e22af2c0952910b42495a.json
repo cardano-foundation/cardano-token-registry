@@ -1,0 +1,44 @@
+{
+    "subject": "3c69c2a92a71883dd26c7f596615b223a2159c5b8e22af2c0952910b42495a",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "BizCoin",
+        "signatures": [
+            {
+                "signature": "e02ab09bd0e66f19f33a704e8b7a0c8cb62f6833c55a807f32a3724ce27603600813dd885f8a00ba95ce0c6c1240573e54207c5c852ba867167a27ce4e91ff07",
+                "publicKey": "b19807b8b8f8657971f8e6d5daf74b87423260b3562852ce4a47a7e352974cb4"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "Biz",
+        "signatures": [
+            {
+                "signature": "9e4165a796cb767480796bdaa91591036272f6079d2b8d7d2a509c3bbb407acf7b58cd443885f69fcad6031f5749af256dc329e31dec4b88dbe94b8622097806",
+                "publicKey": "b19807b8b8f8657971f8e6d5daf74b87423260b3562852ce4a47a7e352974cb4"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 7,
+        "signatures": [
+            {
+                "signature": "dfa28de160ef0250cd84a3ee310ad7b246177d1ecf01dfa9d6804b7dfecf518f040c0664f26b310d172966b3854a26fe3fa689c26808aa7acafddf9223bd4505",
+                "publicKey": "b19807b8b8f8657971f8e6d5daf74b87423260b3562852ce4a47a7e352974cb4"
+            }
+        ]
+    },
+    "policy": "82018201828200581cd690014aa569630aaaa57d213abffea5a5f24cb5bb13339bc6bfae1a82051a08cc35a9",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "BizCoin is a Cardano-based token designed to revolutionize business funding through decentralized finance (DeFi), governance, and smart contracts. The BizCoin ecosystem empowers entrepreneurs, content creators, and small businesses by providing crowdfunded investments while ensuring transparency and accountability through blockchain technology.",
+        "signatures": [
+            {
+                "signature": "fcabe4c20b78314dc53c544dcd7176341d7b3c18af483c8308aac7f8c2e5567ff68378aae8eda381de2f62fc64958af437e4a9555f1f2887ed760ea832d7490b",
+                "publicKey": "b19807b8b8f8657971f8e6d5daf74b87423260b3562852ce4a47a7e352974cb4"
+            }
+        ]
+    }
+}
