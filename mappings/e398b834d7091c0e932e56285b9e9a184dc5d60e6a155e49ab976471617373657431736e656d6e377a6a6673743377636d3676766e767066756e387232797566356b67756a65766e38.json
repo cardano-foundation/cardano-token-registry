@@ -1,0 +1,26 @@
+{
+  "721": {
+    "e398b834d7091c0e932e56285b9e9a184dc5d60e6a155e49ab976471": {
+      "0014df10382d42697420436174": {
+        "name": "8-Bit Cat",
+        "ticker": "CAT",
+        "description": "A fun meme cat token to collect and trade, for all meme and cat lovers 😺",
+        "url": "https://x.com/8BitCatMeme?t=GP6fvMqHJ5hoQAvYkPYdOw&s=08",
+        "logo": "ipfs://QmWx1HNgcNFkyZ9sVEkDZkYoBj38UPgS",
+        "decimals": 8
+      }
+    }
+  },
+  "cip68": {
+    "subject": "e398b834d7091c0e932e56285b9e9a184dc5d60e6a155e49ab9764710014df10382d42697420436174",
+    "policy": "e398b834d7091c0e932e56285b9e9a184dc5d60e6a155e49ab976471",
+    "name": "8-Bit Cat",
+    "ticker": "CAT",
+    "description": "A fun meme cat token to collect and trade, for all meme and cat lovers 😺",
+    "url": "https://x.com/8BitCatMeme?t=GP6fvMqHJ5hoQAvYkPYdOw&s=08",
+    "logo": "ipfs://QmWx1HNgcNFkyZ9sVEkDZkYoBj38UPgS",
+    "decimals": 8,
+    "label": "333",
+    "project_name": "Meme Cat Token"
+  }
+}
