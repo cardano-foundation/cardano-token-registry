@@ -1,0 +1,81 @@
+{
+  "subject": "e398b834d7091c0e932e56285b9e9a184dc5d60e6a155e49ab9764713842697420436174",
+  "policy": "e398b834d7091c0e932e56285b9e9a184dc5d60e6a155e49ab976471",
+  "fingerprint": "asset1ye3een5nh3py8ltyueynhnf7r643463jeayfgu",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Meme Cat Token",
+    "signatures": {
+      "atLeast": { "min": 0 },
+      "items": []
+    }
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "A fun meme cat token to collect and trade, for all meme and cat lovers 😺",
+    "signatures": {
+      "atLeast": { "min": 0 },
+      "items": []
+    }
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CAT",
+    "signatures": {
+      "atLeast": { "min": 0 },
+      "items": []
+    }
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 8,
+    "signatures": {
+      "atLeast": { "min": 0 },
+      "items": []
+    }
+  },
+  "transactionHash": {
+    "sequenceNumber": 0,
+    "value": "75c62163cd7adeb5337f8d439e34ff253f1eecf9249cc642937d6b205257169b",
+    "signatures": {
+      "atLeast": { "min": 0 },
+      "items": []
+    }
+  },
+  "absoluteSlot": {
+    "sequenceNumber": 0,
+    "value": 148031189,
+    "signatures": {
+      "atLeast": { "min": 0 },
+      "items": []
+    }
+  },
+  "tokenMint": {
+    "sequenceNumber": 0,
+    "value": "00f47b114836942398282f3d6577f322e9b6af6d3af93cad55f5e1a0e18ef0b3",
+    "signatures": {
+      "atLeast": { "min": 0 },
+      "items": []
+    }
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://x.com/8BitCatMeme",
+    "signatures": {
+      "atLeast": { "min": 0 },
+      "items": []
+    }
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "ipfs://QmWx1HNgcNFkyZ9sVEkDZkYoBj38UPgSLjPnJuy8R4RLzB",
+    "signatures": {
+      "atLeast": { "min": 0 },
+      "items": []
+    }
+  },
+  "signatures": {
+    "atLeast": { "min": 0 },
+    "items": []
+  }
+}
