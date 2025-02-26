@@ -1,0 +1,34 @@
+{
+  "subject": "e398b834d7091c0e932e56285b9e9a184dc5d60e6a155e49ab9764713842697420436174",
+  "policy": "e398b834d7091c0e932e56285b9e9a184dc5d60e6a155e49ab976471",
+  "name": {
+    "value": "Meme Cat Token",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "A fun meme cat token to collect and trade, for all meme and cat lovers 😺",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "CAT",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 8,
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://x.com/8BitCatMeme",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "logo": {
+    "value": "ipfs://QmWx1HNgcNFkyZ9sVEkDZkYoBj38UPgSLjPnJuy8R4RLzB",
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
