@@ -1,0 +1,15 @@
+{
+  "721": {
+    "e398b834d7091c0e932e56285b9e9a184dc5d60e6a155e49ab976471": {
+      "20436174": {
+        "name": "Meme Cat Token",
+        "description": "A fun meme cat token to collect and trade, for all meme and cat lovers 😺",
+        "ticker": "CAT",
+        "decimals": 8,
+        "url": "https://x.com/8BitCatMeme",
+        "logo": "ipfs://QmWx1HNgcNFkyZ9sVEkDZkYoBj38UPgSLjPnJuy8R4RLzB"
+      }
+    },
+    "version": "1.0"
+  }
+}
