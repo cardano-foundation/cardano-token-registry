@@ -1,0 +1,54 @@
+{
+    "subject": "5d50beb180203999285984bbe6dd96491fb727e81740ddea2cad079653504c4b",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.splink.com",
+        "signatures": [
+            {
+                "signature": "fd5108010e4fa68e6519dfbc3412770bb4d3f58e5c3a34597259c7f1854c6faa14871acffc3e0504eb7389df6255ba06231d0c29260fc4eaceda1fe5fe547a0e",
+                "publicKey": "13fe849386209d7444390927ada1ea87a44f844a6306ece1956a14ac5a94f55b"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "DanXS",
+        "signatures": [
+            {
+                "signature": "fb003e939868d40cb0a6f6d1f5b6dcb3a876d31a7665fdf96767967c852feba1db5ca79a893474a7151d5dc2b33adba9c194f65502ceb4dcb468909c9a88ca0e",
+                "publicKey": "13fe849386209d7444390927ada1ea87a44f844a6306ece1956a14ac5a94f55b"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "SPLK",
+        "signatures": [
+            {
+                "signature": "9d281ccc0afcbc68622331a4050ac0e5310ab71da27b6e6bd58a26a233706b33b986166720fad59074d8d6e40fb680bbbf16eac7de9062538982eb753d3eb90d",
+                "publicKey": "13fe849386209d7444390927ada1ea87a44f844a6306ece1956a14ac5a94f55b"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 3,
+        "signatures": [
+            {
+                "signature": "cb11038365922105dd872e52f015976ea16e5c1a620dafde6eb5ba3331b5d8bdc4fd9f4b577d77d7b1ca2ae2cb07a0033027497f3ae477df128ed0b009d9e100",
+                "publicKey": "13fe849386209d7444390927ada1ea87a44f844a6306ece1956a14ac5a94f55b"
+            }
+        ]
+    },
+    "policy": "82018201828200581c395f61c03bd5b23be05513e736fc0da1033b2b8286a4cd4aa1cb5bc482051a08e7ea52",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "An alien walking into a bar and asked the barman for a pint of his finest ale and tells him to get everyone a drink on him.  The barman serves the entire bar and says \"That will be £968.95 please\" - to which the alien replies \"Anyone got change for a Splink?\"",
+        "signatures": [
+            {
+                "signature": "b1d8b9789c4f486d6227c92456217ae497efc0c0dac4996ab8324d71bd0b197cdfd7839393e535ca11578a4518970e5a8d3dd28bb6c41b650bf77986c23b9600",
+                "publicKey": "13fe849386209d7444390927ada1ea87a44f844a6306ece1956a14ac5a94f55b"
+            }
+        ]
+    }
+}
