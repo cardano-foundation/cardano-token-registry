@@ -1,33 +1,33 @@
 {
-  "subject": "00000000a2de850cb8cdc28842de58b4812457b7f2b0ede94b2352dda75f5413424f544c59",
+  "subject": "a2de850cb8cdc28842de58b4812457b7f2b0ede94b2352dda75f5413424f544c59",
   "name": {
+    "value": "Qk9UTFk=",
     "signatures": [],
-    "sequenceNumber": 0,
-    "value": "Qk9UTFk="  // "BOTLY" in Base64
+    "sequenceNumber": 0
   },
   "description": {
+    "value": "QUkgREVYIEFnZ3JlZ2F0b3IgVG9rZW4gZm9yIHByZW1pdW0gYWNjZXNzIHRvIEFJIGZlYXR1cmVz",
     "signatures": [],
-    "sequenceNumber": 0,
-    "value": "QUkgREVYIEFnZ3JlZ2F0b3IgVG9rZW4gZm9yIHByZW1pdW0gYWNjZXNzIHRvIEFJIGZlYXR1cmVz"  // Description in Base64
+    "sequenceNumber": 0
   },
   "ticker": {
+    "value": "Qk9UTFk=",
     "signatures": [],
-    "sequenceNumber": 0,
-    "value": "Qk9UTFk="  // "BOTLY" in Base64
+    "sequenceNumber": 0
   },
   "url": {
+    "value": "aHR0cHM6Ly90cmFkZW5seS5wcm8=",
     "signatures": [],
-    "sequenceNumber": 0,
-    "value": "aHR0cHM6Ly90cmFkZW5seS5wcm8="  // URL in Base64
+    "sequenceNumber": 0
   },
   "logo": {
+    "value": "aXBmczovL2JhZmtyZWllaHdrMzJ1aDVpN3ZldGtybHFnY21yeW5kNmp0Y2QybjNqN25tY2hjb2E3eGVvZWs1bHhl",
     "signatures": [],
-    "sequenceNumber": 0,
-    "value": "aXBmczovL2JhZmtyZWllaHdrMzJ1aDVpN3ZldGtybHFnY21yeW5kNmp0Y2QybjNqN25tY2hjb2E3eGVvZWs1bHhl"  // IPFS URL in Base64
+    "sequenceNumber": 0
   },
   "decimals": {
+    "value": 8,
     "signatures": [],
-    "sequenceNumber": 0,
-    "value": 8
+    "sequenceNumber": 0
   }
 }
