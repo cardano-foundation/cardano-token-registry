@@ -1,0 +1,29 @@
+
+{
+  "subject": "00000000a2de850cb8cdc28842de58b4812457b7f2b0ede94b2352dda75f5413424f544c59",
+  "name": {
+    "value": "BOTLY",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "AI DEX Aggregator Token for premium access to AI features",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://tradenly.pro",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "logo": {
+    "value": "iVBORw0KGgoAAAANSUhEUgAA...", 
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
