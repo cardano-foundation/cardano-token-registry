@@ -1,27 +1,40 @@
 {
   "subject": "00000000a2de850cb8cdc28842de58b4812457b7f2b0ede94b2352dda75f5413424f544c59",
   "name": {
-    "value": "Qk9UTFk=",
+    "value": "BOTLY",
     "signatures": [],
     "sequenceNumber": 0
   },
   "description": {
-    "value": "QUkgREVYIEFnZ3JlZ2F0b3IgVG9rZW4gZm9yIHByZW1pdW0gYWNjZXNzIHRvIEFJIGZlYXR1cmVz",
+    "value": "AI DEX Aggregator Token for premium access to AI features",
     "signatures": [],
     "sequenceNumber": 0
   },
+  "policy": {
+    "type": "all",
+    "scripts": [
+      {
+        "type": "before",
+        "slot": 141942881
+      },
+      {
+        "type": "sig",
+        "keyHash": "fada9239c432a8c1a19ecb3534aaa7060df480d64d0d7e71e39d3d13"
+      }
+    ]
+  },
   "ticker": {
-    "value": "Qk9UTFk=",
+    "value": "BOTLY",
     "signatures": [],
     "sequenceNumber": 0
   },
   "url": {
-    "value": "aHR0cHM6Ly90cmFkZW5seS5wcm8=",
+    "value": "https://tradenly.pro",
     "signatures": [],
     "sequenceNumber": 0
   },
   "logo": {
-    "value": "aXBmczovL2JhZmtyZWlobHZvZms1YzR5em9qb3dmc3F2a3Jxd2Vrd3U3d2x5YnczYWQ1dHp6bzd5cjdjZjZwZmNt",
+    "value": "ipfs://bafkreihlvofk5c4yzojowfsqvkrqwekwu7wlybw3ad5tzzo7yr7cf6pfcm",
     "signatures": [],
     "sequenceNumber": 0
   },
