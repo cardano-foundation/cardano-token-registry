@@ -11,15 +11,12 @@
     "sequenceNumber": 0
   },
   "policy": {
-    "type": "all",
-    "scripts": [
+    "all": [
       {
-        "type": "before",
-        "slot": 141942881
+        "invalidAfter": 141942881
       },
       {
-        "type": "sig",
-        "keyHash": "fada9239c432a8c1a19ecb3534aaa7060df480d64d0d7e71e39d3d13"
+        "pubKeyHash": "fada9239c432a8c1a19ecb3534aaa7060df480d64d0d7e71e39d3d13"
       }
     ]
   },
