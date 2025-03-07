@@ -2,19 +2,7 @@
   "subject": "a2de850cb8cdc28842de58b4812457b7f2b0ede94b2352dda75f5413424f544c59",
   "name": "BOTLY",
   "description": "AI DEX Aggregator Token for premium access to AI features",
-  "policy": {
-    "type": "all",
-    "scripts": [
-      {
-        "type": "before",
-        "slot": 141942881
-      },
-      {
-        "type": "sig",
-        "keyHash": "fada9239c432a8c1a19ecb3534aaa7060df480d64d0d7e71e39d3d13"
-      }
-    ]
-  },
+  "policy": "a2de850cb8cdc28842de58b4812457b7f2b0ede94b2352dda75f5413",
   "ticker": "BOTLY",
   "url": "https://tradenly.pro",
   "logo": "ipfs://bafkreihlvofk5c4yzojowfsqvkrqwekwu7wlybw3ad5tzzo7yr7cf6pfcm",
