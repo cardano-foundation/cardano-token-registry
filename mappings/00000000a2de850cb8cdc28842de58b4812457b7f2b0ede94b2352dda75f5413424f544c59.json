@@ -3,27 +3,27 @@
   "name": {
     "signatures": [],
     "sequenceNumber": 0,
-    "value": "424f544c59"
+    "value": "Qk9UTFk="  // "BOTLY" in Base64
   },
   "description": {
     "signatures": [],
     "sequenceNumber": 0,
-    "value": "4149204445582041676772656761746f7220546f6b656e20666f72207072656d69756d2061636365737320746f20414920666561747572657320"
+    "value": "QUkgREVYIEFnZ3JlZ2F0b3IgVG9rZW4gZm9yIHByZW1pdW0gYWNjZXNzIHRvIEFJIGZlYXR1cmVz"  // Description in Base64
   },
   "ticker": {
     "signatures": [],
     "sequenceNumber": 0,
-    "value": "424f544c59"
+    "value": "Qk9UTFk="  // "BOTLY" in Base64
   },
   "url": {
     "signatures": [],
     "sequenceNumber": 0,
-    "value": "68747470733a2f2f74726164656e6c792e70726f"
+    "value": "aHR0cHM6Ly90cmFkZW5seS5wcm8="  // URL in Base64
   },
   "logo": {
     "signatures": [],
     "sequenceNumber": 0,
-    "value": "697066733a2f2f6261666b72656965687768333275683569377665746b726c7167636d72796e64366a74636432846a376e6d6368636f613778656f656b356c7865"
+    "value": "aXBmczovL2JhZmtyZWllaHdrMzJ1aDVpN3ZldGtybHFnY21yeW5kNmp0Y2QybjNqN25tY2hjb2E3eGVvZWs1bHhl"  // IPFS URL in Base64
   },
   "decimals": {
     "signatures": [],
