@@ -2,7 +2,7 @@
     "subject": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552",
     "url": {
         "sequenceNumber": 0,
-        "value": "https://vipercoin.io",
+        "value": "https://vipercoin.co",
         "signatures": [
             {
                 "signature": "8385ddbd6545bc79ba1b27ef850f6e174b017f1574f9bea40ee5fc4f09eec9ad851de341498ce1c6591560670a190f7bc1fe5ff641bf2bc79d735436df1d4a02",
@@ -53,7 +53,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "The hottest meme coin on Cardano - In VIPER We Trust",
+        "value": "More than a Meme",
         "signatures": [
             {
                 "signature": "53fb0647598a572ac72760aab2f9612d7b53a39ddfdec1ed1d88de7442108873b9476c63c2d7fca6f7fc4d5619265c3faaaacf33cbd24a87cf47f8200b060f03",
