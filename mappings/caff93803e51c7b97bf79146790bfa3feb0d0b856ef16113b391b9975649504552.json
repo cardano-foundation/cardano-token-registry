@@ -1,7 +1,7 @@
 {
     "subject": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552",
     "url": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "https://vipercoin.co",
         "signatures": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "More than a Meme",
         "signatures": [
             {
