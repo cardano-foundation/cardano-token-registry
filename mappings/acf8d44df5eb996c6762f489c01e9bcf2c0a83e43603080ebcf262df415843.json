@@ -1,7 +1,7 @@
 {
   "721": {
     "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df": {
-      "AxellaCoin": {
+      "415843": {
         "name": "AxellaCoin",
         "image": "ipfs://QmaM7UGuo9nZVn9ThUeWjNHJgNgYLqcyTXRMxCaz4ysQ5v",
         "symbol": "AXC",
@@ -11,7 +11,6 @@
         "ticker": "AXC"
       }
     },
-    "version": "1.0",
-    "subject": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df415843"
+    "version": "1.0"
   }
 }
