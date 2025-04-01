@@ -1,9 +1,9 @@
 {
   "subject": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df415843",
   "name": "AxellaCoin",
-  "description": "AxellaCoin (AXC) powers clinical research, supporting compassionate use cases and early-phase biotech trials with on-chain transparency and real-world utility.",
   "ticker": "AXC",
+  "description": "AxellaCoin (AXC) powers clinical research, supporting compassionate use cases and early-phase biotech trials with on-chain transparency and real-world utility.",
   "url": "https://axellacoin.carrd.com",
-  "decimals": 6,
-  "policy": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df"
+  "policy": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df",
+  "decimals": 6
 }
