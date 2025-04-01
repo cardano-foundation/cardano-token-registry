@@ -7,5 +7,18 @@
   "url": "https://axellacoin.carrd.co",
   "logo": "ipfs://bafybeigl7uvfrqlpmx4fyokm4lz4p2bl743aungf2l55g5q33dpuaiidmu",
   "policy": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df",
-  "asset": "415843"
+  "asset": "415843",
+  "721": {
+    "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df": {
+      "415843": {
+        "name": "AxellaCoin",
+        "ticker": "AXC",
+        "decimals": 6,
+        "description": "AxellaCoin (AXC) powers clinical research, supporting compassionate use cases and early-phase biotech trials with on-chain transparency and real-world utility.",
+        "url": "https://axellacoin.carrd.co",
+        "logo": "ipfs://bafybeigl7uvfrqlpmx4fyokm4lz4p2bl743aungf2l55g5q33dpuaiidmu"
+      }
+    },
+    "version": "1.0"
+  }
 }
