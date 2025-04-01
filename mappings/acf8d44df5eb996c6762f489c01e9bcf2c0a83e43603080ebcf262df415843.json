@@ -1,16 +1,9 @@
 {
-  "721": {
-    "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df": {
-      "415843": {
-        "name": "AxellaCoin",
-        "image": "ipfs://QmaM7UGuo9nZVn9ThUeWjNHJgNgYLqcyTXRMxCaz4ysQ5v",
-        "symbol": "AXC",
-        "decimals": 6,
-        "description": "AxellaCoin (AXC) powers clinical research, supporting compassionate use cases and early-phase biotech trials with on-chain transparency and real-world utility.",
-        "website": "https://axellacoin.carrd.co",
-        "ticker": "AXC"
-      }
-    },
-    "version": "1.0"
-  }
+  "subject": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df415843",
+  "name": "AxellaCoin",
+  "description": "AxellaCoin (AXC) powers clinical research, supporting compassionate use cases and early-phase biotech trials with on-chain transparency and real-world utility.",
+  "ticker": "AXC",
+  "decimals": 6,
+  "url": "https://axellacoin.carrd.co",
+  "policy": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df"
 }
