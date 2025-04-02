@@ -1,5 +1,6 @@
-{
+ {
   "subject": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df415843",
+  "policy": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df",
   "name": {
     "value": "AxellaCoin"
   },
@@ -17,6 +18,6 @@
   },
   "decimals": {
     "value": 6
-  },
-  "policy": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df"
+  }
 }
+
