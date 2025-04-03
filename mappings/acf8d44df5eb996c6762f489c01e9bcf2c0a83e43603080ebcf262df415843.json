@@ -1,23 +1,13 @@
- {
-  "721": {
-    "version": "1.0",
-    "tokens": {
-      "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df": {
-        "AXC": {
-          "name": "AxellaCoin",
-          "description": "AxellaCoin (AXC) is a utility token used to support early-stage clinical research, compassionate use cases, and tokenized research funding for biotech innovation.",
-          "ticker": "AXC",
-          "decimals": "6",
-          "url": "https://axellacoin.carrd.co",
-          "logo": {
-            "src": "ipfs://bafybeigl7uvfrqlpmx4fyokm4lz4p2bl743aungf2l55g5q33dpuaiidmu",
-            "mediaType": "image/png"
-          },
-          "policy": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df"
-        }
-      }
-    },
-    "signatures": {}
-  }
+{
+  "subject": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df",
+  "name": "AxellaCoin",
+  "description": "AxellaCoin (AXC) is a utility token used to support early-stage clinical research, compassionate use cases, and tokenized research funding for biotech innovation.",
+  "ticker": "AXC",
+  "decimals": "6",
+  "url": "https://axellacoin.carrd.co",
+  "logo": {
+    "src": "ipfs://bafybeigl7uvfrqlpmx4fyokm4lz4p2bl743aungf2l55g5q33dpuaiidmu",
+    "mediaType": "image/png"
+  },
+  "version": "1.0"
 }
-
