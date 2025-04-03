@@ -1,20 +1,30 @@
+ 
 {
   "subject": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df415843",
   "name": {
-    "en": "AxellaCoin"
+    "value": "AxellaCoin"
   },
   "ticker": {
-    "en": "AXC"
+    "value": "AXC"
   },
   "description": {
-    "en": "AxellaCoin powers clinical research with on-chain transparency. It supports compassionate use cases and early phase biotech trials with real-world utility."
+    "value": "AxellaCoin (AXC) powers clinical research. Used for funding early-stage biotech trials, compassionate use, and data privacy in decentralized trials."
   },
   "url": {
-    "en": "https://axellacoin.carrd.co"
+    "value": "https://axellacoin.carrd.co"
+  },
+  "decimals": {
+    "value": "6"
   },
   "logo": {
-    "ipfs": "bafybeicoj5cbhfitnedr5m6ttujl54lx63mr7nl2aqhga5vmvsdbcgeko4"
+    "url": "ipfs://bafybeigl7uvfrqlpmx4fyokm4lz4p2bl743aungf2l55g5q33dpuaiidmu"
   },
-  "decimals": 6,
-  "policy": "acf8d44df5eb996c6762f489c01e9bcf2c0a83e43603080ebcf262df"
+  "files": [
+    {
+      "name": "AxellaCoin Logo",
+      "mediaType": "image/png",
+      "src": "ipfs://bafybeigl7uvfrqlpmx4fyokm4lz4p2bl743aungf2l55g5q33dpuaiidmu"
+    }
+  ],
+  "mediaType": "application/json"
 }
