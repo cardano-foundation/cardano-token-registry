@@ -1,9 +1,0 @@
-{
-  "type": "Signature",
-  "description": "Attestation for AxellaCoin (AXC) token metadata.",
-  "signingKey": "399FA2AC1710E9CBF70BEAAE46444BAF3736AE61",
-  "hashAlgorithm": "sha256",
-  "metadataHash": "8972ec164b0a7213e77ddbb26c24d4d28ae514a4767c0c30d167889552da18b3",
-  "signingAlgorithm": "pgp",
-  "signature": "-----BEGIN PGP MESSAGE-----\n\nowEBpQJa/ZANAwAKAUZES683Nq5hAaxeYghoYXNoLnR4dGfx6hA4OTcyZWMxNjRi\nMGE3MjEzZTc3ZGRiYjI2YzI0ZDRkMjhhZTUxNGE0NzY3YzBjMzBkMTY3ODg5NTUy\nZGExOGIzICBtZXRhZGF0YS5qc29uCokCMwQAAQoAHRYhBDmfoqwXEOnL9wvqrkZE\nS683Nq5hBQJn8eoQAAoJEEZES683Nq5hym4P/Rm5AGqi4yvngvsb6eMBYAfv0Rha\nRteHtQBZ+HtkKrxRY7ylit4r0KveUicbgwgI4IyBtlY9TUm9S5+CMWrPoYUYUblc\ng/rWYuEJoNInAO5QDtYZhC8E9LAaOZRrpGlqRBjCMWZbQJ2Dkm+ReyvnIKkufQIF\nd8I0xTt+31qCUVh1rjGttH623/JRcSX+ZZhjm4OCqsXsLpV37kYd2JorG53xC2Ch\nsP8weVRkTjBCPqrzpMTfscoEkC/HSgq0FKpl5rq3PppPHBYV0+pbYuG+sW8AvLlz\nrm+h0XqX0LZZkUlde4cMlyHkaGyvMlW9klS32Qnpes0hEns27SRkVlC/eXLFx9ha\nc6jWjL1jx29vh7Hiv6Iwcy9mCM+zPuJfdGoerbAkxTiz7B60NbpIBkkXsT89sESO\nH2ouAJwFrzTl3nQtcfql2rnRdj25YMKhwLVnoEmyvzDVnteipHSVTfP2HofU11qD\nk9Wv24SF8V0Ylx5heB36Qv/NqGMxnm4k0pLzcO6lEiT3z4VWgwCffSCqnukh6RUY\nj2WadauE9GvwVjCAYQSHqHAOb9ZSEF/VeJtjJZ+T301E+gO5TDotJssZrsENilnA\nXAHiNUTIlQp/LX3rbZIlqp/jNI15p9DWlIOZwAq01fsUZMpDTAuNHnKlDy9V0tQO\nTBorzk2gf3CtYJbJ\n=9Zso\n-----END PGP MESSAGE-----"
-}
