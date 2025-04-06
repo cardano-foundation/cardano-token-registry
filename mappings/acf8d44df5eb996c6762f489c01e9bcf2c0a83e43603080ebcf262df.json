@@ -11,6 +11,7 @@
       }
     }
   },
+  "subject": "AxellaCoin (AXC) Token",
   "type": "Signature",
   "description": "Attestation for AxellaCoin (AXC) token metadata.",
   "signingKey": "399FA2AC1710E9CBF70BEAAE46444BAF3736AE61",
