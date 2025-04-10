@@ -7,24 +7,6 @@
             {
                 "signature": "ca62bcffbf011257fe3f2837f0d46518da46f30d7dbdb07fbc1ac681e581872c33ba132d43e8b3d4943a4bfb9fc2a27fde9963ee2ade0b5513ab3649ab06c901",
                 "publicKey": "4f0d121608b89e921a6f2d6eb4e71ee9caf4fdeccc7c0e2a0d27401f1b5315cf"
-            },
-            {
-                "signature": "ca62bcffbf011257fe3f2837f0d46518da46f30d7dbdb07fbc1ac681e581872c33ba132d43e8b3d4943a4bfb9fc2a27fde9963ee2ade0b5513ab3649ab06c901",
-                "publicKey": "4f0d121608b89e921a6f2d6eb4e71ee9caf4fdeccc7c0e2a0d27401f1b5315cf"
-            }
-        ]
-    },
-    "ticker": {
-        "sequenceNumber": 0,
-        "value": "LUIGI",
-        "signatures": [
-            {
-                "signature": "b4b373f4a21f3f5a437de11c057b28e3197e781542adcc0a929b77c2fec24ae1dbc0dfd8ce03d5156108e68dbb32e3ed73bc8a0ddbe10d4bc8af8e992ef99107",
-                "publicKey": "4f0d121608b89e921a6f2d6eb4e71ee9caf4fdeccc7c0e2a0d27401f1b5315cf"
-            },
-            {
-                "signature": "b4b373f4a21f3f5a437de11c057b28e3197e781542adcc0a929b77c2fec24ae1dbc0dfd8ce03d5156108e68dbb32e3ed73bc8a0ddbe10d4bc8af8e992ef99107",
-                "publicKey": "4f0d121608b89e921a6f2d6eb4e71ee9caf4fdeccc7c0e2a0d27401f1b5315cf"
             }
         ]
     },
@@ -46,10 +28,6 @@
             {
                 "signature": "4705a85bf2f682bb6e6b5a0f6cc8d8382da79ac4d850cc40d278858e6c8beaae576094d812bac6d5eaed13c97119e3d09a577ed375ec1470cba3f4aac68be609",
                 "publicKey": "4f0d121608b89e921a6f2d6eb4e71ee9caf4fdeccc7c0e2a0d27401f1b5315cf"
-            },
-            {
-                "signature": "4705a85bf2f682bb6e6b5a0f6cc8d8382da79ac4d850cc40d278858e6c8beaae576094d812bac6d5eaed13c97119e3d09a577ed375ec1470cba3f4aac68be609",
-                "publicKey": "4f0d121608b89e921a6f2d6eb4e71ee9caf4fdeccc7c0e2a0d27401f1b5315cf"
             }
         ]
     },
@@ -57,10 +35,6 @@
         "sequenceNumber": 0,
         "value": "Delay. Deny. Defend. Free Luigi",
         "signatures": [
-            {
-                "signature": "a293989face7f7d4097b3078b2221d2614a5df0d3a42c0d7f8a487e3eb02bfb9d35d3ff47f1db0d4a81a1ec3f2db26236ad3639dfc625126057d5d2489917d01",
-                "publicKey": "4f0d121608b89e921a6f2d6eb4e71ee9caf4fdeccc7c0e2a0d27401f1b5315cf"
-            },
             {
                 "signature": "a293989face7f7d4097b3078b2221d2614a5df0d3a42c0d7f8a487e3eb02bfb9d35d3ff47f1db0d4a81a1ec3f2db26236ad3639dfc625126057d5d2489917d01",
                 "publicKey": "4f0d121608b89e921a6f2d6eb4e71ee9caf4fdeccc7c0e2a0d27401f1b5315cf"
