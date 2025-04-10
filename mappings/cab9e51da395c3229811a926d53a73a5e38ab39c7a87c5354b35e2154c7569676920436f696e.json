@@ -10,6 +10,16 @@
             }
         ]
     },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "LUIGI",
+        "signatures": [
+            {
+                "signature": "b4b373f4a21f3f5a437de11c057b28e3197e781542adcc0a929b77c2fec24ae1dbc0dfd8ce03d5156108e68dbb32e3ed73bc8a0ddbe10d4bc8af8e992ef99107",
+                "publicKey": "4f0d121608b89e921a6f2d6eb4e71ee9caf4fdeccc7c0e2a0d27401f1b5315cf"
+            }
+        ]
+    },
     "decimals": {
         "sequenceNumber": 1,
         "value": 0,
