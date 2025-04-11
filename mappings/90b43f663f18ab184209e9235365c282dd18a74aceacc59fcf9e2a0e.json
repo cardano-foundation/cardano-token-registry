@@ -1,0 +1,14 @@
+{
+  "721": {
+    "90b43f663f18ab184209e9235365c282dd18a74aceacc59fcf9e2a0e": {
+      "AXC": {
+        "name": "AxellaCoin",
+        "ticker": "AXC",
+        "description": "Decentralized trial funding token.",
+        "url": "https://axellacoin.carrd.co",
+        "image": "ipfs://QmYMJ39kJoXZbbw13SXMJ9faBp7Us6Uspudqra9FKpBu6Y",
+        "decimals": 6
+      }
+    }
+  }
+}
