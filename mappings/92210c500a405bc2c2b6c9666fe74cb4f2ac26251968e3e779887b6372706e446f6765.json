@@ -42,7 +42,7 @@
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "{\"title\":\"rosen bridge wrapped Doge\",\"originToken\":\"doge\",\"isNativeToken\":true}",
+        "value": "{\"title\":\"rosen bridg Pandora wrapped Doge\",\"originToken\":\"doge\",\"isNativeToken\":true}",
         "signatures": [
             {
                 "signature": "839527cca434150a692aa1723890e568a076845ccbf2388fd4159bdfe926fafde58bf02752e0e64c364b8a8b7b73e8733d657278ed72bfb1b76dce9a2ca9710c",
