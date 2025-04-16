@@ -1,52 +1,42 @@
 {
     "subject": "755a497e592fb6a20337d19d86e1da82d27282db5c9083e0ddaa338c47414c415859",
-    "url": {
-        "sequenceNumber": 2,
-        "value": "https://x.com/GOPMemeCoin",
-        "signatures": [
-            {
-                "signature": "ae5db61ec2bc5b995649ebea10eb5efe5c4533160e3e20b8cc3016621b98fa0c87a186c9ce1fe64f4a1e306b809553bf64a9226fddfbaa40e9c9a63bec5e5e06",
-                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
-            }
-        ]
-    },
     "name": {
-        "sequenceNumber": 1,
-        "value": "GOP Meme Coin",
+        "sequenceNumber": 3,
+        "value": "GALAXY",
         "signatures": [
             {
-                "signature": "ed41021707d5ccfbaae9d6f80e4f151755043fbccec16356c059fbdf3deb89d46e350369622dc23812e5e3c9ba1081ed94fa90b17e1cd57858a8ddca43aac003",
+                "signature": "7d184e846a1330396c3f08b962283ae57325e635f0f4235b39f6394b2772b2fe1a251ad92364ec1b304b7e220abc74d1e9990b49e9cc85dc5650fbe1261a8302",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 1,
-        "value": "GOP",
+        "sequenceNumber": 3,
+        "value": "GALAXY",
         "signatures": [
             {
-                "signature": "17070784050f8e2c31cf2b1074055033272678e1812804a09de2283269f46e5c74658276f71e7c3d3db4c220b6f0261d4fde96740ceca7c5aac501585e9ff204",
+                "signature": "380640640329fa1ef248ead6bd33780277e64a6db88ded0cbfb9aedf75c9e57d91f04ac99297ed5f6e021dfcadf4fc129c4c3196c85c37738988d162a9032b08",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "decimals": {
-        "sequenceNumber": 3,
+        "sequenceNumber": 5,
         "value": 0,
         "signatures": [
             {
-                "signature": "20a97bb7bad4193372b16321125baa0d814fd8e88f8aaaeb86c8ae09341499ae1a6134afd167ad57d2ae4b7517a88e3418c5f2fd8f2fe88f2bc20f64489e2a04",
+                "signature": "64f696e5f655a677482d96678a5b33b5defc35bbb472b92bb789baec9abb351bb2ce30442444eb0bb1e3689ea00659c90795a80030b40b434924125c394c170b",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]
     },
     "policy": "820182018282051a05840be68200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
     "description": {
-        "sequenceNumber": 1,
-        "value": "The meme coin for Republicans. Help GOP Stomp on the Lefties!",
+        "sequenceNumber": 3,
+        "value": "Get ready to explore Moon, Mars even Galaxies",
         "signatures": [
             {
-                "signature": "6a2671d6494d3f2e599e308ba70a991ffc21959fd6587c2e94e0b99d4bf83bd91daca72397a8433ed6c733eabca90e9039b19cd55b898310c156cf815ec6f90e",
+                "signature": "935c3c36b1701e4361b3cbb4c4961296266e5822d4ff77bce55c4099c4639706860f9735afd23206eea4590cb025d238889c4b4b68b8a0e34f9f053d5279c10d",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]

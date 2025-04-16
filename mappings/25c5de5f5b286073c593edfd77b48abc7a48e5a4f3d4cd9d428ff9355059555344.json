@@ -1,0 +1,53 @@
+{
+    "subject": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff9355059555344",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.wanscan.org/tokens",
+        "signatures": [
+            {
+                "signature": "6ee884fe4866b2af732e898422143217c9ae4920615ca1884cdd0a5d7033f3adebd7d72f409f63f9c770e47437b7a15fd7631c9344ccded7db64d928864eb80c",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "PYUSD",
+        "signatures": [
+            {
+                "signature": "b5e323ddd28c0a50b010cfd832fa136962c0df1ad6e34f106523e0c17369d01f38e89c761eb121a4f48e90c1d58b9bb1653f19e1644b3e2416bf5918818c2a08",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "57f33f99bb4d371cdf34df1e24596d96f8b7cc999510fa330e077149e691713bb522848d74de7a3a8f52761ff5947fd6c964d4dd6b43d08511734def587def06",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "b8d358bb019b4e0f3bd4811420665714e58956c462e782431161a274c50441ffffe0bdb395d11f326ac206a61aeea334da3c21d4aab27e30a24a865a3eabce0e",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The Mapping token of PYUSD by WanChain.",
+        "signatures": [
+            {
+                "signature": "d812e64cdc93368143371357a26eada6cda60ee9771d30e6586111c2bd7249e9fe7b64743cc729fc75fd2af884b7cb098d438b3efe69746631257f02d41eff0f",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    }
+}
