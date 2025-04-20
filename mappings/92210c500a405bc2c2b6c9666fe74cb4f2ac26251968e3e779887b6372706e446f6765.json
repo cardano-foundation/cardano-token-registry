@@ -41,7 +41,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "{\"title\":\"rosen bridge Pandora wrapped Doge\",\"originNetwork\":\"Doge\",\"originToken\":\"doge\",\"isNativeToken\":true}",
         "signatures": [
             {
