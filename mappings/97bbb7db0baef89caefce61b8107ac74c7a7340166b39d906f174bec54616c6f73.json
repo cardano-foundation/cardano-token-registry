@@ -1,13 +1,13 @@
 {
   "name": {
       "signatures": [],
-      "sequenceNumber": 1,
-      "value": "Agent T"
+      "sequenceNumber": 2,
+      "value": "Agent"
   },
   "ticker": {
     "signatures": [],
-    "sequenceNumber": 1,
-    "value": "AGENTIC"
+    "sequenceNumber": 2,
+    "value": "AGENT"
   },
   "url": {
       "signatures": [],
