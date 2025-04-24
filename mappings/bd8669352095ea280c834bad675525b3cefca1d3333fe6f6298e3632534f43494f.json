@@ -4,9 +4,7 @@
   "ticker": "SOCIO",
   "description": "SOCIO: The governance & utility token of Socious ecosystem",
   "website": "https://socious.io",
-  "supply": "1000000000000000000", // 1,000,000,000,000 * 10^6 (due to 6 decimals)
   "decimals": 6,
-  "logo": "logo.png",
   "minted": "2025-03-16",
   "policy": "bd8669352095ea280c834bad675525b3cefca1d3333fe6f6298e3632"
 }
