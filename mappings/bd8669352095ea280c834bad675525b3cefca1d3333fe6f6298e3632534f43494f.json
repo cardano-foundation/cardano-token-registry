@@ -5,5 +5,9 @@
   "description": "SOCIO: The governance & utility token of Socious ecosystem",
   "url": "https://socious.io",
   "policyId": "bd8669352095ea280c834bad675525b3cefca1d3333fe6f6298e3632",
-  "decimals": 6
+  "decimals": 6,
+  "attestation": {
+    "attester": "Cardano Foundation",
+    "date": "2025-03-16"
+  }
 }
