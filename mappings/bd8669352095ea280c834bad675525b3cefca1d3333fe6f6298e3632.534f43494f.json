@@ -1,0 +1,12 @@
+{
+  "name": "SOCIO",
+  "ticker": "SOCIO",
+  "description": "SOCIO: The governance & utility token of Socious ecosystem",
+  "url": "https://socious.io",
+  "decimals": 6,
+  "policy": "bd8669352095ea280c834bad675525b3cefca1d3333fe6f6298e3632",
+  "minted_tx_hash": "cae3227108e629540f6d1b1f036c7a0c7e3a4291d8ae0c6b64e87fa698b163e9",
+  "minted_on": "2025-03-16",
+  "total_supply": "1000000000000",
+  "subject": "bd8669352095ea280c834bad675525b3cefca1d3333fe6f6298e3632534f43494f"
+}
