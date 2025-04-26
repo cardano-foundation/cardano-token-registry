@@ -1,10 +1,10 @@
 {
     "subject": "0ca18f46b52e9557279881b106275faaf73a6281dac144d5dc5acb1f576f6a616b626c7565",
     "name": "WojakBlue",
-    "description": "WojakBlue - A tribute to the Wojak meme culture.",
+    "description": "Official utility token of The Wojaks & The Wojakfund.",
     "policy": "3ae4ff58b1bc4c9192ca2a5f5348da49",
     "ticker": "WJB",
-    "url": "https://wojakblue.io",
+    "url": "https://x.com/WojakBlueADA",
     "logo": "ipfs://bafkreigjnubqpadqvhbk3ft2q5v3tcwfmsylrgrn625nscudmm7rfdy7yy",
     "decimals": 6
   }
