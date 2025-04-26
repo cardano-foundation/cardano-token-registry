@@ -1,15 +1,12 @@
 {
   "subject": "0ca18f46b52e9557279881b106275faaf73a6281dac144d5dc5acb1f576f6a616b626c7565",
-  "name": {
-    "en": "WojakBlue"
-  },
-  "description": {
-    "en": "Official utility token of The Wojaks & The Wojakfund."
-  },
+  "name": "Wojakblue",
+  "description": "Official utility token of The Wojaks & The Wojakfund.",
   "ticker": "WJB",
-  "url":    "https://x.com/WojakBlueADA",
+  "url": "https://x.com/WojakBlueADA",
   "decimals": 0,
   "logo": {
-    "src": "ipfs://bafkreigjnubqpadqvhbk3ft2q5v3tcwfmsylrgrn625nscudmm7rfdy7yy"
+    "src": "iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAYAAAA8AXHiAAAAAXNSR0IArs4c6QAAIABJREFUeAHsvQeYVNWW9r/PqepA00DTgRwlg+Scc5AgSaIEAUFQURRRQREEJYkgGRSUICpREFHJKCoZAQEl59w5Vzjn99Xap9o7//lm/vebcGfu3PE8z6a6q04VVfu89a53vWvt3Ur9efw5A3/OwN9wBnoR2r59WhVVN6OLKpU+pnT51FWqVNJeVTJ1ryqffl9VTL+tSmfcVyUy76pCqbcLlEg7oWJSP4kqkTFfFc54Q5VOHVbwkfSqUTWI+hu+yz9f+u91Blr0IlJVTH0qskjip3HF086VL53CgLpZjOyURY++Hr5b6GXDUh9bd8P53+DuRSAbsHCONEiLh/P34NtvYfVG2PmRzaLZFm26+GjfxEetSh5CVSZKZf7gCs34pFjZrBZ/r/Px5/v6d85AtWbJpaOKpLxVskjSj4XyptKyVQbjXvaybgccuxsES/DGBjKC4w4Wv2JxFIsDWOzF4nv9s5+j+DmOn9vYJOnx/30d+U1ea8MR+GANNGrgp1SUj/wqi0iV+WVkRMaIhi+R69/5kf582n/XDFSpktYyb2jKmWJ5k+nXI4vpC+GHm3A7eMHlwl/H1uDYgp/V+PnY7+dzn5+1Hj9rsvxcc50a7Vbyzc1MctwMpQbx3EqBibyPfn+wqlL1mbDXsfMXn3ioH3OyyDFU6rNfv95cD0xPh0VimIJ+v7+LrkqBQv2/CwKsK0rJl8X5nA0HPmQB8XyJTc/A85qdgcaHITYR3gLWA7WiJSFJpvayy/n+d+Dlr3zKN99MKSfpemQt5yLLxfpWJstygCWCGdLZeTON8CiZaBulZiEXUal2PPnON39ccGECYYYxW85SoP4iXeLb5wEJaXJEPSLWgdJsJL9vSfDiFyGeJL5RY/1Yk5Eb9blfBUVTuyfkYiteWCJc5xxFmyyhZU8nHMpjcvSetBelXg6eAXlrrKLG0xLAYegH5xg453cdHj/JgkUZsCAD5mXB+5lOVijgEl23LGA7VJz5WzDrfDVofTgA6/j8HWaQyJTAl6aNF1och6I/Bv7voCk7YVcWSl2hTuNr7/6Vaf/HfrhizLK1SiUwV+IGIIJ4rbCMBSf0PV7OkkSNTs7EKjUtIMhLUKhEb+b+eE0DR067LAZkps26h34dunakWQGPqYo2Q8WO+MHvhJ7HBq7GXXQSSj2uX/2A7XhGkgAoVU675mIftJ0kKg52+Z2L/enRFOTC/5jlhLFtGfL6owiLnYoKmUD9Luu1xSCOe06tWqkp9JjlsJq8liQCq5Itvs6GNT504iECfVkGLMxwvkTy/PPAQWEwoPW2+6jQD1BqYuA9n/iDwYYvuMVqUhkVEPSdboLaCOogjAgasVWVsOWu2//Y6PlXP91RlAFJQe0igJKJ/VJfUgmFSXR7OwdQcuHKo1QzttwWTvr6RTPyHoPpO5ec62xOyHdr66fR2ruxivM5nGCk1x9OL+RFRTN6hQoPOVJjvxyx9xTYJBZ3gxYyekZ7hJSHkmQd1nAAAAMElFTkSuQmCC",
+    "mediaType": "image/png"
   }
 }
