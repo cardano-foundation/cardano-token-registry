@@ -1,12 +1,30 @@
 {
-  "subject": "0ca18f46b52e9557279881b106275faaf73a6281dac144d5dc5acb1f576f6a616b626c7565",
-  "name": "WojakBlue",
-  "description": "Official utility token of The Wojaks & The Wojakfund.",
-  "policy": "3ae4ff58b1bc4c9192ca2a5f5348da49",
-  "ticker": "WJB",
-  "url": "https://x.com/WojakBlueADA",
-  "logo": "ipfs://bafkreigjnubqpadqvhbk3ft2q5v3tcwfmsylrgrn625nscudmm7rfdy7yy",
-  "decimals": 6,
-  "signature": "27c0aea175910ed3040be26e17abd0508235aae5352581f8941b241390582791150207993a159a7dcef7f95fc3c7b75fce82e091aec8614df78ab984acd9200c",
-  "sig_pub_key": "32fcc1eb9f43c3621cded4e16b1320d783a0e768df3abdd936db823847c6c750"
+  "20": {
+    "5880006fcef0c24d6b744479838494b95c39864bc1d52a70d55d960c97e6599a664bfeefc856c56fd3299615b18236189898601d4052b9f5fd3dc22da54af56679f677f7f078d550dc7946b5e74661a50a666461646143ec9eace53c969c84e76388c7568807c3ca43181ab9092119051b8163d1542f7e417bdbd2ad416d68271caea3": {
+      "subject": "0ca18f46b52e9557279881b106275faaf73a6281dac144d5dc5acb1f576f6a616b626c7565",
+      "subject_signature": "af67d13dde2006852151b869c65c013f170326b8bd426549ddfe8bfc99fc8bd9d7e8fc661dc230dfee0b51fb677cc9f7691f80959ccf278e8f120968a68c4601",
+      "subject_sig_pub_key": "32fcc1eb9f43c3621cded4e16b1320d783a0e768df3abdd936db823847c6c750",
+      "name": "WojakBlue",
+      "name_signature": "dd26696063c22dd863a3018b8bc3372fac2ed89be86caec88780cc37cbbc7fefc2e3cd934af3c1baf817ec71d54487882cad2f84058fe31c670c54532594e400",
+      "name_sig_pub_key": "32fcc1eb9f43c3621cded4e16b1320d783a0e768df3abdd936db823847c6c750",
+      "description": "Official utility token of The Wojaks & The Wojakfund.",
+      "description_signature": "d5a4572e273320561154dd0733663bb5b87a0e76c42476ac65e30dcb2a453dce7bb06454a5a554b05e6f65cce8e22fe9ecb36f845a429c08c3d4adf4ad9d7a0d",
+      "description_sig_pub_key": "32fcc1eb9f43c3621cded4e16b1320d783a0e768df3abdd936db823847c6c750",
+      "policy": "3ae4ff58b1bc4c9192ca2a5f5348da49",
+      "policy_signature": "94d8941a19c2585577e2dfaf43dbb822263e51c47fb5f39450fde4da15841ea5ada9aa9c24cf8890bacd031e59f697041b8b45c8e464c661b86d8f07b946130c",
+      "policy_sig_pub_key": "32fcc1eb9f43c3621cded4e16b1320d783a0e768df3abdd936db823847c6c750",
+      "ticker": "WJB",
+      "ticker_signature": "47a00c0b7366683008cbb57db520d4512e9e033eba7fdd7942d423123ad31fcea4a24c4fa5bb609dee4ad88d90c63a39e4cefbe3871e27be6255d778c976d10d",
+      "ticker_sig_pub_key": "32fcc1eb9f43c3621cded4e16b1320d783a0e768df3abdd936db823847c6c750",
+      "url": "https://x.com/WojakBlueADA",
+      "url_signature": "3402667ed2ee734e9fe00a289db3757d46781b3cd4df637538ce08e155a03dfc28fd9a036f9c524f2268382bdbc4e1ce4cf91c7d22d70b2d6e897bcb437bc20c",
+      "url_sig_pub_key": "32fcc1eb9f43c3621cded4e16b1320d783a0e768df3abdd936db823847c6c750",
+      "logo": "ipfs://bafkreigjnubqpadqvhbk3ft2q5v3tcwfmsylrgrn625nscudmm7rfdy7yy",
+      "logo_signature": "9b8dd499f1d4e0b175ef7e1158e59a80469d99c26f72afa68e28996a316fab27078bcfc35b063782ae13bd79a5a6673b17585b968111467b3696d97039486901",
+      "logo_sig_pub_key": "32fcc1eb9f43c3621cded4e16b1320d783a0e768df3abdd936db823847c6c750",
+      "decimals": 6,
+      "decimals_signature": "67883564b8cc094a0c319dedc2c8b12c47c0c8be38f73582dad152d2bd482b4182bb2b35cf3e39e92b18f862639e562f5c3964ef90121b6a6c2e0bfdcf655505",
+      "decimals_sig_pub_key": "32fcc1eb9f43c3621cded4e16b1320d783a0e768df3abdd936db823847c6c750"
+    }
+  }
 }
