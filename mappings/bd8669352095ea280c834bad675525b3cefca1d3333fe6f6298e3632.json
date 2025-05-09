@@ -1,10 +1,9 @@
 {
-  "name": "SOCIO",
-  "symbol": "SOCIO",
-  "decimals": 6,
-  "total_supply": "1000000000000",
-  "description": "SOCIO: The governance & utility token of Socious ecosystem",
-  "url": "https://socious.io",
-  "minted_on": "2025-03-16",
-  "policy_id": "bd8669352095ea280c834bad675525b3cefca1d3333fe6f6298e3632"
+"subject": "bd8669352095ea280c834bad675525b3cefca1d3333fe6f6298e3632",
+"name": {
+"value": "SOCIO"
+},
+"description": {
+"value": "SOCIO: The governance & utility token of Socious ecosystem"
+}
 }
