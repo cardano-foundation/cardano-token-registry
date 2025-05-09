@@ -7,6 +7,8 @@
     "value": "SOCIO: The governance & utility token of Socious ecosystem"
   },
   "signatures": [
-    "C8C7B833B1A49F9A278C74953330E557C94E05A8"
+    {
+      "key": "C8C7B833B1A49F9A278C74953330E557C94E05A8"
+    }
   ]
 }
