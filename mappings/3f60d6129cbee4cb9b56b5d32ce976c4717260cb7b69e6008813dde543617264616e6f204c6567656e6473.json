@@ -1,0 +1,43 @@
+{
+  "subject": "3f60d6129cbee4cb9b56b5d32ce976c4717260cb7b69e6008813dde543617264616e6f204c6567656e6473",
+  "name": {
+    "value": "43617264616e6f204c6567656e6473",
+    "signatures": [
+      {
+        "signature": "35e047009e1efcca9b4b781a59fb5cb1a56a0ef40af15ace18e97814b28b3c64d0affa3d5c2cf0b64303cbbb087ca5a5a1d1a63978391d47dfd047ed229b6e04",
+        "publicKey": "48b2cab2339a42f6680873cbda06cc7cc669daa8612addf3141d5981b2ed47ac"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "description": {
+    "value": "Legends aren‘t born, they‘re made. \n\nA token built for the bold, the creative, and the true believers in ADA",
+    "signatures": [
+      {
+        "signature": "5d8ffc8d2d94325130795152eb321a86f3861148c40f6cf84a5baef64b884fbe952b1eb0e1e69e8a6b5da24e2430ac20b2ad9ad6f33c77e6c758302157b99004",
+        "publicKey": "48b2cab2339a42f6680873cbda06cc7cc669daa8612addf3141d5981b2ed47ac"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "ticker": {
+    "value": "LEGEND",
+    "signatures": [
+      {
+        "signature": "d10a2861deac4d43f1f761cdb6a0f4c89097df8100fbb292becbf2485aeb80e988649030e9ad59d92c6516dade69a987e3c577908ebb93e44ddbbb8244571c04",
+        "publicKey": "48b2cab2339a42f6680873cbda06cc7cc669daa8612addf3141d5981b2ed47ac"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "decimals": {
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "9f3c399c536b66e85c526bdc484ac47106ee10d0c5fa1e9233511015db06fcd7674351ffb9134785e4d088968fb2dd6606a8c38d8a16e287bb82df8f9ab4e90f",
+        "publicKey": "48b2cab2339a42f6680873cbda06cc7cc669daa8612addf3141d5981b2ed47ac"
+      }
+    ],
+    "sequenceNumber": 0
+  }
+}
