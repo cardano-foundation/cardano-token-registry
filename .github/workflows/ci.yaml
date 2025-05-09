@@ -3,6 +3,11 @@ on:
   # Trigger on open, synchronize or reopen PR activity against the default base branch
   pull_request_target:
     branches: [ "master" ]
+
+permissions:
+  contents: read
+  pull-requests: read
+
 jobs:
   approve: # Pre-approval step
     runs-on: ubuntu-latest
@@ -65,12 +70,35 @@ jobs:
           rm -f fail-location fail-filename fail-subject-is-hex fail-subject-length || :
           echo "Validating all changed PR files are in the ${LOCATION} directory and are hex and are valid length filenames:"
           echo
-          awk '{print $2}' "HEAD.diff" | sort \
-            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/.*$ ]] && echo "pass location: {}" || { echo "FAIL location: {}"; touch fail-location; }'
-          awk '{print $2}' "HEAD.diff" | sort \
-            | xargs -I{} bash -c '[[ {} =~ ^${LOCATION}/[0-9a-f]*\.json$ ]] && echo "pass is hex: {}" || { echo "FAIL is hex: {}"; touch fail-subject-is-hex; }'
-          awk '{print $2}' "HEAD.diff" | sort \
-            | xargs -I{} bash -c 'FNAME={}; FLENGTH=${#FNAME}; if (( $FLENGTH % 2 )); then echo "FAIL length: $FNAME"; touch fail-subject-length; else echo "pass length: $FNAME"; fi'
+          awk '{print $2}' "HEAD.diff" | sort | while read -r fname; do
+            [ -z "$fname" ] && continue  # skip empty lines
+
+            # Check if filename starts with the correct location
+            if [[ "$fname" =~ ^${LOCATION}/.*$ ]]; then
+              echo "pass location: $fname"
+            else
+              echo "FAIL location: $fname"
+              touch fail-location
+            fi
+
+            # Check if filename is a hex string ending in .json
+            if [[ "$fname" =~ ^${LOCATION}/[0-9a-f]+\.json$ ]]; then
+              echo "pass is hex: $fname"
+            else
+              echo "FAIL is hex: $fname"
+              touch fail-subject-is-hex
+            fi
+
+            # Extract just the filename for length check
+            justname=$(basename "$fname" .json)
+            flength=${#justname}
+            if (( flength % 2 == 0 )); then
+              echo "pass length: $fname"
+            else
+              echo "FAIL length: $fname"
+              touch fail-subject-length
+            fi
+          done
           echo
 
           [ -f "fail-location" ] && echo "ABORTING: File change location validation failed"
