@@ -136,8 +136,15 @@ jobs:
           echo "Running the metadata validation tool on this PR:"
           echo
           VALIDATOR="./token-metadata-creator validate"
-          awk '/^M/ {print $2}' "pull-request/HEAD.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 master/$2 pull-request/$2" && $1 master/$2 pull-request/$2' -- "$VALIDATOR"
-          awk '/^A/ {print $2}' "pull-request/HEAD.diff" | xargs --no-run-if-empty -- bash -c 'echo "$1 pull-request/$2" && $1 pull-request/$2' -- "$VALIDATOR"
+          while read -r file; do
+            echo "$VALIDATOR master/${file} pull-request/${file}"
+            $VALIDATOR master/"${file}" pull-request/"${file}"
+          done < <(awk '/^M/ {print $2}' pull-request/HEAD.diff)
+
+          while read -r file; do
+            echo "$VALIDATOR pull-request/${file}"
+            $VALIDATOR pull-request/"${file}"
+          done < <(awk '/^A/ {print $2}' pull-request/HEAD.diff)
           echo
 
       - name: Optional Check - LedgerX Top100
@@ -173,8 +180,17 @@ jobs:
           rm -f fail-location fail-filename || :
           echo "Validating if files are in LedgerX token list:"
           echo
-          awk '{print $2}' "HEAD.diff" | sort | awk 'match($0, /mappings\/[0-9a-f]+\.json/) { print substr( $0, RSTART+9, RLENGTH-14 )}' \
-              | xargs -I{} bash -c 'if grep -q "{}" "../ledger/tokenRegistry/top100JsonList_ep321-337.json"; then echo "::warning file=mappings/{}.json::Subject {} is part of LedgerX Top 100 token list"; echo "status=failure" >> $GITHUB_OUTPUT; else echo "Subject {} not on LedgerX token list"; echo "status=success" >> $GITHUB_OUTPUT; fi'
+          awk '{print $2}' "HEAD.diff" | sort \
+            | awk 'match($0, /mappings\/[0-9a-f]+\.json/) { print substr($0, RSTART+9, RLENGTH-14) }' \
+            | while read -r subject; do
+                if grep -q "$subject" "../ledger/tokenRegistry/top100JsonList_ep321-337.json"; then
+                  echo "::warning file=mappings/${subject}.json::Subject ${subject} is part of LedgerX Top 100 token list"
+                  echo "status=failure" >> $GITHUB_OUTPUT
+                else
+                  echo "Subject ${subject} not on LedgerX token list"
+                  echo "status=success" >> $GITHUB_OUTPUT
+                fi
+            done
           echo
 
       - name: Optional Check - Has been minted on mainnet
