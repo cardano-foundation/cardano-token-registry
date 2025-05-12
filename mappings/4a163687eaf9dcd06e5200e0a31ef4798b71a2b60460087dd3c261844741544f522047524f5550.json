@@ -51,10 +51,10 @@
     "sequenceNumber": 0
   },
   "url": {
-    "value": "http://www.g8r.fun/",
+    "value": "https://www.g8r.fun/",
     "signatures": [
       {
-        "signature": "d65af9995879aca63ab86758ec91dda26d0384466c7909340aaa72edf3f29ff41dfab3628bf6dbf7f457b9bcb6117b4318dd8a6528c3b261b58b1397fe115f04",
+        "signature": "43c526be987d9286740efce2fd1b5692e2966bc929dc955df11e54d51bb527d77486ede1b8041352ca78d7904a474d588c8612eee2b02c9ee5a2589acc850703",
         "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
       }
     ],
