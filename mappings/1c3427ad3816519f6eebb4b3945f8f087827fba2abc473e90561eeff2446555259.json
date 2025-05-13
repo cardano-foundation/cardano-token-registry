@@ -1,11 +1,11 @@
 {
     "subject": "1c3427ad3816519f6eebb4b3945f8f087827fba2abc473e90561eeff2446555259",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://cardanokombat.com/",
+        "sequenceNumber": 1,
+        "value": "https://cardanokombat.com",
         "signatures": [
             {
-                "signature": "d7279f73f57fd6937369e9d36693284c7b812d32f3dd719e5891a9339a6e3735217ff92994c4b94c731f5041788002b39268ae69c0a844278d75ac99001a1300",
+                "signature": "6b55d26423eab6fe9f0a22f4455f2850d11950f96626447fbec1d449e4dbb1ce27b76a614f4ffcb67a59dfe209256bd88eb45c46f3a20f1ec76e65198fabc40d",
                 "publicKey": "6ec9c0f128a3d9332a5a81b126ccea6af06a9dbc1cb1849a8eb7d38ad4ac10b8"
             }
         ]
@@ -21,21 +21,21 @@
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "$FURY",
+        "sequenceNumber": 1,
+        "value": "FURY",
         "signatures": [
             {
-                "signature": "0f98ab783043757af910b080b22d05985a58ff409f0dccc38451fc51bd1abc813101ffbab31c1d2fa8f1343daf82959afc14d5593f3e50f9fa9203192856580c",
+                "signature": "33b652e58af80d0c2bcc94b140bf8d4ab27b3dd823f88107b6771211ffc54b549532347624965f1e294d3e3b23f03440f7fcb375a371d721b362a763352d020a",
                 "publicKey": "6ec9c0f128a3d9332a5a81b126ccea6af06a9dbc1cb1849a8eb7d38ad4ac10b8"
             }
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 0,
         "signatures": [
             {
-                "signature": "b3bceaa382265bdf4d7b01407b957ab8a4ce5e23456b463f49999df968156319b52cb5a40bf194b75dd8acca1bae23881c60ebb57e518c33cfb47de84bc9ae08",
+                "signature": "83f05d05a49db551dbe6c87dfde1774357afdf896dc081715af97c45e6909288fec61a4214505eab1ef733d4a3089ded0d90ac077cb40a5f92e0a65a79f82202",
                 "publicKey": "6ec9c0f128a3d9332a5a81b126ccea6af06a9dbc1cb1849a8eb7d38ad4ac10b8"
             }
         ]
