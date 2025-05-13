@@ -51,13 +51,13 @@
     "sequenceNumber": 2
   },
   "url": {
-    "value": "https://www.smolcatcoin.com/",
+    "value": "https://smolcat.io/",
     "signatures": [
       {
         "signature": "c10261a4ac3ca311b4c0acaedcdaf92ee8849b8162b367df04780dd59e5c738b744fbcc901b13382cfdaff7163405788a34cf4fcbbc66959419f8a97bc8bc606",
         "publicKey": "cfd6d5b5c048a12b1c0bc745a45a0fa67376317315fbecfd8b50633093d502ef"
       }
     ],
-    "sequenceNumber": 1
+    "sequenceNumber": 2
   }
 }
