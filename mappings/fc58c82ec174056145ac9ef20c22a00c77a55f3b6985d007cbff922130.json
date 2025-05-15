@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "819fae32bf1c87e003d357466ee087654c4649e1718aea3cb24a679568402f84e23fd83a47e6d2319c39dadb75c1cad150c1ec340a8eaea33e0eb95057d7a907"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid USDA Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "10953530cc33e151366cb8d35fa9dde5abaeee12cb2b8207103c07dd0f4dea1c689ef28b3962aebfc38210ebfa4504416d722ad4b15e2c2e12431b18f4e1b301"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid USDA market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "4df4d9e810317578e7695e255d6a077eb588b635d7547da2dde249df8381dfbd715ef709a4e4155b3507853c2fc04a2271fcf7642bb7fce8f8b07c07f1ed8b03"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "USDABOR"
+    },
+    "subject": "fc58c82ec174056145ac9ef20c22a00c77a55f3b6985d007cbff922130",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "47163c0fb239cf68d9634ab167a2b1402d49f9123a4bff015406a5e387c4ca0efaf942ee5bcbbd45a195cf211a9d98268b592943115754929135b207265e0405"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

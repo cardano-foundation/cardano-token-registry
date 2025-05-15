@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "76a3d512a47b350334f356ad3be98d11b0d0a25d84fdd682c7615da06b1bcd389f5ae2c6f9b5b4e6a8b31d05e088911ac3a86f50f99c7dba0ab9d2fb3291270b"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid PYUSD MarketState"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "3a7245bd3780db7e84c233aebdf1cd2097c4e3b8c333eeafee0e44b6d277c71405d583239eab2027ea37e21cde757c47b24dc42be76feb46763ac9074d06ca06"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid PYUSD market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "53da614eddb30fbf99bf140afc8b4072e90f3a0302ccf2a366e7b1279c257b3edad83723452e59c4a9e0cf8d3effc74b7b94e52bb6c17e8e92e2ceae04c2850a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "PYUSDST"
+    },
+    "subject": "f15b5f281f9b8be3276dd9466a3bbf57272d04db962e63b312bdebf2",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "d61f5979ee992a66ca67f373ca56d32986b774dce0633797f4499835cfc806371807e109daa71497bf60c8b2b125cda56e2a186ee2a446991ddd63f10d07ec09"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

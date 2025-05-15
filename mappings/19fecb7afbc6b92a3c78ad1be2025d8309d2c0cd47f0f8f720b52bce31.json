@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "09d116d2f519ce2a34a867f10a21e3ea0a1ebeabe9ba48d7045cfb2ccc79dc7e61c6a64580aa3a218727d198e13d14dd7718563b7c0e28d0c0d1ad57fb74c70f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid ETH Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "0c07b2f639adac640ea0459887b794539f85bf998ed66d2d57940eff873f52a617c08360080fcdbd14defd50634792ee2b2e758d8947caa472dc109f56f6e20f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid ETH market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "8bcfe1031e3f6cb32b14b35cd27a71df7b8bfb43e7c518e47fc86a827e5228024c8de2eefeaae09cb7a323c4637f164b1d280056f9a1a3fc62dce497f993cb09"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "ETHBOR"
+    },
+    "subject": "19fecb7afbc6b92a3c78ad1be2025d8309d2c0cd47f0f8f720b52bce31",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "3b69a59f831b93c0f40215f5faf0d265293c7a868e03cd0b26e12615648020baf9ffda9f80148577b8cc52fc66fd33444c602afa08a4a58f68775cd1bf2e900a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

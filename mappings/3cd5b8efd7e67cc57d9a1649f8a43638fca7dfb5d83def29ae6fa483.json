@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "52842b78f75161346021eaa5c1d69af79d8d3799ad98f519e7e4ac1918a6a1597e9e786b4ed8ac830837e012a7c468fe8b1737f30972d96f959a9c940a7a5808"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid PYUSD Liquidation"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "0cedb5406d37521e62d5ec8ba38c7e7798183bacb12058b528ecd0a8b6adfccdc441d2a1fb6e41098e26dd88022510451c5c252a84fe5872429595ee8dc80e0f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid PYUSD market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "24ce757dbb02befbb52d4a9fa4dfa61d387627664457ee87ec79178d8ec30ba1186436753e73f68b60bfeefa51cc0ea57f07396bead7c0ce9b32470236bab002"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "PYUSDLIQ"
+    },
+    "subject": "3cd5b8efd7e67cc57d9a1649f8a43638fca7dfb5d83def29ae6fa483",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "750c9ed738c1a5f4b51ead6eec86c7ebd7a8263eb1a0e2c3322ed4442cbe5efdd9cab38d3c1228920095ba293757288461d268aa6597acdfbf4e739637e4910e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

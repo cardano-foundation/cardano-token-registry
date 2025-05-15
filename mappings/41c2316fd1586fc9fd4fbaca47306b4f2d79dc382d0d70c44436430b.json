@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "80291435e47aeba0d83f7fe5ad96762bec73ebade41c63e819b695bd3c4a12cbb58360a1ca5a35b39002989083036e98841bf7325bca10f1b5827644a6205f04"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid USDT Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "ce274bf840b2311329d27c8068fd2cf106682b514b9c92a27fe7f9dbadfe2d6976fd2683b5f30bf2094b4625680397800e201fa02bef53777c349bad4348f103"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid USDT market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "9433c4a03d9ef03ea059bc5f6a8dce482248f5b6a4a451db6c8d53d806e4e6742c98d7daf83203373c0540f126782b04aeb4340a2f273b91d224c3ed34749600"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "USDTBOR"
+    },
+    "subject": "41c2316fd1586fc9fd4fbaca47306b4f2d79dc382d0d70c44436430b",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "ef48694eb71757654da7a95e943cf70d3e6457c9a6486a9bc7358ee290982c26a5af83eae6db6af75e546c5231a8c466a7a303947f5493070282dcb4853cec0d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

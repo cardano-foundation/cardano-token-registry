@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "b315e817ec1c437463ea9906578662e3ee184e2493d221e1ff8032f3b502584efff4e9ab43173e8ca75aec4f5bd29580b9e766c1be309dede3af53f5be580903"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid USDM Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "cbcdde21f1f92270f45860c1fb9b8a5368f0774b44fd21f730413d5d58872808c147bc4763e544eff1f2ae7749c6460111686816736de66e8cf4addd093dcc04"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid USDM market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "f3c36ebf8b902b3a935dad42a93df17856d315f9bf2fd966b0a774d7122bcc0b51de1bfd460f3f40a1b015b540786ea41f20802be0227a5fc7cfb21e8c356306"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "USDMBOR"
+    },
+    "subject": "3d2d5fd86b8a76b812a64c7e342e8e3ce234ed2b21a4ad407fd195f430",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "82063168a0a829f3e728d4af8469a211de161c019faae88ffa4a9962acd204447888f36b6997f2a2ce8ff0fad2eef0be21b11312f47f0f0ab806561d759c0c0e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

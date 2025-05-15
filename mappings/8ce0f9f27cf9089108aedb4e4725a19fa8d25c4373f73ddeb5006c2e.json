@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "df5f9f955b3313a1de5f9138158271cf92bc8fc65d4cba119ec5da5cec5baf26b287fcfb0cf31bd783273dc87ef51bbb6fc027ed41080ea5c03973272c8ea00a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid PYUSD CollateralParams"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "bb86ef0e9ca6fccefcb150511d97bcf5eb9ab0fdb5022bb672ec8f1eb135becd01b4e891a90b7059224e70e60a05d6cbbe15900af8505958924cabaa58d98506"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid PYUSD market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "fc36e7762659418a6f56de136f273e86422457db08f13c9a23d43001a63533a5f0020edebebfdc9fa17028068b3b4ce90a26bdd097495eb42b50853dac035e08"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "PYUSDCOL"
+    },
+    "subject": "8ce0f9f27cf9089108aedb4e4725a19fa8d25c4373f73ddeb5006c2e",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "b43db133c4b0e6b4ea0f9137f5e9cf4ffe5f5f0bc5f155968e1cfcc61c2a7fad981ab19d6278af13990be311bda62dbffa92d7074e8c4f1351a4b9449b21e70c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

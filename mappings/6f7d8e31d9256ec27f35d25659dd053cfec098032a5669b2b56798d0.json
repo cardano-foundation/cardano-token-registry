@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "5ec6a5cec7459d3b8b157566832a685c208769bbbe9d594d51de454a44aa3085bb6866ab8cdb09c8caf5e658d77b67118a3130d47b771b2d17d874255af90e03"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid POL QToken"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "b14e7583efe851297fcfb86de1e04609dcaec0d29bf31a9b51128f40b0b318abe635d617ffc80f7245ee5ed34e06e8570d98acdcdfb83538578cad7b1c702103"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "qPOL is an interest bearing token minted upon deposit into the Liqwid POL market and burned when redeemed. The underlying POL is loaned out to borrowers through the Liqwid protocol."
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "3fccd0dfc82a7afb53ee9153022a2d29452b0586cb4043d94b9d51d9b08c2abc58d1d27c6d1c3cf43e7c5e134923ff2b66acc79c8094602f907abfc9bfa7d403"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "qPOL"
+    },
+    "subject": "6f7d8e31d9256ec27f35d25659dd053cfec098032a5669b2b56798d0",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "7362d247cf7fbe8008b220a812f20ee6f0bddaccbd799c7d1076ca006a58caf6bdd4f332df0f484d4f16f6ff0f16161bac121c1d0e6343b075d368aa719a4b09"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
