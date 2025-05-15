@@ -3,17 +3,17 @@
         "signatures": [
             {
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
-                "signature": "a98caff762b715cd7e17d1cdff4e532710bdbfdaaff4b03d6b49533fa3c94d089ac914e97a966f587856438329ac6856ab35bff4c393fc616beddedc5b553800"
+                "signature": "52842b78f75161346021eaa5c1d69af79d8d3799ad98f519e7e4ac1918a6a1597e9e786b4ed8ac830837e012a7c468fe8b1737f30972d96f959a9c940a7a5808"
             }
         ],
         "sequenceNumber": 0,
-        "value": "Liqwid PYUSD MarketParams"
+        "value": "Liqwid PYUSD Liquidation"
     },
     "description": {
         "signatures": [
             {
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
-                "signature": "cb9a6ee1f2705e0fe24f7605251f0d464a9c96d7d33f13e183379b558364caf9e3ed9961a8bc975742e4a2a5638aed5460c3cbb48692d4488ad27ea8a52cb701"
+                "signature": "0cedb5406d37521e62d5ec8ba38c7e7798183bacb12058b528ecd0a8b6adfccdc441d2a1fb6e41098e26dd88022510451c5c252a84fe5872429595ee8dc80e0f"
             }
         ],
         "sequenceNumber": 0,
@@ -23,18 +23,18 @@
         "signatures": [
             {
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
-                "signature": "2ec70f0e37d9c0122406156f57ff4c0c0b6b162b564f2da1f891584ee2545477d63105dd1230a569ce501afdfd04045a2c4e5197898736830bced2d4682cf701"
+                "signature": "24ce757dbb02befbb52d4a9fa4dfa61d387627664457ee87ec79178d8ec30ba1186436753e73f68b60bfeefa51cc0ea57f07396bead7c0ce9b32470236bab002"
             }
         ],
         "sequenceNumber": 0,
-        "value": "PYUSDPRM"
+        "value": "PYUSDLIQ"
     },
-    "subject": "ffe1c5948ebece09bae85b500f94c9789029501d1d24b9729658709a",
+    "subject": "3cd5b8efd7e67cc57d9a1649f8a43638fca7dfb5d83def29ae6fa483",
     "decimals": {
         "signatures": [
             {
                 "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
-                "signature": "2e6e18197f0e14ee69d417108523ce4b90660d0d77e60fe9025a2bcac01bbd9934396ee0beafb11b154873ecc27eb9b93a8968159f8f191cbd4a806e5587840d"
+                "signature": "750c9ed738c1a5f4b51ead6eec86c7ebd7a8263eb1a0e2c3322ed4442cbe5efdd9cab38d3c1228920095ba293757288461d268aa6597acdfbf4e739637e4910e"
             }
         ],
         "sequenceNumber": 0,
