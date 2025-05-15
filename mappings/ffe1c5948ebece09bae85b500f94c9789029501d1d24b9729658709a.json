@@ -1,0 +1,23 @@
+{
+    "name": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "Liqwid PYUSD MarketParams"
+    },
+    "description": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid PYUSD market"
+    },
+    "ticker": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "PYUSDPRM"
+    },
+    "subject": "ffe1c5948ebece09bae85b500f94c9789029501d1d24b9729658709a",
+    "decimals": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

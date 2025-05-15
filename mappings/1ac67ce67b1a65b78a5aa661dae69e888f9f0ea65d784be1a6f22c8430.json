@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "8597da1142ecca4be7badf11d9d9af3ae3dcd3ec0f8eab47564305f83304a2ada44522380aa48368cf44cf79786b32ad4b3bb9d8f289378e5561bd4a7a0c610f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid EURC Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "cc0970d9cf4be1d4c66f2b3aeb0b2d216c3586e2958d21c3222ca55687cb742f39f52a4ef531aa1a1a645a819b67a8002f14ae3a2ecea836555534ebdc74a10c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid EURC market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "5ab7a21b6aecd97461e6e638756e2b8791094a2f88e8ce7c74488e1df2d42cee01f0b052bb482ef75bd6f16f0ad2a1e62e99f4b8c92f9288ba0270f83e607605"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "EURCBOR"
+    },
+    "subject": "1ac67ce67b1a65b78a5aa661dae69e888f9f0ea65d784be1a6f22c8430",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "ef67da0e3abf1f6610ff776c380d6b577e2127a080a955e83a1553e9078277702aaa8225c6ab98d06005a38da4a07ea56a446c5b9a5b622f4599f41d57982a0d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

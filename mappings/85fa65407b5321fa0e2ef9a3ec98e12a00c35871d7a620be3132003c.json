@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "24fbc9bba549439cd1b86a0b7b9f1c271d285f696fa544b639478aebe4578b04353376365f923d820aaa47b2fb33c1df0b53193bbe6bacd38237d7cf51bac50a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid EURC QToken"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "70fa84f0507e44c1cc94aeb15b4b519a1d03f5250cd1c2f93baaf575fd68ebb2aa8e31fc9cf6ca647ba8d4bb68fb7773ae010e63f74f4eafcacaa006624b3b0a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "qEURC is an interest bearing token minted upon deposit into the Liqwid EURC market and burned when redeemed. The underlying EURC is loaned out to borrowers through the Liqwid protocol."
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "caacc25f4ffd8f8b6f4a831fcfef8fa2f1c66d98714360b85a89239394036695aa1f30c2cd36e7b53ad9240cb5041fe1affcb9a4867a154a905ec8dbd5609e08"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "qEURC"
+    },
+    "subject": "85fa65407b5321fa0e2ef9a3ec98e12a00c35871d7a620be3132003c",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "efe769bcb61ad141422f9c41f8729d225ac6192a4141ad5727d4479e3140c8978d219261eb0b05e20b09a653775ef9440db889a7da66a12dc4605657055e1108"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}

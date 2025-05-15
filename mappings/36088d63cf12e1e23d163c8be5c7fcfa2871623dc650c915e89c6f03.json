@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "4e01a2a8d9c0c1aa4429c80decf6b96df88e7d4555f1434d76b72402a880142fbd3c41f0553a83ec2878e8ee901a35670d287736dbd00182727da0c57797f60c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid ETH Liquidation"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "0c34f0a5640651c1edae5b9826cda26291140a0088b8c4a268f14c24f01ccf5fca49d477b8e1110c803eec25a8a848221f4dfe7a2d8be279b1ea8271adcb130d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid ETH market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "d5dda1addf8bb1fb0e95d40f7781defccc8fa36f4a7d8b5919af0085c309de2080d8933b6f22a377a9711f020af8b31e4c09cda8de311502783ef5f05ae6b105"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "ETHLIQ"
+    },
+    "subject": "36088d63cf12e1e23d163c8be5c7fcfa2871623dc650c915e89c6f03",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "45d2187bc1840462dbe5e913961da2eeb829f44f8469afda4357baa55f2b81da7e10e9d23b0d87189a32ebc1465654d4f26bd6b9f8f77ceae26db8c19be9a30f"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

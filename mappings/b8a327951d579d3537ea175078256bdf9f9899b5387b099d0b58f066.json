@@ -1,0 +1,23 @@
+{
+    "name": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "Liqwid PYUSD QToken"
+    },
+    "description": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "qPYUSD is an interest bearing token minted upon deposit into the Liqwid PYUSD market and burned when redeemed. The underlying PYUSD is loaned out to borrowers through the Liqwid protocol."
+    },
+    "ticker": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": "qPYUSD"
+    },
+    "subject": "b8a327951d579d3537ea175078256bdf9f9899b5387b099d0b58f066",
+    "decimals": {
+        "signatures": [],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}

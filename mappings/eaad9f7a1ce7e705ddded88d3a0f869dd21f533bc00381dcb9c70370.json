@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "c19d7b8c9e4dbd3e7209b611163f6ff164f3d45747b0b9db461ed8ca987cba5e0632e45a65bbf79809f2ead0055b5cd5b4c0fd975c4c15c1be4f2399879f8002"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid EURC Liquidation"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "7a96074e8a2abd1f750ab192274751b96d7d625e7e9b1409a77ea8c298934df55745eb6bdb0cdc22c1e60c08203c0e205c5a66e9827d941376e904a32e860c08"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid EURC market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "95cf31fa5980badcae0d64c4c9e21ec3c3e9cc8c90190860a91b9eea7f81d661040308672ea40469b14da998140a4186201a6cea2f53475faf7dbdfb52fd0a0c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "EURCLIQ"
+    },
+    "subject": "eaad9f7a1ce7e705ddded88d3a0f869dd21f533bc00381dcb9c70370",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "da08433b85892bc57e367708e9465e4cc0747f830132a69e2cc219ae6f10755a8d2c975173c098138ec94d84dffb631a287d280c9aba1af427c01cbdd255880a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

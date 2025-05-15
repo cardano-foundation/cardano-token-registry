@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "73bd2109766ab3ec3f91aa86305d36d71b1126ceb23b00c33be226079cf3c03e3f9555e56f514aef4a718f2c2eea7e5814e71008e9cb2dded827743cf70af503"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid COPI Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "2f1c422b88c4bfc78fabbda5d4f4658bf84c587def4314f23a345b23f7b32f0da6ddf7a5c9024903284576f9b075a02c56008b5732a00a836bd43118566d6b0e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid COPI market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "f167fdfa52ae885bc8abb29b9b162f0300975c5c2d8d62822321ee130f40c4ffdcec6c3fdae12b54a87ff1f8b6e43309eb640c014c31843c21216854fe00910a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "COPIBOR"
+    },
+    "subject": "edd1d1b788259e13f037e955062c9c3b4b9bfff8b8426520ab8ec7e431",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "39ea3ab07260a5752d4cd651a75a4efca60e512e478ce6b23ef90fbd68684aa84e0db3245c340af913abd3054e4201f6116af5dfd9516ff0c87e9f3bc5da4d08"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

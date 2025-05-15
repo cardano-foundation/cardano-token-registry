@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "33c08e735ce3c901490de5cca2ddf7d44416c4566984bdef70f62cb027a38da4c605f463e299b1e3d2a0255fc4096c0603198510012941a5585f67c510efbe0e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid PYUSD Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "dadb9c89c2e65a85bd3abb6c1320feb9f8ec5ed813bfa0ed5444035bda5df7b53bb129e401b20c42cd7b25a4c0e64c8ffea0a861a6d095e054adf68ba9bdd50b"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid PYUSD market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "5be0e51b030135cc4fef11368cb77e14612b09572c2b17b0a309247fcefcb6ead5b9a6ea62f6e02e085195cdfd1aa72ba938053e1ea6644a13925e9e6d8b8201"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "PYUSDBOR"
+    },
+    "subject": "962ebfe54f1d57da941ad317c98304fd81e3abb3f4e89348c1c512c530",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "43e866f1642a395e1f89410cf039feb2f3cbbf91d344e1fb03101f06ee3ebd014385bf518191ac5da292282157eda96f9698f52aa247bef644988a0b715a2403"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}
