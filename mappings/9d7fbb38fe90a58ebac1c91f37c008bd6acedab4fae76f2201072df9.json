@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "7910ebb0d348e2c43732afd2cf2c300dbba902f0014be8b0b2074f0298e460deaec571fa7c585882fbae1aeae706bbff20f633fdddab1babcc0c0642822b3607"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid MIN Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "94dfa63be04a58aba10ce7abf5d434a3406057380ab964285ba71816b285c2d4955108d65d4d25d2ea7605794dfb55ebea8e9a16da904724e5f524fea9445606"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid MIN market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "cfa2e81e03e9a04a9c328a6d4270607e89b3cb70eeca2fdd045bfee8c7bc7dc40972f65432eed039c67eb07fd9a24cab23cc9b3ade348a421e217fd270574307"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "MINBOR"
+    },
+    "subject": "9d7fbb38fe90a58ebac1c91f37c008bd6acedab4fae76f2201072df9",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "666c13a7cf71fd66e8a3510bb844c646709ef608fda72ed36149bb3f44aa93fac3817c907b17e44329648dcb7e2b86e53dda6e6fb852dfcb8c9eafd49a3e6a0a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

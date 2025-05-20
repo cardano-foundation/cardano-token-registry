@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "1dd2a70efc7bc0d607929d3d2ab74eb120001b26862029ca5bbf1129600f9f48f563fe2a5707fadbc2adf70bde6b9e75e675a24ed40e7403c857564890e4130d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid AGIX Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "1dbb927dcc310922911c3d6d97d1cc42d8656937907e5573c1792e40097444c3abe65273970bfc63d32dd54caacabe0153983912e83c69c87b82d7ac0cf55200"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid AGIX market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "216814ac7542ea06ef3da0c43b7b30c05e8c7f05e6cc095392ad23d1bc2833530c07b88809ea5d7c3bc87a3beca530d8795079feb543da00837b050d5a4a600e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "AGIXBOR"
+    },
+    "subject": "f73843062a63e9b882bfda8dd87360c588ce664510c22fd52bb49c4a30",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "740d6e693e1e490bc30fbeb223b8afc349afcdd13d8de37f23fa38c8ed590ef4e10d39d43df557821cea05717d9963c9cb20093beef5334c818b8d107fea0500"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

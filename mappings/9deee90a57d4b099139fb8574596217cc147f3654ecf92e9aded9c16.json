@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "fdb17aa582c93f058d5994bf93055b83b8ff4076996833bdb742a3696b011a56cf21ac8e28dfeef95b67eacea23e9fb8b8d1f515378525064942900ed01b1409"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid BTC Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "49be42729f1e58e5c915dccc44fdf4d392ee32c99817e3e86a0c06ff6d7c2c3333d458d14c66085cedb28bfa8cb1cd523bcc7a379d342b7469eec9a0bde3bf03"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid BTC market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "537e46092a90cf3a07955be863ea2f91573a82b246806b921e09279c2d2ee476431fb113f8b3312c9babc1561acab8a32c9b261b4ab5b50baa30cd44f44af504"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "BTCBOR"
+    },
+    "subject": "9deee90a57d4b099139fb8574596217cc147f3654ecf92e9aded9c16",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "7ddeb29e03af104a7128ffffd95070821c5001a9a45bb701bcccc677d41cbe7e65940834349e5830e50dac73dfdda80eb37d5101fa9b84756e9dd675e5597b09"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}
