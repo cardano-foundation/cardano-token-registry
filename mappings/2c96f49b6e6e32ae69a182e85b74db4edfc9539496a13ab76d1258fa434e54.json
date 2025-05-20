@@ -1,11 +1,21 @@
 {
     "subject": "2c96f49b6e6e32ae69a182e85b74db4edfc9539496a13ab76d1258fa434e54",
-    "name": {
+    "url": {
         "sequenceNumber": 0,
-        "value": "CardanoNativeToken",
+        "value": "https://cardanonativetoken.github.io/",
         "signatures": [
             {
-                "signature": "38406d621e6b087d3d7a6c9896170f4b6900ca70bd95c6db674d6328b8ba1f40f0b1493cfc969957dc5852621d96d9c4ce56faf59d35aad135e5916455bdf80e",
+                "signature": "0885fac1f99b35b9dcae54af61e07a5364a1b30ea9d22f8d64e324189fdfbdd98cdf7db811494da29d1508ef210b4570eec484cf8fe9642424a1ceb519e8440d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 1,
+        "value": "Cardano Native Token",
+        "signatures": [
+            {
+                "signature": "879292961fa209941d73ec0c48acd7009f59d6013418e17eeff23533c90be181aa749c47e5c265b990302676e013303cf61173a59392f8fad9df941dacfbc509",
                 "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
             }
         ]

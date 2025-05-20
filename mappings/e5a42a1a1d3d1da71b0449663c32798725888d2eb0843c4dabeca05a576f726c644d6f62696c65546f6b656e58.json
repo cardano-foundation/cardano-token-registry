@@ -1,0 +1,63 @@
+{
+    "subject": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://worldmobiletoken.com",
+        "signatures": [
+            {
+                "signature": "d8912a0d8b706f8c0d0a50753cb328a0d1530efe71cc74dc2ae8cad8ee61fde97ebd239b175fd7fdb5c13e3c5d11a51cc2e4355065db33b047e6f61815cdca0e",
+                "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "World Mobile Token X",
+        "signatures": [
+            {
+                "signature": "979ac007fc448f994aa585ca866856a8de4642fe5f192e6d156198b665337e793bc5ba17add73380eb98ccc0b7b7c7d1ccf8099225937df94a271703d7fe8d0f",
+                "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "WMTX",
+        "signatures": [
+            {
+                "signature": "6d393c021372a3f10f69884ac0c49fce8643b0becdff0a783088b67fe88eb5e34875d188cdac39b1735bd30200c6176f0e293c7a1a90c5c828873fd1b73bb30d",
+                "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "ca85d73195814ab8677e4a229f91eced150c41de39efcc5024008e1dd58424dca0cf6605299577c80008942022b0b1425cdb0aa4e8234c9aa86151252c159d06",
+                "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 2,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "74a64c93de3c0f89d46694abaca8eae119d1c4b14c8aca6f23aef723786cc15424928a6546b892bf45d11b6e82a6369eb93caa9d1c45dfdb64ca8474d1ff560a",
+                "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 1,
+        "value": "WMTx is the utility token of World Mobile - a decentralised mobile network powered by World Mobile Chain. Together, they give people the tools to reclaim power from Big Wireless by owning and operating the infrastructure that connects their communities - and earning rewards for it.",
+        "signatures": [
+            {
+                "signature": "8a2775515c66e543e2202e33123e7f239a4287764303734ba0c251041885ce48d4eaa5800cef6ff63f2029e3747f107d810e377ff2d58a84661657320670f808",
+                "publicKey": "d04a3088839559b64b290ce5c033cbd5f2aa23fc49aa533f9c57385e98d0ca38"
+            }
+        ]
+    }
+}

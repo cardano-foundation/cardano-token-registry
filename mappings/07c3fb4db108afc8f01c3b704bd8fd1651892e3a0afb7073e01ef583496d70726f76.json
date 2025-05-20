@@ -1,0 +1,54 @@
+{
+    "policy": "820182018282051a08bfa1ef8200581ce37920f546d5cc31d93c61f493b74d944f2e79638530dd45f9c39e4f",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "b5d58bee4f484214abc650f89fcc986d47850cd0987f98eb6b64e76de98d1d56",
+                "signature": "ab33a3ec7178cf64e9c9e573edc0693f08d8e094fc87839d2e29093989890c0bb34585d0b6803cfdacf076e8619bf24f8815463d890dc8b89fdfa2278be2e301"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Improv"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "b5d58bee4f484214abc650f89fcc986d47850cd0987f98eb6b64e76de98d1d56",
+                "signature": "fe3ea815a36dfac25eb8d7f88af205ccb9f5e25112b924ac72c2c848f84d911fff990822988fc5510ed43953ca1fb0eef8a75bb04e14ce0e5be858294b28d30b"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://x.com/GabrielMazzant3"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "b5d58bee4f484214abc650f89fcc986d47850cd0987f98eb6b64e76de98d1d56",
+                "signature": "dbba9dc39f835bdecc739db09868d791edd1fb60607e21786114f308ed9b0317fb6d741d85ef3fb5a64b1fed2d46c67c214cc89ac500ec277882ca796184b80e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Just an improv"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "b5d58bee4f484214abc650f89fcc986d47850cd0987f98eb6b64e76de98d1d56",
+                "signature": "9ccf5b5521b49cfa2ccddc7927fd69783867180d6ab236eee062ba368c6fa361276701db089ab1b114ff53a880f011cadce6055e6b6353eab3db647c4edd9d0d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Improv"
+    },
+    "subject": "07c3fb4db108afc8f01c3b704bd8fd1651892e3a0afb7073e01ef583496d70726f76",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "b5d58bee4f484214abc650f89fcc986d47850cd0987f98eb6b64e76de98d1d56",
+                "signature": "02020c7b6405c87e3356741bd016fe2ca219fccb185183b23772a18ac00e4f1f0deb484879a7aa815cca17cdecf5b10b476e7faaa18f96b2d86e787d82e6d306"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 2
+    }
+}

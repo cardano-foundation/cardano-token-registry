@@ -1,0 +1,44 @@
+{
+    "subject": "a16baba7cbb57a93b090ed4962ec6a4a4ca96a3007c6a7a09115f2dd455654",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Jon Gregory Dahl",
+        "signatures": [
+            {
+                "signature": "ce6322400e4bef3906770f5a29af36f1d84138b9a689d2d8a6d41d05242103d6c3187cbdd130f3a1fe028b5bdaf37a23adf6722a5af762ca0b1445c89eecaa03",
+                "publicKey": "b1c83967fa97934bbc010639d6d5dcfaa69cf6b4a1bbc85695b18470aa1a6f7e"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "EVT",
+        "signatures": [
+            {
+                "signature": "0cae854ad43589c560069455930f380ecf4ba509d041c98fa60d266bbdcc88c3bbe3e075fb9596c7f009b84762f37106bdafe9fb360d7b3b4b7e9d523c8b7302",
+                "publicKey": "b1c83967fa97934bbc010639d6d5dcfaa69cf6b4a1bbc85695b18470aa1a6f7e"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "7c29763bc6551d72b24e17337e3bd9e5a937c04ee896f37f86b3857c2b7e7cd58f69f2e53192bad70d39fbfe0d11a82b9e829d20cdbbca563bc5ef1d09870c02",
+                "publicKey": "b1c83967fa97934bbc010639d6d5dcfaa69cf6b4a1bbc85695b18470aa1a6f7e"
+            }
+        ]
+    },
+    "policy": "82008200581cb710cc11c1e3a80a83db9db464c83ddd065f25f84807947e5039bcec",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The Elahveth Token (EVT) is a Cardano-native cryptocurrency powering the Legacy of Light Metaverse, a virtual multiverse inspired by Greg Dahl’s four-book saga: Legacy of Light, Summoning Angels, Aquareden, and Portalis Dei. Named for the sacred, life-giving sap from the Tree of Life in Legacy of Light, EVT embodies the divine light that Warriors, Builders, Farmers, and players wield to reclaim lands, seas, and worlds from darkness. With a total supply of 1 billion tokens, EVT fuels a decentrali",
+        "signatures": [
+            {
+                "signature": "d1345b699f53b4e4c0c3878f03976143c78c73f44e607b1e73945f1f030daaa29bdc7227dafbeadf84cc7172691d1dcd8da9fb8ca83419f17310462294265402",
+                "publicKey": "b1c83967fa97934bbc010639d6d5dcfaa69cf6b4a1bbc85695b18470aa1a6f7e"
+            }
+        ]
+    }
+}

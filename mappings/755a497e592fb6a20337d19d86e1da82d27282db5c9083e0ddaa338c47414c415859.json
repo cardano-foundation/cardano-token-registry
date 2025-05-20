@@ -1,0 +1,44 @@
+{
+    "subject": "755a497e592fb6a20337d19d86e1da82d27282db5c9083e0ddaa338c47414c415859",
+    "name": {
+        "sequenceNumber": 3,
+        "value": "GALAXY",
+        "signatures": [
+            {
+                "signature": "7d184e846a1330396c3f08b962283ae57325e635f0f4235b39f6394b2772b2fe1a251ad92364ec1b304b7e220abc74d1e9990b49e9cc85dc5650fbe1261a8302",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 3,
+        "value": "GALAXY",
+        "signatures": [
+            {
+                "signature": "380640640329fa1ef248ead6bd33780277e64a6db88ded0cbfb9aedf75c9e57d91f04ac99297ed5f6e021dfcadf4fc129c4c3196c85c37738988d162a9032b08",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 5,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "64f696e5f655a677482d96678a5b33b5defc35bbb472b92bb789baec9abb351bb2ce30442444eb0bb1e3689ea00659c90795a80030b40b434924125c394c170b",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a05840be68200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 3,
+        "value": "Get ready to explore Moon, Mars even Galaxies",
+        "signatures": [
+            {
+                "signature": "935c3c36b1701e4361b3cbb4c4961296266e5822d4ff77bce55c4099c4639706860f9735afd23206eea4590cb025d238889c4b4b68b8a0e34f9f053d5279c10d",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
