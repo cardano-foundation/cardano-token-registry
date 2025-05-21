@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "cce5ce79d24517c0e1df53af21c61e2ffc419cb156496ac12f55ec7e2c1fa76ebc713dcc073baca17a3932903147a489939851ae56f05d2c37dc653247cd2f02"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid SHEN Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "3afd4d12d3014fbc4a8546f97f284525a99dfe14006a814e94261acfc4eb0db8599983b190db1a1173ca0727c9ac1ff5f3c0fbbfc6470c65d223056ccb890c08"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid SHEN market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "64bb18ccea3a22426327f8ffa2f49ed63aad813430366e8b452ef8f95d5f9e99afcb12051e183c9601d3af5fc75a6c0a6f3cdc5e4b9d05530a575220d4f9bc03"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "SHENBOR"
+    },
+    "subject": "98cccc642a74eeb1fe7a22f43a814068b54f9f9afa583a73b74e36ba",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "49054325ac663b93129295a1062bcd945a65cfefcab66b88e67dafb64b170e9dfbd064589499f2544ee00632176350a7ba33a1087b4a31a670f4415321242606"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}
