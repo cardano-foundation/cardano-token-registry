@@ -31,7 +31,7 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": 6,
         "signatures": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "Drive financial inclusion in Africa with ACCE.",
         "signatures": [
             {
