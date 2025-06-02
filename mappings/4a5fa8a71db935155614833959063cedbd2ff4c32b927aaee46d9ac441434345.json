@@ -31,11 +31,11 @@
         ]
     },
     "decimals": {
-        "sequenceNumber": 0,
-        "value": 0,
+        "sequenceNumber": 1,
+        "value": 6,
         "signatures": [
             {
-                "signature": "4e291ce02fe0fbe115c61af32517fcb4fd6510a9b62790ccacafa257e4156cd5ecab70af2a042018a69da58222b8176d93e881f8fa764a3d9279e0508d3ada00",
+                "signature": "97a483899ba185f3fe2873ee76967ae5da0edd2dc457eac3ceee55d0cfc76e99656c13cb3ded3a00ad310b3ba16138e29613934774b8850da5b7c20396399102",
                 "publicKey": "b658d20cefe52797f349b3ba39bd3dd90de0a81ee209f0eba01ce86c80b8a0cd"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Powering financial inclusion and staking rewards on Africa's best exchange.",
+        "sequenceNumber": 1,
+        "value": "Drive financial inclusion in Africa with ACCE.",
         "signatures": [
             {
-                "signature": "5722499f419ad497a0ecfa1119abaf976152b432eddbc7cdf98abad1cb305e2d843dbcf6567b81e9bae11db310a9354b81e42e3a7e94c578b6f1b88bac86e00b",
+                "signature": "0e843bb3bd7fbf036b5d121d2a34056d5b0f06bb9bf829e000aae070bf11fdd55bdcc24f993095a532af37c154e8c7f169c12abff970ef8341d7285a310a100d",
                 "publicKey": "b658d20cefe52797f349b3ba39bd3dd90de0a81ee209f0eba01ce86c80b8a0cd"
             }
         ]
