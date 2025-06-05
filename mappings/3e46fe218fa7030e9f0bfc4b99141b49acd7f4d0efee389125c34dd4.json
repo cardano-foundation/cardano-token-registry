@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "f3d01a512c87e081c3d659c6976a44d558821e5aa16d6bf0316df42a63a6bc372ae3717f85fbd9d02b2d56130d465d5897a1e3d9caec8a33585dbe904007200d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid POL MarketState"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "16a37754235255c0254ac9b378324114262567c8b6d81868fa0c71129e223bb82d4687b6685ac2d2bd114adc4fdfe2a68640fa2ec0dc5d04361f44366fd6b20d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid POL market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "79d51a6e6e184d41371f156bd44c40b1cb64cbcc32d5096bae2fffc5a3f558eb6dbb90f93418f9a57bc2adb6fd8d67c38306f51f0b02d5507cd487033a668a02"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "POLST"
+    },
+    "subject": "3e46fe218fa7030e9f0bfc4b99141b49acd7f4d0efee389125c34dd4",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "29443c70b00e403cb92cb241a4fd68d2975a9064e7df29af5c152b6f628c472aa5f922ecbf6e26ee3fe7f4252ee3cde23375afca22d64d3b88f843c332c05107"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

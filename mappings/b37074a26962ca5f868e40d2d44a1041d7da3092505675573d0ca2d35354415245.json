@@ -1,0 +1,54 @@
+{
+    "subject": "b37074a26962ca5f868e40d2d44a1041d7da3092505675573d0ca2d35354415245",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://staretoken.com",
+        "signatures": [
+            {
+                "signature": "04f0fbdd4455ea0c9b9340051274bb1ce1a24adfccf9c318a5686da8cddd0418d3a7c670aa9f8fdec4c4fee7853b9ee672a46a1c1ca8ce29644c595ac23d720c",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "STAREtoken",
+        "signatures": [
+            {
+                "signature": "a98a4cd213fbfb2904d2366cfaf3393ed844bf96d5d623bafedbb66e08f31ed6dc6519062b84e1e7ae7d1bb028acb7c870bd94cfb8f5c760e95f03a8e9f41600",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "STARE",
+        "signatures": [
+            {
+                "signature": "7527e1a3e1cae74daf1831ffdda6c9d5dcec736432a2b6e11de03da2db1ded543d08e48d0405cd723e3739bf0620bcd5a678382b7fd2b3d242cca3f9b3d02408",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "360258e05f547d273d628e95fdb6cf7792ab3517f44b7b35e34a0ad0ed8aec459aa04b088d202818eb578194650a257175a0c35b202b89fdfb35521dd532e603",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a091a95cf",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Born on Cardano, designed to disturb the silence.\r\nYou’re not just holding a token. You’re being watched.\r\nDon’t blink.",
+        "signatures": [
+            {
+                "signature": "d62acb97e522ef72e3fdb44b8564bb827782e691541c0479451f57ada03c7bf8367afd39bcd5354d96f5867ce4b826d8be70982a86623a96911e75eb45847303",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}

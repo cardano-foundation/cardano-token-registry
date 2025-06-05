@@ -1,0 +1,43 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "9a8f4197bf52965302f87f0b9bc15038ff87df97bc3c55f5d400f797f84d4cd68782b73c7109bcabc629dd682bff475e91e7b47906a1161e3bbf1ddbdf14b10a"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Liqwid DAI Borrow"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "4bc970d46eafa7fdab79d1da2878975605a5a7489c823cbfb95c7c1336f3a4e339f994e944e095979ed013a559af0402aa6f1c07b710a6012f45bc550707610c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid DAI market"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "b8ea73ce6bf03862227f03230d6187b5f70bf2549d5d21226a3e528578e16374ee76598b56c3670642dd886ded7529ca4d4c186e040e6b69b2fb22a3f91f9208"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "DAIBOR"
+    },
+    "subject": "f7c838d95288aaa94fbf59211eebab72805e5980aa23c3bfb19ecff9",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c",
+                "signature": "37f05ca0452d50d67785daf2c939d93eb25de06c0710e98b994eff9884482c5fd07deb85c6087cc1741057d0b3131889b27a658e05e35aa9513f825f8cc6b701"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 0
+    }
+}

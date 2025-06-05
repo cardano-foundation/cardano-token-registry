@@ -1,0 +1,44 @@
+{
+    "subject": "7e159ba1d6ef752b5f3ba12a97f3b46a9706687b233341cc5f83d33b575452",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Water Token",
+        "signatures": [
+            {
+                "signature": "af7667feeaaf232162e4eb2bbc7f92d2c92816c7e361020890be4bd6419a015a0504501af8142eab677b3fcd274f73658ae3ad735a1f08e3032e08ff8b1eed04",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "WTR",
+        "signatures": [
+            {
+                "signature": "b6b6048544dbed909678514c7b3863b757d5e04f28260b34bb1287475822d5b65346f4e00fc357be23594a4392b4ed981f9e8249dc3d32b415b47754eaa4070c",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 4,
+        "signatures": [
+            {
+                "signature": "f465a0c475ae0b549ca626832f3da8f5c5d15a2720dff7b0be441a752beeecb79b2be82e8ae048ade7a8d1bba59e90bc3f6f4948fbbd050060a26281a70f7402",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a09295034",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Token that powers the Water Pay network",
+        "signatures": [
+            {
+                "signature": "c10cd90ff31ba8bfee01dcd7a744b23273660ffa43c9b21064f7786f1e90747f361d3ac9281f8dfb00745bc50276478b7f7d4ccc2076eb3e9a286617d7a97f04",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
