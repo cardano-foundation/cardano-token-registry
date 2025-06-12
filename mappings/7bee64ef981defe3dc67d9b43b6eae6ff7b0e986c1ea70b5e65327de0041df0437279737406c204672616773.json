@@ -1,0 +1,33 @@
+{
+    "subject": "7bee64ef981defe3dc67d9b43b6eae6ff7b0e986c1ea70b5e65327de0041df0437279737406c204672616773",
+    "name": {
+      "sequenceNumber": 0,
+      "value": "Crystal Frags",
+      "signatures": [
+        {
+          "signature": "2f519c780f13625079458a3c6b7a9e2ebcb97c3de7a51a16f84892ed0ce9907f46e9dda897c7cba9bb55051db6d0b46bc3cba6eee2e5866178fbbf55bc344c0d",
+          "publicKey": "701eb5946e56e4e8fef1ef4ea1d3d28cf7e3d5ad16be5c070f9fb70f1c91bf6b"
+        }
+      ]
+    },
+    "ticker": {
+      "sequenceNumber": 0,
+      "value": "FRAG",
+      "signatures": [
+        {
+          "signature": "536c0e784e8e313822bb2ad8893979cd852a4addc84ff8b71b81cad9e988b009123b5a414f14e5f3dcea3982a6b6f63b4e1ae5a183a9dbf96b4c90f32acbfc02",
+          "publicKey": "701eb5946e56e4e8fef1ef4ea1d3d28cf7e3d5ad16be5c070f9fb70f1c91bf6b"
+        }
+      ]
+    },
+    "description": {
+      "sequenceNumber": 0,
+      "value": "Token for interacting in Grotto Mercs; For dungeons, auctions, and more.",
+      "signatures": [
+        {
+          "signature": "f8efc95574b8e21e8cf4e02d1dd1fa7f3fb2f6c640e0a06891e72cb6cf4611d5060b2d6d0baf30eb09a277e28edf862d1f1a6ccf29cc9dd56820fe28ecbfa004",
+          "publicKey": "701eb5946e56e4e8fef1ef4ea1d3d28cf7e3d5ad16be5c070f9fb70f1c91bf6b"
+        }
+      ]
+    }
+  }
