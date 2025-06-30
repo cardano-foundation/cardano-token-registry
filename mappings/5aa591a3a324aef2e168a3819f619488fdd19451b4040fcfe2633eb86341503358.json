@@ -1,0 +1,54 @@
+{
+    "subject": "5aa591a3a324aef2e168a3819f619488fdd19451b4040fcfe2633eb86341503358",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "cAP3X",
+        "signatures": [
+            {
+                "signature": "2e0bda4d30e038af14456f84c8791bd7577fcbe483d0f74489aefd1f44601d3a3efdca71951a14d574b832778996760ca4efce4975cdcc0dca887662e0aa220c",
+                "publicKey": "f5a8e7c5122096e570fd599579b33436feb17808a4deac4c3c057c0241ba41f2"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "cAP3X",
+        "signatures": [
+            {
+                "signature": "ae48fda42235fd42ca59bbe10dea5b7cce40befbacae889bb0dff3e12f94c37148540f3674281e349c30c34e50ee8a2a0b66f717e11bf51202ed4f00a0c5a80a",
+                "publicKey": "f5a8e7c5122096e570fd599579b33436feb17808a4deac4c3c057c0241ba41f2"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "2c43567e40bb1434d7c8815f90d0a4d2a772116f9a6df69a2b1087fc30d7299b24eccaf90025b9c1b3cfb147c2bcec8d35442dec3a8cc0366899fd1f93122d08",
+                "publicKey": "f5a8e7c5122096e570fd599579b33436feb17808a4deac4c3c057c0241ba41f2"
+            }
+        ]
+    },
+    "policy": "820182018282051a098e373d8200581c5659c4220f745d42dbf2366675097357a0bbb367801ae3d4d454ccde",
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABpElEQVR4nOya2w3CMAxFMwIjMAIjdJSOwAawAWzAKBmBEToCI4AiFamKnMRO86jtHMk/CLe+h7aJVIwZDAYdea+lkq9Xl77jtMcXoE4CJODbdaLGhASokRAToEJCSoB4CX7YBfhMtAQoqCoJoZAhCeKWyNivrEJC6jIXfztggomWgA0lVgIlkEgJmDA34HvbOlefsiIhAanQYq8ASr06zFuUk6GH/qx9rLFmhB6hQzX1GLQkV7PvwcaSnNDz2stWQE5oCxyHjYCcJQsK7HNoAS3W6cMKaLVktRIwUc7zBgartU7XFDABx//XEmuMCZgLD1lDwAc4rl/Jl7E1Q4fOs0cAJjSLZw2FBehP1eG211QBN6CHXegtKQE5G6577aFLAgnI2X/cWw5dEmrQbT07zFuU3J0me6xRGPpl6KEP/fTG8DD0S3zuMWhJJrPvwcYabEgb6WFNLPSC7GENJXiohz1UCeIEONTeAluwEsQKcH9kwkgQK8CBkSBawJ+YBBUCHCEJagQ4xG+FMagX4FAvwKFeQGiJVAUkQSXuPZ3tPcRgoJgfAAAA//9m7IxMAAAABklEQVQDABgrnu0mroROAAAAAElFTkSuQmCC",
+        "signatures": [
+            {
+                "signature": "d3bfeb0263cef800907952d953030a4029aa2b004d9efc6f14515552977d705a160605906560453949fd64491699ce3c90041ebdfd1b2b15b5c9af10d380e20f",
+                "publicKey": "f5a8e7c5122096e570fd599579b33436feb17808a4deac4c3c057c0241ba41f2"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Cardano AP3X Token",
+        "signatures": [
+            {
+                "signature": "05d9a2c55737b53e0441ba077168aa13c1e2e3ecea841452c48a1a4e26c3202bf7e501b0590d38efd1fa7f4488f4d21833020d4ce11f667971d4d4eda5ac7505",
+                "publicKey": "f5a8e7c5122096e570fd599579b33436feb17808a4deac4c3c057c0241ba41f2"
+            }
+        ]
+    }
+}
