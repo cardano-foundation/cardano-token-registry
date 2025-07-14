@@ -1,0 +1,54 @@
+{
+    "subject": "b2355754f575bf3023dd61d9caa03f86abb5ef09caa7b78d949a4387444543414e4f",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.clubatleticotucuman.com.ar/",
+        "signatures": [
+            {
+                "signature": "d31409576e85fab07c05015075fe96450b18bb41d4095a57a9d6563bbf31f27adc98279f49f36a5c2a916c03cd092705cec08c0ecca316932d77d8d96b4d0f00",
+                "publicKey": "4ffa14b74216b5385dd943a612c8db20c1b70e41f84311a77dce67ae0077c28a"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Token Club Atlético Tucumán",
+        "signatures": [
+            {
+                "signature": "a218ee5cd3e1d219d1266675a1695fafbe6e876d884a469f7390f52917d623ff162eb621a6286b4bef5058b215d8ac9023c19ea4fe3200ca51a3e7b0c04d5805",
+                "publicKey": "4ffa14b74216b5385dd943a612c8db20c1b70e41f84311a77dce67ae0077c28a"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "DECANO",
+        "signatures": [
+            {
+                "signature": "0e05259c7f1981c501661eda9daa8c92760d6c8565cabb74926066fb910796de3532e48d6e8ab006484882478fdbdc7b30df2c1eb994d74bd2091b5c2b48a20e",
+                "publicKey": "4ffa14b74216b5385dd943a612c8db20c1b70e41f84311a77dce67ae0077c28a"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 3,
+        "signatures": [
+            {
+                "signature": "9b13f015c5731bd8b6d2e8385af5b99bc6e232d65bbfc0c5410a5bc042911e124a93a02caf6edc94fd699fdc43db6437872ed01f888c55c1c20f3ad922371c01",
+                "publicKey": "4ffa14b74216b5385dd943a612c8db20c1b70e41f84311a77dce67ae0077c28a"
+            }
+        ]
+    },
+    "policy": "82018201828200581c16ec094bc7957bf3720b315dbfe3cd4235c87d8f6d6988f9f9f4631a82051a0992e505",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The Club Atletico Tucumán Community Token. A token with a cultural and social purpose.",
+        "signatures": [
+            {
+                "signature": "483cd61cd422ace0346ec3e14f25f32e50824c0d68a3b39a3457faf290331b321f808cb44ae318bf5ecd9c94bad93643d9cdad67aa4e3132780f2b15cdb4dc08",
+                "publicKey": "4ffa14b74216b5385dd943a612c8db20c1b70e41f84311a77dce67ae0077c28a"
+            }
+        ]
+    }
+}
