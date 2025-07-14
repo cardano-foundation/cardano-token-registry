@@ -1,0 +1,21 @@
+{
+  "subject": "3d3d011b15465b1a271c4d0a0f63ab9fbde848be",
+  "name": {
+    "value": "Krajcar"
+  },
+  "ticker": {
+    "value": "KRA"
+  },
+  "description": {
+    "value": "Új gondolat, új kezdet."
+  },
+  "url": {
+    "value": "https://www.szekelylap.ro/"
+  },
+  "logo": {
+    "value": "https://www.szekelylap.ro/logo.png"
+  },
+  "decimals": {
+    "value": 2
+  }
+}
