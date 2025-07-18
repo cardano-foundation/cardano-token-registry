@@ -41,11 +41,15 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
+        "sequenceNumber": 1,
         "value": "The basket token for the Diffusion Staking Basket.",
         "signatures": [
             {
                 "signature": "7c5781d7f21c7937a78fedcd0d98f30e6df18a2729c91b08cf99a03595f421694deaca08ed2e28a75d6f73a870e47745d30df257ceb5d2b1976cc5c8a39a8909",
+                "publicKey": "16edec4aad9582c20e58f3f8d4542b3647887a1ffe759d9de01e947f2ed0bea6"
+            },
+            {
+                "signature": "cb96853d43b08f89119586486582e70540383ca701ac6fec279766575d127cbf448f48b2909be5861edcb49d4e712f1e49e2b9a37d74e13fc5d8b17c956fa902",
                 "publicKey": "16edec4aad9582c20e58f3f8d4542b3647887a1ffe759d9de01e947f2ed0bea6"
             }
         ]
