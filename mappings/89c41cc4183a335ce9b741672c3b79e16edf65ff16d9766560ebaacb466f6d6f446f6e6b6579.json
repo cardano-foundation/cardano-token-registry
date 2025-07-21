@@ -1,0 +1,14 @@
+{
+  "721": {
+    "89c41cc4183a335ce9b741672c3b79e16edf65ff16d9766560ebaacb466f6d6f446f6e6b6579": {
+      "466f6d6f446f6e6b6579": {
+        "name": "FomoDonkey",
+        "description": "FomoDonkey (DONK) — Memecoin with endless memes, NFTs & merch, powered by Cardano",
+        "ticker": "DONK",
+        "project_url": "https://fomodonkey.com",
+        "logo": "ipfs://bafkreiavjgwauxzbrb7aurh3fk4wb56tdn34irq6vq47p743ouqesnvfmq",
+        "decimals": 6
+      }
+    }
+  }
+}
