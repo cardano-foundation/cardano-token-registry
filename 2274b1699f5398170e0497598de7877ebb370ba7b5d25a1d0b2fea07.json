@@ -1,0 +1,10 @@
+{
+  "subject": "2274b1699f5398170e0497598de7877ebb370ba7b5d25a1d0b2fea075249534b",
+  "name": "RISK",
+  "description": "The official token of Risk Gaming, powering decentralized gaming and financial utilities on the Cardano blockchain.",
+  "policy": "2274b1699f5398170e0497598de7877ebb370ba7b5d25a1d0b2fea07",
+  "url": "https://riskgaming.io",
+  "ticker": "RISK",
+  "decimals": 0,
+  "logo": "data:image/png;base64,<your_base64_logo_here>"
+}
