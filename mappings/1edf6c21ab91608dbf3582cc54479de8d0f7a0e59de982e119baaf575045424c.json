@@ -53,10 +53,10 @@
     },
     "description": {
         "sequenceNumber": 1,
-        "value": "A digital collectible token crafted for the evolving art culture on Cardano.",
+        "value": "A collectible token created for creative use cases within the fast growing digital art space of Cardano.",
         "signatures": [
             {
-                "signature": "d592796323d278643d0a0c0097e5084457d3cd29dc722a1c55807d18c534cdae9b02bd86c95bd08747372d7a28ad9498d697cfbd9b0ed53de37328072659750b",
+                "signature": "60df605ab5fc93f611dda455335db18b4b42b9213a7a2c623a0ed475bd8d7fc5634c08a5de3cb40bf964919a8f58407c1f473121737a1f18d6402846cc9eba05",
                 "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
             }
         ]
