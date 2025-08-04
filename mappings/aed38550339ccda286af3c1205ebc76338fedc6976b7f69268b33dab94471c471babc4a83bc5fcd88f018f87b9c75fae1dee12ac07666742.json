@@ -1,0 +1,53 @@
+{
+    "subject": "aed38550339ccda286af3c1205ebc76338fedc6976b7f69268b33dab94471c471babc4a83bc5fcd88f018f87b9c75fae1dee12ac07666742",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "dBTC",
+        "signatures": [
+            {
+                "signature": "620059965822b1b1c19ff3442595d23282ed5ebbcdae732292199e11b7f8951fd027b33c548b4e6edfba156938af5f80eaadd1f71a8defca110947c83d6b740e",
+                "publicKey": "8aeb190aa49648d5e34db57a1bc8e0b71107e154de1f33def18de9585acb7c6b"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "dBTC",
+        "signatures": [
+            {
+                "signature": "4821a400b2aa200e4e97faa4f5e997317e376920282051474cbe7edf60a9267de54694b76eb3099662739f1f3b30d68e2aaa2d81ced1538d9310d135d1668c02",
+                "publicKey": "8aeb190aa49648d5e34db57a1bc8e0b71107e154de1f33def18de9585acb7c6b"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 8,
+        "signatures": [
+            {
+                "signature": "a6941cf3523c86a308b608b71f2a645123efcf354e9ba78195e13a021c1c81135a6a021da7ff225b78a6634344da63a7df6b1a327c8ac5a2e901ea810de72303",
+                "publicKey": "8aeb190aa49648d5e34db57a1bc8e0b71107e154de1f33def18de9585acb7c6b"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "ebeb43aaed0b68f23cb7d39bc7a647875520fe1a9d1f66bb328b89997b796fb7ac0600de18dad70f661a0cac9203318f2ee7f8509fd72bd15fb2ac51c3506004",
+                "publicKey": "8aeb190aa49648d5e34db57a1bc8e0b71107e154de1f33def18de9585acb7c6b"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "dBTC is a yield token from Danogo Flexible Lending Pool",
+        "signatures": [
+            {
+                "signature": "00b8ceb273708e8f4453409230e77a31ec874216966665ce8086cd101af79144f970ab88399c2cbb4b33ab713d278c3db8fcd6119512baa7e5ad2a165b018102",
+                "publicKey": "8aeb190aa49648d5e34db57a1bc8e0b71107e154de1f33def18de9585acb7c6b"
+            }
+        ]
+    }
+}
