@@ -1,0 +1,11 @@
+{
+  "subject": "10b7c8d652cea3f19e048e721205612a116ccdbf2c6808926a58368943555552",
+  "name": "CURE",
+  "description": "CURE is the utility token powering CureChain, a decentralized medical discovery protocol.",
+  "ticker": "CURE",
+  "url": "https://curechain.bio/assets/CureChain_Whitepaper.pdf",
+  "logo": {
+    "ipfs": "QmSePz...Je4wXt"
+  },
+  "decimals": 6
+}
