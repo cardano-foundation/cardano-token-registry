@@ -1,0 +1,16 @@
+{
+  "721": {
+    "45af0644ba80bcbdbc3fc1f31794927966532ed40caf93ab9af690a0014df10535445434b": {
+      "STECK": {
+        "name": "STECK",
+        "image": "ipfs://QmYourImageHashHere", 
+        "description": "STECK is the official utility token of Mikrostecker, powering access to infrastructure services, Web3-based participation, and exclusive discounts across the Mikrostecker network.",
+        "ticker": "STECK",
+        "url": "https://mikrostecker.de/steck",
+        "policy": "45af0644ba80bcbdbc3fc1f31794927966532ed40caf93ab9af690a0014df10535445434b",
+        "decimals": 6,
+        "version": "1.0"
+      }
+    }
+  }
+}
