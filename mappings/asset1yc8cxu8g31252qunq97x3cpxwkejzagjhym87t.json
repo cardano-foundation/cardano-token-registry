@@ -1,0 +1,16 @@
+{
+  "721": {
+    "45af0644ba80bcdb0acb3fc1f31794927966532e40caf9a3b9af690a": {
+      "STECK": {
+        "name": "STECK",
+        "image": "ipfs://bafkreihoyzrf532fdibewtbLmh2lkjbolikmz6sya5eka2g7i4bimpyqge",
+        "description": "STECK is the utility token of Mikrostecker, used for services, discounts, and Web3 access.",
+        "ticker": "STECK",
+        "url": "https://mikrostecker.de/steck",
+        "policy": "45af0644ba80bcdb0acb3fc1f31794927966532e40caf9a3b9af690a",
+        "decimals": 6,
+        "version": "1.0"
+      }
+    }
+  }
+}
