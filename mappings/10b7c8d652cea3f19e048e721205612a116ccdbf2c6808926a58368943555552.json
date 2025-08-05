@@ -5,7 +5,7 @@
   "ticker": "CURE",
   "url": "https://curechain.bio/assets/CureChain_Whitepaper.pdf",
   "logo": {
-    "ipfs": "QmSePz...Je4wXt"
+    "ipfs": "QmSePzJe4wXt"  // ← This should be the full IPFS CID
   },
   "decimals": 6
 }
