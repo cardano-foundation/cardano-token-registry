@@ -5,7 +5,9 @@
   "ticker": "CURE",
   "url": "https://curechain.bio/assets/CureChain_Whitepaper.pdf",
   "logo": {
-    "ipfs": "QmSePzJe4wXtN8AZK1gVfVsdxVcSoR8KP9bQ27Hh1oYwqR"
+    "ipfs": {
+      "cid": "QmSePzJe4wXtN8AZK1gVfVsdxVcSoR8KP9bQ27Hh1oYwqR"
+    }
   },
   "decimals": 6
 }
