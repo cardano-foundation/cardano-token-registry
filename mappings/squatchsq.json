@@ -1,0 +1,25 @@
+{
+  "721": {
+    "8e77fbe74b0e965f5bb3d38cce31e641e7457db1026eda4b9cc2cb8a": {
+      "SQUATCH$Q": {
+        "name": "SQUATCH$Q",
+        "image": "ipfs://QmZBKddV8PeTdFnKHaGxtqiM7MCpioG1S2pkY8pFzLESqZ",
+        "mediaType": "image/png",
+        "description": "The Official token of SquatchVerse on the Cardano Blockchain",
+        "Twitter": "https://twitter.com/squatchglobal",
+        "Discord": "https://discord.gg/squatchverse",
+        "origin": "Cryptid Mythos",
+        "purpose": "DAO Governance & Lore Rituals",
+        "ecosystem": "Squatch Verse",
+        "files": [
+          {
+            "name": "SQUATCH$Q",
+            "mediaType": "image/png",
+            "src": "ipfs://QmZBKddV8PeTdFnKHaGxtqiM7MCpioG1S2pkY8pFzLESqZ"
+          }
+        ]
+      }
+    },
+    "version": "1.0"
+  }
+}
