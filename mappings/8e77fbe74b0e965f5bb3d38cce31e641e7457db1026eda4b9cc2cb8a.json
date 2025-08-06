@@ -1,19 +1,17 @@
 {
   "721": {
-   "8e77fbe74b0e965f5bb3d38cce31e641e7457db1026eda4b9cc2cb8a" {
-    "SQUATCHSQ": {
+    "8e77fbe74b0e965f5bb3d38cce31e641e7457db1026eda4b9cc2cb8a" {
+    "SQUATCHSQ" {
       "name": "SQUATCHSQ",
-      "imager": "ipfs://QmXbdboer4vodetali3Pwcu1iS5152UVPfoli552",
-      "mediaType": "image/png",
-      "description": "The original Sasquatch governance on the  Cardano Blockchain.",
+      "image": "image/png",
+      "description": "the original Sasquatch governance on the Cardano Blockchain.",
       "ticker": "SQUATCHSQ",
-      "website": "https://twitter.com/squatchglobal",
-      "discord": "https://dicord.gg?squatchverse",
-      "gov": "https://etern.squatchverse",
-      "purpose": "ADA Governannce + Lore Rituals",
-      "ecosystem": " Squatch Verse"
+      "website": https://twitter.com/squatchglobal",
+      "discord": "https://ddiscord.gg/squatchverse",
+      "purpose": "ADA Governance + Lore Rituals",
+      "ecosystem": "Squatch Verse"
     }
-   }
+    }
   },
   "version": "1.0"
 }
