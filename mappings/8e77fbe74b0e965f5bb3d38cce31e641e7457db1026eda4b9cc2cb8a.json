@@ -1,0 +1,13 @@
+{
+  "721": {
+    "8e77fbe74b0e965f5bb3d38cce31e641e7457db1026eda4b9cc2cb8a": {
+      "SQUATCHSQ": {
+        "name": "SQUATCHSQ Token",
+        "image": "ipfs://QmYourImageCIDHere",
+        "mediaType": "image/png",
+        "description": "The first issue of the SquatchSQ token, linked to limited-edition physical collectibles and rewards across the Squatchverse. 1,050,000 total tokens created.",
+        "decimals": 0
+      }
+    }
+  }
+}
