@@ -1,0 +1,12 @@
+{
+  "subject": "8e77fbe74b0e9655bb3d38cce31e641e7457db1026eda49b9cc2cb8a353155415434842451",
+  "name": "SQUATCH$Q",
+  "description": "The original Sasquatch governance token on Cardano.",
+  "ticker": "SQUATCHQ",
+  "url": "https://squatchverse.io",
+  "decimals": 0,
+  "wallet": {
+    "description": "Squatchverse token for wallets."
+  },
+  "version": "1.0"
+}
