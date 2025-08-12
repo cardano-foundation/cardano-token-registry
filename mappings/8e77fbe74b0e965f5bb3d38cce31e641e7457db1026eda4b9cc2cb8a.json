@@ -1,11 +1,11 @@
 {
-  "subject": "8e77fbe74b0e965f5bb3d38cce31e641e7457db1026eda4b9cc2cb8a",
+  "subject": "8e77fbe74b0e965f5bb3d38cce13e641e7457db1026eda49bc2c2b8a",
   "721": {
-    "8e77fbe74b0e965f5bb3d38cce31e641e7457db1026eda4b9cc2cb8a": {
+    "8e77fbe74b0e965f5bb3d38cce13e641e7457db1026eda49bc2c2b8a": {
       "SQUATCHSQ": {
         "name": "SQUATCHSQ",
         "ticker": "SQUATCHSQ",
-        "description": "The original Sasquatch governance on the Cardano Blockchain - updated.",
+        "description": "The original Sasquatch governance on the Cardano Blockchain.",
         "mediaType": "image/png",
         "image": "ipfs://QmZBkdvV8PeTdlRfnKHaGxtqM7MCip0G15P2kYB9Pz1EsSqZ",
         "website": "https://twitter.com/squatchglobal",
@@ -17,4 +17,4 @@
     }
   },
   "version": "1.0"
-} 
+}
