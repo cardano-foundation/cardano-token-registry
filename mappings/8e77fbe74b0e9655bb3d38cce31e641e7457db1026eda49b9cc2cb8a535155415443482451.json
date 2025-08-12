@@ -5,6 +5,8 @@
   "ticker": "SQUATCHQ",
   "url": "https://squatchverse.io",
   "decimals": 0,
-  "wallet": { "description": "Squatchverse token for wallets." },
+  "wallet": {
+    "description": "Squatchverse token for wallets."
+  },
   "version": "1.0"
 }
