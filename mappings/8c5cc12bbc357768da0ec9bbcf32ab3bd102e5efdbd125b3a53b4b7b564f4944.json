@@ -1,0 +1,28 @@
+{
+  "subject": "8c5cc12bbc357768da0ec9bbcf32ab3bd102e5efdbd125b3a53b4b7b564f4944",
+  "name": {
+    "value": "VOID",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "VOID INTO CARDANIOGALAXY IUO",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "VOID",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmaU79YVHfm6p3UxAvtXEAKXoNWVQNbRRUEB839K3d6yND",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
