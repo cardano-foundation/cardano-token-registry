@@ -1,0 +1,28 @@
+{
+  "subject": "ac80c8e0866899b73b6f2f885e26fede8ab0c0cc96e1043e84dce61b424c4f4f42",
+  "name": {
+    "value": "BLOOB",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "BLOOB",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "BLOOB",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmU3pwj24DbyyjyDBfkRnoqJmdV82uAYGSKMehGXXQbXKW",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
