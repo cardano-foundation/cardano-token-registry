@@ -1,0 +1,28 @@
+{
+  "subject": "aa9061475cfd8911df8fc8ed2915a4fb55a53c43afd8517073f47708574c4649",
+  "name": {
+    "value": "WLFI",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "WLFI IS BUILDING THE FUTURE OF FINANCE.",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "WLFI",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmayEgD5pUAaDMBDrUU16mT5t5YequvbninFzBSHiK86XE",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
