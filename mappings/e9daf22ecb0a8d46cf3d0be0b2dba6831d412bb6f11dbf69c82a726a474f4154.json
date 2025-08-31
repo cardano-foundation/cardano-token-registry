@@ -1,0 +1,28 @@
+{
+  "subject": "e9daf22ecb0a8d46cf3d0be0b2dba6831d412bb6f11dbf69c82a726a474f4154",
+  "name": {
+    "value": "GOAT",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "GOAT",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "GOAT",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmUa4ty54VL1oRDT2TmFqEwry7QDmvwQNVfW4kZgMH1czV",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
