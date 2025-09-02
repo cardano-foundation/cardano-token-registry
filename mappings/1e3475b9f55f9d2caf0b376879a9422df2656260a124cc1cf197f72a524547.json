@@ -1,0 +1,20 @@
+{
+  "type": "all",
+  "scripts": [
+    {
+      "type": "sig",
+      "keyHash": "90ea281fdbc53a9e9ecd535e97a3444de1cd07fcba484271e8a26ba283ad5967"
+    }
+  ],
+  "subject": "1e3475b9f55f9d2caf0b376879a9422df2656260a124cc1cf197f72a524547",
+  "name": {
+    "value": "REG",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "REG token minted via TMT Platform - Test Registry Entry",
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
