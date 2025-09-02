@@ -1,0 +1,28 @@
+{
+  "subject": "e413a8ae9347b17f6a75a7fb5e59b422d91cc06f89ac33228227a68b435241574a55",
+  "name": {
+    "value": "CRAWJU",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "CRAWJU",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "CRAWJU",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmU3pwj24DbyyjyDBfkRnoqJmdV82uAYGSKMehGXXQbXKW",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
