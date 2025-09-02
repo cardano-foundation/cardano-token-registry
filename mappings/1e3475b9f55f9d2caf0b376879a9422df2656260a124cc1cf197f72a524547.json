@@ -1,0 +1,75 @@
+{
+  "subject": "1e3475b9f55f9d2caf0b376879a9422df2656260a124cc1cf197f72a524547",
+  "name": {
+    "value": "REG",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "a5447c282b7ae9b82f58a65f4ee3e48cc591097aea28d6ce030a68f6c9945da32a535bb79d271c254aefa6ca6746d7df7e7e42c66054ebb95b5f7bfbba16dc0a",
+        "publicKey": "90ea281fdbc53a9e9ecd535e97a3444de1cd07fcba484271e8a26ba283ad5967"
+      }
+    ]
+  },
+  "description": {
+    "value": "REG token minted via TMT Platform - Test Registry Entry",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "2e8b2448c28995469c1e7e7013918f9c0587f3dcaf321babae1999a883a11fb6e9d40ab1aee863333f3dfc4878e236be157670960cdf56e9351f17cfa6870200",
+        "publicKey": "90ea281fdbc53a9e9ecd535e97a3444de1cd07fcba484271e8a26ba283ad5967"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "REG",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "e3903fe6c468d3bb4b8a002508e50974c071d44e8ecebec0e01f1a68dfc63a6e881f123ca40d697ef8732bb419679ac9ff0580e15ef0a379068f976a1e1d650e",
+        "publicKey": "90ea281fdbc53a9e9ecd535e97a3444de1cd07fcba484271e8a26ba283ad5967"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmREGTokenMetadata",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b79f04d28607de182bc211425c6523f0a00bbb072466c538ce10bc6da60eada9787b111b9917ebf96bcc693b8e1fca4029d1600467f779aacae6e32fc490490a",
+        "publicKey": "90ea281fdbc53a9e9ecd535e97a3444de1cd07fcba484271e8a26ba283ad5967"
+      }
+    ]
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "d6f56889c887de3eb01f80ffe311ae68b818a6de1e2e1309242f1331af527ffc62dea09c4ec959e03da091c5b971112d414e62804392d86c25b83c58f1a3e701",
+        "publicKey": "90ea281fdbc53a9e9ecd535e97a3444de1cd07fcba484271e8a26ba283ad5967"
+      }
+    ]
+  },
+  "policy": {
+    "value": {
+      "type": "all",
+      "scripts": [
+        {
+          "type": "before",
+          "slot": 999999999
+        },
+        {
+          "type": "sig",
+          "keyHash": "90ea281fdbc53a9e9ecd535e97a3444de1cd07fcba484271e8a26ba283ad5967"
+        }
+      ]
+    },
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "a9974c29565a3e3dbcd65ed226020aaccd7e3153008bc9f5bebcb2ce1cce25a7405da9cc76a8c33c500779b25d01129aeb759c4d20b539281dc0147419e82a0a",
+        "publicKey": "90ea281fdbc53a9e9ecd535e97a3444de1cd07fcba484271e8a26ba283ad5967"
+      }
+    ]
+  }
+}
