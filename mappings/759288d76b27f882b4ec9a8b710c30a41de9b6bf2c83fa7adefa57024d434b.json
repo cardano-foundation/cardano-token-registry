@@ -1,0 +1,28 @@
+{
+  "subject": "759288d76b27f882b4ec9a8b710c30a41de9b6bf2c83fa7adefa57024d434b",
+  "name": {
+    "value": "MCK",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "MCK",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "MCK",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmWkt6avuLd8y5N2sqnEvGqKzoWtXZaRVZwwzgyg318A9z",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
