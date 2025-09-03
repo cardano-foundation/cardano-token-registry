@@ -1,0 +1,28 @@
+{
+  "subject": "29ee94a41add84fb88b03c6d3e84a950d8a548b09b236a0826807334414141",
+  "name": {
+    "value": "AAA",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "AAA",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "AAA",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmQLoDL5hKJrYvqfB2cLbwEiVTqjGm6A1biNgkuGWHL4iv",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
