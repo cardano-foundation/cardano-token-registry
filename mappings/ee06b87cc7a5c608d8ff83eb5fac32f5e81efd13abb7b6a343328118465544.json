@@ -1,0 +1,53 @@
+{
+  "subject": "ee06b87cc7a5c608d8ff83eb5fac32f5e81efd13abb7b6a343328118465544",
+  "name": {
+    "value": "FUD",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "a31c5b32ca0126dc680d2e05b7464ff50177511e53ca3cb58e700e1ac3a6fc556413cdc52a429b8e37d7defbd129dd03772e4378e90b4cefc4d82e1c6ab3c902",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "FUDDING THUS WILL MAKE UR ICH",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "6d6fddede54aa370f93067bab58a71c63b1f9008993bccd4e4993700c3f28ed96ca94a56bfaf3a4d90c25d2f50d6e1ae5b7a8fcddf1dd2092f3195a422a11607",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "FUD",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7548b7918ceb40439e9d4c72fbb12615c6158cb158483caae3977fb2b3da3a6dd665a7f7e0e9c3a055a11d296ca6bdde79493b8904ae39b4f1c9b77c8d1d5302",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmZATt8bZM6pS12yeVCRW1bCPZsqbaGSGk9vZUX1qEpkRh",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7aecbba13e3db540913294586ede9c0a0c9c34440d73060574296c32e4dce0e908c064fc44e8d650463d87e8740886dfe285d2e25495210a8d18b32d0d159e08",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581cee06b87cc7a5c608d8ff83eb5fac32f5e81efd13abb7b6a343328118",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "debe67f8fd6bbc3906ea772cf46b3f6a5105b070de81b291d6ec84fdf9996d36cb8471b2ae3660e3a6468eed8eae83f68d4b6f960e0f9534700abf1375d93d00",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
