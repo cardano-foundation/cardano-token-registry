@@ -1,0 +1,54 @@
+{
+  "subject": "78a88ad5be03789103debeabeea8a8b8c6fa79c646974fa02867be2e434f4f4b",
+  "name": {
+    "value": "COOK",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "efcd248261a0a22afca6d1afb55eb447a5fabe62dc6c38d903a6a8ca640f6604186367de7b69502c15cc0f8cdb267452c719c979427941e6de3cf51e3deddd07",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "CARDANO COOKING",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "6b192972a74d9b2e9b8d1abffaac139b7ba8ce104c1cdba1e3bca7c93bdbfe75d834c3697cf87b6697627a36e87fda77819cc802d259210e9d25586b0ec3b603",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "COOK",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "41361d89f4cde14ad0de286ee3f1caf3e45ec261d34353fe4eebe76867aea76df5ad535e27e6669bd63cfdcd4d47fd2c3786601dad0fa96e95040e6cf71d6505",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmUCT9cR3gRFuw9rZiX4VMreRNrWoqm1ZgYG199e3NeUcq",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "e7e32334a525a8a7b938acafaa8ed022032dbcd3511707a8b8816b050725a44e439cc23ae3730019f8d86ea799faa4d5978284b9df683944f19c191a0205dc06",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "8ed88ec38138a4013c104a59c3b4e69854a6524c3181142c5558746037ae876cc5f2a246d1c3865999c09aac122bb358f24ed877f8e248abc79e97ae74bac10d",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": "8200581c78a88ad5be03789103debeabeea8a8b8c6fa79c646974fa02867be2e"
+}
