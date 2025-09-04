@@ -1,0 +1,53 @@
+{
+  "subject": "eb000abeca3f816bcb2b0b53c4f65d27d4bee2104c38969fad8bedee424f43",
+  "name": {
+    "value": "BOC",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "02c4d9228367fae48c9df1173b48b6a6c630abc1ec810f9fdc66aec08a1f17808360b3ec5d91da655d56057d11e7f39656f63435287bd46a89884b86f7ad590f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "BOOK OF CRAWJU",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "9c140e94776e37ff87fa454e4d4a386be1ab211920318ac9617e0d104551f3dcce600a59dd7b7892235d439da9593198124bfd8de93c6548a6b6233c53f7000f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "BOC",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "83012d9ff8b61da91a0ccf8742db8bb2e4e00877a53c56860c5001c3c048b8c3e82a12dd5dfd2f177c64e5169ee9a848460506bac33fb269aab672c687325b0e",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/Qmf6VKiVyAJ68sPJkbbfqepqkr47GWrqm6dp6GX4JAxmbG",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "94b18dab434b0644d5da562403279d4e4abaa61a1705c9d38cdd23eed00c535d18b8a0c3d2537c0807e8d816698a31529839e44b6f361d74bafce04a9a476f07",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581ceb000abeca3f816bcb2b0b53c4f65d27d4bee2104c38969fad8bedee",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7b33016a8f15bd0f4a5a95eda520108ee71ba947c872b346b7ffc5d430784327e56cbf64a1f4ed39969cbed72956956024a649bc9ae5292fd9c82bbe32579400",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
