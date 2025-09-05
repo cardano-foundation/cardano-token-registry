@@ -1,0 +1,53 @@
+{
+  "subject": "ea276f9b03b86a789b1fbb3efd15fecf32e1037630b5ebecd189d28c43524157444144",
+  "name": {
+    "value": "CRAWDAD",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "5384666120c87a967c812a01978121c6733dfab02e124f2a22ed05de2b616150d72ab27da81e6fdc4b6418494bc7d2687b3eadc4ac05259eea79a953689f2701",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "CRAWDAD",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7efdc2bc29565bffaeb2b79e44bac5e7d1544304ab9f8e94e0f13919dc05759db3def0f33ce371490393012769a067172fd666f74b982e6aa75f63b519322c03",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "CRAWDAD",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "f583811f9f03e7eba5b18bb14be6a9eb79d95d8855284773355bdc1b80c3e16b787010843cdc406fcb6b1831138262bd1715b9b47b3882b206e5f4bcdac5d50b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/Qmc45f5rynVbczcs3JQ176LcQ3X18M1rJ2zarcBvDehCgR",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "71f2e54719c434f05e45857662f8af12fb5992430c473dcbadaf373024096d47f7610c2dc966cceef4f6fc4db72b57107c643270e00c6bafc54468958fd70100",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581cea276f9b03b86a789b1fbb3efd15fecf32e1037630b5ebecd189d28c",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7a260eb2c031d2e67d4cd8362f90d2fa3d54765dcd6ef8954fb0df8667a392fbc7d3bbec21d76d18df9eddfab6315f3aed9df8ee9b539ee793fcbcbb5b82890a",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
