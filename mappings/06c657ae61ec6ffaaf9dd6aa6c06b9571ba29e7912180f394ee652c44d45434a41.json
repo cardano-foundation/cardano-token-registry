@@ -1,0 +1,53 @@
+{
+  "subject": "06c657ae61ec6ffaaf9dd6aa6c06b9571ba29e7912180f394ee652c44d45434a41",
+  "name": {
+    "value": "MECJA",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "d7183e6fb0fdfdf998a6ee0492c01fa5aab6023495259242d347c13f1925ece2358616b6e0eaa3cacbde6f6b8298333a1246522e9d92377942eefc91fe52340b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "MECHJA THE CRAWJU MECHA",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "6f55bba11bf3168915d8400e6408c1ad8cab9bbc359c23218e35c8636e2fbf20f86fa8c1da186c700e39d9f0779f11ab041ace4101bdb3f65c48f61fa2072f0e",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "MECJA",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "2ab98ea946cdddbcca4d2b525c76810b56d5faf345cdb2b195f14cc7c958de52ef22c99e231cf0bcf454ef15efe9cf6e7c1e9de6fe680e763e46dfb2a72e5f0f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmNofV67m8x8TU4DZWqJPJJRYrZ6D8yzFRFJTtcyvpFBJG",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "c2163835780624590a3eb9e9aca1825b336a9038872b274dcfece0ce605362a6009988562b0e3d8a548bf374959fdeda25893e90e9d2ac0eefffb1e254aa4402",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c06c657ae61ec6ffaaf9dd6aa6c06b9571ba29e7912180f394ee652c4",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "fa64c805a8a16db35fe855c6efaf4e7a807d824818c468aa860685682c2a19a628fd874aea586f1beab921ee118ff0a538b93f63499a2158483b808f9624730c",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
