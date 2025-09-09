@@ -1,0 +1,53 @@
+{
+  "subject": "e3abd6055535133dfe8b4a33ab378b3d1de1a1975ab6aca1e7dc89ec4d54414c4f53",
+  "name": {
+    "value": "MTALOS",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "d369ea06d0993ccd339764c5d8c10403ae6e245a8fd133786168199944c9d4a2822d0671483bfa01cec3094287861c49871c74b45bf908e7718a40f78f260302",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "MTALOS",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b599484e39849304262438f64c2272fa9c5ce34c7f9952004918ae7e6951eb921ab8c4c78b55e6fabccc6d306278c5549628b6e208163bc413bbd7cbe281270f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "MTALOS",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "cac8117f757cdf4b6b0cf009c01346803123b69f208c41eb592cced49b9a9b9c665db48c4f513f9493afbce89a57c89a3a9d23318cf6b812fb7716ac62a92a05",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmTQRAFv6euQeECa7Sky1aaWPUoQErUgcyRtMEgm4m9BFh",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "6adb08ff5448b50ededb4dc2c906acbf5a5c7c8e340f9e4e5e195e90b49db6f4026843cd4e0d39c604bf0b62a84c3e1d0a440702f16ac41e5ed64157eb8b160f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581ce3abd6055535133dfe8b4a33ab378b3d1de1a1975ab6aca1e7dc89ec",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "e2e4e2378d491a90e470088bfd12d52693a3a36a008fe2ea52e12ec86cb5b4705a30c1535ba6c89e40e0b9d0eb5993db3d39af6e6acd5f3958994511422a4d0d",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
