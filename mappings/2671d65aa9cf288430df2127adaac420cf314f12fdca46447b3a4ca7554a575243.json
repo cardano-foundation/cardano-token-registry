@@ -1,0 +1,53 @@
+{
+  "subject": "2671d65aa9cf288430df2127adaac420cf314f12fdca46447b3a4ca7554a575243",
+  "name": {
+    "value": "UJWRC",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "10a1b0f07f871caccc32aaa1463de2729b3cf41b1828c8a7842b24ec13fdd98f17c459e22e8c7166fffe5432565814feda09c656cca27c1da87f975506b3860b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "UJWRC",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "1f77ea61fcff270a4d102eab38fa44a5c186eebde3140bd16743d4f1cce1a7113a1eb8ec9bf25f59fd3ef86d458e3fe903f053e7653f672bd8a6f60e06eab201",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "UJWRC",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "6a0ec656bbc099adf145ddbc768affedae596c0ae7c0d38911dc33f9e1da027e14eb5dbb1e7a83293ab4f16b06c74173973632e8c00abbf78ac1a9f30c40c30f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmNofV67m8x8TU4DZWqJPJJRYrZ6D8yzFRFJTtcyvpFBJG",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "215d07820523aad70587a3d6d66246dedcb3568439b40c85b859040306a51fd020fd16839851503f3be95077312bf21a28f8c75165f1a8983bafa3ce249b4f0b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c2671d65aa9cf288430df2127adaac420cf314f12fdca46447b3a4ca7",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b83c7f43f212ed130ffd76ceb96d6e465d407b1941f1ade45e6ce3ffad8298a0d8e7dacb58b6de92fd839b8e525267d96224457bdbaa942e1b2986330e53fc02",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
