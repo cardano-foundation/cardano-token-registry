@@ -1,0 +1,53 @@
+{
+  "subject": "c3acddf6d694e3fb05cc344400eec5d44d92dc517f5eed4784e45260414c4144494e",
+  "name": {
+    "value": "ALADIN",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b1962af45bded45c638a9e5ae32493a07f06e4251f699fa40b2424c1da036f8495e80063dce77f8c04126698e35c79dbc5f4e270df6b458e727aed198e84260a",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "ALADIN A LONE MAN FLYIN",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "62be2a06806cee97080ac7bbb3da190e8c0978ce6d21f14c40054e06041137ffbd967321b9b5f3940af5cbdcc4d70c70e8efbabf3754dc020a2fb08d57d9a10b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "ALADIN",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "d6d9bcae33c17b5a66bcdb7cef316286461558f60195d058b80a204a9de419a460aef867a76410f23ccb79bd508a6faf6b934f8340f476db85eabf7f8b7a4e01",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmXJR6YyXk55ZmtXjn1x7xFz1vGQh4jrXvV1AsERuHuQ9M",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "245e5046e198c56d00c23d9f64e2aa2d82bba207fccc41dd0cfa223f47317ab2e917473b158ed22ef94d65cf6cada182cc11b48c1b0a4cbfd5fedfebceeb2b08",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581cc3acddf6d694e3fb05cc344400eec5d44d92dc517f5eed4784e45260",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "220ae5403a2dffa326414cbc327fdef7f4d923141ac2ede84367026d830255a613d7df59b556a09809ec48996e921619dbc19bd4a55f2cbe3f34c95a4308680d",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
