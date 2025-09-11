@@ -1,0 +1,53 @@
+{
+  "subject": "9ee598e5146f55feaacdaacf947f39867a7547c5d56e25395774c7284e41444f",
+  "name": {
+    "value": "NADO",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "df9dfe3c378de7873710f84f20424bdc890daea2cb63f8317d318e147b998772157151cb974bb9539be0be12ae4b83f9984342297a67a9a9e8dc2fd1d5385c0c",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "NADO BEST MIXER ON CARDANO",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "e78c95ae6836055c8c09a65a0f1d588078d205159524e3d718fb690b9c9811508d0aea6807a2ee91458a79ce7098fe92892f650cf48ce2c0381111d714eef30d",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "NADO",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7298d8ea97496e54ff993e582155a8ce6ad8be2f433e4e7ec82e4df1c88f400db1e886335a42d48d80b6873da0a2a9268b6bfb2a2666ee77cc929a3dbdb1ed0c",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmauqyhNCfvrV8f5QkXBFav7DH5LdgMS9dD9JixW9vqPGT",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "a0f92e1b74ee398f7acbc502ea4da7d12f299edab411c09cff89a86fedb1ce58c6ebb20038e4167227d91095aaba2a9d34015f9820fa2a11201aa060d145330e",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c9ee598e5146f55feaacdaacf947f39867a7547c5d56e25395774c728",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "ec7ad74e41dd3a502b1da2fad70ef070297364f2b839a1908c7ef26a1feccbd49fb96cae78583ca598758a5242edbcf995e4ec2b2787d44d2bea42867c0a5a04",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
