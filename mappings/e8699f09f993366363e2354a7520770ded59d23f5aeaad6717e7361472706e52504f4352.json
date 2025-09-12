@@ -1,11 +1,12 @@
-{
+..
+cd {
     "subject": "e8699f09f993366363e2354a7520770ded59d23f5aeaad6717e7361472706e52504f4352",
     "url": {
         "sequenceNumber": 0,
         "value": "https://rosen.tech",
         "signatures": [
             {
-                "signature": "b6e4251f18769e8cbfd5fd99962e4b1b02104f9685e5cf9720b4f562243970f11b4e37f206a89cb8cd3cf0d15de5f0cf9d7953e8e37db7f5a2db47ba50cf6e03",
+                "signature": "59e42a6a8fda3835a9b254bb8b7b5052c10cb447f5c4bc3964e25c830c5b69730e7b1d0bb1f36c722ac3d6747e0a20fea3e3ec0861bd9290380abdce63201105",
                 "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
             }
         ]
@@ -15,7 +16,7 @@
         "value": "rpnRPOCR",
         "signatures": [
             {
-                "signature": "b4616afae82a0cbc67254931889ca62c37913515cf52aa9aefb12fb96f31b27aade99b6c56c39626131e02c7a365e9c5b263330d095479023f23c8a656eee204",
+                "signature": "12783a782f18215a0efeabb3e851be4028c9e6fa6782d810fbb641b2bf3b00792137e55003c01221d15adcdb4369ed38cdad1d6e5681cd636e486beed34db900",
                 "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
             }
         ]
@@ -25,7 +26,7 @@
         "value": "rpnRPOCR",
         "signatures": [
             {
-                "signature": "a8c539f15a8eea870a830b52f6aeaaf6cd2d94847d37de10fb67decb40128ab1c0db535d711ed42152a05896db66f4f8d8c704049281f93db0352a0ea99b380a",
+                "signature": "fd55cd25c2d3c37fb5a1ccbb431d9f19f21d53964750dc901b96baf202a2e6bffe19757953f4df07eedc27f22595f1c17e607d8de9260aba2d7cbb0eb8a1050c",
                 "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
             }
         ]
@@ -35,17 +36,17 @@
         "value": 3,
         "signatures": [
             {
-                "signature": "3401b1a49b6e2eeb870eae7cf3313ee5fca5201c9ec09fd77456c8fdf39e4eef943d1f373ca9849ca6f846f0f31bccdb91a91924e9c371a47e4dfc253c81ce0e",
+                "signature": "4c0895bedffeac6c357988793c1092d089648dc73c501cc62bfe9f8570ecbc283f3b73eb387f9d2327bcc6e7121b6397680d317d2e9a7714fbdc9f7e308a0504",
                 "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
             }
         ]
     },
     "description": {
         "sequenceNumber": 0,
-        "value": "{\"title\":\"rosen bridge Pandora wrapped RPOCR\",\"originNetwork\":\"BitcoinRunes\",\"originToken\":\"880887:3052\",\"isNativeToken\":false}",
+        "value": "{\"title\":\"rosen bridge Pandora wrapped ROSEN•POC•RUNE\",\"originNetwork\":\"BitcoinRunes\",\"originToken\":\"880887:3052\",\"isNativeToken\":false}",
         "signatures": [
             {
-                "signature": "36508a5377034b06eb169ce1f3a25f9a6236488352d3e2a80897df9573510e0386d019e31c7158ab83ded4d91e299b892177e91cb7544e86da9d50df6495b00a",
+                "signature": "86e2af26e9201c9c6d57cf636dde0ab07f503d65f0ca7a396d96d8aa732fd535c840cc08e12ad6d09241cfb5930ae135e216337c5a8bbbd4d2e1706d0e720304",
                 "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
             }
         ]
