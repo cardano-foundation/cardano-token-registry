@@ -22,10 +22,10 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "Fox",
+        "value": "rpnFox",
         "signatures": [
             {
-                "signature": "fa11bd535b8d965fe787ceb792e59264b06387a20e893daac1d0b866f8214f19d0d3b8e98889d784c56e10ff32fcf6e0e8e2837389faefff3713cfa5e7c53403",
+                "signature": "b92ea135dd100ed6869cbce8c5dc8cfdfee67e627930f99e7bf855bc7e1e6aea905b62914fd8df80f64be183ba96e892218e25da540cd349baa46d563fd2cc0e",
                 "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
             }
         ]
@@ -45,7 +45,7 @@
         "value": "{\"title\":\"rosen bridge wrapped Foxtrot\",\"originNetwork\":\"Ergo\",\"originToken\":\"45c1c80de3ca1c0f0d21cb9862032894496671071aa923289c6dee1576478e23\",\"isNativeToken\":false}",
         "signatures": [
             {
-                "signature": "3433704afb2b5b927046e9509757be3801a3cc53ada5854d51fa66a10d61c3f722b02d46e329d3fda196d90f101390bbb6ee335df0973af802db1e96dc169d02",
+                "signature": "c22d9e056b5a8e85731819a5da75b15dbc634e3906e1bc2d2d504167e3e0a440e7b0976c61e31f607fcecfed32a8f900922c44c571f53238c1d901d94167d600",
                 "publicKey": "ca0ed81f53e5201faff4ab1e7c7d44b154c8875e990013cc45f8c8cca0641983"
             }
         ]
