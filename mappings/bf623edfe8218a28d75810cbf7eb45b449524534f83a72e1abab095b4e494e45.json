@@ -1,0 +1,63 @@
+{
+  "subject": "bf623edfe8218a28d75810cbf7eb45b449524534f83a72e1abab095b4e494e45",
+  "name": {
+    "value": "NINE",
+    "signatures": [
+      {
+        "signature": "0576bb71aa365dad4ca410339c1de9ecc9a96902d5b250c7732256a3160b9f38263a7143fd35acc4457807b12843ab676e89a2ee34a8dcd3748bedc76213e200",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "description": {
+    "value": "The official token powering the IX platform.\n\nOnly 9 slots. One winner per slot. Endless possibilities.\nWelcome to a one-of-a-kind platform on Cardano where your message becomes immortal.",
+    "signatures": [
+      {
+        "signature": "bfeceba9627d6af641214faf1fe6a5d9275f6dc65b9a3a377df729788f7a0776f7e92ff70144484be9a4c2de3d9f0d6c9e5d52000fa4eb5d505d94b4c5245006",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "ticker": {
+    "value": "NINE",
+    "signatures": [
+      {
+        "signature": "c35b1252bb39c433ea57cfcce9fb2da5600f851963b1f98a8e8ff5d43760326245dcd1535d55331c0b1c617e5bafd07556665a53d9bb057853f0bdc98148ad06",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "decimals": {
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "dc41ca06d5fab4a77cd9f1ab19da4cd02f216c788faf6327eb7434fd9ad747aab36676377757d210eee7c59029eec323f3aee976f0e1848da43177c60ac24e05",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "logo": {
+    "value": "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",
+    "signatures": [
+      {
+        "signature": "741a4a902a6f51f23a59f5a3ea6bfacbef8f462e35935f16bb7d314af8102c4d3f6adcd7091d993796ddbb70656c794993c2f0de306369acf2c4ab7022a10e08",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "url": {
+    "value": "https://www.ix-cardano.com",
+    "signatures": [
+      {
+        "signature": "033225e08d3a2779370756102bff511e5ac564bc16b5c350537feb5c43c39da2a1ea2b567c3033084cb6927ecea055762de552c8d2659f3103c68e5f32cd7608",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  }
+}
