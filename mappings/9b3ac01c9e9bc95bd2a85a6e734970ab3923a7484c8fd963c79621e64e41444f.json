@@ -1,0 +1,53 @@
+{
+  "subject": "9b3ac01c9e9bc95bd2a85a6e734970ab3923a7484c8fd963c79621e64e41444f",
+  "name": {
+    "value": "NADO",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "4f9a49168fb4f43f556a2bab30e5b299471d2414124a87d6b430d4c4bb0ce3f07f2c84995d0fee249ec2f9816a604c8fa641eea537d2d5737b10af9b4299cb0b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "CARNADO  THE TOP MIXER ON CARDANO",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "8ce71d84959c11086bfeb10e222478d2fb69bf41eaf7787ec9511f145f877fc283740fa5f4d5cc8b7c5968efcbeb46a698c01aaf3c4d7e497be571a2fbd63b08",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "NADO",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "363407f39958f7d7ea605e62cdaf57f19686b5adbb111b21096bc05cc4eb11dc34957b76bcbf8e7e7d6fb6ff7b48fc32f65d2bd6da1bf74779694a7b962df10f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmauqyhNCfvrV8f5QkXBFav7DH5LdgMS9dD9JixW9vqPGT",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "60c064c6a31b927130176dce8ee18198fa286e2f1d0756f31e853a4f2d4d0a1ed88cf4fe087015b362a5b7d2f4a7d3fc6e017bd3e94b04e4b7827d24b78cfe04",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c9b3ac01c9e9bc95bd2a85a6e734970ab3923a7484c8fd963c79621e6",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "80ac7a42fa0ef1db4f9821d754715beb3cccc8cb0b4b5e1e409d0cb28a107e6ae85da396230c5ef33fa6b24e296ea423f3149cb4e12ee8196f3f9b55db999707",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
