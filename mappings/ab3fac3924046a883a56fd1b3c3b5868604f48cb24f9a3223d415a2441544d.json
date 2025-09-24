@@ -1,0 +1,53 @@
+{
+  "subject": "ab3fac3924046a883a56fd1b3c3b5868604f48cb24f9a3223d415a2441544d",
+  "name": {
+    "value": "ATM",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "1b352cee341f9e86190b6ec787dbd2699d00a0757c2b34b9d96812e0613f50dd5fa52435a1fb9ca36bf7c899493aa19b46708b28af9f99359db91601ddc93109",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "ANY TIME MONKEY",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "9221b7a278c5e70e83c8c255311cee1d66a3ce8a2adccf9e68c366bc1f363779aee3e22690b558f361284b86ea96d178e19c1ce4076f7ee9e2a8b06eb699690d",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "ATM",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "556c4584dfd0bd375da573bc22f0c22ccfbaea34cbb7c7a70e63c2a954b42cc2dbeddb2da81795d08be4a0499d70dca8ea10d58c7255e926c62ef30262292406",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmV2upxx969psqN7R9ZRjzTxJp1GWtrxBZMerHw9Dk1Xp2",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "c5f1f4a99c7787aba0a20fb6dd2573bbe1617fac35f32b92f4dfa8aa6a948c37aebf2302e9121e08168d8f8b9a553601c309707b089eb742e24110050f22d20a",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581cab3fac3924046a883a56fd1b3c3b5868604f48cb24f9a3223d415a24",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "9731547656fa77ca3ab0e01d02bd4e0440b159f69d98c0c07e4e9d422f2b09fc41a1a2bcbfaeb705aa692dd53f7350c504d5525040af0369d5c3874797aac001",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
