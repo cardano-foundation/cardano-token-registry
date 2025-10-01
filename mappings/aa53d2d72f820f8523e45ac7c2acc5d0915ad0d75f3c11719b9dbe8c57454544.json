@@ -1,0 +1,53 @@
+{
+  "subject": "aa53d2d72f820f8523e45ac7c2acc5d0915ad0d75f3c11719b9dbe8c57454544",
+  "name": {
+    "value": "WEED",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "9f05bb5b00d45155fa3ef740c7680a04aeaca6a8823f9fcdd79ce93d58eb306e40840f475d71da8ac806329df6fbfd84dcfd98b3c02dbf773b86df3c86ca8403",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "WEED",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "46054fe0482bf9779d411b20dbcd745473c406f3ce34d3fb9f9c22559570058bad27afcc9535f02726910450699c656ebf990e3c34aab9ba8526470892d06908",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "WEED",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "21dde0335d7f0a896f7e9a522cc59592ff891b9608b62722d249fd34c05ec590f23240b144a1f1c0c1ee5ebe07c1728f64fe930d547f16cd17e611660772ba04",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/Qmdq1ihaURXyfZuoDgttXc5XnSrTJ51crrffmVa6J3DD8w",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "2de5a4cf5eae88b9144689843da1f76ed8f4704e38a3c4a4f0004a2d4aad8b63d18fc08b268a6376fa8000be096547e81d58a00a11d723f71eb2afb4274d4407",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581caa53d2d72f820f8523e45ac7c2acc5d0915ad0d75f3c11719b9dbe8c",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "d524232139d302a3bc0950804913bd02285c370dfd0049c0098ab3ca1586a7b650d73fbdcbd1bd871b7b01e55054bc6649170a8722617cfb3aa31b5e7f00410c",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
