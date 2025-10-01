@@ -1,0 +1,53 @@
+{
+  "subject": "0e3b458314b43729b8ad07fb1879729e5c76cd76b28fce24c528f830504150",
+  "name": {
+    "value": "PAP",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "a5a66b31622a6be096750792adc9420af9ed40e5c6b99dbf6f551ca4b17add18befbaa089d20fc094c1dd2eff7a5950ed3bc08dd7f697590692ae5d17d786703",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "A MEME COIN THAT CREATES MEMES $PAP",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "0326c7bcc5521f82dbe912ebb3c6c67fda9210081d53e11211c8a9ea00af7d7a9134a17d69729b0afaa227df2acfa6d5ee734ab4ead845080b056fd6c707690b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "PAP",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "daecab0f222bd4f5155bf61a650f85d88cdbcd91d31e63f7281fe344ffa9578745f54561f20c822b90729d524bf74ce3a0382c636fe0c00c5c2c6bda0d634705",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmUWxH8cGU3sdg5WC6wyrZSYY7c4jD6zv61DF7asSufqLn",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7e7f17e2038004b9bc972d9c89ce27c80191bab56b189c2405ae72f2af597cebd29315486d33a03b1e4315310710f34b6f86d9a57e331344156b20698726ff0b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c0e3b458314b43729b8ad07fb1879729e5c76cd76b28fce24c528f830",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "cbc46ab33535dbe3039b734262db359be20572796a33637cdfb22203fded0167a1be425c99964528f6846238aab30fc7f3517db441e59a335a577fe801ca0501",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
