@@ -1,0 +1,53 @@
+{
+    "subject": "67cee89d59ab5354ee22c8af0638224126aecc6210f9372a61f13a640014df10474e5243",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.the-mint.com/compliance",
+        "signatures": [
+            {
+                "signature": "3cd6919b7a3cf41b5cbedbfccc8031dad59cd4393063361a9931172c0eae30436012ff79c3ae1b5f29b9c23e4c3d8d29ebcd00426b8ed3c1d2ce245278720501",
+                "publicKey": "c7730d2636ac280a03e2dbff0fd95e7d1edbd78b9b49531c3cbc65580aa4aaca"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "GNRC",
+        "signatures": [
+            {
+                "signature": "bf45eafc573f9e197e8033181650640a55d95f90c3c6f24badf887b973fef8dcaf4df7c21e7b0196f28596e06d2d3282d943f3da9a77466bfc02316c1c25d80d",
+                "publicKey": "c7730d2636ac280a03e2dbff0fd95e7d1edbd78b9b49531c3cbc65580aa4aaca"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "GNRC",
+        "signatures": [
+            {
+                "signature": "56672f7aa00b100a926bb8b7466f75d1266552b8378078288e3c1469770f0d64fb8dfa77b66b299ff41b3bc980fc7def15b6bd5e930fd57c469a28bd67652b02",
+                "publicKey": "c7730d2636ac280a03e2dbff0fd95e7d1edbd78b9b49531c3cbc65580aa4aaca"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "93a279434d824d2219000e5fcdbea8640e34215a2273404f20deb4226fd9e7c9bb4ef7dbda4f95cdee243c329edc8449c51d4215c9c480d84c4c6528cbe59f0f",
+                "publicKey": "c7730d2636ac280a03e2dbff0fd95e7d1edbd78b9b49531c3cbc65580aa4aaca"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Asset backed token secured by Greenland rubies and sapphires.",
+        "signatures": [
+            {
+                "signature": "eb99e57daa5b3dd73b9255103d099f503028e7b4265dd14139b5c0f414ddeda1282769f6a2021c2e37aad966d84d6b319828445b36761b86623aa121f088ca04",
+                "publicKey": "c7730d2636ac280a03e2dbff0fd95e7d1edbd78b9b49531c3cbc65580aa4aaca"
+            }
+        ]
+    }
+}
