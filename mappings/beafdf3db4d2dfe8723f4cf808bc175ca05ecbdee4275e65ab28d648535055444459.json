@@ -1,0 +1,53 @@
+{
+  "subject": "beafdf3db4d2dfe8723f4cf808bc175ca05ecbdee4275e65ab28d648535055444459",
+  "name": {
+    "value": "SPUDDY",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "0fbe1a93d58942ad8777e7246dd0581315112aef87ce2ffb5355a03e514237a8f62d7ace42c76fdfbc396aa42d85abeb23bf02fb84f6790c40e82e77bf08f900",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "SPUDDY MEANS STEADDY 🥔 !",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "5b9f4717d081a6f2c1432ec36e4a1b9044d8e468dc640e8ff6c29caf2bb5d5fdb4122af65d06efd9df2b92ed82bc8514c2385b8dd502b6a8f6ad166836aec306",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "SPUDDY",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "8dad69445d6d6ff8456510359b88a86477d78ef779cca37913566affd3ad305274bd74e5e26bac7b4866b4d0c73e527e5762f413e188bb55a560f5073fc58d03",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmX561TfhybihaDJ4EnkygC92yMBikSCbvJ4C4kPgeYdo9",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b6a7e9f48fc4cbbc48f27cc70afeead6f23eb231f59ac6511b2bc3c19638f52f4a2d83b98836c282446ce7bbaf00842ce169f2b928329d943fe62e823017460f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581cbeafdf3db4d2dfe8723f4cf808bc175ca05ecbdee4275e65ab28d648",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b2aaa808aeb2d97fb36587527173cccba467b63c9f7ddee28ef2e0af320d36cc1e84e7f86b63b5edf1627b8247e5c966e3676ba6356addd894694877be52a100",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
