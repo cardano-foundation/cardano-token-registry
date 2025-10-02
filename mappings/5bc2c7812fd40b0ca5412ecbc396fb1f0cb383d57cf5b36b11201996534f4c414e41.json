@@ -1,0 +1,53 @@
+{
+  "subject": "5bc2c7812fd40b0ca5412ecbc396fb1f0cb383d57cf5b36b11201996534f4c414e41",
+  "name": {
+    "value": "SOLANA",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "c088ee2a1083eb3e01fcb4ece46bee36e9ba7b0188e50649f084d9ed581057455baa8539e0a9f4fa2674dc8477cd6393d5f2b44b49f7db8ee6c6392e3db6a108",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "THE HIGH PERFORMANCE NETWORK POWERING INTERNET CAPITAL MARKETS",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "fc8f4abebd8ceed53e778573815c68b1baa51bb33ca1506c6e96648bc057f69ac4afc77a91c063bf1d3c441d800d2a804fa04a03c9036e026b3a3e6cbbf74f0f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "SOLANA",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "399ce22f2d18985ed6b9c93182c81b41e54bbf0dfd1af4f1fb5ee7e077c230320f52a305a35f543da0a32f46612a1f2f335d8bdc6b5e5aa69fb8b1a4da3b4a09",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmbpP3vxtG4eFt2cPbGB9FdiBdoAk5aChzwBWtmNWqnWU2",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "a73af6e0d43bc7fb2fa43d4e7282558cceaec85e577c6f74a67e7359657237aa373efcd8e9b532bb2de4b235c75267d879a209fdc16221a425eb2cdd14e56700",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c5bc2c7812fd40b0ca5412ecbc396fb1f0cb383d57cf5b36b11201996",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "edec3219e4c3aba7f1c5842f591c511c9c19f09e4e3a00a27547afbee05f1712e2a07c5101b41f55856c882c4174bb6b4f327cde6f72b6f51f764dd8b2d3700b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
