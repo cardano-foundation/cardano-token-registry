@@ -1,0 +1,53 @@
+{
+  "subject": "8f3094bc23ecac59901887fe827a9a172cabaee5160b822cc4a50efb52474e53",
+  "name": {
+    "value": "RGNS",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "bead25e611672fcb65d4a3dbb70f24017810300b833220653fed7d6ba7583e408c82dbae391c58738f1e1647f72ad76c07a72dfa71031d55f8c268ae6a179404",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "THE FIRE RETURNS TO THE CHAIN SPARKBEARERS KEEPERS",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "53f362d50b39da02ee57980a33f2809c58660c8fd0645096ee3f1fb87e236b01edf07fae38c4899f159a95b6254c5f9dffbb0ec06b68c7046dc908dfe621dd06",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "RGNS",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "97d18c2fd34ab26888747f721271e80e164f26a49e4bb419654430fe3b367b330b3a33eb09435fcf5dacee04bc0595ccb8d71db4d43d026df6b2956515732402",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmRWxD4vy27KDrBwu3kcrxFevG7MkSkvHdzVsmjZtZpknB",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "cac39f5a444ec3dc01f2fb15b246e6fb73701fa24ee392e578690274735f79cb5e6c7472356853e30d768101ea68f966884380f95565a26e46de847a25d2b703",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c8f3094bc23ecac59901887fe827a9a172cabaee5160b822cc4a50efb",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "bb9b103c6351a59d61f1f549017bc3c9c82307d84c1ffe3a26aaf51b256dac14c00928c5c629ef9ec20e76b2e61b1201aa2a6a2409b607b2025b05be0962a809",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
