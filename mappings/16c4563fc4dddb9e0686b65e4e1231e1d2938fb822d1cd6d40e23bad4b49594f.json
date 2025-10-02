@@ -1,0 +1,53 @@
+{
+  "subject": "16c4563fc4dddb9e0686b65e4e1231e1d2938fb822d1cd6d40e23bad4b49594f",
+  "name": {
+    "value": "KIYO",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "5bbbec3b218987123d8eddb191615a4fad21faa7b7b9f5d27bd316aaed19167e07a6ca5ec17dab378f9ede64cb2a14b8f3dace349bddbb1c665dc720297fa50e",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "KIYO",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "63d28b28884cc4a01b8b4bd69a86ae071daa3977e4f3311a557fda99ad6d9a9901b023979a904990c7ec04a198489404d24aa482af037bcbccd21021a7bd2a07",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "KIYO",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "c7b3ea02c3fb019327f3364e8615bae694d610b5c63b1337e5fc21bde4017a04c53dcdb778c61d81be76da783e5a6ba10910bb77c1cd51e583ce6972411d1102",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmV2nKPXW2A7Zy8f381qEy6pdr2wB7K5SLYvnY6ZHEyZ3i",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "03c38f632be83bd59ebb52a069e9b4985892d7508cf1c1e5088d160df21d028e7de4fbd3ac4754a96c2e39f84f14672fdc00e9c7bee422493fd3aadff761ad03",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c16c4563fc4dddb9e0686b65e4e1231e1d2938fb822d1cd6d40e23bad",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "9574fcaf9ce1cb3976d389257a8fa861106af8fe3aad4b48358e62df6a1e4923f228888e449c5d172bc03f092eb8bce367afa175122fb712f30bf550dbbf140d",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
