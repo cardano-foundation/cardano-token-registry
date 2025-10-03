@@ -1,0 +1,53 @@
+{
+  "subject": "7a6188c072fcb8b855ef668425c6b19bddd32aa7860d27d4b2ed761253414c",
+  "name": {
+    "value": "SAL",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "39086766b5883171d84a9095c1c39fa97cec25737135cfb92757f703ce9e966da30870a773d9c079bf685665fcfe3d6babaa5020e50625f3d093110f389ad505",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "SAL THE SALAMANDER . MADE BY SAIYANSNEK",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "8f44f50bae53af560b244a6934db962a57e664cec61b2f8789a9e61f97b5ecafbe61c7d95c00e652808a6db0a949d3da9c1dc7064356db3ac5325854848d1008",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "SAL",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "e4f9920ddd321766342111c595808960b539a915426a024d173546dcd8bec4facd351403bf4f643d694d1cb064aa774eb7948cd75fa575c575c1c2f96647510b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmaCH3yyMhqnBiPwkiLJuEYciMKBYTsXv8wRGg7NcBXPEC",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b447fec56c0016a2f1a7c2b991aca29fc1cb9f3a388b7e199e51edd956c9b8b466e8810cd64370e01e9a79754b722347b79025993a184100742fd4557513b908",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c7a6188c072fcb8b855ef668425c6b19bddd32aa7860d27d4b2ed7612",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "27287628e8c65513fe3ecf5a8e5bcc2f397ce9e0bbcf2042635b0b5eaf8d1352db11934536291bb8b6315da3b17f8b192abc967e085dbf98908b56b67999c90b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
