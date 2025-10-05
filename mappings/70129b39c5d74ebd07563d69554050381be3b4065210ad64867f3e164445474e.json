@@ -1,0 +1,53 @@
+{
+  "subject": "70129b39c5d74ebd07563d69554050381be3b4065210ad64867f3e164445474e",
+  "name": {
+    "value": "DEGN",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "d4fdf1a4995b7355f33fb7b97908fcaee944cc51a0d5dbb728687fd809d988a08c73e4ce5a3b5e00a2c39d64bcc529942c5a37472fda85e3aeeda5739c33480f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "DEGEN OF THE CARDANO ECOSYSTEM",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "e7c273189bbdd600787b6c50980b46759f40fef7de3f3b8ea8e3d4e89ad1f5882899c855cc3461ae5a635d2b45089070b79b2b8bf339d3fe39d7298f394af504",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "DEGEN",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "29288061c0622e3c3a30228580e04d77a71b4fd78c6da6d5c340b048f244a6c311b69685383cc6947162a6f6edbec2cd3e2508834540b42e3bef7fcc3ef6260e",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/Qmdq1ihaURXyfZuoDgttXc5XnSrTJ51crrffmVa6J3DD8w",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b9b8734b839dcb734411c4aa74e3fea21d0db3d4022170ae6705356c7d435b1ac74a3ce8272c61cdf2ff795eb8616fe451c3a8e7ea99cc65067bda67f6784205",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c70129b39c5d74ebd07563d69554050381be3b4065210ad64867f3e16",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "148f29b6ebe5dd86f2707e3f39115406dcd6e0e82b589dd6740d6829c5e69cd925c896432fa3e1a2b21e2002260b51026600bc310cbec952f918a788061b8601",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
