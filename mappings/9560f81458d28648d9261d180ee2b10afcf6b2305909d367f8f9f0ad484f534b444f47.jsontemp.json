@@ -1,10 +1,16 @@
 {
-  "subject": "9560f81458d28648d9261d180ee2b10afcf6b2305909d367f8f9f0ad484F534B444F47",
+  "subject": "9560f81458d28648d9261d180ee2b10afcf6b2305909d367f8f9f0ad484f534b444f47",
   "name": [
-    { "value": "HOSKDOG", "lang": "en" }
+    {
+      "value": "HOSKDOG",
+      "lang": "en"
+    }
   ],
   "ticker": [
-    { "value": "HKDG", "lang": "en" }
+    {
+      "value": "HKDG",
+      "lang": "en"
+    }
   ],
   "description": [
     {
