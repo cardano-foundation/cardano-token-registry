@@ -7,7 +7,10 @@
     { "value": "HKDG", "lang": "en" }
   ],
   "description": [
-    { "value": "HOSKDOG (HKDG) is a community token celebrating the spirit of Hosky and Cardano innovation.", "lang": "en" }
+    {
+      "value": "HOSKDOG (HKDG) is the decentralized mascot of Cardano’s meme culture — a tribute to the playful, creative, and community-driven spirit that powers blockchain innovation. Built on humor and unity, HOSKDOG celebrates the legacy of Hosky while marking a new era of decentralized participation.\n\nMore than a meme, HOSKDOG represents loyalty, energy, and collective creativity. Every HKDG token is a pawprint of progress — a reminder that decentralization thrives when it’s fun, inclusive, and human.\n\nHOSKDOG runs with the pack of creators, traders, and builders who believe in a future led by transparency, freedom, and community-first values. No leash, no limits — just pure Cardano energy.",
+      "lang": "en"
+    }
   ],
   "policies": [
     "9560f81458d28648d9261d180ee2b10afcf6b2305909d367f8f9f0ad"
