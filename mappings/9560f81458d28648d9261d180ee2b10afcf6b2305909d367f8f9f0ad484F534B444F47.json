@@ -1,0 +1,24 @@
+{
+  "subject": "9560f81458d28648d9261d180ee2b10afcf6b2305909d367f8f9f0ad484F534B444F47",
+  "name": [
+    { "value": "HOSKDOG", "lang": "en" }
+  ],
+  "ticker": [
+    { "value": "HKDG", "lang": "en" }
+  ],
+  "description": [
+    { "value": "HOSKDOG (HKDG) is a community token celebrating the spirit of Hosky and Cardano innovation.", "lang": "en" }
+  ],
+  "policies": [
+    "9560f81458d28648d9261d180ee2b10afcf6b2305909d367f8f9f0ad"
+  ],
+  "decimals": 6,
+  "references": [
+    {
+      "mediaType": "image/png",
+      "src": [
+        "ipfs://QmWf799LdLps83xPwDCE9Rb4qgGp547FqoATK7Lz2xiyLD"
+      ]
+    }
+  ]
+}
