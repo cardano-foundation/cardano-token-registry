@@ -1,0 +1,43 @@
+{
+    "subject": "0e7b1e19fe06e1ae18dba927cee74137a8668d2cd24e3d42e9fd2fd463617265626c6f636b",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://careblock.texlabs.org",
+        "signatures": [
+            {
+                "signature": "b7031c226fb8395726c463e1c54fb9e7d9714ee16bd430917b9a5e91b787ea722725143d5a8281cc4355e3b09dda6b4a2928939b033ecb2cc0ab2cf231b6ac0d",
+                "publicKey": "d212adbc50545b60f6929818abfb1e1da674c604ee6d4f9c4ce465fa53b7596b"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "careblock",
+        "signatures": [
+            {
+                "signature": "1d4a0c63128eb9e41f45a3ed51fd1b85926d476274ac91ee89e2ced602c6d6cad59899c64210b54926c9905380f46a3c6cca3ad96189e83b6cee53a21e462f0d",
+                "publicKey": "d212adbc50545b60f6929818abfb1e1da674c604ee6d4f9c4ce465fa53b7596b"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "Careblock",
+        "signatures": [
+            {
+                "signature": "a7b25345a3a501ea79a8c89d4b28a810963fe3dbbb5d791c535a4c5050e25ee2dac811c818866888d15385e715579c8db97f265262839010c452e12501bfff03",
+                "publicKey": "d212adbc50545b60f6929818abfb1e1da674c604ee6d4f9c4ce465fa53b7596b"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Careblock token for voting dao goverment",
+        "signatures": [
+            {
+                "signature": "14e5d385a02b4046331332c0801de35eb193091dae2b76106b95f27eb7a731f936df109cb3f9ad7e9db74b8526d228abd7705dca6650dfc684d72ea066c77a02",
+                "publicKey": "d212adbc50545b60f6929818abfb1e1da674c604ee6d4f9c4ce465fa53b7596b"
+            }
+        ]
+    }
+}
