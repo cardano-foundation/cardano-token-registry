@@ -1,0 +1,53 @@
+{
+  "subject": "bf9beeaf32e594a8c38dfcf2d68df9be885424bd8d070be587f4bf924a4557",
+  "name": {
+    "value": "JEW",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7e05c348a95054c264ebea2df7672d12d0f612dc0e8712b3ade4fc1aea35101bf8d8d10749840e03dce83d9d40d180165db02b9c6aabc954f55a8b9849d15c0d",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "JEWHOUSE",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "490a5e299d963e55b9dbcdf6cae477cff9e52da862599bff9ab083845730fe9425c0d08e51410bb2b0a2a4076ecc6d4fec0238a39ef5e84a24987d1331a54604",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "JEWHOUSE",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "5181f203cde6f91ccf35978459e892d6fe3362cf06837353c855b15088ef1910a6845bd4562c046423b5d0fc117c846ddafe2192ee981818338be96bd3797f0e",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmZdSRKWnntPVcQecdJ9WGt2wskjGmmqnb28TbUQFnzkrR",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7923fc60525e240a509e2e2a9137a81134e060fead0b53d38fac4d180c8f18d9a2b2fae13ec2413b61aad0776d28d63740ec196856b42fc572af5e3c0eb2e105",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581cbf9beeaf32e594a8c38dfcf2d68df9be885424bd8d070be587f4bf92",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "60f20f5b8fee386d1bb52ea18e15f61c3ce4282487a6cdf82e259e876b578c9bb9354ac084441e73c28842a90068beb69ca261c49e4fe5299d3327f1d7eae705",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
