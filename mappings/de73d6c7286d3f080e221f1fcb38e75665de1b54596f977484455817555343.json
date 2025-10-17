@@ -1,0 +1,53 @@
+{
+  "subject": "de73d6c7286d3f080e221f1fcb38e75665de1b54596f977484455817555343",
+  "name": {
+    "value": "USC",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "3f8bb8a28b8f8efcf98663f38827f14ee432fa5c8746b5ecca8e95da88d0526a47c1f0d27660830eb0d0aa804a0c557d50e7d44b7301d9778f48f78eaf8ed906",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "USC STABLE COIN",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7419a2feb83b8e5e2caad26fcaad32ef72b8b1861cf9689323418ca41750808de24cf35b522d6b60f2089f71d55ab748f1a15f03c9356e66a8efa83953f79701",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "USC",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "3e392c72cd0a38a9dc8d3cca8c0813341f842d6188d764c68bf6fe347f46c3cb08c7465eea74b526e911a74ab5dcf85896f8aec70b226462921efa5373793608",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmTseXXfTGfC3oqfa5pfSnfuP1zLQ1BNceUoRVgJ92q8GY",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "aa68eaa235d0e7bbd7cae2ec9e08ac5c8ba8fc6f5bd687e29f25c6616efbc107035e973ab5ba5208893e1e7b3229da22da020b906d76793d7d826ecc4da7870f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581cde73d6c7286d3f080e221f1fcb38e75665de1b54596f977484455817",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b6eb3f7fed963446fdec50909fb801ed5a34a697da06c1434289d8823832354cedf00636571493ea233e95ddcd4acc56d0a7cfe29ea8e48a686c45f9fa8fb408",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
