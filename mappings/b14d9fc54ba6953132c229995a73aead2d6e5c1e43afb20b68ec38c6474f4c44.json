@@ -1,0 +1,53 @@
+{
+  "subject": "b14d9fc54ba6953132c229995a73aead2d6e5c1e43afb20b68ec38c6474f4c44",
+  "name": {
+    "value": "GOLD",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "0a6b0985c66d8d7e8eb884a76e65e962760bbe27a1bd21c93f8654cf424c95d508fcba5ccff377b8830bcd2e1ca7c3a81e5e80fdff416611418e977327eb1508",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "THE GOLD OF THE TRENCHES, NOT JUST A MEMECOIN",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "d215a3fa28fa96a956619c952992d532598434575a4a37cb4e8cafa79c7e19afae1b7f7399732c922a5e6070e972496483323b226a0eacb89f56f4deacd9fe07",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "GOLD",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "73d098838b37dd2d56e55e503277150bc699b0f0326b84fd6a8d0031273d60c6afe8fd287c7e880a16470c35f38437d23d1cb82d853a2ba678857bad4a95ff09",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmY4qffiVLAL42wnPFuEWLRs7D2SWw7HTGi6yiJMsNAuoK",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "5e211cb384d58a19b6ea6c33b45934f19d05f944d13470768b27ecfe1c02b24a3a129635cf460a3bf9d67303dd0553857c53164cab915124fa985ed03d0bea06",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581cb14d9fc54ba6953132c229995a73aead2d6e5c1e43afb20b68ec38c6",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "c2701f19ceba61a33c2512a0d2d053213f2ad381498ac2823f5decff30f7201810364492eabbdc567b15def2008198bc41f80198e361dd8f7a0fca0084e5de06",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
