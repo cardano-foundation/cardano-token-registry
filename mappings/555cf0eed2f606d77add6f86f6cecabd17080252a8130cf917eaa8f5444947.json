@@ -1,0 +1,53 @@
+{
+  "subject": "555cf0eed2f606d77add6f86f6cecabd17080252a8130cf917eaa8f5444947",
+  "name": {
+    "value": "DIG",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "f34c2b6bd0e2f8a65d697cb6e1903d91d671bd860d29b01b943792b60de7ab98f08c5b403fae52cdd66dc835a1672b2e7a387e8ad8f4e9bb1076b7dfc027ed0b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "NEVER GIVE UP",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "dbe38a551bc1db2fd22acbb66c1ddea0dd21eed3eda3c3e22d771c011c37b5463e9774a1464802c8b4f2f85c4d8050883d39e75f0ae18f7ce4ec261a2a3b1b04",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "DIG",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "bacb29b46a4cfc8f78dd3b096a2b16a720a01797874ee769fe2751f36d876d04670da849efe71fc5cc29bb348eca3b4f391af2cac87cc7d9fbdb8c89e5e53c02",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmZupqUNyBZZGfWTDpj1C34FR28vjcBXv9nUaDdL3kYbjf",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "4dab26fd7a5b83e297b249ce792fcf962ca9f3c31ac683144f1927c0f93a1082fa0703b16e2e685076b2c04f8004319431b1b93535ba6966f67d410222a5ad05",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c555cf0eed2f606d77add6f86f6cecabd17080252a8130cf917eaa8f5",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "3c711c8e762d3222a3a8360f5a34ce6c152a55704ee21a6579e4bd9071a58fb898fd48aed6a4e22e0289efc69bca0d252f4ceb14f975f3bc564c38f100182b01",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
