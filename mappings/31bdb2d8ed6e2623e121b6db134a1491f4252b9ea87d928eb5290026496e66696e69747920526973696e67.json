@@ -1,0 +1,53 @@
+{
+    "subject": "31bdb2d8ed6e2623e121b6db134a1491f4252b9ea87d928eb5290026496e66696e69747920526973696e67",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Infinity Rising Token",
+        "signatures": [
+            {
+                "signature": "eb52fea89a68dd7eecd5bbaec8804c7ef51339279024e63294df14b345b43681c98f2f999e162bed845583d93a186683d1da68055c85cbb27200b2463d95510d",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "RISE",
+        "signatures": [
+            {
+                "signature": "08003f4909b8e2ea6ff726df9840caba9f961fb1f9cdde885d68cc1115fb4f13841f83e995170896417461b1da8638ebb143393d86ca201da8c6c7c9d2732808",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "b5e1bc673abf40248b23edd1b16a1a85f0d5d57e784fdc92f91de6a4474042a235c373332b099820495ee04b2f2ee10138af9a8d8fdadcf95d7cbc95a6b66e0c",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "117e1a93e665bcc6e2f951bea4d27c0065cc94f00fb4c2348819347fb2f28295644af7efa1420add0e0b2d91261bab38c71fa46a1b0b24519fdd6b684e534707",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Infinity Rising is an open-world sandbox MMO set between floating sky civilizations and Earth below. Explore, craft, build, trade, and battle in a player-driven economy shaped by survival, creativity, and unity.",
+        "signatures": [
+            {
+                "signature": "76b3e262eb4b9637eca43d07c24b047e8d7d440434d4c8cc218a5e71f2c12a0df8f4934a81b861eb3ffaaf020dcdde99013d47e82e1296867075d640d4c71d03",
+                "publicKey": "95ca827bc02ecfca810b9570d72e3a2ebd86e8f7df025d74222730b1b670b50b"
+            }
+        ]
+    }
+}
