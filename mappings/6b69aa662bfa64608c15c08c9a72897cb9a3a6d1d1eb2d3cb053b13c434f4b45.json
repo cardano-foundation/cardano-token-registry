@@ -1,0 +1,53 @@
+{
+  "subject": "6b69aa662bfa64608c15c08c9a72897cb9a3a6d1d1eb2d3cb053b13c434f4b45",
+  "name": {
+    "value": "COKE",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "ba8d13493a16118b889435d9fee54ae0dc9131d6220554de0063d683122a745f4ac8134e6b81746aaff61c1eaf005850fd26392c811c802b733dbc1e408d0d02",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "COKE",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "7f07668e0591b725142dbdc16313a2e70745d8c670d273a7782e9333a04141db59f4311015d480b7bd7295a27510adfb3b48591f84e11de5b76b351f069c2400",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "COKE",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "f4c8365ad5fcca9dd4c698e6835f7cbb43910e272e27814cb91f8ddabc2d9ca86b0f9c322418ca377f3636b6c7f8896b0861a9827aac65f828b7b97ebcfbed02",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmQzRtt2SFtwn669ikdT3MhNVZHUxFuZpChqK3mzpHP7Vc",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "97c2b9347378e081f5ae414e409642c7cc640b7638671176c47b7b82f2d7cb4aaed85bb3593596a4dacf97db351e84e6320e01ecd588e50244460f01462db706",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c6b69aa662bfa64608c15c08c9a72897cb9a3a6d1d1eb2d3cb053b13c",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "8c0df96c9e5dfb8c887dced2e4b24c39903f6e585348ee77d3a717bc8360ee6dd46a68fbfa64ac326e4ed3e54bbdd71ad5f097753deff815d203c416fa446e08",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
