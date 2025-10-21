@@ -1,0 +1,53 @@
+{
+  "subject": "d3e6ffeab805c7bb64ea1c2fb7c4c23ca09d8968b58dd878e41791ce434f424945",
+  "name": {
+    "value": "COBIE",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "6724ab2c49d9330aa336e9ddb9b10fac2531a4a789330cd00c32adb05b5e8b8f302a0d96f0b56a4b1d685bb3b1056ccd96d229d6cfb2c9a5bb0c852df68eb602",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "FOR OUR LEADER.",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "50367deb89f1323fa3ae2c7933fc9a450d35a4315a6be833c0e25fa316108b1614352d1c266c75d3a47f8074d5584d6f6a3ab96e209b884268d25b3d218a4b05",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "COBIE",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "2209944de0857b9c7cfb0f4df6f0f30a5db83d8c7d20fac218d877e41d0313636d2087f8fdce0cb05c68ac134a7c4dba35311c1ecb3f1d09101b4683ad048205",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/Qmbr5LdSysRP2FRdcu8xYs7QNYKWBhqp91NacrgpVTrQSk",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "180874d53e2ae59ba58a3261dd8d0559619da47d9dcf7a7529a968d8e986580c1d058c63c6b54846f7fe26c413b4c9ac07bb84432bb5b76cd00c79d9bbabec07",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581cd3e6ffeab805c7bb64ea1c2fb7c4c23ca09d8968b58dd878e41791ce",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "285e876775c1fa8cfebabcd589194ca8c4457812c28e2a7ec18d80bf61f714d1a9446349496895d56a0a981da16f2b098c99f3ef547f8ccd305862c94579980f",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
