@@ -1,0 +1,53 @@
+{
+  "subject": "6be07fc6a86b8c01d687921eb6a61178c7ca09add41ec251cc2a28df534e454b",
+  "name": {
+    "value": "SNEK",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "34987877c1e087406c845ea7c994cfa18daccfd04fc21a52ec2c9f92bd65bc290ed41e4d19bea34c5878390ec86b951034882d96381a3cbd2014cf5b44521205",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "SNEK",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "f07c76b6df3db5770d54408374d3048e42d907510d262e3d73fd00856ba29066678d5691a990f7407a50907c67d7b832a0a0296ccc87e0d43abe5d88a034af00",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "SNEK",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "21f75c48799d7012581d4aad9cc5bfbf1556f14032e23bb043d274b73cd598ac7f7c63c0ab674a48bd9e6e7c7f86a9c6e3d960d34be58002cd932f3174421e08",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmbbgPz1fRLcHeXuCGE99gz13Kd9TFGehkK4AZ7G5rDJeV",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "a3f3f5cb631b853c7758f6dd25415d40cc644d78500c4cbb0860fc81840cf8f263c8edc5aa565683396bac53a77af64fdf0130b26e3e98a6ff0d893fc860660c",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c6be07fc6a86b8c01d687921eb6a61178c7ca09add41ec251cc2a28df",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "4fdc2f52b71208b32af0c91734b721ea18339e98daa60b55f5dc01d27e3895120ac4ced39680c9c15c30dd14a081066b6485ff17e3e12931104a76842cee980a",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
