@@ -1,0 +1,53 @@
+{
+  "subject": "3989748a4d8b201d5555a07e3b39daf7ec27ad61dbd1c6b1fd2d0d824348414b5241",
+  "name": {
+    "value": "CHAKRA",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "58a59ed928b3c635f67d506dd1f5d8e130b3fc2450f02afd6a6a657f8a38abd3baf77d75f9ef911be2e472e279c836213c0e613322b200b77b5101aaa93a3d0a",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "JOIN THE CHAKRA ECONOMY OF TOKENIZED AI AGENTS.",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "9e03bbc0cadbe9fe67637859276bae7ac592538862deb3ead45dbf0c9d570882a24900541636b81e6593eab65904555cc3d729fa4c2381b84e19fcc26ed75e0b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "CHAKRA",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "fc2b567f2cd31090a8595980cfc6b17b25dd8146e01393989c0428919c3e17e61ac727f856fe3af0b8e528ba6557ee3bb8e8d175db22d2d9fd68cbc540c07d08",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmeD3LD5uhHQVy42dqKf4SfiNihKiLcu3MiW8Ji6XzuXaT",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "ecb77bdc2b3ebd085905dc4ff0261258cfe41b01b61e7b12c9e5abafdc47d4dcdf1dc52414f7eecedd1037b88f81268d3c9d1a16d39a6b86fc15a8734318e80b",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c3989748a4d8b201d5555a07e3b39daf7ec27ad61dbd1c6b1fd2d0d82",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "99e48b158195bb85713462432d514604e7b9f2ba9a992b3924f88bbfb95f430b47e1ca82f7a72804f9181fd99fd6abb13a05436826bbeeb5e95c4c672dbf1a02",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
