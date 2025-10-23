@@ -1,0 +1,53 @@
+{
+  "subject": "2b4baf00d49b0922cb3bcd5ae062f898129305c322c45a90aec56c1446454152",
+  "name": {
+    "value": "FEAR",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "b2bef7be81bcbdd3ca273a6c62d5f91cedf86e4b90002abd38ee2cde25a29efbe4b41cee4b436a95f0c9c261312195678a0d5ce57f48fdff4ea015d4009f6404",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "description": {
+    "value": "FEAR OF FARTS",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "ffd423583abdacba6c265b63168f3a89b76095715ac24099a85cb14c702988321f91ffe9541e68b16279dafa577e53d6ec8bdb98717dbf0102683215f1d5e402",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "ticker": {
+    "value": "FEAR",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "a25424b380304af8c2974bc20d7c732eda17a57cf8b55be81f85f02d5ba9c12a95c529e6aac0cfd246799ba2275896f53f9d0939f2bbe244767025ba5c5c5d09",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmT4LaSY2s7NAstG3QTicJjcLSkkpzTgZt4KjQkoTEVeRA",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "e7f362751edd4dfdb519fdffaff436e5e6e8532105d60150e9cc895b6b508d84f29c10f97c9eaa8889b58725d9e0ac68bb5bff5c0e9a8a5502e9c8949e54c404",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  },
+  "policy": {
+    "value": "8200581c2b4baf00d49b0922cb3bcd5ae062f898129305c322c45a90aec56c14",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "signature": "03c91d89dec30477da21de45d75b9cd2a564e0517897ffb77fde1a6de78e85d0e71e5d1b441d5e3b8e35d069803a05ffe5c20069bbb861c694c36ccf67b19603",
+        "publicKey": "d1555572f14f8e830943fd71f41da1ccf7efc4a364f25ee2e7549b2a7596c871"
+      }
+    ]
+  }
+}
