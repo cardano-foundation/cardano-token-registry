@@ -1,0 +1,27 @@
+{
+  "subject": "9560f81458d28648d9261d180ee2b10afcf6b2305909d367f8f9f0ad484b4447",
+  "name": [
+    { "value": "HOSKDOG", "lang": "en" }
+  ],
+  "ticker": [
+    { "value": "HKDG", "lang": "en" }
+  ],
+  "description": [
+    {
+      "value": "HOSKDOG (HKDG) is the decentralized mascot of Cardano — a cultural emblem that embodies humor, resilience, and open-source creativity. Born from the playful chaos of the community, HOSKDOG represents the collective imagination and independence that drive blockchain evolution. It is both a meme and a movement — an invitation for people to laugh, build, and innovate together without permission or hierarchy. \n\nHOSKDOG honors the decentralized builders, artists, and traders who form the living heartbeat of Cardano. Each HKDG token is a pawprint of participation — proof that decentralization works best when powered by collaboration, transparency, and curiosity. The project encourages inclusive growth through art, education, and technology, promoting creativity as a renewable resource for social good. \n\nThe token serves as a unifying banner across Cardano’s culture, inspiring creators to contribute, connect, and share value beyond speculation. Through memes, design, and storytelling, HOSKDOG captures the essence of a blockchain network that never stops evolving — where freedom, humor, and integrity coexist. \n\nMore than a digital asset, HOSKDOG is a community identity and a promise: to keep the blockchain human, hopeful, and fun. It stands for loyalty to decentralization, courage in experimentation, and optimism in progress. \n\nNo leash. No limits. Just pure Cardano energy.",
+      "lang": "en"
+    }
+  ],
+  "policies": [
+    "9560f81458d28648d9261d180ee2b10afcf6b2305909d367f8f9f0ad"
+  ],
+  "decimals": 4,
+  "references": [
+    {
+      "mediaType": "image/png",
+      "src": [
+        "ipfs://QmWf799LdLps83xPwDCE9Rb4qgGp547FqoATK7Lz2xiyLD"
+      ]
+    }
+  ]
+}
