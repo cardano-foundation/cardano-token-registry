@@ -1,0 +1,28 @@
+{
+  "subject": "a75c463f12a63cad77b48a27bbfe4eb0c6f6056e714f8cb700defa42585858",
+  "name": {
+    "value": "XXX",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "XXX",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "XXX",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmR6C7v5e6b58C9TZYQspDgGKqqrhAL8FkCX3WTTLcsMgp",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
