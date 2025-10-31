@@ -1,0 +1,28 @@
+{
+  "subject": "5cfe2cde1a9a07848288e62eaa06b50239ba256fb02cdd3559cb1cb64153444153",
+  "name": {
+    "value": "ASDAS",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "ASDAS",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "ASDAS",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmUKTWdxMK2c3MCkcCHRbFjcNnLWbKjb2X5THcUCnVG8xK",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
