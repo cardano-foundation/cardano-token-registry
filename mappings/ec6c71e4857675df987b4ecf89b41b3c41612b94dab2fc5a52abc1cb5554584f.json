@@ -1,0 +1,28 @@
+{
+  "subject": "ec6c71e4857675df987b4ecf89b41b3c41612b94dab2fc5a52abc1cb5554584f",
+  "name": {
+    "value": "UTXO",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "UTXO",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "UTXO",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmeAiP94fWfAUG9eR4Ha6ijKY2LDaXNPdEKjYUpxU8qB2z",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
