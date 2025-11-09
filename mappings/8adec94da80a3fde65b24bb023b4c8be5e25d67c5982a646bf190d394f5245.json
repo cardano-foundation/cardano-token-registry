@@ -1,0 +1,28 @@
+{
+  "subject": "8adec94da80a3fde65b24bb023b4c8be5e25d67c5982a646bf190d394f5245",
+  "name": {
+    "value": "ORE",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "ORE",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "ORE",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmUyQxVPngWiCMksa1fNQdSpV1gznUFCh9SDQWP67yLsNb",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
