@@ -1,0 +1,18 @@
+{
+  "subject": "policyid.83de03f278c1ad49f05f1e4cdf2adbce0edb0fbe25a978c9ddadf733",
+  "name": {
+    "value": "Simsara Token"
+  },
+  "description": {
+    "value": "SSRA is a token for the Simsara project"
+  },
+  "ticker": {
+    "value": "SSARA"
+  },
+  "url": {
+    "value": "https://simsara.com"
+  },
+  "policy": {
+    "value": "83de03f278c1ad49f05f1e4cdf2adbce0edb0fbe25a978c9ddadf733"
+  }
+}
