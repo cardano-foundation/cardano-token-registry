@@ -24,5 +24,10 @@
     "sequenceNumber": 0,
     "value": 6,
     "signatures": []
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "https://raw.githubusercontent.com/parlange/CardanoCasino/main/scripts/CAPY-FINAL-IMAGE.jpg",
+    "signatures": []
   }
 }
