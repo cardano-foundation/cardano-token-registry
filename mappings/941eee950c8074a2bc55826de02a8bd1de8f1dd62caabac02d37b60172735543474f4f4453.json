@@ -1,0 +1,63 @@
+{
+    "subject": "941eee950c8074a2bc55826de02a8bd1de8f1dd62caabac02d37b60172735543474f4f4453",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://rosen.tech",
+        "signatures": [
+            {
+                "signature": "d274ebaa0e6b44c3c9ccb49abc2bd2959e36cd911f3abe172f1ec10c68076b356d53738cfe96c39f3dcc8747d16c2033204597f8dc711147873cb5f1d2c8e30b",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "rsUNCOMMON•GOODS",
+        "signatures": [
+            {
+                "signature": "d07875b36744effcca8e5dff8755597b8d6c4592e7fedff6783afcb205beed3ebbd33ab70cfa614a0ecd71b8e365f22165df3dd95e515cf42257268665f13604",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "rsUCGOODS",
+        "signatures": [
+            {
+                "signature": "aa7e0058f74c9168859dab5a19b2247ace50843ff8e31d6a765eba7691896e8ae9e34623d8323c603d5d17b5789534d29a877a2bab9d2b34e1d06b3780d58407",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "cd9be0171881f4cc538b7af14e3c9fdf9c87ade364870b999aa1abb2c1a1a73588752e02c9ee1c5f6f62944c1b44b1897c174d7d4c2600d9fc3d08650bf5a30a",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAPFBMVEVHcEyxsLBWVlYAAAAAAAAAAAADAwMAAAAAAAAAAAAAAAAAAAABAQEAAAAAAAAAAAACAgIAAAAAAAAAAABor7KMAAAAE3RSTlMABwTvMn4Ltt8eu4RNzmN/Kek+Bn+oQAAAAVBJREFUeNrt291ygjAQhmFCfkCgBOX+77V04kHtREzcKBbeT/EAZ5xnNhg3Giu1cSpVVT9HuC9HvTzW0dtqHjx9NwGwYQAAAAAAAAAAAAAAuANwRhonA4xamlEG8LM0XgawYoAF8M8B4SLUXZOfrmAF2lOdH6NLAp6Y2nYC8IevAEPAEAD4UICbHveC0xgAfWKbmAW4nFO6wevncWKbmAUYXtAmZk1Ewwt6lHdWwFKBQhXQdlyLD2+D5tcpq4sCzlPuRHRqiw7BMQD+8ACGAAAAAADkAM8QAAAAAAAA1gX7WJhM7iZXgHFruRTsB+av27TRs38zFwQU+j7m6WsAwJEBpo/ENuG1+5QYGSCepIkoEgAAAAAoDTC520oKA+bsvTWdLgt4x29GAPYJ8GLA1HSSDGJAVTtB4v/FYlsvAAAAAAAAAADAJwDUsnpT9UZR6hudntRhaqhaxAAAAABJRU5ErkJggg==",
+        "signatures": [
+            {
+                "signature": "e94d634eaa1bf392e36646e91bdd6cc7733c290c4051574ae5b3f5fc7f30389a5e688fd93f9261dbd646b2c7ac7bf2a76fa746808bc0c7aded107e4bd7701109",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "{\"title\":\"rosen bridge wrapped UNCOMMON•GOODS\",\"originNetwork\":\"BitcoinRunes\",\"originToken\":\"1:0\",\"isNativeToken\":false}",
+        "signatures": [
+            {
+                "signature": "03e2a8fce0439392a9e934d4cd2cfec687cd1c58fd4ef20681adb7ef44f97b37c377019fe8b89da00ba802b82b834821f911067d588455aa45992b1741a28905",
+                "publicKey": "2bdb4f4231ebef6fea782d95892ca60342bc789d6d8e4be9c308114eafb621eb"
+            }
+        ]
+    }
+}
