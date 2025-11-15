@@ -1,0 +1,18 @@
+{
+  "subject": "policyid.<actual-policy-id>",
+  "name": {
+    "value": "Simsara"
+  },
+  "description": {
+    "value": "SSRA is a token for the Simsara project"
+  },
+  "ticker": {
+    "value": "SSARA"
+  },
+  "url": {
+    "value": "https://simsara.com"
+  },
+  "policy": {
+    "value": "your-policy-id"
+  }
+}
