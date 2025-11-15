@@ -1,0 +1,28 @@
+{
+  "subject": "31a4c23947eb9725c3f5d5602c51380d1726129e3e9ae61e7449248243415059",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "CAPY",
+    "signatures": []
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "The Cathedral Token - Official fungible token with on-chain embedded image, rich metadata, and 45 billion supply. Policy permanently locked. Trade on Cardano DEXs.",
+    "signatures": []
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CAPY",
+    "signatures": []
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://cardanocasino.io",
+    "signatures": []
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": []
+  }
+}
