@@ -1,0 +1,59 @@
+{
+  "subject": "31a4c23947eb9725c3f5d5602c51380d1726129e3e9ae61e7449248243415059",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "CAPY",
+    "signatures": [
+      {
+        "signature": "5eb105e4827e01c7c2992784b540c4c91b6380a3cc5c37b8db366461fe56543d02118c42080fcc642c3947358c1cf60d6612ce238997756f9138416aeb5d9d05",
+        "publicKey": "cc58ee78de16b88c1a302db09167f1df92810983cb1e888a008bfcd709354234"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "The Cathedral Token - Official fungible token with on-chain embedded image, rich metadata, and 45 billion supply. Policy permanently locked. Trade on Cardano DEXs.",
+    "signatures": [
+      {
+        "signature": "881679ec235e08985543861d638d36649b90016e0e62f64c16fce821e39ac095e7f0544f7c706873bff76c501fec2551c330df8d2c06ba80e666fa4210f31408",
+        "publicKey": "cc58ee78de16b88c1a302db09167f1df92810983cb1e888a008bfcd709354234"
+      }
+    ]
+  },
+  "policy": "",
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CAPY",
+    "signatures": [
+      {
+        "signature": "5eb105e4827e01c7c2992784b540c4c91b6380a3cc5c37b8db366461fe56543d02118c42080fcc642c3947358c1cf60d6612ce238997756f9138416aeb5d9d05",
+        "publicKey": "cc58ee78de16b88c1a302db09167f1df92810983cb1e888a008bfcd709354234"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://cardanocasino.io",
+    "signatures": [
+      {
+        "signature": "c5e52c438f63bf837a12020e2b8e37798a9ef30ba220181f3d3e0e4c5dbde7595b8882dee8c91d74551d127b840307ddaaaa5e85637cab258f420d0b55f5b706",
+        "publicKey": "cc58ee78de16b88c1a302db09167f1df92810983cb1e888a008bfcd709354234"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "056a6b46635309393aba007a03f05bdb1f8d710af8f8c144b24e16613a58693ed4572c9e5aef3366d53f3bcbbde4672037894c0354f87a323fcd1d7cc0053f0e",
+        "publicKey": "cc58ee78de16b88c1a302db09167f1df92810983cb1e888a008bfcd709354234"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": []
+  }
+}
