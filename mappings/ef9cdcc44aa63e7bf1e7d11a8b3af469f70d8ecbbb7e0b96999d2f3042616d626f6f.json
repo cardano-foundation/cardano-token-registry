@@ -1,11 +1,11 @@
 {
     "subject": "ef9cdcc44aa63e7bf1e7d11a8b3af469f70d8ecbbb7e0b96999d2f3042616d626f6f",
     "url": {
-        "sequenceNumber": 0,
-        "value": "https://pandasociety.net",
+        "sequenceNumber": 1,
+        "value": "https://PandaSociety.net",
         "signatures": [
             {
-                "signature": "de2dddefc89d7d01a686c8cb70ef7b2102a1a4a0c5ffc96cd3e739ed4d0974424c96876bc0cbc4431e118be717c9b106e05ce7282b4bbaf84fc667a9920b370c",
+                "signature": "3dd48502b29d880fd08abce18bcc6db03cf6ce34bf1cfad6e56a4297ca08e4c5e9e72d5b2c4cecadfdcacbe830f7437ce197ed2c18af35ec226e25290f3a210c",
                 "publicKey": "d5083104c4529c45fed345dcb78355b098f155b67e790fbadf03ff9dd13f9126"
             }
         ]
@@ -52,11 +52,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Bamboo is more than the official utility token for the Panda Society; it serves as the primary export of and building blocks for the Pandjia ecosystem. Bamboo is interoperable and offers a multitude of utilities both within and outside its DeFi ecosystem.",
+        "sequenceNumber": 1,
+        "value": "Bamboo serves as the primary export and building blocks for the isle of Pandjia and its DeFi ecosystem. It is interoperable and can be used as a resource in other Epoch Labz Meta-Multiverse ecosystems to construct buildings, weapons and other tools that all have their own forms of utility, opening up a new wave of commerce between other civilisations.",
         "signatures": [
             {
-                "signature": "ac349e6c027aae24cc62d84a8890be1bfad80beca8de10d4e7e6ba6c24ec5f2416b52fb194ed3740aad624abfe515888b158c40980a7694f59480574783ad30f",
+                "signature": "41dbcb7d311c9580fb01072e32f5a97661284acaf643f40a1acf64d49aa6dca287bcf224753da444bac5e2943662a80a05238c83718676b8c7c2e5834adf7200",
                 "publicKey": "d5083104c4529c45fed345dcb78355b098f155b67e790fbadf03ff9dd13f9126"
             }
         ]

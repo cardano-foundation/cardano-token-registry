@@ -11,25 +11,25 @@
         ]
     },
     "name": {
-        "sequenceNumber": 0,
-        "value": "CSWAP",
+        "sequenceNumber": 1,
+        "value": "CSWAPC",
         "signatures": [
             {
-                "signature": "2b5aefde860e17e6e32155872c386397bf4141935af25230023c66b44d30875744e263f86ec398b39e4744c686a291829acbb49e5923e25771df958fd257a107",
+                "signature": "50d1634fb781243f9c4d13dd0ac40e0f44fd05972a7e35538a74b503bea4029956bfc013c40ddf85fdcf88bbfbb727861d472d4086977a617c68515efcef3b06",
                 "publicKey": "0998f153bf50730e09ea142144bb94307f6f1a526989b2d47e4efc846f9820d8"
             }
         ]
     },
     "ticker": {
-        "sequenceNumber": 0,
-        "value": "CSWAP",
+        "sequenceNumber": 1,
+        "value": "CSWAPC",
         "signatures": [
             {
-                "signature": "3ff52dad576c3f33c6e85a7cd1dca69b2d5b5a8e42403fa05fe8ff78ff2efa48305623ee52291a3d50cb99a553d6bca1b6fc32b4af1fe2f9128886ffc2873904",
+                "signature": "7ccc9583de3a3eda2a2c74b4d008aa06c007b379081b3883a2ef375e3a720c2ac50beb633c06e12e1dcb13bf415bcd945bf026a69fea224b2a7050fcc0018e01",
                 "publicKey": "0998f153bf50730e09ea142144bb94307f6f1a526989b2d47e4efc846f9820d8"
             }
         ]
-    },
+    }, 
     "decimals": {
         "sequenceNumber": 0,
         "value": 6,

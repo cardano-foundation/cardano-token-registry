@@ -1,0 +1,53 @@
+{
+    "subject": "b707db3e22699a2a961f2e1ee11d08dd0c18794b5450177ca4b4bc200014df108222174716fff8d074add3797b734667f1a886720caa802cb0682233",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://metera.io/",
+        "signatures": [
+            {
+                "signature": "0b8c9e73ca529aeca5fca33f431e57933340e77bf730532df55414b0139ec853cc98144c69597e4b6635216b0fb91cdf9cc243e81d7328140dd41c08a2f8c80c",
+                "publicKey": "d59340e6ec8297c640b2ea532998a5d93b83ec233d2742e8124a26d96585e5ad"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "DePIN Index",
+        "signatures": [
+            {
+                "signature": "9c83a02ac88b1ccfa21c1ccc995f144daaaf43f895f09bf4b4da8a16a6154626f002965789d59ca9f6b1c977349deeb04b829de73a436417b8a37c07b8d2610f",
+                "publicKey": "d59340e6ec8297c640b2ea532998a5d93b83ec233d2742e8124a26d96585e5ad"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "mDePIN",
+        "signatures": [
+            {
+                "signature": "7353e210f59fcf6cb002428802e0950f111173eb3bf252031c0ca8d9c6a5692ed4ec4478a10446a8156e94e5e1db87112e2b73b068153b1474d7390e3bf5480a",
+                "publicKey": "d59340e6ec8297c640b2ea532998a5d93b83ec233d2742e8124a26d96585e5ad"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "2f8784dfe217aa41056d7549754bb268ee60a0b571cd7e3dda6063ed1189589949d36326bdbb7af8b1af252064717ba698f9b5a0dc075d1e1d33eebee6e4550a",
+                "publicKey": "d59340e6ec8297c640b2ea532998a5d93b83ec233d2742e8124a26d96585e5ad"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The $mDePIN is a curated selection of projects between Cloud Services and DePin space built on the Cardano blockchain. This instrument exposes investors to a diversified range of companies within the Cardano ecosystem, offering the potential for growth and innovation in the Decentralized Physical Infrastructure Networks (DePin) space.",
+        "signatures": [
+            {
+                "signature": "9426fe41b7eb47cb74517b3c9cbde61d09a3890377c358f219843356db618d3f543251bf70721517ed45349b07f1b432ac03ed5068f18014bfff21f3b9d3e002",
+                "publicKey": "d59340e6ec8297c640b2ea532998a5d93b83ec233d2742e8124a26d96585e5ad"
+            }
+        ]
+    }
+}
