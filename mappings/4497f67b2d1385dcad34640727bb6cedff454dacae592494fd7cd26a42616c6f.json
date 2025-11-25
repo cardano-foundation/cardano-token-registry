@@ -1,0 +1,44 @@
+{
+    "subject": "4497f67b2d1385dcad34640727bb6cedff454dacae592494fd7cd26a42616c6f",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Baloarts Coin",
+        "signatures": [
+            {
+                "signature": "7531da20bd566116e8e68dd1a0bfe2fabc33ad601b2e6966ee5d5a7c82343bb6ed6ea65dfbd34d24f6eb831d2d2382347c7d1f0d2368e3416da44649f563f70b",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "Balo",
+        "signatures": [
+            {
+                "signature": "2d00aa458e7403dc34de59f4572c06f1361902bf2b3ab3991b533d9270caa62418e0c73ac2baee7ded411308dd8432aa3842975c5a8171d98a9ef586c0d41f0a",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "58a421360f70526effa170505749076f7d9ec37930048cdaa1b788dda8ea2414c2c56e202d1c246a7c50b859c1caee6c5beb284e7ed9550eba3292a965e59700",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a0a47fdf7",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Baloarts Legacy",
+        "signatures": [
+            {
+                "signature": "f5c659dcb708833d4c42f754c75e7edbea8a5439e3964a21a835e990e7fdf2b8ccdef0f667b5ca90aaac82f10d51bd7a2342c947dcd5f71ab2875a03c4f27c03",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
