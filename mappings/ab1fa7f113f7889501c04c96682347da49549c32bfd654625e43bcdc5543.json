@@ -1,0 +1,44 @@
+{
+    "subject": "ab1fa7f113f7889501c04c96682347da49549c32bfd654625e43bcdc5543",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Uranium Coin",
+        "signatures": [
+            {
+                "signature": "98c11620166555f5e03b48e5c3b8e419de33e518d90054318a79f4ddc9b16e0235d24743b049cdfd412b529b23014fc1595b7e5f35ad1287f33844b17d2e2a03",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "UC",
+        "signatures": [
+            {
+                "signature": "65a7557dde751db1e06efac1cc94bf458e9f75daeadbc71b5888ce9c5de10911de9bb14b17716474a83a31c1fdd5c2398e86c6450e5d1369e8a6a4646e7ddc03",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "6576553bc189d08b00df646cde92d994902bbaaa5dddd1a1adb28717383dae709c3d9fb7f31f2ff11eca9d3d9e2b5ba8165070fb2027da20b26cde47fab1680d",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a0a501bef",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Free nuclear energy with a small amount of uranium for each citizen",
+        "signatures": [
+            {
+                "signature": "d4eddf21b1a5ef64b4a3e39825793e9fcde6ef1d11b5edf820d2bf69370fdb68e7d74d6bcda20594c709843520d082242c9447384cb1a50ef4b9f45172d8010d",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
