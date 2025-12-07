@@ -1,0 +1,28 @@
+{
+  "subject": "e37c3b0191f070e53a96115e20ef66f6bde8f124b61b89e9304523b24b4e49474854",
+  "name": {
+    "value": "KNIGHT",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "MIDNIGHT IS COMING.",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "KNIGHT",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmQWZEwyWfujDVcn6b3eve6pFazg2vjkWSh4CxfuzE1P4s",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
