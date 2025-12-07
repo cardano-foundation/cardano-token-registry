@@ -1,0 +1,28 @@
+{
+  "subject": "a5edb1ea2f062c67ff3c003e9e15cb62ebfeffb04bbf17a46011cb7955534443",
+  "name": {
+    "value": "USDC",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "USDC STABLE COIN",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "USDC",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmXGS4ejDy1oWvYFSrCnVgrqiJWXwW16KLLVuj69TWGSkC",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
