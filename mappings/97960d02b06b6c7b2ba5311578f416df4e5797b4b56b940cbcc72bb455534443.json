@@ -1,0 +1,28 @@
+{
+  "subject": "97960d02b06b6c7b2ba5311578f416df4e5797b4b56b940cbcc72bb455534443",
+  "name": {
+    "value": "USDC",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "USDC",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "USDC",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmXGS4ejDy1oWvYFSrCnVgrqiJWXwW16KLLVuj69TWGSkC",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
