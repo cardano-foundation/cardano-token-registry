@@ -1,0 +1,43 @@
+{
+    "subject": "50ed8de918b0d944215e69688536cbe2d7484c744c4e11b9d8b9fc0701",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid NIGHT Borrow",
+        "signatures": [
+            {
+                "signature": "f0bfda746d42b95fb60e06426ea60e5d0e63ffd7b5ac86059fdb30f4b0e808b1be75ccea4f7b725a318978a0f00472370d7a48f40289b0565493eb519aef3009",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "NIGHTBOR",
+        "signatures": [
+            {
+                "signature": "c83ea9e4d9b6073a826ad865b6821dd2f22c580cff6870216fa68d0d8a9a6e432848053ac69cd7e823e3d84b510e0b4fed4a4ba40266052d79240b5240c15e0b",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "74b294818a99e62791d563dbc24bad191d2f6d49985ac9fedf2aca998cc653a5a417b0c37e2e149c618c73658635b8d11e3a95d87fcce1905e8a0c247132ef03",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid NIGHT market",
+        "signatures": [
+            {
+                "signature": "5b41d1f768dbe8d0d1e1fee0cfa5b0c6d179d401af6aaa59f3410f8d9f39758826d5fac09c7976a0e126bca92042d571fa73b0d3a9f0399339374d632705f307",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    }
+}
