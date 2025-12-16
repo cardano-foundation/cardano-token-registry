@@ -1,0 +1,28 @@
+{
+  "subject": "dab3da06331cef4d725eec76f3ceb69d8d98018c057abfbcdc53974f4e495445",
+  "name": {
+    "value": "NITE",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "KEEPER OF THE UP-ONLY FLAME",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "NITE",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/Qmdoi5ejrLY8opPTJKQaqnnCttciPw4CYE5eHvZ5wx4M35",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
