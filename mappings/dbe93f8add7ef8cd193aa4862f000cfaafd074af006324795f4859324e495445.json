@@ -1,0 +1,28 @@
+{
+  "subject": "dbe93f8add7ef8cd193aa4862f000cfaafd074af006324795f4859324e495445",
+  "name": {
+    "value": "NITE",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "GUARDIAN OF THE MIDNIGHT CHAIN",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "NITE",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/Qmdoi5ejrLY8opPTJKQaqnnCttciPw4CYE5eHvZ5wx4M35",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
