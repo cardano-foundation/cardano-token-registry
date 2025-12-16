@@ -1,0 +1,28 @@
+{
+  "subject": "d7baf55082226333af98f072857f4b6e3683c7d87cc014c45f5c6dbf4e495445",
+  "name": {
+    "value": "NITE",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "THE NITE TOKEN.",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "NITE",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/Qmdoi5ejrLY8opPTJKQaqnnCttciPw4CYE5eHvZ5wx4M35",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
