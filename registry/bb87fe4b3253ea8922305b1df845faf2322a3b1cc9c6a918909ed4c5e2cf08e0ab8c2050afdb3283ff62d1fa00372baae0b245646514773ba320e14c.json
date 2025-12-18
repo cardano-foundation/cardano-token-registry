@@ -1,0 +1,43 @@
+{
+  "subject": "bb87fe4b3253ea8922305b1df845faf2322a3b1cc9c6a918909ed4c5e2cf08e0ab8c2050afdb3283ff62d1fa00372baae0b245646514773ba320e14c",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestContributeVault",
+    "signatures": [
+      {
+        "signature": "bf50080a92f4ab514d0d35ab5e7f24bfbb93f20d9e4400bddd9d8900889def419109699945a3ec07242a812cbbbb9cbfab8102bc8786ff3ab303383489e1a508",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "ebc2e1670abc764fdda4cee81c5d6d4d14275464ab2cd3112be3491adc937b603dcf7b9c09a6426158242409079e799d12c87d6dff7d923fab69cd1384496b0f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TCVVT",
+    "signatures": [
+      {
+        "signature": "10eabd86c2435476e806dc048a935744dae5265524e45a2af21203d5728f53eea88d6bec5eb7572b1f864191ab012f7cdcb9adae9bc5ec32740c72fb75c61c03",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "1937fd25f6dcd4f789110232bfc609697b4d4934df76b462ef6161112154ceb78289d2a079d28c5d87ae00e3ed59e865edba428903738b6b31c0a0ad437d690c",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
