@@ -1,0 +1,28 @@
+{
+  "subject": "bbf39998282eb035e9fbc68f3e77a11c48e6c3b0016703bd62b919eb4245544649",
+  "name": {
+    "value": "BETFI",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "THE FUTURE OF #CARDANO ENTERTAINMENT 🎲",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "BETFI",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmbqNuRRtX2yn434GaCPhgF5LyCdVTmZwWVZsXuQjqCRV8",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
