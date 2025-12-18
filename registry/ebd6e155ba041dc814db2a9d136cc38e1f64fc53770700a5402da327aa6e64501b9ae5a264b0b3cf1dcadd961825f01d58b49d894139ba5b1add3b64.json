@@ -1,0 +1,43 @@
+{
+  "subject": "ebd6e155ba041dc814db2a9d136cc38e1f64fc53770700a5402da327aa6e64501b9ae5a264b0b3cf1dcadd961825f01d58b49d894139ba5b1add3b64",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "ComtributorsVault",
+    "signatures": [
+      {
+        "signature": "f5692df9af4b7be65576433c3cfb9e33f692d4056e5d6c567b3c3ac91f31ae7cde4fbad232e679982417899f8465633eeae0af8fdeca5ba375956fc6159cb206",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "7d07539e5d82f53370f13e8bc64a01bb9ce36e6017b514ae428a6b3ef2bc3fd3c29ff462a1d5fe051667b12e471bbb5dc92fc56abe290d8f2a0f632e497d0508",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "PTSHCTV",
+    "signatures": [
+      {
+        "signature": "32b5aeed4bd0a0c5fb1c8a6ccce761eabdc29d698e04be665855925ba6595b39eb018544bf81fc46a8f02cff74e6007af9d55c16ced0ef32d2743c8f5415a803",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "703fcddfddaf029106599569b917624315ffdb55127e10cf80ad73cb0a122fe2eb8bfac163f6257106f54c787df201041c1a5c25dd0cb854032c4b081cd1f307",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
