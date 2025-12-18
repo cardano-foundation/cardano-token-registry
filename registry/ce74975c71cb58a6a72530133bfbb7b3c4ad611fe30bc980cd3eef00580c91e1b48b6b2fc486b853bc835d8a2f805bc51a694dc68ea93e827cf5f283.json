@@ -1,0 +1,43 @@
+{
+  "subject": "ce74975c71cb58a6a72530133bfbb7b3c4ad611fe30bc980cd3eef00580c91e1b48b6b2fc486b853bc835d8a2f805bc51a694dc68ea93e827cf5f283",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestElkaYou",
+    "signatures": [
+      {
+        "signature": "7063b1bc3f5e9f047ce7c980adc036074b77baec5f3c3e56eea937165e34a17e8425cf3098b8221a2348fae52b24fd5952551aab05dfe3a4ca76bfeece4fa10e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "f965bb934415d50e42ea835d4df9dd6b9bc7c4ad5163dbc8f0f3d3684db2914ada5c90cc9a6d1b7a7ac8028d7c45c96d7816cf4536ea7168b35b0bb1eb628000",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TEYVV",
+    "signatures": [
+      {
+        "signature": "3aed00220f01d28c2f2c1b1c8ceaa138032ac6325096ef2d0645cde7d132ed4ad1bb180790058933dee6cc81576d37cbf9c20f9fcd9290a3f886977ac0df5806",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "92ac5563c181b40324baa5f977aa9fa0124d30fa184c2f527bbd52a4e67016faa9c95fbba9e156fe445c842d48fa53591037b4e910be94ee0a91885592f6a202",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
