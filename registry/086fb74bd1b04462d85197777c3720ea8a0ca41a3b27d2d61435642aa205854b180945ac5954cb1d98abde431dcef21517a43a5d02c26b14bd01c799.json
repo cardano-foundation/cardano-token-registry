@@ -1,0 +1,43 @@
+{
+  "subject": "086fb74bd1b04462d85197777c3720ea8a0ca41a3b27d2d61435642aa205854b180945ac5954cb1d98abde431dcef21517a43a5d02c26b14bd01c799",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Chlen",
+    "signatures": [
+      {
+        "signature": "4ca12a2d3169bd01277b29a6b7229ea16ac23087312d6f258a93984fd298da6c6a4cc20372a77384970b2835eebd29264aa87b6cdb91b2ba402f0350ee88f909",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "720579c07bb45029cfb7f2afeb0afaa8e9a367d7e3814170463b6897a2343e485fcbe08513a24120eadf028a78bf1d25408d0376e90e5d0eb3931d7ca6630107",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CHLNVT",
+    "signatures": [
+      {
+        "signature": "dd4b13f28fff0b0d29b9f9a668ea6c185f96b82faec822b1f350dfd998b8fcb7c3f787c47a69436d2be4dfd15161369a7252c29131bfdcf97e6f4f5bb332290d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "8fe6fbc6c516bd7a4488892cab3f9cdbbb3af306a08a9d150a49732bbf6266f4769d9ccbbccf55801e733cc15a9a1f3395cac1ade13b522274bb2b9c9dea300f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
