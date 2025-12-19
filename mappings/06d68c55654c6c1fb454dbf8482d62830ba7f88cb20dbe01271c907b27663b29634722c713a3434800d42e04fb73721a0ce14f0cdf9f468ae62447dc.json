@@ -1,0 +1,43 @@
+{
+  "subject": "06d68c55654c6c1fb454dbf8482d62830ba7f88cb20dbe01271c907b27663b29634722c713a3434800d42e04fb73721a0ce14f0cdf9f468ae62447dc",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "YOYCH",
+    "signatures": [
+      {
+        "signature": "303299983b0f4c71008becbfc15477aea6256e44b091d23853d80c97e3d3642be6580b0c940d91360fe7a527ae88c9b90e44079fb3e497369975dc93b9fd6f00",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "14d332ab8b4efa3aa0ee8605126b4c741608810af371d360701112c33b7c4c4e76ff641910829734a38127d4ec8ad339b01124ea6ba0957f37292b184da34500",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "CHLN",
+    "signatures": [
+      {
+        "signature": "678815770b3c0ffa04b74e06201740dd06755bd652d8e7fa27a532b849c6fc16468b5d67ab90b24c4fc8e8b15338ddbbbe85646ae971a9bd53198a2f3a9bc80d",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "8848ee98c67d8d0b7c62de22ffa25028a5c260a4bda23ca591bca352453c96cf9fa25a21f4798a63d4b6f79907a60fe7f2c643f38c0246252f00b4acf2082708",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
