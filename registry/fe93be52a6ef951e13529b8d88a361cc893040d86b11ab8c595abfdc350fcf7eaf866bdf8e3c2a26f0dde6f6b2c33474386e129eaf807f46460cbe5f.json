@@ -1,0 +1,43 @@
+{
+  "subject": "fe93be52a6ef951e13529b8d88a361cc893040d86b11ab8c595abfdc350fcf7eaf866bdf8e3c2a26f0dde6f6b2c33474386e129eaf807f46460cbe5f",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "PRCreationTest",
+    "signatures": [
+      {
+        "signature": "31661d28f785dca0f5f27c16432702ecdc1bc9c8528653483628b4ede7f7ee1708e8178afce9bfd36e4843a710a63955699dc6a522cba29c7c7eaba2e145e207",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "e983c2d395dac4e0adf63db9625e85c265d281bf760da8aa90650d6228df2f158eb343b9822feaa97bfed5e4912b74df64be981addd1f51d11f78a400c98200b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "PRCTV",
+    "signatures": [
+      {
+        "signature": "c37e8d02d8995deba6627873a7b9bb8a8b1bea4dd62526d188f3e70457c02db2bb212b3b2eca00b7064de1bf6708be64baef6a8b9c3b17009ee857d86775b102",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "6fbd5b340d17cc7ab161767a5722a4242394f7814a95a807b9376bed7a3bfc5383ea6ecc895198380858ff5ef1a9ef435ef7de20aa351c13386ed0ed62a1bb04",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
