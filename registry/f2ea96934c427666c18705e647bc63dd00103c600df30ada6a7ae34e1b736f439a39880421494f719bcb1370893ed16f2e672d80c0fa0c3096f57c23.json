@@ -1,0 +1,43 @@
+{
+  "subject": "f2ea96934c427666c18705e647bc63dd00103c600df30ada6a7ae34e1b736f439a39880421494f719bcb1370893ed16f2e672d80c0fa0c3096f57c23",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "TestVaultPR",
+    "signatures": [
+      {
+        "signature": "0a92adc90f277bd8022d32c987e4a70469c2b1e7b35a1e5c6bbc7ea8c63cf4c16ad7363f5d6182e20dad6d5e80be531704040fdc5ed4334b6003eb95b61b460e",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "fa2d7527b273fb9c650746d8a79a0ebad7dceca19e28dd6ea618ad4d32d17208f577642d11de31ef21ae621cbbd0ca25677e00f9bbbbc8765c0f2f8b14c15709",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "TVPRV",
+    "signatures": [
+      {
+        "signature": "8f517a0756733ad786268810279bfecf9117c83b3594645e1f51326ae217276ce0431b04757d9eea7b0a2ba0c9569fc91f0c86aadba01e2c3054c12103a8830f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "53fbf8837626bd2d9d5816e48885d1900bef71f774b2dd7753c8369bd8df58be474ab0080741d26c5c08807837aff0cf0c23b4053e7a33283dd0893141b1c80b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
