@@ -1,0 +1,53 @@
+{
+  "subject": "4bef427787c1a304756373e6d4476080aa30a236160ff8c758097b670a0637b3d648da8e778c50274bab501297fda4f26679d419300597b202089ae9",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "MetaDataVault",
+    "signatures": [
+      {
+        "signature": "401906cb05bb4dca10b8848ae65c0b2a982ab68998362653c8db45055477df94c7f4c40e092c29c55340ec107b39003d92cd4ae4c1a317b5bfa7162b1e5b5503",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "71752c81fa434084a3043dc3eded41ab05bbd7195e06729d864d8003fdb28816956af4c987800759ff0fad021114ca95108890136ec8676d77980ed2a0a29e06",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "MTDVVV",
+    "signatures": [
+      {
+        "signature": "7e3a761e6754b76a0f82b1d22ca9c6e8cea23a6df91166b3574ce7cb3bf3d01ade7b810981dc5b63bc0b0ef156ca2094bed7569d43691ff595e59492e677b10f",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAJFBMVEX////d3d3p6enx8fH9/f3k5OT5+fni4uLS0tK1tbXDw8Ojo6OxNcaGAAAACXBIWXMAAAPoAAAD6AG1e1JrAAADRUlEQVR42u2Z2ZqkIAyFWUII+P7vOyegpbj0VE1pX8yXvxYtoPUYQgi0c4ZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhdOikaOa0Od18f8n+QJ7xJ1W3C/CHEp6Uqp+T5vdbIBzwHmZRy+Rj3f0WkPgR/nYf9HSGYzp1RcoPCNj6fYOJe8G2WEcLqh4ScHT2o/9LfE4AbXqWAnqa9SsmnKwdEQP9joA6FZFSplI83rR0z7MChqEQwvFM/T9oywcC0YkAZTmu0eF2AX2IqfXJw9pSpdRaSsW3TILTitLKS/N4uwBmjuy7gIzn5ZhCzDFhEsAvyTmgOj8oIISUQpEmwDVr9PHOLQCw6yVuFFAPA1Zu6YJAsAfDCpRhieiT+tyJAJePU9eXXtCHoUwYd1Im72sNXiSXUuJo7KsuQID6a4JxVbUKQPDXWtY43GPwofWFgMxpr8BfcpUPaCCab8l9anDHfGgWsHsEOGn70H7CgkNzDHNQzZH7w564cBcQ4QGoDPgT0je79wToIGE0PwpAH5besRPG9FT+IgDjHxlQ0IOG4YrDvvFegE6aWQJGreQU9frqw3obP8+pzbG306wQz6XKIAAVrDXUj4gR5H4WkCAa966IWFJD1uiBH5pJlpqUfKSGtGGbE0pv3mZhzUXbrzReR8KQkKCXXJ+b0AVhGdT9kqLkWgI0RZ8RUWtxdJZ/LhZw3em4jwHu1+rmWwxGzT1HAexi1gk8uFGAF2hAaqmBFl4VGAVqcn+dFa/mpnUCHlYJ+5Qs9D6EDeC0tL0GqxHzGT8I2Ax66sNwKHn9OgiAgrjIo/UK9BI0jI+zGOU/y4pfgSjwTVNSDB/Btwugt1lC5AMC3Huv3ov3C/jHbIIfXJ7/rgBnAkyACTABJsAEmAAT8B8K+DmxfVwAia4rl9XQdpEqfOcW17UFcluKV8EGlggWiuKrSFu4jynwd2YJfGnk3MyAW2fcWALeOFk2KDYt81dM5WojaKr7xalPqRXUofSDNdEZMa5L93EfJOXXHmPb83BRD+5keU5fvQZvH9e72BLCHg+2fLB9EtUDsFekojy9/d/Br1Y6bcHdLROja2eh7QntBGyf5Vby3OVbL+gHcoZhGBv+APH7Iroji/epAAAAAElFTkSuQmCC",
+    "signatures": [
+      {
+        "signature": "030423e6c186391b99cc2dee7fb974d2997e81d4098d07c9364098d1676cb1ff0346408c74804d0df690c6696fc16789ea380f9245af09108a107537d94ea202",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "af68dda5bbac25e5e0c3c15118805d2d508802cd74566edf1b93873c53b2505ba5103b49b142f3a1c8602230ba3c9296b66198e8bc4dd425dbd3b516db66ca03",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
