@@ -1,0 +1,43 @@
+{
+  "subject": "e53b1a5e4dda3b59751ba4fca9e7888083cd4d6c389ec75e924bdad40d4f8a2244561c472519c85894ebc62ea2a03e9fab805a62dcd48c69ee0c19a9",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "YOYVault",
+    "signatures": [
+      {
+        "signature": "266637944d0b3128ceaa4cf0eeab619c49d0b3b7544a1ab4e845f20987317861a20fff901a56624cc3f5fdfb88184a2d523d3a630f3c918a6c32261a37e7ac05",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "",
+    "signatures": [
+      {
+        "signature": "f3ff2e1e94b5b06bee35c5e6b722e440ef52beba1e8a7d0f3757485b5c58b4a32af540fb6fbb47610a7c3ba175c01d1524a78758c92c899679cb5326dbc99102",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "YYVT",
+    "signatures": [
+      {
+        "signature": "b35d0b0b98527d988b1730b9c9946c8fbdf4fc00735b319f3012d1701e4b217302e0c6a69fe5ae762adbeeff4d23fe6206723b61dd52f72edf46cf3e9622ec0b",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "b16c8012827a074c016f923ac8933bfef9278087e6d1ac00c2083b6aaf07510ae67cd39356a1d7d60d13ef6dfa1619c980d8ef39ab6b506d6f0f85616993110a",
+        "publicKey": "3e3cf2f8dc04695b4126647f56e6acefdeca5260394fe5fc9e3c97b70f9723bf"
+      }
+    ]
+  }
+}
