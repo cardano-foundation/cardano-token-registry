@@ -1,0 +1,43 @@
+{
+  "subject": "7ec0c9aa1d187b7a5c154b592c67afccd469f4f881e34c3f595d1d739c2d630ccdf5b4a2ad7ea875d32af20d34de1a06be4395e6e1cef31f234b6a1d",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "VAULT1",
+    "signatures": [
+      {
+        "signature": "12fe27eabc626014f6b3db450a9f5869c5bbbe2ddf2793614ee090a6dda63fc7ef00bc0e704ced032fc0433d7172373d751097fa19ac1cd6437343462b64f00d",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "First mainnet vault\nHigh hopes",
+    "signatures": [
+      {
+        "signature": "5858b08e28c93a5b35b463f2920ecacdfcf644149c7d74b30e3841fdb619cc5de16c9ca1e71aaea6e664a826c5352970b35abaf0dc48e016dc6d191153f78f0f",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "BLCKL4VA",
+    "signatures": [
+      {
+        "signature": "88d5c9f93ffc675f36c3de4186961d09a8a18df2fddeabdb5e6d3e6ce13812f9c648802f5fdff53bc827b581a887baa93d471317c228c19568f62cc2c601e600",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "bdb45b81e0c1a901366c388c0aaba97d775a01d55944e2784c5a08d19a56c4adb3b9830928d15226f7099ebb833a0dd69d46ea7a36768126fa1d43af5d75a80a",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  }
+}
