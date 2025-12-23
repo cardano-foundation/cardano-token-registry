@@ -1,0 +1,28 @@
+{
+  "subject": "90ecec7d21814b9fdfdb991ec904ec78c02d4781e8d1ad1617682cb6454b414e53",
+  "name": {
+    "value": "EKANS",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "ZZZZZING AT DAY, SSSSSING AT NIGHT",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "EKANS",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/QmWqxagQkhvpFvaLhKTkDU1kBXMxFjJCxZAtzjWHoF2x4c",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
