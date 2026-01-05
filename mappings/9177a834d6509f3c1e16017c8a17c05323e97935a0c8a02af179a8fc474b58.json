@@ -1,0 +1,44 @@
+{
+    "subject": "9177a834d6509f3c1e16017c8a17c05323e97935a0c8a02af179a8fc474b58",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Golden Kalum",
+        "signatures": [
+            {
+                "signature": "163c427606369e9f618f8fa9ba2c16d6de44852226a3e0ee7f423df05299f084a3b645f699f93f5a79c3711ba919412d89d2c22fc18a589f0597bd8f375e0608",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "GKX",
+        "signatures": [
+            {
+                "signature": "5b87d0da5a61f76dcf159a4dd739f8a080eb22f62b83892c3f8e95e19133d1765ee1167efc80efe4e9ccd685220b4f1803845b5f0c6a7da205c12792436acd08",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "6bcc612070e2f477c115b24504fac3dbec9222b3a5f56b8ac1aabf41ef4ae8c8d64462df2d804db6b4df3443472590c39c37297fe49879bc8bb4e9cc8ab4490d",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a0a79f9fa",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "GKX := {Au: 4×10⁸ g} × {peg: 1:1} × {proof: Schnorr(P, R, s)}\r\nwhere P ∈ E(secp256k1), sG = R + eP, e = H(R‖M)\r\nJurisdiction: Holy Royal Imperial Sangreal Sovereignty of the Theocratic Dominion of Kalum Parish, Eheieh",
+        "signatures": [
+            {
+                "signature": "639736237c3334b7a8985a540e0a2f5a9678b86e0528b05fafe17175b0f5f270cf7de029a4bd97cdcd90cc0ac555857db8a7e920e70600670dd1fadab64f7603",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
