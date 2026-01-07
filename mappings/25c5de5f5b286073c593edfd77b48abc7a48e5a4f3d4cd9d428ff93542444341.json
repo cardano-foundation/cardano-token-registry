@@ -1,0 +1,53 @@
+{
+    "subject": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93542444341",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.wanscan.org/tokens",
+        "signatures": [
+            {
+                "signature": "7b4a56b866844c5c8c891faf246397547e3273e30e30d29a4a4048d40a2dbe2a4a808d95dc483a06a02ccb5d9d57ec134540e41e27f2b376afdd071902d42a0c",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "BDCA",
+        "signatures": [
+            {
+                "signature": "2e781292e371d1d008f6cd6e6d66312837d3803f8baeefb7ac3eaa80fe560e6e70c16308230e20740e74024a392a72e03d03ca1476074f571547879d8704620d",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 8,
+        "signatures": [
+            {
+                "signature": "d1e83eedbbb45f11859f457f041a9bb19a2b71848263a4447f006d9a95efdceb8a2a6d64a09a9a1178c2e80e267e115712667e5533088222df52a77d0e5cf601",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEtElEQVRYhb1XW0wUZxT+zuywOzu764VCjFx0SQskFBUNBEPIJkVI4aH1wQTtQx/72PTFpmnaVE3TNDGm9aFP+taXJmpiTCxJFUGUBGxUQANyCazh2gAJWHZndseZ//ShXGZ2FphS2+/xnPOf7zv//nvOGYJHdAJKJBA44Sf6AEC5IIoCKAIAEC1JzC8toj5ivmcqym/VS0uvvOSl7QKeqmoBCfG1RPQxiMJekjJzkoh+8QnxbWUqNbkjAWNAQFeU84LoMyIKeiHOIkSXiC4Na9r3rYDuWUA/UEjB4A0QHd8JcSYEMJAjxIfZbsMlYCAcroQQ7QD2vQnyNTDzrM+yWg4ZxrNNBaxW3gOi4swEOfn5CDc2IlBWtiWRPjiIRHs7rOXlbCqmWdePVwEzLgGdgJKrqo8AHLaf8UejKL561VRra2Xy+bxVa1lI3L2LmbNnYcTjTh/Qt6Rpde8BKQCQ1hy7FeXzTPJwLIbS7m6E6uo8kwMA+XyINDejtLcXu5qbnT7gaK6ifOG4gR5FiQaJBolIXXPIhYUof/IEvkjEM3E2iGQSo9XVMCY33h8z68T87pFUKi4BgCpJX9nJAeDAlSv/mhwApFAIBZcvO2xEFIQkfQkA9Hjv3t1yKjVrF+DbswcV8TjI73clNOfnkXzwAOmJCYfdf/Agwg0NkPPzXWfYNDFUVARrZWXDxpyc1fUCOSeVakFG9btOnsxKnujoQLy1Faxn7SmgQAAlN24g3NDgtMsyIi0tWL52zX4LoaJg8H0JRA2ZiQIHDrgrX1jYkhwAOJ1G/NQpmIuLLp9SXu6yWUSNMpiPgpz9iHJyXMHJrq4tyddFGAbGW1qQU1josBvDw65YYj4iZ2s62WBMT3sJAwCkh4aQHhraNo6IohIzv+U58xsGM+dKHuL+MxBgSSDK0rT/N8zKEnOcifK2i/QXe3oqAIBARUXWR2hMTTkDJWlaZqIBADV2O1uWK2koFgOpKljTtiQnvx9v374NeZ9zms9fvIg/Llxw2IQQzyUw38tMkh4ddSWW8/NRcv06SFVdvvWCQiEuuXnTRQ4ARkbnXFXQRm3AroJgcM7eiikcRuX0dNZ+YC4sINnV5WrFgbIyhOrrIee5f002TbwoLYU5P79hY9ZGdT2PAGBAVa8A+MR+qOTWLUQaGzet9p8g8fAhJjLGssX80zFd/5SwugkhGBx1jOP9+1He3w9f2NMivCms5WWMxWIwxsfXbcysC6J3jmnarAQAVcCMIPrBftCcm8PkmTOwEomdk6+s4OXp0w5y/N0BfzymabOwb0SvNO07Zn5kD1zp7MRYTQ0S9++DTdMzMZsmEh0dGKmqQrK7O8PJPa817fy6GLvvqaoWSMy/E5HzT7y2lDY1IVBauiW5MT6OP+/ccTy4dW5gXhaixr6eu9byZ37/Ifb5fvU6pDyDecoQoqkmnR6xm12z4LBhPH+t67VgfvzGuIE+H3N9JnlWAQBQDcyN6HrMEuIcMyd3zsyGJcQ3pqbVbvaNuO3HaS9QFFTVc8z8ERGFvPGyBuafzVTqUjUwvlXstgLWMJyXFzGSyWYwnxBEVUQUZeZcApiBRQImATwl4D7retsRwNPN/QWnKvAH/VLwVAAAAABJRU5ErkJggg==",
+        "signatures": [
+            {
+                "signature": "d23a3e1f2f47077ff0f46e253a9099e6e282e89224d52ac5f8d955af92fa2590939b2255167810cafb158c2191e6c037b8f6c3a8da6c8bb192cc33d3b3ad9a0a",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The Mapping token of BDCA on wanchain.",
+        "signatures": [
+            {
+                "signature": "2d37383182dddb379600e81186f7ddb6022ac277972e9e5629821b7a32d65d0f70150e1bfabe8c0a1a2b57916cf667202ded9beaa8bedc6eeb3d1d992e0acb09",
+                "publicKey": "6f6a0e6cbebaa0e616c26c30c23bbfd82826a02ee12323ef598cd3fab20f18e2"
+            }
+        ]
+    }
+}
