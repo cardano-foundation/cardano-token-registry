@@ -1,0 +1,28 @@
+{
+  "subject": "eee766fa16b50c4ec22219a805600a54950703f1e2bb10eabb2ee0db4d43415348",
+  "name": {
+    "value": "MCASH",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "description": {
+    "value": "MCASH.COM",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "ticker": {
+    "value": "MCASH",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "url": {
+    "value": "https://ipfs.io/ipfs/Qma2QogRM8yPZnJCRni8rsArm1sLKofp9a5NuJ6U82BxFo",
+    "sequenceNumber": 0,
+    "signatures": []
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": []
+  }
+}
