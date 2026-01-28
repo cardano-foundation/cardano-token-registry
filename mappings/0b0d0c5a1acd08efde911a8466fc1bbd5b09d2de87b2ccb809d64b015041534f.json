@@ -1,0 +1,53 @@
+{
+  "subject": "0b0d0c5a1acd08efde911a8466fc1bbd5b09d2de87b2ccb809d64b015041534f",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "PASO",
+    "signatures": [
+      {
+        "publicKey": "644023d4c2a2de0143fb264ba10ee682e10347a5269562b3e287efe28d1fea9b",
+        "signature": "67e96e30d3231223730627e1fa0bb702c7695c396df7dfda1852b07df78b38e825a4cc3034bd1fe617d740b1c82324a1e641cde1adfa027c91c56062c0c2bb00"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "PASO is the native utility token of El Paso Verse\u2014an ecosystem building a real, 1880s-inspired frontier world powered by its community. PASO serves as the medium of exchange across the project, enabling access to Motion Prints, collectibles, cinematic experiences, and early community participation. As the El Paso Verse land opens, PASO becomes essential for entering, trading, building, experiencing, and living within its towns\u2014forming the foundation of a future self-sustaining 1880s society.",
+    "signatures": [
+      {
+        "publicKey": "644023d4c2a2de0143fb264ba10ee682e10347a5269562b3e287efe28d1fea9b",
+        "signature": "ed7e3d3660448e8f89840efa0fca86d77ce31f51d6b5771c1a508d904655bf22df489af1de709aeb8ba1e04ef569ebd0ef1f0423436bceea9f3d0a89279c9904"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "PASO",
+    "signatures": [
+      {
+        "publicKey": "644023d4c2a2de0143fb264ba10ee682e10347a5269562b3e287efe28d1fea9b",
+        "signature": "b4ded5c2ed7ac28f267c978cec5bfeb2fd50f62ed2aecbd5055936bf4deece311f8e3005f74251fec5c41edf3e454098d9c3a175afced536dbcaa94373f1d505"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://discord.com/invite/3QqHkZPZQ5",
+    "signatures": [
+      {
+        "publicKey": "644023d4c2a2de0143fb264ba10ee682e10347a5269562b3e287efe28d1fea9b",
+        "signature": "575dfe4ffd58a0a9d529c840d6c4b9812d309fff9a852763e5528b8c9a3cf3c558c800a210c83a92a06912f5b86b5ddef057c682c6fbe88217a61226e517230a"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 3,
+    "signatures": [
+      {
+        "publicKey": "644023d4c2a2de0143fb264ba10ee682e10347a5269562b3e287efe28d1fea9b",
+        "signature": "0442bc21c0e8288560f73dbff6f4066716b99c89279ca2a26620f861f5e6340b077380cd5de05c4f621222f0175b491a99abd380bec4e342a51f94fe16b8920d"
+      }
+    ]
+  }
+}
