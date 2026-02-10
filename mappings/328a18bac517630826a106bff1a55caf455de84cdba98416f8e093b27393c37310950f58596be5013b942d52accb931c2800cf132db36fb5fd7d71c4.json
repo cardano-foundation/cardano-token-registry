@@ -1,0 +1,63 @@
+{
+  "subject": "328a18bac517630826a106bff1a55caf455de84cdba98416f8e093b27393c37310950f58596be5013b942d52accb931c2800cf132db36fb5fd7d71c4",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "The Oracle",
+    "signatures": [
+      {
+        "signature": "e62e7de2283aa535e15830c19f47b230f572a4783a80a7c125f199f984bdbf5b5a29fcd531a739d8d752f5494fbf6dfbe93824d3d7ab2ad5936be43e7edc320f",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "The first official vault of the L4VA protocol. The Oracle vault is configured to fractionalize Relics of Magma NFTs in exchange for \"ORACLE\", a fractionalized vault governance token. Holding ORACLE gives users a multiplier on their protocol activity $L4VA rewards, and is the governance token for actions and distributions of assets in this vault.",
+    "signatures": [
+      {
+        "signature": "7c23986759d9ae933cee5046eb2c3df74ad5ad9c59ef89daed2ab1fbe6e90a1dcc2777591adf846df8ec23ebf2920877121844de804b43974649b7196d6e900f",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "ORACLE",
+    "signatures": [
+      {
+        "signature": "ea8094f3be586702a11bb86e07d50262c0cda0159e43c9d3e86d3d5f362be86e8e408f0c74634521b70531deeaba530e4718062c5cb99884286958956235d007",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/5ac2ac4f-9079-40cb-94ae-a265bfba3bcd",
+    "signatures": [
+      {
+        "signature": "d9f1061df31a8414f0350242ac900b163191d3ca19b084665d851702887a98b30a3eced2c2667ae551322625af9cdf334d86ed622fa1dcd7a5bd45769152a907",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "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",
+    "signatures": [
+      {
+        "signature": "f99130220952e7a8b2cc15c26cb6fe06020734d075d0123a321c4d500bbb1d6e9fd7c6fc9c11add9d16b684259e45cfda7529a83f1fd8d8c53d931c867e0f701",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "cb0f0d5fbd04c50f152b2361568c4e48dcabbf1ec13d98bb0111fa8b9fa460105d39776d17cca6f34d3f3448f8a107f525159d426518f4ca220d376c06d4210a",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  }
+}
