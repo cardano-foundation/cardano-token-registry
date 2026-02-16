@@ -1,0 +1,43 @@
+{
+    "subject": "efc5a8764f5d7978d794dac3a6edce820828072ec10594590137b71c",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Liqwid NIGHT MarketState",
+        "signatures": [
+            {
+                "signature": "20bbfb8831b91f908d5afae8532a034d1c61abdbede6b2dedacd245578897c00247421caa51180ecdbfc162152c3faf4751f0fbbf30f6e5694adf084592d7c0d",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "NIGHTST",
+        "signatures": [
+            {
+                "signature": "b874cba6ca9594881a14a3b05440f40a4b9b7a177e5d734dabfc4225b35dbc6b9bbc0408c10e6024289ac2791f45a97373243a57c67f5cc011145343b3157a08",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "d139df900f77d14833acc1f5a54c751d5b7e28fe00e28fecf08b66239964bda01d218875955af039fabc052b39efbdafc1be5812d9a4d07dfbe9d136be104501",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for Liqwid NIGHT market",
+        "signatures": [
+            {
+                "signature": "e277b0520d18081c40552fd02bb6dd881efcc95ecae9a15a97aa5818cb7fa07b99501d3c53fb774d27304ad56ac27ac9fee3505732d14c3064b67b88deb68004",
+                "publicKey": "1db2593ba1cdd4e4f51ff30aa69ba756020a11c936187f732bf1dae51243e44c"
+            }
+        ]
+    }
+}

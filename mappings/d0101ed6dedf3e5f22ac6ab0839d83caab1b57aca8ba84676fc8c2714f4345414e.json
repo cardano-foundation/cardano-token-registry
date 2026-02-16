@@ -1,0 +1,54 @@
+{
+    "subject": "d0101ed6dedf3e5f22ac6ab0839d83caab1b57aca8ba84676fc8c2714f4345414e",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://www.mithr.io/",
+        "signatures": [
+            {
+                "signature": "837153bbaddcd54aa962b0dbc9b0057f43507d9fd771020533c5909b2e7e5986312cfe08827b376f7a12395ce0fcfe52d10c0af471648d72105233675da4a808",
+                "publicKey": "50ea2a2a916725b3471b5cedc813272690411b1b6626eec68a4a2007dc4031f3"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Token OCEAN",
+        "signatures": [
+            {
+                "signature": "5946cfda80108f24d58950bc6d5552cd6c9041723165a90f4e820469273bb1747348e93e71f7ed8ad9ce50b9d6120978c43c378fcc898724617da19512356708",
+                "publicKey": "50ea2a2a916725b3471b5cedc813272690411b1b6626eec68a4a2007dc4031f3"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "OCEAN",
+        "signatures": [
+            {
+                "signature": "7cd3221771e296b3e9616459e6c1ce636010b00d6430134c289965cf1f50c6cda31fe3b658476ce519e2c27f334ef6c79c1ee4a0c83871950da82c026a27a101",
+                "publicKey": "50ea2a2a916725b3471b5cedc813272690411b1b6626eec68a4a2007dc4031f3"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 2,
+        "signatures": [
+            {
+                "signature": "2f4c20ccfdaebc66885eaa600dbb34cf3116c4d731927c83cdcec93397787efdda8530cf70639fdd929de5f1061d419c9bed9c1303c9e944fe7c8ee1f9cf4c08",
+                "publicKey": "50ea2a2a916725b3471b5cedc813272690411b1b6626eec68a4a2007dc4031f3"
+            }
+        ]
+    },
+    "policy": "82018201828200581c07e3a1cc8c3c4e4dff02bbcb35d83a7a7dc4039575c485968789c0ce82051a09d4af99",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "OCEAN Token is an initiative aimed at protecting the oceans and serves as a key component of the Token Mithrandir financial ecosystem.",
+        "signatures": [
+            {
+                "signature": "39bb1b31ede429dbc984e31dabbd557fa4859e58c8e1580f8a83a536ea63143fd9d7ecdd85e63643220957d4759006e0422e94382db0ddc884faf08fff08b40c",
+                "publicKey": "50ea2a2a916725b3471b5cedc813272690411b1b6626eec68a4a2007dc4031f3"
+            }
+        ]
+    }
+}

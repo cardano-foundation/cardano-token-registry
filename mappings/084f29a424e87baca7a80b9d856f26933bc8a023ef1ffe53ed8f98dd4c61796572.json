@@ -1,0 +1,54 @@
+{
+    "subject": "084f29a424e87baca7a80b9d856f26933bc8a023ef1ffe53ed8f98dd4c61796572",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://layerforgestudio.com/",
+        "signatures": [
+            {
+                "signature": "9434e9ad6e3d20ab733224cb35f18497346d610dc0ec362201177e26842888868cbc21eb9ad728383fb53111a60c7b86a991ec06a203f5709b1954d54840b601",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Layer Forge Studio",
+        "signatures": [
+            {
+                "signature": "ec40cb41492907ec1f9b13c2264e171c1f78f90a5a68ecc6a0d75127fa158af784c1e27888b654da51a101dc99f6723980a21f6e897e370735c68dfe32827c0a",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "$Layer",
+        "signatures": [
+            {
+                "signature": "1aae1d2f05d35070fe26bd41bb9a0bcec932b9ed7cd884cacc553c922e5cc9f90970fcd24fb4219441552bfb1a8db44832384f73b0a4881a3254fecdf71afe04",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "79b0f769ed123c8aa332fc8a2a696c36cb896c8f16022a992e62e347473b013fd850726347cf039ada8650b602ce5eadd10c853c1015abe64c978fd99d53c40c",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a0989595c",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Utility token for rewards and prints at Layer Forge Studio.",
+        "signatures": [
+            {
+                "signature": "992ea4a94e93ae4e89691965dc70bd70c2cd178f1c571b9418f298ff57281656e538e9ff6436b4ad7c34612716a8d5655478d727954816b89068caa1e22b770c",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
