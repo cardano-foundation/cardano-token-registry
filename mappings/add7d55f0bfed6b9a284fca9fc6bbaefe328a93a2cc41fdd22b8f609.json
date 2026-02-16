@@ -1,0 +1,53 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "fccbc9badb539bc66e05b2eeaca9e269810b79267a0fa5dbb079b7ed61955267",
+                "signature": "2c5cf2a25d21463d266b92f0e02de5fa212fc952cc877f8797c1f0ec7161a2cec1e698443949262afe4bb00b33c04697bf97b485f8810d168af4e82ca0c63a0e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "sOUSD"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "fccbc9badb539bc66e05b2eeaca9e269810b79267a0fa5dbb079b7ed61955267",
+                "signature": "0aafbd6f9789eeb6fc9866bb12ade1933195ec29ae7c03a8309d6c4a377bcec7cd7bcf45cb01af226a644a3ef591b54bccab54073bf71bb8f1cac965311b4501"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://optim.finance"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "fccbc9badb539bc66e05b2eeaca9e269810b79267a0fa5dbb079b7ed61955267",
+                "signature": "1d9f2c5659a7a99e0fae7f8865c6fb5c34b0aa0d0aa83fbc40502f0b97db114e84243bbaddab61adcb118ed2889c51d8d462e69adc3ba01c89d6647c49948f0c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The sOUSD Token"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "fccbc9badb539bc66e05b2eeaca9e269810b79267a0fa5dbb079b7ed61955267",
+                "signature": "374d47ed493ecd71556fe173d145a733e09ba6767095663eb6e0ebfde569d94cbe9fd361a6ea3b60af7a187ac3c016a3accec6643e623d8b8732644aac43f80c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "sOUSD"
+    },
+    "subject": "add7d55f0bfed6b9a284fca9fc6bbaefe328a93a2cc41fdd22b8f609",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "fccbc9badb539bc66e05b2eeaca9e269810b79267a0fa5dbb079b7ed61955267",
+                "signature": "0456cef56651944b361a67f1b2515afe1d23eb297e711802e3cc7f7a3607a7ca01522ca8e31838f86d207af2dc7e15d3e6bc1bc5d40d0df68e4d5d3ec1d64e0e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "fccbc9badb539bc66e05b2eeaca9e269810b79267a0fa5dbb079b7ed61955267",
+                "signature": "3c1a5ac526047ac6306f5d5493ea1dfd583850741f6af75f3ad33d41e891fdfb4fd93893d571d2be83860c426f74ba2c1513f86fb70636adcd9841860dc98908"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "OUSD"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "fccbc9badb539bc66e05b2eeaca9e269810b79267a0fa5dbb079b7ed61955267",
+                "signature": "040587b0b8d2ed5bf1e57e2e65b138dee2a399e081a7fce5712ce2ff91de721f6ca6a7dc15de14375388fa1fe76f600ff9f92a5bccd55e2e7d91ff0cdaf56407"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://optim.finance"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "fccbc9badb539bc66e05b2eeaca9e269810b79267a0fa5dbb079b7ed61955267",
+                "signature": "c717f71c743c304300e1fac27c1db1ef44f13840840d4d9c90370e41a3107adb4c9b2011fecaff91a1dabd70deb795afbac3ab3eb27bbb6edb4a897a10f00500"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "The OUSD Token"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "fccbc9badb539bc66e05b2eeaca9e269810b79267a0fa5dbb079b7ed61955267",
+                "signature": "07a6522386e81bd6fce51a1926b5d60a4e8cfcb4032735569b039c607afc5176acc7fc46b46789f0dd75df39622103b4159da3641bdbbbc75577039e3ec5af0d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "OUSD"
+    },
+    "subject": "26a1fdd21a28483fd7f1ccb690571101ee58e2174365689cc48924b4",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "fccbc9badb539bc66e05b2eeaca9e269810b79267a0fa5dbb079b7ed61955267",
+                "signature": "b7bb113639e95f1ede66057311fdca480f7ce6e6955362f5690b010bab49b70bbdec3d63bfd712cf79f21a7058e323122ac01dd6a1878aac6d50d90347283b0c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
