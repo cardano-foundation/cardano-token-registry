@@ -1,0 +1,54 @@
+{
+  "subject": "84b4dfc3e118d9d5f30f3244b050b8ad8467ca65c2c79fe7e23a05e054485244",
+  "policy": "82018282051a071d61898200581c325ed38d783870039552cd58b9d464b6b00a8425dc67a17ca4bb0612",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "Threadline",
+    "signatures": [
+      {
+        "signature": "1c5c38353660c10f32e8926e23b815a22f31b6109c8dd856d778e7b064efd84a041510854b248a424abe11b5469ea81ed42597fd105f7f1349b9fe839f9d6e0f",
+        "publicKey": "885d3b94a554dbc3d68e8a979031e6148000c1d647b25c217172f0b850beb4a2"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "Utility token used for rewards, access, automation credits, and premium features across the Threadline ecosystem.",
+    "signatures": [
+      {
+        "signature": "db6476aa0a700ef95a28a7d168a45bdd84080168be160acd077faccd01539c738d4a36f40c0271a70fe3491f2239e121bde0e0d5c9ee450eadd7b41de55e4b0e",
+        "publicKey": "885d3b94a554dbc3d68e8a979031e6148000c1d647b25c217172f0b850beb4a2"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "THRD",
+    "signatures": [
+      {
+        "signature": "13ff2372e047a0279ae800b8fce38a399dd2975b97711c6bdcaeee06f1f00e1b92a8bad64d6ba20c8968ff25cf87c2f825aa9fa2d5e686f9c1e21977efdcfb0b",
+        "publicKey": "885d3b94a554dbc3d68e8a979031e6148000c1d647b25c217172f0b850beb4a2"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "32b0fbe4b29827d707a4ed7f8f16597c2d6ac8d6b1a0c13b1e54f44fe967adc0840f1bfdebdff1988352374bc2447e958e36106f6652937f9db72b61f8a0fa0d",
+        "publicKey": "885d3b94a554dbc3d68e8a979031e6148000c1d647b25c217172f0b850beb4a2"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "QmUjAhDn2R5DsgcmtmeXMxewHMau8sYJbsWKK8Bi7KU2oa",
+    "signatures": [
+      {
+        "signature": "35ef283776b4c13e79fe764dc55978e844ec2ddf73f451fc3103e58c0644e942c2b14f5d854641216a7f1ccdb129f8164399f5492617e21694ec3360cd8b3f05",
+        "publicKey": "885d3b94a554dbc3d68e8a979031e6148000c1d647b25c217172f0b850beb4a2"
+      }
+    ]
+  }
+}
