@@ -1,0 +1,63 @@
+{
+  "subject": "2f25bcaa037728ff6137eef38b6da1ebaa411d2484be69f295219c70380ebe0768e18997a502642e00aeb1c9c70562af21752dcdcfb4c014a9634584",
+  "name": {
+    "sequenceNumber": 0,
+    "value": "DEADPXLZ Vault",
+    "signatures": [
+      {
+        "signature": "5bc4c2ab206b825ba233893ef68e3dc761425efc81fd8889e70fd945c61ecb33079c7e6cf53d00f188476b77cb42d43390a2850c63b20f92d5d85e8fa5d2c107",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "description": {
+    "sequenceNumber": 0,
+    "value": "$DEADPXLZ is the DEADPXLZ Vault token from fractionalized DEADPXLZ NFTs. Holders govern vault operations like asset management, market actions, expansions, and distributions, while earning pro-rata economic benefits.",
+    "signatures": [
+      {
+        "signature": "e0c87771e0080cbd91b928b1efda23aa640409ab4f21524c128fd2773223295f46f529ef77006536c584a50813da2178fbfe068fa6f5ddc853ebdedf16d8410e",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "ticker": {
+    "sequenceNumber": 0,
+    "value": "DEADPXLZ",
+    "signatures": [
+      {
+        "signature": "6c13f046fdc396b2d4b992cb4dd72fe701c3f67a0ea37aa73e13359a91f5f684c682061889d6d27f632036bb8cdec70b7010d2a3c44b542530b8a247a3b5f200",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "url": {
+    "sequenceNumber": 0,
+    "value": "https://app.l4va.org/vaults/1ea60912-af3b-4152-86a3-af0fe312c2ca",
+    "signatures": [
+      {
+        "signature": "9ecf23b62ebbdf11f72299545a54ab0665fcc94c1fcc6e9e8235afb11ab61c4e867e92f15600513fd1c43a968c9f691d3fca4f7598f464f8bda1784e19eb8508",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "logo": {
+    "sequenceNumber": 0,
+    "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAHlBMVEUAAAD///9SUlJdXV2lpaWurq4FBQX5+fkICAg6OjqU9/0zAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABFUlEQVR42u3Z0W7DIAyFYQKJnb7/C0+TNsOFWxaXNqP5v0sj0AkokIiUAAAAAADA/yTGq7XVXvvjPvesi9mtmNWK2euUF6ddaqdt/gALAb5pJ4CyBK8NoJ0A+oYZ0EMzkM5egmCAspqSy691+7HevE63tpNpikdOgsdPIAdmsI4lsWMpNIXuEiYCzBxAWQIC/CWA+BtR6Ju4bKZuqk3R34pre7sV1+LAw6h0DqPy6tPwQIDl7AB69QBCAAIEA6hpA1jxzlex0y51pC0BAIA0+X3BO0ca+HM58JOMAHMGEAJcPsCsb4F/XxASui/Y3SeISWnYfUHM06fZuBk4KcB++QBy4QB6/gzoRyxBfhJ/GAAAAADQ8wWeVBK4dgdbGAAAAABJRU5ErkJggg==",
+    "signatures": [
+      {
+        "signature": "7824d7889a6924e90b49ed7b8ff9c2f851fd6329ad8a74072d036c033fc4ad81067bb2ffdd0a4acab314fa05111753ab734e2166721f095d193af452f8e08504",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  },
+  "decimals": {
+    "sequenceNumber": 0,
+    "value": 6,
+    "signatures": [
+      {
+        "signature": "67a2025b9e9a76ca4c4fc034b9ff527d7fe3f0776518a815e474c9fe058caf8f043e4fbab21966d3190a398bccc66aaa3f57dad2df19218751a61f392ddd0503",
+        "publicKey": "cf33dcec880bcdce343a343e86a2ab6eaefd3fe689a8e3f8885f63e3439ad56b"
+      }
+    ]
+  }
+}
