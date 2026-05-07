@@ -1,0 +1,53 @@
+{
+  "subject": "1a83ae6c4ef4dfaffc16517321e4c20b1d81157bbc38a8bfd8c2ebe8445245414d",
+  "name": {
+    "value": "DREAM",
+    "signatures": [
+      {
+        "signature": "e25ff648e13e68e12be2df5d46d28aacb55527ed8acbd649179deafb4276728f8674aff824d986e73bca3e61cfe6892a9dc05b9d9428186055384c84b636eb05",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "description": {
+    "value": "Have you ever had a Dream?",
+    "signatures": [
+      {
+        "signature": "e1159ef5b83bf5363ceecfc495c4f7fdd87bdced6db6c6cef49ef637774cc4ef8434738d8218ceffa5c97c05a61bf3e587026a50472a94590f1c5bf8746ac200",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "ticker": {
+    "value": "DREAM",
+    "signatures": [
+      {
+        "signature": "1eaf00c17cc7188003991c82e8e8f9c12b528f6bdf44bb1667f001993e10878c995b69ac805e11d0e3e0b5947f316239e2be7f1f33c072eb6b8b6ec3cc69a50a",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "decimals": {
+    "value": 0,
+    "signatures": [
+      {
+        "signature": "0a8afc22c5f9658756be88cf8f36e0788bd3fa0b895dc90189be45e222ac9e48672be8ebb946cf7b26bbb21d3ac62b92a7d4ac55c0999387f35d58c13e48d703",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  },
+  "url": {
+    "value": "https://dreamkid99.com/",
+    "signatures": [
+      {
+        "signature": "0544d13bc30420de614032f762cd6526c3f8a139a763c2699c1a6054d0181bc73e427ee7035eadc7f72e862d98d4701495e2839017a1c020fa2a8e695beb3801",
+        "publicKey": "30d62665168bf32883dbbe31a62aaad221563e8155a81199d062ac220c5d52a3"
+      }
+    ],
+    "sequenceNumber": 0
+  }
+}
