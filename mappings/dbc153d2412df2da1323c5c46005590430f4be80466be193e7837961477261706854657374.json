@@ -42,11 +42,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "Description",
+        "sequenceNumber": 1,
+        "value": "Description Updated",
         "signatures": [
             {
-                "signature": "d1956ad9e6641f5d8c1eb3580471d2925886a39c96f72dbb9adb52dffc0fbb2f092d35e10437a94fb5524194d7c3dd4c272bee4503b3ac545a929df7df7bae0c",
+                "signature": "9adfaecebc5592cda026c4a45ca9ea2f679c8c48f1415402f9f8adfe8e83ba89e235cc86e0c4563d65fd75c740bd4f72acf28cfe687940efc6e5c3923490210b",
                 "publicKey": "d6cc2a2574464be63c8d570956dc072aca3bf81adf154fc9aacea3b719cb28a4"
             }
         ]
