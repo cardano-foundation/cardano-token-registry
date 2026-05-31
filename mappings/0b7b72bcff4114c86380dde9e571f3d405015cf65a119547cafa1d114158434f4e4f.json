@@ -22,20 +22,20 @@
     },
     "ticker": {
         "sequenceNumber": 0,
-        "value": "AOXC",
+        "value": "AXCO",
         "signatures": [
             {
-                "signature": "883c35a4a4847284cecb4544412d555911d1ea51fe09f4d0ef6a96cb4cc9221b513dee67e114e4d3c36cbb145aefba2e18b0327a1ec75f2ef474752419295102",
+                "signature": "fb8da797b97aaf71dbd9e7659ff808acebff9bde25977b46ebd851170dccd6331fc391b60dcb75dd0ac2418e200a409c791670d1e989565c75e35985f02d2801",
                 "publicKey": "eff70f3be910ca8de6e113e864271d79d5c1b3272f1367d0d356b66469e241f2"
             }
         ]
     },
     "decimals": {
         "sequenceNumber": 0,
-        "value": 6,
+        "value": 0,
         "signatures": [
             {
-                "signature": "058509dfdcfd7cdce4898a1e7722843bb0c412c63e53b59298c686eb53659bf83e914f709967fb28a97afde0c522aa00dc654c38799401f43238d2e931939903",
+                "signature": "aed9a46cdae32d4442e3f4e4f7eb867c97282c7a434e086fa5772a0af7b09e7674f22b4c4bec5c9f39ad3a14e97817ae06395ce66693df6692b651a42cd0df06",
                 "publicKey": "eff70f3be910ca8de6e113e864271d79d5c1b3272f1367d0d356b66469e241f2"
             }
         ]
