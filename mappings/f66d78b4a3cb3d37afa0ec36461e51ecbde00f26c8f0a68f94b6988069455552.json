@@ -1,0 +1,53 @@
+{
+    "subject": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455552",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "iEUR",
+        "signatures": [
+            {
+                "signature": "875d76dfc4fbaf8e865924e03ad4fee761d2cf3395ffb33693f58562c1a0d156c0897c87013fc3b2c8b0b6d031f1ec7aa0a3348c764222273da26cf3fe9f6600",
+                "publicKey": "4ced68b0f3d683a70e1415ea53639ec1e58c9198dafd7cbc91d784530cecaee3"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "iEUR",
+        "signatures": [
+            {
+                "signature": "0dc8a8341c05797063dc143750545ffb5836adcd71e1bd1ff9b706df533beb4620751cc6ea1dbdfae97877def4b82bbaf5578c870eb122572694298a36ecff04",
+                "publicKey": "4ced68b0f3d683a70e1415ea53639ec1e58c9198dafd7cbc91d784530cecaee3"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "27e36b7808c7487f23fe5136906d6ab158b459c8a100ab2709b1a7dc568c2fc5fdc3c4e9ccf6a3b6674789c7df0d01fb601c2ec8f6294466947c15c34be6b507",
+                "publicKey": "4ced68b0f3d683a70e1415ea53639ec1e58c9198dafd7cbc91d784530cecaee3"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAVFBMVEVCVP9CVf9HcEz+/v5AUf/39/49Tvw3R/cVHs23u/00RPY6S/oqN+sjL+MuPO4xQPKYnv3N0P3e3/5CVP9CVf////89Tv9aZv7p6v5vev59hv5PXf72GxuZAAAAE3RSTlP+/gD+/v7stwn+kNQyGlJw/v7+GimH0wAAC39JREFUeNrtW4mW4rgOlQcnkEA2ZML2///5vEqySQL0MnPeOeXuoiiKwjeydLUG/vmPF/wA+AHwA+AHwA+A/2sAh7D+AwCHU98PbbsPq23boe9P3eHfAdCdhnZf1xrRIPoHY790XR/3Q/89iO8AHLq+PdZgtzRGKUQAQEC0T90L9mcL4nT4awDc7hrT3u5fXB6A/WZ/hVB/h+FzAKdhX6Pd2y971UYBIgGg31gUULf94U8DOLVHv5+CsAuqeAQZAP9rAGPqfd/9SQCd2z7sBRAkYMDJO7zkAHkc/rfuyxi9/0wKnwDoBnv0YNLuoMKGygApgZNIgBbfYMWl96c/A6Dfa7p6vzkE6dtHetErIZi0v38VrC50vw+ga2s6awgShqB+AUCyggAlCSEAAH3sfxfAKV1+2ispnZd72j/8HA8oKkN4az0cfgtAf/SHLwGosKE9dWICb5bphJImhkeEfffrAA5Dbbcw2QkovuLMDFUyCJZAgIHH068COLTaBJ0qVCDqADIRGSwQ0l9Yht5UBNhSP+2tSxn/oeIQggQMZETk3mE8unAMGDTC8XY9/AoAe/3K4nfKRiqVKWEOQCVZRT5giVj5bCCArf2lRgkRq6R0SPt5DwWK/iIag0fvflhHABvnH6/EGL52enQbGr5M+2NyE+kM6ME9Yt1/CcDqP8bPNSppeACASeRCMlEdWQL5sq+sIVgB0NcIgtjLlYiHlmArtgLWBncZK9a4DOB0tGLHRR2IVxwI2W2t53lOMOZZa+k0ow4GPV1mpEUA3d6ZH6a9zbIEnMOb9fP+GJsprKYZ71eYteAMkoaF0R4+BdBqr+kRvCkAOAPwEp/n66M5V7vLbnfxa7fbVbdpvOqZvSfpoTXG/kMAfe39qg1yTIguQPJA4Fd78XBvbru0LvTMYmgeKoohRmlelc2iGiwA6I4Y/8xbAUQY8YoC6eOsH1N1Wdrf/VBND6XJGEyMFRUuHAKsHYA/gsCnHoB7SgcL87Wpdosrvlw1mg8g4Vg6hFcAp9oEpxt4QFg2fdPwuO1WV4AwzqByAO7jjt1bAIc2hn8qmbrXARTGqJ9Nddltr/Mzj4/iScDwFsCpNtGvJG2XHOz3v067SwngUkjACkBcP0F51cMSwGGPKiocRgrIrMAd/3lXAKhut7Ndt6oQAPtmoiVs3wCIAoBARCA9cbr+c3bB1dmxz9Otq+WkKSjHqJXJfcGaCEoALSqKeiLlZkwY9icJWHt7WjrUOrEyXMepYg3IiCjY1rAJoDsaElmk48wX6OckZT8R45Az8gTlNIAjw9wSCkMoAAyaPRlGd5MdQBN1ztPu+JyJn8WbZi3CpxgokQQU9BsADntDDtR7wwLA/KhI6S/nuyYXaSg+LQJ4IjJe+8M6gKSCGYDAve6bfp53JIHzdRZBACrpAump4vAskpqlw9M6gEGL+AOjAMRnjmz356vm1MybCxuM4sRkIUjKyQheSUCJYzXyfPWVCPhyu88UiHnvqECeu8pDmNwnZGeQAehqI3LLpIS0/9yw/o/Z/uDygiJ/YnFIUnaOOTuDDECfTowkgCwBFALYNQgFgFxdX8LImNb7lflEyFlIHnkBQM+sAZU3gAxAvrOiJEpIgBKWdgWAN0KZW6ew0y/QzEHNrBcXvJhCes4RdqEEUNIgERg9XOO60wlUj+vieuosLKfgOIuR3Rl0ywBONcUfMfh03HO/pSW93+J6zEx/UDyVyZLUQgmg1+S9kzu2AJrdQvBxWQpIblct9Y9Ts8RKiWX1sAxg0JReRh2wwa8lv00AIjRs5ryQlI5RcWQQQOl2GUCLVOMgJpzvi8HnZeGF6j7L1IwjEUhZclq4BsAoaQXorEva3sYRuKxkkjWMXBEKJZRmIAHsU45NPGAZdqrSYiTLa5yVBKAgT80EHeMyAEsDYCDzBRbAPa0mSaEa74vrKcrnL6TIZSv7JYOSAoCsrjh2w0RDgger6+yisPg/PZuJhlgLM18gKljrAJT8a3JGnqA1eaLbM3B/4n8PFKVzUAuOSYZnGxIg6AwgeH1DAC43S3i+VZO5Y3pMn4AlAEOauAmAK3KoZI2SjuDi+IavGjR7w0IHBBtAFpVsHEFWkglPfAnELqkDr0tzDS+PB5SsU2wD+CcBSFTsIy09NmGxL5ya1/XQtLmgwgyAeicBn5SQ1iZTdFTsaOay7QtChCzqhLn+A5fsXAy9QkQtlztjVGx17/ERFZ8NLgJQkgnJF6wQkctKjCz2OxAyDlxfF2JBcfxlZMjnu+YLojsGmRu6TGDNGwqXeNcZABl/UXpAEoA1b+hrI0pURK0JCGdYrUtgMguFSs4RMHjDpImwFg+EzFR6Q5sKPHhxSDQ+8mWTJFwLin2lI6scg+5Xg1IZUgZXIGyd1OHSFCwA6/vLsn06leNpIyxXuTtOSYnMTF1UOod3aAixMC6QYOENGQEeD2uJiea4bSE1V8xFZxf+Ib5erTx+iUQIIC/TQJ4cI3ALGClFi0KYH2wFk9KQtc/zC1fslIrUzC69mhkdjpjcR1DCoj4gyyMN6KyADGVSknsUcQJqPTd0SsCZAULZIp4lLTZcHrHvjUy4pH2lEuJ6dpz6FDIoybw7GYLjoOnOQVBmBfOzCIJyAHq9PuDq1JyaYShWSmWkEonnwNv4nKMmcHas5+djGnWej0oNwK0KSToDkpyhcn28uHtWJD673kCwwxA6aOXLdD5HkhVKWDuBEoC1A/IHMcZRBpfKVAlCM9pw2NGVVs8rFSobnddmhAzyEygBxEqtAKCSFsaznMdK+iGXEZ19hDJNoVbrAd64glZawXadkAqFsUpmOLtMxqWdT7hcXhKjzGldXLsglekyHdDtdqnWt0sKWiubVneZr671Le5z1u6m+kT9plbsU2SWgFqyblev32hXBEgTNbqzgu3banmwREhBKS50zdznjbd3DYtRSQCf9wuSFsSGhRFRnSTY+drcNjo21jxnloARvqh93zOyUYEJczgJwKsEALW+r0GoJru9MIJYH7CCVJ/0jAIfQxyWCkHsQusWLYTr2FCTJGnlbRrvoYSPXKOKXTsLe/iocdnqSMUhNQtNqxcAjnVtxDY21vz9up2n8XENu1NFSKX+g7EfU5DgKgAbG8b6fpKCLH1T79iBcOm569X4+sCTcvSiRxGZED/snMZDCO6Yc9WMD/MYUOvYN4+OXAxQcDZilgc5ltv3bnwEuHFZpHtAs4x5rZhroYtLf949dy5BUHEICjCXgEnzXDRFk29OYuDC0OfzA4GO8tatvP44tKJSPcG4YTbuCmXdOpOu4qsJCjdDgUj646tV2SCRk4CfJ1ThrMI0Xba5cENOk76cIfGKGK/JKFIsErEbI3IA/DBPAFA4fq6Pb88yrQ8yeVMwfoxHydguNLZRiVCJtXXhDDyrrg/VbYxyOQQYWx08wBBzCwTRVXSFhA31Vxv7bw6z9XXQcyPrnvFU/ZQR5BKAVwzw5vrfjPO5aULIQrJEiIhZsOrmTbgcnreotmfZ3gw0nvbaxwOKOS7V8VG01lUA8BqAevvZHut8M1HZuYlO5LmkpNvEQdE0jFHCAYlM9O1s7buZUjdUiXmaHawgSSASEwK8KoDd/+1g7dup2kN/1PhSa2JfEE3dLI2wOfG/m27+YK64a2uN3H8JKbspehFcpeNGkb3896PNH412n/Z1ag4nJVSm8A159K386X8y3P3ZbPmBp6vZ+8lo01Mxl2rd9sfho/H2T6frOzfcn8oX7nQNlxQhd4R+0uzD7b+5v8BKwd3XQe16JVN/MPLi6/2n2395i4e7x0FjaOUoblAHX+BzGXezybH9O3dYxNtrhv2x1hFF1j33kbq7v6P76hO/v8vm0PVDm1Ckpf1dNm1/+st32TCI7tQP6U6jth3+zfuMciT+/79/p9UfXD8AfgD8APgB8D9XINku/blTlAAAAABJRU5ErkJggg==",
+        "signatures": [
+            {
+                "signature": "84eeecad6fc1033829e5bca54b15beb1cf2fe35cc0256b474b2744fee34522aab59a33aa92d4fc2e0ae93ef805e92aca08328b184100146e8fe2b5c4956f2e00",
+                "publicKey": "4ced68b0f3d683a70e1415ea53639ec1e58c9198dafd7cbc91d784530cecaee3"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Cardano native token that tracks the price of EUR powered by Indigo synthetics",
+        "signatures": [
+            {
+                "signature": "7cc1f794fa255ef85f23640dcdd156ea3677252291a5dbbb57e0ba7e74d06f1fc790664af474a4ab1f4d7f9989e25919985ba8a619aaa2cab569bb843197f20a",
+                "publicKey": "4ced68b0f3d683a70e1415ea53639ec1e58c9198dafd7cbc91d784530cecaee3"
+            }
+        ]
+    }
+}
