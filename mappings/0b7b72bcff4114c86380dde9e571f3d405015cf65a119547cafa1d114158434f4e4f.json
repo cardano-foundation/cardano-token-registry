@@ -93,10 +93,6 @@
             {
                 "signature": "7479b89fa6cc002b71fe6c902c73c0c23e696bda014e8337bb1216f2746f7fffcad21554de70a1fea02f55508985ef90652026a05736f1f1b6a347b35b71bc09",
                 "publicKey": "eff70f3be910ca8de6e113e864271d79d5c1b3272f1367d0d356b66469e241f2"
-            },
-            {
-                "signature": "7479b89fa6cc002b71fe6c902c73c0c23e696bda014e8337bb1216f2746f7fffcad21554de70a1fea02f55508985ef90652026a05736f1f1b6a347b35b71bc09",
-                "publicKey": "eff70f3be910ca8de6e113e864271d79d5c1b3272f1367d0d356b66469e241f2"
             }
         ]
     }
