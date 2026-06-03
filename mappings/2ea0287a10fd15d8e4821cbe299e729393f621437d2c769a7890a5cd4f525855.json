@@ -1,0 +1,44 @@
+{
+    "subject": "2ea0287a10fd15d8e4821cbe299e729393f621437d2c769a7890a5cd4f525855",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "ORXU",
+        "signatures": [
+            {
+                "signature": "529e75d504c20a4c8d478cb05331ff5ab68bb1a1c6f6d05013651ee64d5e4edc61f12587a95b4cddc84cd8a5a3afe194e9e0616271663e73b363419bb809130f",
+                "publicKey": "eff70f3be910ca8de6e113e864271d79d5c1b3272f1367d0d356b66469e241f2"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "orxu",
+        "signatures": [
+            {
+                "signature": "9165f8ee810cd1dc1acd067ffd0aa6b5f89d4e19e5b5b863ab15417d96855097b665d54e575d9007c4a388adf0764aea0e6cbb4e176bc6de753d262506abaa06",
+                "publicKey": "eff70f3be910ca8de6e113e864271d79d5c1b3272f1367d0d356b66469e241f2"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 6,
+        "signatures": [
+            {
+                "signature": "b502596133687555953fa67abbd032d1c3c7c82da1010250aeded69ed9bd752c94dd0f42a5e63c456e73b5ffbb22e589e7499692456293aa3532ebe1da54f703",
+                "publicKey": "eff70f3be910ca8de6e113e864271d79d5c1b3272f1367d0d356b66469e241f2"
+            }
+        ]
+    },
+    "policy": "82018201828200581ca9643dc913fda08afb797e07662783b3db835e047da2052945c68af182051a0b5dcd3f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "ORXU TOKEN",
+        "signatures": [
+            {
+                "signature": "7b06e3b5819b59c76d440b5c5daf0d94ab4b67774583f82fad0942451c13891182b1952b92e0efa825d02a4f482062875e3893431879bc09646639ca5b8f5207",
+                "publicKey": "eff70f3be910ca8de6e113e864271d79d5c1b3272f1367d0d356b66469e241f2"
+            }
+        ]
+    }
+}
