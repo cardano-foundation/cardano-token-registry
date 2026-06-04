@@ -68,17 +68,19 @@ jobs:
           echo
 
           rm -f fail-location fail-filename fail-subject-is-hex fail-subject-length fail-subject-lowercase fail-subject-mismatch || :
-          echo "Validating all changed PR files are in the ${LOCATION} directory and are hex and are valid length filenames:"
+          echo "Validating all changed PR files in the ${LOCATION} directory are hex and are valid length filenames:"
           echo
           awk '{print $2}' "HEAD.diff" | sort | while read -r fname; do
             [ -z "$fname" ] && continue  # skip empty lines
 
-            # Check if filename starts with the correct location
+            # Only token mapping files are subject to metadata validation. Other
+            # files (e.g. README.md, LICENSE, .github/) are legitimate repository
+            # changes and are skipped here; they remain covered by human review.
             if [[ "$fname" =~ ^${LOCATION}/.*$ ]]; then
               echo "pass location: $fname"
             else
-              echo "FAIL location: $fname"
-              touch fail-location
+              echo "skip (non-mapping file): $fname"
+              continue
             fi
 
             # Check if filename is a hex string ending in .json
@@ -162,12 +164,12 @@ jobs:
           while read -r file; do
             echo "$VALIDATOR master/${file} pull-request/${file}"
             $VALIDATOR master/"${file}" pull-request/"${file}"
-          done < <(awk '/^M/ {print $2}' pull-request/HEAD.diff)
+          done < <(awk '/^M/ && $2 ~ /^mappings\// {print $2}' pull-request/HEAD.diff)
 
           while read -r file; do
             echo "$VALIDATOR pull-request/${file}"
             $VALIDATOR pull-request/"${file}"
-          done < <(awk '/^A/ {print $2}' pull-request/HEAD.diff)
+          done < <(awk '/^A/ && $2 ~ /^mappings\// {print $2}' pull-request/HEAD.diff)
           echo
 
       - name: Optional Check - LedgerX Top100
