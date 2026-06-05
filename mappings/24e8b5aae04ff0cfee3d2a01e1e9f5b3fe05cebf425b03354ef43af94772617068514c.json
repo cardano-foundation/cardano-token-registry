@@ -12,12 +12,12 @@
     ]
   },
   "description": {
-    "value": "9.0.0 Updated",
-    "sequenceNumber": 1,
+    "value": "9.0.0 Updated 2.0",
+    "sequenceNumber": 2,
     "signatures": [
       {
         "publicKey": "882f6aea8d60259369176cdb50f03e1c0330c91b2cb71fd9abbb02879a4c8941",
-        "signature": "33f1b75e7394df8813f7af103db80f7e824f2fa00783cf74824c5fb4f5d807071065cddcf6588b915caebb78003815f39fbd73afa0374f6a775a8b7cc8e94303"
+        "signature": "a6df5d06c73725700e966ef3faf82876d8cd8a146fabed52c41fae08b954c0d6c33a2d28ae3136ae0cfa8992b77817efcfc5f696ee5ca1814a6ef45b2d417201"
       }
     ]
   },
