@@ -11,7 +11,7 @@
     ]
   },
   "description": {
-    "value": "Bitso \u2014 45 billion fixed supply",
+    "value": "Bitso — 45 billion fixed supply",
     "sequenceNumber": 0,
     "signatures": [
       {
@@ -37,6 +37,16 @@
       {
         "publicKey": "2704124e6e50e59410fab9c38fbdb460d956546adbd3984aa15426dd5a9daae8",
         "signature": "1787d250c3ce597e9dfd543f97c565dd826393a620330e877d5c1463889c554f95eb5cd457319831774f52e5cedb36b56e0726c1ac8ed3c3f3407ff73f83e109"
+      }
+    ]
+  },
+  "decimals": {
+    "value": 6,
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "publicKey": "2704124e6e50e59410fab9c38fbdb460d956546adbd3984aa15426dd5a9daae8",
+        "signature": "c1fcf54cfa18bfba5969d924b91a7825b275600a97d6841e0c45be32be3b56d532be5436d497183253c3caabf918e713514bdd992b75bdde609b47c9f5fc430e"
       }
     ]
   },
