@@ -19,20 +19,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout both this pull request and the master branch
+      #
+      # GitHub runners refuse to check out fork pull request code from a
+      # `pull_request_target` workflow by default, because that context holds the
+      # base repository's GITHUB_TOKEN, secrets and cache scope. We opt in here
+      # because no step in this job ever *executes* checked-out pull request
+      # content: the files are read as data by jq and by token-metadata-creator,
+      # a binary downloaded from the offchain-metadata-tools release page.
+      #
+      # Do not add any step that runs code from pull-request/ -- a build, a
+      # dependency install, or a script kept in the repository -- without first
+      # removing this opt-in. Doing so would turn this job into a pwn request.
       - name: Checkout pull request
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           path: pull-request
+          allow-unsafe-pr-checkout: true
 
       - name: Checkout base branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
         with:
           ref: master
           path: master
 
       - name: Checkout ledger na list
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
         with:
           repository: 'LedgerHQ/app-cardano'
           ref: develop
