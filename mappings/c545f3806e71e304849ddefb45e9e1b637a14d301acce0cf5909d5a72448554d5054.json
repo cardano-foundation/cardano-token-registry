@@ -1,0 +1,54 @@
+{
+    "subject": "c545f3806e71e304849ddefb45e9e1b637a14d301acce0cf5909d5a72448554d5054",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://cardanoscan.io/transaction/e50c782d0a6415dadfc526e5709f4258f506d701c822c3a0958ec01932195326",
+        "signatures": [
+            {
+                "signature": "14a486c5f2907eb945702611963f681600d4b4d07234b91a1bc8dc57e12434b5296db3d92aea3edac3299120749e29208c0bb1cefddadab004eb9293730ff104",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Hump to the Moon",
+        "signatures": [
+            {
+                "signature": "d07f485454cd36877f080f365abb12c0bf5148c95421c9e7836f849acd265cd52630b0237fed18f6994a864d3c6ad8578e0bde3a01c7725150b28c302d8dc00e",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "$HUMP",
+        "signatures": [
+            {
+                "signature": "e7e1a688ab14bcda292f2ad24eeb0d7cd235584a51852093e7c5edcae5243dc17e2e2d54a731deba8ad597aa7018ba72c0387298f64319d5bc8436893a82390d",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 3,
+        "signatures": [
+            {
+                "signature": "c15941132e0639a3eebbc06e8aaf7e1ab54fb1702e08c65df6847d8e6dc0ef7c1a19d6a9718bacbd0e731e8f82c133f6eea030516b60a94d23be899e043a5405",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    },
+    "policy": "82018201828200581cf950845fdf374bba64605f96a9d5940890cc2bb92c4b5b55139cc00982051a0ba433ff",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Built on pure philosophy. Let's watch the chart stay flat!",
+        "signatures": [
+            {
+                "signature": "edd10525694f1b6d51f08b0138a72e336e5707d5c018af2810ff023fa15f8aed0651c11a06e123cc1d1cab7183a387ffbf8571cb7dd9418d346334b2e7d8f10c",
+                "publicKey": "dab167dd0707a596ee62075c151d1cf9d36de1324e181d3c02e9774d104fa6bb"
+            }
+        ]
+    }
+}
