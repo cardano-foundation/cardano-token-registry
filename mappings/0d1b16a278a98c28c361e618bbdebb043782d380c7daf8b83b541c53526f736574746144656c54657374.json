@@ -1,0 +1,34 @@
+{
+  "subject": "0d1b16a278a98c28c361e618bbdebb043782d380c7daf8b83b541c53526f736574746144656c54657374",
+  "policy": "82008200581cab7d856cc146682f4aeaa4cb588e1b76ee3ad6e19135108c9a9b8361",
+  "name": {
+    "value": "RosettaDelTest",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "publicKey": "6208cadd86fbd401c8879d69f38ecaaa5a1d41468ebdf21ad4d382736e10cbab",
+        "signature": "6628111ba58991f5b7c414afdb07b99a280c216bb51d6316c09344ad6751ad6fb6800c55f9ee1999e6406ad985157a32807ee9c701c3b3b6c750eb83a1e61806"
+      }
+    ]
+  },
+  "description": {
+    "value": "PR-730 CIP-26 deletion test entry",
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "publicKey": "6208cadd86fbd401c8879d69f38ecaaa5a1d41468ebdf21ad4d382736e10cbab",
+        "signature": "c59ceec3e2f9d7ca403a0d4d7b0cb889c7172ebe92c3e035d13c0508072da61c5d038e8ce2f777ec45c7b4f5cdbbacc1c64c30ff672ed3e838b86189bc006207"
+      }
+    ]
+  },
+  "decimals": {
+    "value": 0,
+    "sequenceNumber": 0,
+    "signatures": [
+      {
+        "publicKey": "6208cadd86fbd401c8879d69f38ecaaa5a1d41468ebdf21ad4d382736e10cbab",
+        "signature": "a9d900d7edd36e158f04b00497a7b98720c73d412e39acd38274f13d98ee2976bebeb7a541fc08c6eaaadb9c90204999e186c8c8638f35e505821ca2ee7a610d"
+      }
+    ]
+  }
+}
