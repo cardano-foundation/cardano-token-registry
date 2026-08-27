@@ -1,0 +1,63 @@
+{
+    "subject": "80d3efcca5a8d9a5a1933d8762f476aa88bfb78fb0960077a8fd4b5f424f4c5453",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://boltsfinance.org/",
+        "signatures": [
+            {
+                "signature": "cd3872d55d34a70fb378101999edd96ae33a5b11145b4dda04b47fbac4f2134908cad8bb98978562d2e7eb6cc9c8e87f6eaf094faa98f4e6ea4948949597f002",
+                "publicKey": "09915b480d3cb8cd500eb6041beab9f468bc139bd9d3ef3bae36a58ec5f9eabc"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "BOLTS",
+        "signatures": [
+            {
+                "signature": "4e9283ceb625e7f5daf266c5befca236713612fe84a5828d992f0863fece2ad976f8bfa2514d8bfa5379e7d7b5b39ad8609a02d56a74c53e252aaf42d3aa5403",
+                "publicKey": "09915b480d3cb8cd500eb6041beab9f468bc139bd9d3ef3bae36a58ec5f9eabc"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "BOLTS",
+        "signatures": [
+            {
+                "signature": "a9ba8aea5526ae1e8054fcbb317ed41666461a39c2b2db35d6a0b30583f76aa49e448c912e8eec728435294466b92ad19e9ce34961cb4a99b73709952af49c07",
+                "publicKey": "09915b480d3cb8cd500eb6041beab9f468bc139bd9d3ef3bae36a58ec5f9eabc"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 8,
+        "signatures": [
+            {
+                "signature": "75e22d1359c698c72a6671ba27805da1da8dde4dcac3baa66d3fbe3c1d98c7a040141c49c09abaa9a64200139bd8af2d26e0ed51efe0c7af8cc8b174a38e680b",
+                "publicKey": "09915b480d3cb8cd500eb6041beab9f468bc139bd9d3ef3bae36a58ec5f9eabc"
+            }
+        ]
+    },
+    "logo": {
+        "sequenceNumber": 0,
+        "value": "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",
+        "signatures": [
+            {
+                "signature": "13f3c14f6b761d16c5b92ff5b21e49349fefb7ad44a802155a9b45a9cd76c84d6de4d2b63c015169f44a6687a609188a5497bf0b43012dec66cffe41b071db01",
+                "publicKey": "09915b480d3cb8cd500eb6041beab9f468bc139bd9d3ef3bae36a58ec5f9eabc"
+            }
+        ]
+    },
+    "description": {
+        "sequenceNumber": 0,
+        "value": "The fixed-supply Bolts Finance token used by BoltsDEX for staking eligibility and transparent fee tiers.",
+        "signatures": [
+            {
+                "signature": "b2ec424a31aa5225fa5665fd4817e3eb8bb1380671875ade03bad821ef81e5567b4777308b44a01cdb8edd5ae0465c64498765f0025181f7ba73e0846238f303",
+                "publicKey": "09915b480d3cb8cd500eb6041beab9f468bc139bd9d3ef3bae36a58ec5f9eabc"
+            }
+        ]
+    }
+}
