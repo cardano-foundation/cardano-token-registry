@@ -51,11 +51,11 @@
         ]
     },
     "description": {
-        "sequenceNumber": 0,
-        "value": "The fixed-supply Bolts Finance token used by BoltsDEX for staking eligibility and transparent fee tiers.",
+        "sequenceNumber": 1,
+        "value": "BOLTS is the fixed-supply token of BoltsDEX, a non-custodial Cardano order-book exchange using Hydra.",
         "signatures": [
             {
-                "signature": "b2ec424a31aa5225fa5665fd4817e3eb8bb1380671875ade03bad821ef81e5567b4777308b44a01cdb8edd5ae0465c64498765f0025181f7ba73e0846238f303",
+                "signature": "bed8219ffff1bffe589831cd5eaf57660ed54dde09631c1ae0d97d0310db599ea7a37b60e5fc3d050a0188cb0ff99cd0da2df48818ee76cf69ba64d5a0fa0b0e",
                 "publicKey": "09915b480d3cb8cd500eb6041beab9f468bc139bd9d3ef3bae36a58ec5f9eabc"
             }
         ]
