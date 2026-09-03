@@ -3,11 +3,11 @@
         "signatures": [
             {
                 "publicKey": "235984f2b0d27a6a9d46d46cf7ca600310aa2a18be0a6ba084f786a631fb84f8",
-                "signature": "3248205ec6f964d1469c912c615bc160b3777a04eb78770a31352c71e189248dacf08db41f49f53b9468289b3c96c258c0f2902cbd522b332cae3b19bf0d700c"
+                "signature": "f49bcfa0c668863eae2d2ff8c268ad2945e7b776b3bbab26a3947b0bc554c7c28d2ce8c64143faa912f254fe87bf9f723290982625728059899818ace2ee9b03"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "sUSDr"
+        "sequenceNumber": 1,
+        "value": "sUSDrf"
     },
     "description": {
         "signatures": [
@@ -33,11 +33,11 @@
         "signatures": [
             {
                 "publicKey": "235984f2b0d27a6a9d46d46cf7ca600310aa2a18be0a6ba084f786a631fb84f8",
-                "signature": "381a5b43451b2df7ab38691b74bb27fe677e157c37391b0894c41f95ac5f67bea9ceffa15ea24c6b28c02ae128c9ed00666fbc98acbdf6e10d834b6732bec804"
+                "signature": "08ac829cc03e0f592d625739bb953e811d20565fbcf6d3658a98bc8375d0ca07baed167ca557cd0055b9b37e05718b640fecd43ff0c0f5ef3fbd35f1985cba05"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "SUSDR"
+        "sequenceNumber": 1,
+        "value": "SUSDRF"
     },
     "subject": "7d9e4a0ee1a3f5d5ff8159ea91a83310cf2795ee7a87170c7aea05ae7355534472",
     "decimals": {
