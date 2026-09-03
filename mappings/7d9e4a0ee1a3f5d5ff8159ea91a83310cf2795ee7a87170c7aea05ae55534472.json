@@ -3,11 +3,11 @@
         "signatures": [
             {
                 "publicKey": "235984f2b0d27a6a9d46d46cf7ca600310aa2a18be0a6ba084f786a631fb84f8",
-                "signature": "7d052d497b8df8526fbca5b4b675a58742d9de48216a6bea845b0798d7ce4a0fb26c5f320592fefb58f10c8b7ecd6820dd8d652eb013bc7a153f79293e94c207"
+                "signature": "b647a00eb58c47f930d32b1143553cc161481fca5deb0375f19ac9b279b80d4c4d023468ba693a829eb723adaf52fb0dcb8370adade4bd4a0c2a36c2d333ed00"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "USDr"
+        "sequenceNumber": 1,
+        "value": "USDrf"
     },
     "description": {
         "signatures": [
@@ -33,11 +33,11 @@
         "signatures": [
             {
                 "publicKey": "235984f2b0d27a6a9d46d46cf7ca600310aa2a18be0a6ba084f786a631fb84f8",
-                "signature": "86807e473f0b7ed44c4343f1a4b09c4674f0c79660b8e9aed676d80b7e24bf8ba2f65203226ad0e7d28a017d8dfe99dc72b986d3f13dbe9c1380a71d22dd620a"
+                "signature": "f1333e7f8e27021009f4bd14b98650eb16b9eaaf8dc2a5e189a45922cbdd39ad5d8bb7ea9ea090e9edbfa7ef24beac86403681ffb82ba9d459fb10a73143f707"
             }
         ],
-        "sequenceNumber": 0,
-        "value": "USDR"
+        "sequenceNumber": 1,
+        "value": "USDRF"
     },
     "subject": "7d9e4a0ee1a3f5d5ff8159ea91a83310cf2795ee7a87170c7aea05ae55534472",
     "decimals": {
