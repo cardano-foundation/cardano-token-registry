@@ -2,7 +2,7 @@
 
 This is the [CIP-26](https://cips.cardano.org/cip/CIP-0026) off-chain metadata registry for the Cardano **mainnet**, maintained by the Cardano Foundation.
 
-> **Registering testnet metadata?** This registry is mainnet-only. For assets that exist on the public testnets (e.g. preview and preprod), use the [metadata-registry-testnet from IOHK](https://github.com/input-output-hk/metadata-registry-testnet). See [Network environments](#network-environments) for how to query testnet metadata.
+> **Registering testnet metadata?** This registry is mainnet-only. For assets that exist on the public testnets (e.g. preview and preprod), use the [metadata-registry-testnet](https://github.com/input-output-hk/metadata-registry-testnet). See [Network environments](#network-environments) for how to query testnet metadata.
 
 ## Background
 
